@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Empresa líder en transporte y logística con cobertura nacional e internacional">
+    <title>TransLog Pro - Tu aliado en transporte y logística</title>
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+
+<body>
+    <!-- Preloader Premium -->
+    <div id="preloader">
+        <div class="loader-content">
+            <div class="truck-wrapper">
+                <div class="truck-body">🚚</div>
+                <div class="truck-road"></div>
+            </div>
+            <div class="loader-progress-container">
+                <div id="loaderProgressBar" class="loader-progress-bar"></div>
+            </div>
+            <div id="loaderPercent" class="loader-percent">0%</div>
+            <div class="loader-status">Iniciando logística...</div>
+        </div>
+    </div>
+    <!-- Header -->
+    <header class="header" id="header">
+        <nav class="nav-container">
+            <a href="#" class="logo">
+                🚚 TransLog Pro
+            </a>
+
+            <ul class="nav-menu" id="navMenu">
+                <li><a href="#inicio" class="nav-link active">Inicio</a></li>
+                <li><a href="#servicios" class="nav-link">Servicios</a></li>
+                <li><a href="#nosotros" class="nav-link">Nosotros</a></li>
+                <li><a href="#contacto" class="nav-link">Contacto</a></li>
+                <li><a href="tel:+57 300 123 4567" class="cta-button">📞 Llamar Ahora</a></li>
+            </ul>
+
+            <div class="menu-toggle" id="menuToggle">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </nav>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero" id="inicio">
+        <!-- Video de fondo extraído de carga.com.co -->
+        <video class="hero-video" autoplay loop muted playsinline poster="assets/images/hero-fallback.jpg">
+            <source src="https://carga.com.co/wp-content/uploads/2020/04/Video-720.mp4" type="video/mp4">
+            Tu navegador no soporta el formato de video.
+        </video>
+        <div class="hero-overlay"></div>
+
+        <div class="hero-content">
+            <h1 class="hero-title">Soluciones de Transporte y Logística</h1>
+            <p class="hero-subtitle">Eficiencia, Seguridad y Puntualidad</p>
+            <div class="hero-buttons">
+                <a href="#contacto" class="btn-primary">
+                    <span>Solicitar Cotización</span>
+                </a>
+                <a href="#servicios" class="btn-secondary">
+                    <span>Ver Servicios</span>
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Services Section -->
+    <section class="section" id="servicios">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title">Nuestros Servicios</h2>
+                <p class="section-description">
+                    Ofrecemos soluciones integrales de transporte y logística adaptadas a las necesidades de tu negocio
+                </p>
+            </div>
+
+            <div class="services-grid">
+                <div class="service-card reveal">
+                    <div class="service-number">01</div>
+                    <div class="service-icon">🚛</div>
+                    <h3 class="service-title">Transporte Terrestre</h3>
+                    <p class="service-description">Servicio de transporte de carga por carretera con cobertura nacional
+                        e internacional. Flota moderna y rastreo GPS en tiempo real.</p>
+                    <div class="card-arrow">Saber más</div>
+                </div>
+
+                <div class="service-card reveal">
+                    <div class="service-number">02</div>
+                    <div class="service-icon">🏭</div>
+                    <h3 class="service-title">Logística y Almacenamiento</h3>
+                    <p class="service-description">Gestión integral de almacenamiento con bodegas certificadas y
+                        sistemas de inventario automatizados.</p>
+                    <div class="card-arrow">Saber más</div>
+                </div>
+
+                <div class="service-card reveal">
+                    <div class="service-number">03</div>
+                    <div class="service-icon">📦</div>
+                    <h3 class="service-title">Distribución Urbana</h3>
+                    <p class="service-description">Entregas rápidas y eficientes en zonas urbanas con rutas optimizadas
+                        y seguimiento en tiempo real.</p>
+                    <div class="card-arrow">Saber más</div>
+                </div>
+
+                <div class="service-card reveal">
+                    <div class="service-number">04</div>
+                    <div class="service-icon">🛡️</div>
+                    <h3 class="service-title">Carga Especializada</h3>
+                    <p class="service-description">Transporte de mercancía delicada, refrigerada o de alto valor con
+                        protocolos especiales de seguridad.</p>
+                    <div class="card-arrow">Saber más</div>
+                </div>
+
+                <div class="service-card reveal">
+                    <div class="service-number">05</div>
+                    <div class="service-icon">📊</div>
+                    <h3 class="service-title">Asesoría Logística</h3>
+                    <p class="service-description">Consultoría especializada para optimizar tus procesos de transporte y
+                        reducir costos operativos.</p>
+                    <div class="card-arrow">Saber más</div>
+                </div>
+
+                <div class="service-card reveal">
+                    <div class="service-number">06</div>
+                    <div class="service-icon">🌍</div>
+                    <h3 class="service-title">Comercio Internacional</h3>
+                    <p class="service-description">Gestión de importaciones y exportaciones con trámites aduaneros y
+                        documentación completa.</p>
+                    <div class="card-arrow">Saber más</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section class="section section-alt" id="nosotros">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title">Nuestra Identidad Corporativa</h2>
+                <p class="section-description">Más de 15 años de trayectoria definen nuestro compromiso con la
+                    excelencia operativa, la seguridad y la innovación tecnológica en logística nacional.</p>
+            </div>
+
+            <div style="max-width: 900px; margin: 0 auto 4rem; text-align: center;">
+                <div class="reveal">
+                    <p style="font-size: 1.1rem; color: var(--text-light); line-height: 2;">Somos aliados estratégicos
+                        dedicados a optimizar la cadena de suministro de nuestros clientes a través de soluciones
+                        integrales que garantizan puntualidad y eficiencia absoluta en cada kilómetro recorrido.</p>
+                </div>
+            </div>
+
+            <div class="about-grid">
+                <div class="about-card reveal">
+                    <div class="about-card-badge">MISIÓN</div>
+                    <h3>Nuestro Enfoque</h3>
+                    <p>Brindar soluciones de transporte eficientes y seguras que impulsen el crecimiento constante de
+                        nuestros clientes a nivel nacional.</p>
+                </div>
+
+                <div class="about-card reveal">
+                    <div class="about-card-badge">VISIÓN</div>
+                    <h3>Futuro Logístico</h3>
+                    <p>Ser la empresa líder en logística y transporte, reconocida por nuestra excelencia operativa y
+                        compromiso inquebrantable con la puntualidad.</p>
+                </div>
+
+                <div class="about-card reveal">
+                    <div class="about-card-badge">VALORES</div>
+                    <h3>Ética y Servicio</h3>
+                    <p>Responsabilidad, honestidad y seguridad son los pilares que definen cada kilómetro de nuestro
+                        recorrido diario.</p>
+                </div>
+            </div>
+
+            <!-- Institutional Backing Integrated -->
+            <div class="institutional-backing reveal"
+                style="margin-top: 6rem; border-top: 1px solid rgba(15, 23, 42, 0.08); padding-top: 5rem;">
+                <div class="backing-header" style="text-align: center; margin-bottom: 4rem;">
+                    <h3
+                        style="font-size: 2.2rem; font-weight: 800; color: #0f172a; margin-bottom: 1.2rem; letter-spacing: -1px;">
+                        Respaldo y Compromiso</h3>
+                    <p style="color: #64748b; max-width: 650px; margin: 0 auto; line-height: 1.8; font-size: 1.1rem;">
+                        Nuestra operación está respaldada por los más altos estándares internacionales de seguridad,
+                        legalidad y calidad.</p>
+                </div>
+
+                <div class="backing-badges"
+                    style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 2.5rem;">
+                    <!-- BASC Badge -->
+                    <div class="backing-item"
+                        style="display: flex; align-items: center; gap: 1.5rem; background: #ffffff; padding: 2.5rem 2.2rem; border-radius: 20px; border: 1px solid #e2e8f0; box-shadow: 0 12px 35px rgba(15, 23, 42, 0.05);">
+                        <div class="backing-icon"
+                            style="width: 60px; height: 60px; background: #1e293b; color: #ffffff; border-radius: 12px; display: flex; align-items: center; justify-content: center; font-size: 1.8rem; flex-shrink: 0;">
+                            <i class="fas fa-shield-alt"></i>
+                        </div>
+                        <div class="backing-info">
+                            <h4 style="font-size: 1.2rem; font-weight: 800; color: #0f172a; margin-bottom: 5px;">
+                                Certificación BASC</h4>
+                            <p style="font-size: 0.95rem; color: #64748b; margin: 0;">Seguridad Internacional</p>
+                        </div>
+                    </div>
+
+                    <!-- CCB Badge -->
+                    <div class="backing-item"
+                        style="display: flex; align-items: center; gap: 1.5rem; background: #ffffff; padding: 2.5rem 2.2rem; border-radius: 20px; border: 1px solid #e2e8f0; box-shadow: 0 12px 35px rgba(15, 23, 42, 0.05);">
+                        <div class="backing-icon"
+                            style="width: 60px; height: 60px; background: #1e293b; color: #ffffff; border-radius: 12px; display: flex; align-items: center; justify-content: center; font-size: 1.8rem; flex-shrink: 0;">
+                            <i class="fas fa-landmark"></i>
+                        </div>
+                        <div class="backing-info">
+                            <h4 style="font-size: 1.2rem; font-weight: 800; color: #0f172a; margin-bottom: 5px;">Cámara
+                                de Comercio</h4>
+                            <p style="font-size: 0.95rem; color: #64748b; margin: 0;">Legalidad CCB Bogotá</p>
+                        </div>
+                    </div>
+
+                    <!-- ISO Badge -->
+                    <div class="backing-item"
+                        style="display: flex; align-items: center; gap: 1.5rem; background: #ffffff; padding: 2.5rem 2.2rem; border-radius: 20px; border: 1px solid #e2e8f0; box-shadow: 0 12px 35px rgba(15, 23, 42, 0.05);">
+                        <div class="backing-icon"
+                            style="width: 60px; height: 60px; background: #1e293b; color: #ffffff; border-radius: 12px; display: flex; align-items: center; justify-content: center; font-size: 1.8rem; flex-shrink: 0;">
+                            <i class="fas fa-certificate"></i>
+                        </div>
+                        <div class="backing-info">
+                            <h4 style="font-size: 1.2rem; font-weight: 800; color: #0f172a; margin-bottom: 5px;">Gestión
+                                ISO 9001</h4>
+                            <p style="font-size: 0.95rem; color: #64748b; margin: 0;">Excelencia y Calidad</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section class="section section-alt" id="contacto">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title">Contáctanos</h2>
+                <p class="section-description">
+                    Estamos listos para atender tus necesidades de transporte y logística
+                </p>
+            </div>
+
+            <div class="contact-grid">
+                <div class="contact-form reveal">
+                    <form id="contactForm" method="POST" action="#">
+                        <div class="form-row">
+                            <div class="form-group">
+                                <label for="name">Nombre Completo *</label>
+                                <input type="text" id="name" name="name" placeholder="Ej: Juan Pérez" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="email">Email Corporativo *</label>
+                                <input type="email" id="email" name="email" placeholder="email@empresa.com" required>
+                            </div>
+                        </div>
+
+                        <div class="form-row">
+                            <div class="form-group">
+                                <label for="phone">Teléfono de Contacto</label>
+                                <input type="tel" id="phone" name="phone" placeholder="+57 ...">
+                            </div>
+                            <div class="form-group">
+                                <label for="subject">Asunto del Mensaje</label>
+                                <input type="text" id="subject" name="subject"
+                                    placeholder="Ej: Cotización de transporte">
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="message">Mensaje / Requerimientos Especiales *</label>
+                            <textarea id="message" name="message"
+                                placeholder="Cuéntanos cómo podemos ayudarte con tu logística..." required></textarea>
+                        </div>
+
+                        <div style="text-align: center; margin-top: 1rem;">
+                            <button type="submit" class="submit-btn">Enviar Requerimiento</button>
+                            <p style="font-size: 0.85rem; color: #94a3b8; margin-top: 1.5rem;">
+                                <i class="fas fa-lock" style="margin-right: 5px;"></i> Tus datos están protegidos bajo
+                                nuestra política de privacidad.
+                            </p>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Simplified Premium Footer -->
+    <footer class="footer">
+        <div class="footer-top-decoration"></div>
+        <div class="container container-narrow">
+            <div class="footer-grid">
+                <!-- Identidad -->
+                <div class="footer-brand">
+                    <div class="footer-logo-box">
+                        <span class="logo-emoji">🚚</span>
+                        <span class="logo-text">TransLog Pro</span>
+                    </div>
+                    <p class="footer-tagline">Tu aliado en transporte y logística</p>
+                    <p class="footer-about">Comprometidos con la excelencia y la seguridad en cada trayecto nacional.
+                    </p>
+                </div>
+
+                <!-- Enlaces Rápidos -->
+                <div class="footer-links">
+                    <h4 class="footer-title">Mapa del Sitio</h4>
+                    <ul class="footer-list">
+                        <li><a href="#inicio">Inicio</a></li>
+                        <li><a href="#servicios">Servicios</a></li>
+                        <li><a href="#nosotros">Nosotros</a></li>
+                        <li><a href="#contacto">Contacto</a></li>
+                    </ul>
+                </div>
+
+                <!-- Contacto Compacto -->
+                <div class="footer-contact">
+                    <h4 class="footer-title">Atención Directa</h4>
+                    <div class="contact-pill-list">
+                        <a href="tel:+57 300 123 4567" class="contact-pill">
+                            <i class="fas fa-phone-alt"></i>
+                            <span>+57 300 123 4567</span>
+                        </a>
+                        <a href="mailto:contacto@translogpro.com" class="contact-pill">
+                            <i class="fas fa-envelope"></i>
+                            <span>contacto@translogpro.com</span>
+                        </a>
+                        <div class="contact-pill">
+                            <i class="fas fa-map-marker-alt"></i>
+                            <span>Calle 123 #45-67, Bogotá, Colombia</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="footer-bottom">
+                <div class="footer-legal">
+                    <p>&copy; 2026 TransLog Pro. Excelencia Logística.</p>
+                </div>
+                <div class="footer-extra-links">
+                    <a href="#">Privacidad</a>
+                    <span class="sep">|</span>
+                    <a href="#">Términos</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- JavaScript -->
+    <script src="assets/js/main.js"></script>
+</body>
+
+</html>
