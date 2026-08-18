@@ -23,7 +23,7 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/senoirrt10.webp",
     "localPoster": "/posters/senoirrt10.webp",
     "category": "Narco Novelas",
-    "targetUrl": "ADsenorrrrt10.php?v=1.94",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_senor_de_los_cielos_t10_s1.json",
     "ribbon": "GRAN ESTRENO",
     "isPremium": true,
     "hasAd": true,
@@ -31,7 +31,7 @@
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "ADsenorrrrt10.php?v=1.94"
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_senor_de_los_cielos_t10_s1.json"
       }
     ]
   },
