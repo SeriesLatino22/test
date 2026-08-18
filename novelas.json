@@ -1,14 +1,13 @@
 [
   {
     "id": "rosa-5",
-    "title": "Rosario Tijeras 5 [México]",
-    "posterUrl": "https://app.latino7.com/portada/1/rosa5.webp",
+    "title": "Rosario Tijeras 5 [México] 6666",
     "category": "Mexicanas",
-    "targetUrl": "rosarioTijsplant.php?v=3.01",
     "ribbon": "GRAN ESTRENO",
+    "posterUrl": "https://app.latino7.com/portada/1/rosa5.webp",
+    "targetUrl": "rosarioTijsplant.php?v=3.01",
     "isPremium": true,
-    "hasAd": false,
-    "episodesCount": 60
+    "hasAd": false
   },
   {
     "id": "senor-10",
