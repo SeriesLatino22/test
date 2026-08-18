@@ -20,20 +20,24 @@
   {
     "id": "el-se-or-de-los-cielos-t10",
     "title": "El Señor de los Cielos: T10",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/senoirrt10.webp",
-    "localPoster": "/posters/senoirrt10.webp",
     "category": "Narco Novelas",
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_se_or_de_los_cielos_t10_s1.json",
     "ribbon": "GRAN ESTRENO",
-    "isPremium": true,
-    "hasAd": true,
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/senoirrt10.webp",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_se_or_de_los_cielos_t10_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
-        "name": "Temporada 1",
+        "name": "Temporada 10",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_se_or_de_los_cielos_t10_s1.json"
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Temporada 2",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_se_or_de_los_cielos_t10_s1.json"
       }
-    ]
+    ],
+    "isPremium": true,
+    "hasAd": true
   },
   {
     "id": "pa-seguirte-queriendo",
