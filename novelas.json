@@ -146,20 +146,19 @@
   {
     "id": "lobo-morir-matando",
     "title": "Lobo, Morir matando",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/rosa5.webp",
-    "localPoster": "",
     "category": "Finalizadas",
-    "targetUrl": "loboT11m.php?v=3.85",
     "ribbon": "FINALIZADO",
-    "isPremium": false,
-    "hasAd": false,
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/1787053816521_logoimg.webp",
+    "targetUrl": "loboT11m.php?v=3.85",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "loboT11m.php?v=3.85"
       }
-    ]
+    ],
+    "isPremium": false,
+    "hasAd": false
   },
   {
     "id": "la-reina-del-flow-3",
