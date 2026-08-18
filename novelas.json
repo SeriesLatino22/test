@@ -12,13 +12,12 @@
   {
     "id": "senor-10",
     "title": "El Señor de los Cielos: T10",
-    "posterUrl": "https://app.latino7.com/portada/1/senoirrt10.webp",
     "category": "Narco Novelas",
-    "targetUrl": "ADsenorrrrt10.php?v=1.94",
     "ribbon": "GRAN ESTRENO",
+    "posterUrl": "https://app.latino7.com/portada/1/senoirrt10.webp",
+    "targetUrl": "ADsenorrrrt10.php?v=1.94",
     "isPremium": true,
-    "hasAd": false,
-    "episodesCount": 80
+    "hasAd": true
   },
   {
     "id": "seguir-queriendo",
