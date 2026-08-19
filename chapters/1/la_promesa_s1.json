@@ -1,0 +1,308 @@
+{
+  "id": "la_promesa_s1",
+  "titulo": "La promesa",
+  "subtitulo": "La promesa: Temporada 1",
+  "portada": "",
+  "capitulos": [
+    {
+      "numero": "Capítulo 1",
+      "urlOkru": "https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_fabgutfo/v/21/ev/29/flavorId/1_qqeqsx4o/name/a.mp4/index.m3u8",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 2",
+      "urlOkru": "https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_remq0s79/v/21/ev/29/flavorId/1_ia7zz6go/name/a.mp4/index.m3u8",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 3",
+      "urlOkru": "https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_fz7b8172/clipTo/2627250/v/11/ev/7/flavorId/1_evi8fb7b/name/a.mp4/index.m3u8",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 4",
+      "urlOkru": "https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_t8z22jeu/clipTo/2627080/v/1/ev/10/flavorId/1_9m8by743/name/a.mp4/index.m3u8",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 5",
+      "urlOkru": "https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_bb0tlk2t/clipTo/2709210/v/1/ev/10/flavorId/1_4libesf8/name/a.mp4/index.m3u8",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 6",
+      "urlOkru": "https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_1vj3n3kp/clipTo/2707010/v/1/ev/10/flavorId/1_iodn22l6/name/a.mp4/index.m3u8",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 7",
+      "urlOkru": "https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_vv9ywy3f/clipTo/2624160/v/1/ev/10/flavorId/1_c2yo294u/name/a.mp4/index.m3u8",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 8",
+      "urlOkru": "https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_u5qwm49h/clipTo/2691000/v/1/ev/10/flavorId/1_swlxkkxk/name/a.mp4/index.m3u8",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 9",
+      "urlOkru": "https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_phhuxdqw/clipTo/2698040/v/1/ev/10/flavorId/1_p7hhqjx5/name/a.mp4/index.m3u8",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 10",
+      "urlOkru": "https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_vx4rm60w/clipTo/2616080/v/1/ev/10/flavorId/1_0qywgy4k/name/a.mp4/index.m3u8",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 11",
+      "urlOkru": "https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_85w8jcmj/clipTo/2549210/v/1/ev/10/flavorId/1_jq9gx4qu/name/a.mp4/index.m3u8",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 12",
+      "urlOkru": "https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_l20gtd7x/clipTo/2629280/v/1/ev/10/flavorId/1_fotfzddk/name/a.mp4/index.m3u8",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 13",
+      "urlOkru": "https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_0rv24jwa/v/11/ev/20/flavorId/1_n4fd6dwm/name/a.mp4/index.m3u8",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 14",
+      "urlOkru": "https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_88h2wihf/clipTo/2669200/v/1/ev/10/flavorId/1_2s6e4qw2/name/a.mp4/index.m3u8",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 15",
+      "urlOkru": "https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_9g169rgb/clipTo/2640130/v/1/ev/10/flavorId/1_j06q7pgz/name/a.mp4/index.m3u8",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 16",
+      "urlOkru": "https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_aaswwrqq/clipTo/2541100/v/1/ev/10/flavorId/1_ojog2rfr/name/a.mp4/index.m3u8",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 17",
+      "urlOkru": "https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_4gi5u5vf/clipTo/2612190/v/1/ev/10/flavorId/1_17pm883i/name/a.mp4/index.m3u8",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 18",
+      "urlOkru": "https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_xnmxandw/clipTo/2647210/v/1/ev/9/flavorId/1_35kctv4b/name/a.mp4/index.m3u8",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 19",
+      "urlOkru": "https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_6wu1amlf/clipTo/2638050/v/1/ev/10/flavorId/1_k68hsqgd/name/a.mp4/index.m3u8",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 20",
+      "urlOkru": "https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_a8trhfkl/clipTo/2606100/v/1/ev/10/flavorId/1_r1e5bzv2/name/a.mp4/index.m3u8",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 21",
+      "urlOkru": "https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_767p23pm/clipTo/2603140/v/1/ev/10/flavorId/1_289glscz/name/a.mp4/index.m3u8",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 22",
+      "urlOkru": "https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_ktijodks/clipTo/2646020/v/1/ev/10/flavorId/1_od6poj1r/name/a.mp4/index.m3u8",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 23",
+      "urlOkru": "https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_ah30c65i/clipTo/2598140/v/1/ev/10/flavorId/1_zlwuw1sn/name/a.mp4/index.m3u8",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 24",
+      "urlOkru": "https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_iu91ilrs/clipTo/2581120/v/1/ev/9/flavorId/1_a630fbxu/name/a.mp4/index.m3u8",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 25",
+      "urlOkru": "https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_e9i66dur/clipTo/2617090/v/1/ev/10/flavorId/1_4wlcvk2r/name/a.mp4/index.m3u8",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 26",
+      "urlOkru": "https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_mjj2sy11/v/11/ev/19/flavorId/1_06ci30fi/name/a.mp4/index.m3u8",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 27",
+      "urlOkru": "https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_0bbpo5t6/clipTo/2631090/v/1/ev/10/flavorId/1_2pj9ydxj/name/a.mp4/index.m3u8",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 28",
+      "urlOkru": "https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_1a9i5eyh/clipTo/2599100/v/1/ev/10/flavorId/1_2fnrbmb3/name/a.mp4/index.m3u8",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 29",
+      "urlOkru": "https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_o6u4vbqi/clipTo/2647120/v/1/ev/10/flavorId/1_rtzc3z9u/name/a.mp4/index.m3u8",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 30",
+      "urlOkru": "https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_bw83k677/clipTo/2749170/v/1/ev/10/flavorId/1_kn27wsyd/name/a.mp4/index.m3u8",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 31",
+      "urlOkru": "https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_c4nn23bn/clipTo/2640140/v/1/ev/10/flavorId/1_rh0fktx9/name/a.mp4/index.m3u8",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 32",
+      "urlOkru": "https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_26jb1sgl/clipTo/2693220/v/1/ev/10/flavorId/1_kmlti9ou/name/a.mp4/index.m3u8",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 33",
+      "urlOkru": "https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_jrrznim1/clipTo/2732170/v/1/ev/10/flavorId/1_90dwkkqy/name/a.mp4/index.m3u8",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 34",
+      "urlOkru": "https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_905dtnf4/clipTo/2666030/v/1/ev/9/flavorId/1_wrd33s0s/name/a.mp4/index.m3u8",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 35",
+      "urlOkru": "https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_lxvo21py/clipTo/2646190/v/1/ev/10/flavorId/1_zk4yc62q/name/a.mp4/index.m3u8",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 36",
+      "urlOkru": "https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_nhffokcy/clipTo/2662290/v/1/ev/10/flavorId/1_2d8yo1q5/name/a.mp4/index.m3u8",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 37",
+      "urlOkru": "https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_irrx14tl/clipTo/2637240/v/1/ev/10/flavorId/1_r83m687m/name/a.mp4/index.m3u8",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 38",
+      "urlOkru": "https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_17b10szu/clipTo/2699160/v/1/ev/10/flavorId/1_ucwae6j6/name/a.mp4/index.m3u8",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 39",
+      "urlOkru": "https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_0hyb2hdv/clipTo/2706210/v/1/ev/10/flavorId/1_yncrh4h6/name/a.mp4/index.m3u8",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 40",
+      "urlOkru": "https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_40ommnmh/clipTo/2666290/v/1/ev/10/flavorId/1_rxn700cp/name/a.mp4/index.m3u8",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 41",
+      "urlOkru": "https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_80ynd2pd/clipTo/2636240/v/1/ev/10/flavorId/1_h41dg3gp/name/a.mp4/index.m3u8",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 42",
+      "urlOkru": "https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_38nu59np/clipTo/2740000/v/1/ev/10/flavorId/1_hmbyjvmx/name/a.mp4/index.m3u8",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 43",
+      "urlOkru": "https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_09x8ld7o/clipTo/2736000/v/1/ev/10/flavorId/1_ypq8qd5m/name/a.mp4/index.m3u8",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 44",
+      "urlOkru": "https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_jppykh0f/clipTo/2664120/v/1/ev/10/flavorId/1_cwxw5mzw/name/a.mp4/index.m3u8",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 45",
+      "urlOkru": "https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_3ownfqhd/clipTo/2693050/v/1/ev/10/flavorId/1_mg5653oh/name/a.mp4/index.m3u8",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 46",
+      "urlOkru": "https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_njw30rsr/clipTo/2697200/v/1/ev/10/flavorId/1_pylvz5lb/name/a.mp4/index.m3u8",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 47",
+      "urlOkru": "https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_nh1ligei/clipTo/2719080/v/1/ev/10/flavorId/1_kkodw7hm/name/a.mp4/index.m3u8",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 48",
+      "urlOkru": "https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_3uza85dr/clipTo/2645090/v/1/ev/10/flavorId/1_dz6ac9ob/name/a.mp4/index.m3u8",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 49",
+      "urlOkru": "https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_mdgvyy75/clipTo/2747070/v/1/ev/10/flavorId/1_dbh6qbm0/name/a.mp4/index.m3u8",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 50",
+      "urlOkru": "https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_uavvm7s9/clipTo/2670160/v/1/ev/10/flavorId/1_9u6rep88/name/a.mp4/index.m3u8",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 51",
+      "urlOkru": "https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_uc876ewc/clipTo/2647040/v/1/ev/9/flavorId/1_br2ls545/name/a.mp4/index.m3u8",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 52",
+      "urlOkru": "https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_nhyzobi6/clipTo/2634100/v/1/ev/10/flavorId/1_z5li6f4r/name/a.mp4/index.m3u8",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 53",
+      "urlOkru": "https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_o70zagz8/clipTo/2660060/v/11/ev/20/flavorId/1_4hxkkhhb/name/a.mp4/index.m3u8",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 54",
+      "urlOkru": "https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_xpxg9fhc/clipTo/2687290/v/1/ev/9/flavorId/1_lfz10152/name/a.mp4/index.m3u8",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 55",
+      "urlOkru": "https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_a58nm1i1/v/21/ev/30/flavorId/1_jg96wbbp/name/a.mp4/index.m3u8",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 56",
+      "urlOkru": "https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_pkctd4hh/clipTo/2699200/v/1/ev/10/flavorId/1_lgl3vtc6/name/a.mp4/index.m3u8",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 57",
+      "urlOkru": "https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_d64gp0rc/clipTo/2661240/v/1/ev/10/flavorId/1_ec53uwul/name/a.mp4/index.m3u8",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 58",
+      "urlOkru": "https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_2f22mx5r/clipTo/2615030/v/1/ev/10/flavorId/1_355v6uyg/name/a.mp4/index.m3u8",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 59",
+      "urlOkru": "https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_6k8aiv9e/clipTo/2584130/v/1/ev/10/flavorId/1_b1pgmkod/name/a.mp4/index.m3u8",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 60",
+      "urlOkru": "https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_kcwytp5w/clipTo/2635270/v/1/ev/10/flavorId/1_y8yo5lh1/name/a.mp4/index.m3u8",
+      "titulo": ""
+    }
+  ]
+}
