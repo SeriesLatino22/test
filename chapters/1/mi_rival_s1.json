@@ -1,0 +1,268 @@
+{
+  "id": "mi_rival_s1",
+  "titulo": "Mi Rival",
+  "subtitulo": "Mi Rival: Temporada 1",
+  "portada": "",
+  "capitulos": [
+    {
+      "numero": "Capítulo 1",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/5f/s8/2/c/A/d/5/cAd5z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=397795328-397825641",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 2",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/9f/s8/2/U/6/D/5/U6D5z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=351723520-351750304",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 3",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/72/s8/2/E/8/D/5/E8D5z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=351138816-351165590",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 4",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/eb/s8/2/6/a/S/5/6aS5z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=351751680-351778474",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 5",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/83/s8/2/C/x/c/6/Cxc6z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=327037952-327062895",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 6",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/58/s8/2/y/d/7/6/yd76z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=328252928-328277908",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 7",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/4d/s8/2/-/g/v/7/-gv7z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=326970368-326995241",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/da/s8/2/K/t/O/7/KtO7z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=326528000-326552883",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 9",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/64/s8/2/k/5/7/7/k577z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=326687744-326712614",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 10",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/2f/s8/2/0/7/n/8/07n8z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=326947840-326972686",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 11",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/4f/s8/2/c/V/8/8/cV88z.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1278460416-1278485517",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 12",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/58/s8/2/k/y/C/9/kyC9z.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1279144448-1279169525",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 13",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/1a/s8/2/Y/9/0/9/Y909z.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1279288320-1279313516",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 14",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/2f/s8/2/6/e/k/-/6ek-z.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1280026112-1280051317",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 15",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/66/s8/2/a/f/k/-/afk-z.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1280624128-1280649324",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 16",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/8d/s8/2/k/9/9/-/k99-z.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1277102080-1277127173",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 17",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/b5/s8/2/g/c/I/_/gcI_z.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1277743616-1277768705",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 18",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/3a/s8/2/0/l/O/_/0lO_z.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1277561856-1277586958",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 19",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/25/s8/2/-/z/c/a/-zcaA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=327444992-327469862",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 20",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/c6/s8/2/M/-/o/a/M-oaA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=327350272-327375131",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 21",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/4b/s8/2/a/Q/l/b/aQlbA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=326992384-327017236",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 22",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/eb/s8/2/W/u/R/b/WuRbA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1278093312-1278118403",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 23",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/0d/s8/2/c/a/d/c/cadcA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=326932992-326957852",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 24",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/1f/s8/2/E/l/q/c/ElqcA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=327516672-327541524",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 25",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/5f/s8/2/o/R/h/d/oRhdA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1277511680-1277536777",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 26",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/bd/s8/2/y/l/D/d/ylDdA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1277638656-1277663764",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 27",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/f3/s8/2/6/h/_/d/6h_dA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=326558208-326583086",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 28",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/62/s8/2/W/h/_/d/Wh_dA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1276447232-1276472341",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 29",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/e0/s8/2/q/q/s/e/qqseA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1277823488-1277848576",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 30",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/17/s8/2/y/P/8/e/yP8eA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1283702784-1283727987",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 31",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/e8/s8/2/-/C/G/f/-CGfA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1277088768-1277113871",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 32",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/3d/s8/2/K/y/Z/f/KyZfA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1273871872-1273896947",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 33",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/a4/s8/2/o/h/8/f/oh8fA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1273058816-1273083924",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 34",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/14/s8/2/K/p/6/g/Kp6gA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1277885440-1277910548",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 35",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/32/s8/2/g/3/j/h/g3jhA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1277057024-1277082117",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 36",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/68/s8/2/W/d/y/h/WdyhA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1276767232-1276792342",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 37",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/c9/s8/2/Y/h/4/h/Yh4hA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1277808640-1277833734",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 38",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/5a/s8/2/c/r/X/i/crXiA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1276316672-1276341772",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 39",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/cf/s8/2/o/r/g/j/orgjA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1275318784-1275343886",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 40",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/56/s8/2/w/y/w/j/wywjA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1275334144-1275359246",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 41",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/97/s8/2/0/Y/S/j/0YSjA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1295867904-1295893437",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 42",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/a1/s8/2/-/v/a/k/-vakA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1278305792-1278330878",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 43",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/9d/s8/2/k/y/6/k/ky6kA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1276863488-1276888575",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 44",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/34/s8/2/s/J/m/l/sJmlA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1279025664-1279050854",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 45",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/a6/s8/2/A/w/E/l/AwElA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1279122432-1279147529",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 46",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/2a/s8/2/K/E/b/m/KEbmA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1276328448-1276353648",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 47",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/8d/s8/2/E/E/b/m/EEbmA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=662559232-662584184",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 48",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/a4/s8/2/u/S/g/n/uSgnA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1278741504-1278766586",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 49",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/a4/s8/2/Q/S/g/n/QSgnA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1280294912-1280320023",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 50",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/b2/s8/2/8/G/C/n/8GCnA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1278830080-1278855171",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 51",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/fe/s8/2/i/y/1/n/iy1nA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1282188800-1282213997",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 52",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/49/s8/2/0/T/h/o/0ThoA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1284583424-1284608728",
+      "titulo": ""
+    }
+  ]
+}
