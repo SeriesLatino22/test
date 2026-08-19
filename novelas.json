@@ -11,7 +11,7 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/rosario_tijeras_5_mexico_s1.json",
-        "hasAdOverride": true
+        "hasAdOverride": false
       },
       {
         "seasonNumber": 2,
@@ -36,6 +36,12 @@
         "name": "Temporada 5",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/rosario_tijeras_5_mexico_s5.json",
         "hasAdOverride": false
+      },
+      {
+        "seasonNumber": 6,
+        "name": "Temporada 6",
+        "jsonUrl": "https://ww1.123flmsfree.com/es/detail/drama/bN3uyz255P6ZZn1DkPNLI-Soy-Luna-Lets-Roll-Again[AR-SUB]",
+        "hasAdOverride": true
       }
     ],
     "isPremium": true,
