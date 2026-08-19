@@ -1,6 +1,8 @@
 {
+  "id": "el_senor_de_los_cielos_t10_s1",
   "titulo": "El Señor de los Cielos: T10",
-  "source_url": "",
+  "subtitulo": "El Señor de los Cielos: T10: Temporada 1",
+  "portada": "",
   "capitulos": [
     {
       "numero": "Capítulo 1",
@@ -134,11 +136,6 @@
     },
     {
       "numero": "Capítulo 27",
-      "urlOkru": "https://1a-1791.com/video/fww1/79/s8/2/w/q/n/P/wqnPA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=691715072-691741021",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 28",
       "urlOkru": "https://1a-1791.com/video/fww1/79/s8/2/w/q/n/P/wqnPA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=691715072-691741021",
       "titulo": ""
     }
