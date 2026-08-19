@@ -497,25 +497,25 @@
     "seasons": [
       {
         "seasonNumber": 1,
-        "name": "Temporada 1",
+        "name": "Betty la fea 1999",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/betty_la_fea_fans_s1.json",
         "episodesCount": 169
       },
       {
         "seasonNumber": 2,
-        "name": "Temporada 2",
+        "name": "Ecomoda 2001",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/betty_la_fea_fans_s2.json",
         "episodesCount": 13
       },
       {
         "seasonNumber": 3,
-        "name": "Temporada 3",
+        "name": "Betty la fea 2024",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/betty_la_fea_fans_s3.json",
         "episodesCount": 10
       },
       {
         "seasonNumber": 4,
-        "name": "Temporada 4",
+        "name": "Betty la fea 2025",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/betty_la_fea_fans_s4.json",
         "episodesCount": 10
       }
