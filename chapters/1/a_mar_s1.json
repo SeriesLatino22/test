@@ -1,0 +1,378 @@
+{
+  "id": "a_mar_s1",
+  "titulo": "A Mar",
+  "subtitulo": "A Mar: Temporada 1",
+  "portada": "",
+  "capitulos": [
+    {
+      "numero": "Capítulo 1",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/15/s8/2/0/K/O/w/0KOwy.caa.mp4",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 2",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/3a/s8/2/g/L/O/w/gLOwy.caa.mp4",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 3",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/ac/s8/2/o/L/O/w/oLOwy.caa.mp4",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 4",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/22/s8/2/A/L/O/w/ALOwy.caa.mp4",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 5",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/58/s8/2/C/L/O/w/CLOwy.caa.mp4",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 6",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/7b/s8/2/M/M/O/w/MMOwy.caa.mp4",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 7",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/93/s8/2/Y/M/O/w/YMOwy.caa.mp4",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/4c/s8/2/a/N/O/w/aNOwy.caa.mp4",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 9",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/0d/s8/2/i/N/O/w/iNOwy.caa.mp4",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 10",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/cf/s8/2/q/N/O/w/qNOwy.caa.mp4",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 11",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/da/s8/2/e/O/O/w/eOOwy.caa.mp4",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 12",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/c8/s8/2/A/O/O/w/AOOwy.caa.mp4",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 13",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/10/s8/2/G/O/O/w/GOOwy.caa.mp4",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 14",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/67/s8/2/O/O/O/w/OOOwy.caa.mp4",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 15",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/95/s8/2/Q/O/O/w/QOOwy.caa.mp4",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 16",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/fa/s8/2/4/P/O/w/4POwy.caa.mp4",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 17",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/85/s8/2/6/P/O/w/6POwy.caa.mp4",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 18",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/65/s8/2/8/P/O/w/8POwy.caa.mp4",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 19",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/0c/s8/2/g/Q/O/w/gQOwy.caa.mp4",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 20",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/da/s8/2/u/Q/O/w/uQOwy.caa.mp4",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 21",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/56/s8/2/Q/R/O/w/QROwy.caa.mp4",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 22",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/5d/s8/2/4/R/O/w/4ROwy.caa.mp4",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 23",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/d9/s8/2/e/S/O/w/eSOwy.caa.mp4",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 24",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/cf/s8/2/m/S/O/w/mSOwy.caa.mp4",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 25",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/ef/s8/2/s/S/O/w/sSOwy.caa.mp4",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 26",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/a1/s8/2/y/T/O/w/yTOwy.caa.mp4",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 27",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/ff/s8/2/I/T/O/w/ITOwy.caa.mp4",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 28",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/97/s8/2/M/T/O/w/MTOwy.caa.mp4",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 29",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/a4/s8/2/U/T/O/w/UTOwy.caa.mp4",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 30",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/3c/s8/2/W/T/O/w/WTOwy.caa.mp4",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 31",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/ca/s8/2/U/a/X/x/UaXxy.caa.mp4",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 32",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/ef/s8/2/y/l/K/x/ylKxy.caa.mp4",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 33",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/69/s8/2/M/l/K/x/MlKxy.caa.mp4",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 34",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/02/s8/2/S/l/K/x/SlKxy.caa.mp4",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 35",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/5b/s8/2/0/b/X/x/0bXxy.caa.mp4",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 37",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/14/s8/2/7/h/o/R/7hoRy.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 38",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/59/s8/2/b/i/o/R/bioRy.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 39",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/89/s8/2/p/i/o/R/pioRy.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 40",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/04/s8/2/t/i/o/R/tioRy.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 41",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/48/s8/2/v/i/o/R/vioRy.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 42",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/8d/s8/2/F/k/o/R/FkoRy.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 43",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/2f/s8/2/1/k/o/R/1koRy.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 44",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/93/s8/2/5/k/o/R/5koRy.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 45",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/c3/s8/2/9/k/o/R/9koRy.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 46",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/aa/s8/2/j/l/o/R/jloRy.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 47",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/69/s8/2/1/l/o/R/1loRy.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 48",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/74/s8/2/l/n/o/R/lnoRy.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 49",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/89/s8/2/p/m/o/R/pmoRy.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 50",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/a5/s8/2/j/m/o/R/jmoRy.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 51",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/a3/s8/2/x/m/o/R/xmoRy.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 52",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/59/s8/2/L/o/o/R/LooRy.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 53",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/d5/s8/2/5/o/o/R/5ooRy.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 54",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/c0/s8/2/b/p/o/R/bpoRy.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 55",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/87/s8/2/h/p/o/R/hpoRy.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 56",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/20/s8/2/j/p/o/R/jpoRy.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 57",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/c7/s8/2/z/q/o/R/zqoRy.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 58",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/cc/s8/2/H/q/o/R/HqoRy.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 59",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/e5/s8/2/R/q/o/R/RqoRy.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 60",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/69/s8/2/V/q/o/R/VqoRy.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 61",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/9f/s8/2/X/q/o/R/XqoRy.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 62",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/f2/s8/2/P/r/o/R/ProRy.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 63",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/3b/s8/2/1/r/o/R/1roRy.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 64",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/c3/s8/2/_/r/o/R/_roRy.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 65",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/6a/s8/2/b/s/o/R/bsoRy.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 66",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/7e/s8/2/7/r/o/R/7roRy.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 67",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/59/s8/2/z/t/o/R/ztoRy.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 68",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/fb/s8/2/R/t/o/R/RtoRy.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 69",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/89/s8/2/X/t/o/R/XtoRy.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 70",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/79/s8/2/Z/t/o/R/ZtoRy.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 72",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/6a/s8/2/Z/8/b/M/Z8bMy.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 74",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/8a/s8/2/V/B/O/M/VBOMy.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 75",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/49/s8/2/n/j/r/N/njrNy.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 76",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/52/s8/2/7/F/V/N/7FVNy.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 78",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/96/s8/2/_/X/F/O/_XFOy.caa.tar",
+      "titulo": ""
+    }
+  ]
+}
