@@ -1,0 +1,463 @@
+{
+  "id": "velvet_el_nuevo_imperio_s1",
+  "titulo": "Velvet: El nuevo imperio",
+  "subtitulo": "Velvet: El nuevo imperio: Temporada 1",
+  "portada": "",
+  "capitulos": [
+    {
+      "numero": "Capítulo 1",
+      "urlOkru": "https://1a-1791.com/video/fww1/e3/s8/2/3/i/H/U/3iHUy.gaa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 2",
+      "urlOkru": "https://1a-1791.com/video/fww1/d2/s8/2/7/i/H/U/7iHUy.gaa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 3",
+      "urlOkru": "https://1a-1791.com/video/fww1/ad/s8/2/h/j/H/U/hjHUy.gaa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 4",
+      "urlOkru": "https://1a-1791.com/video/fww1/49/s8/2/n/j/H/U/njHUy.gaa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 5",
+      "urlOkru": "https://1a-1791.com/video/fww1/6e/s8/2/_/i/H/U/_iHUy.gaa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 6",
+      "urlOkru": "https://1a-1791.com/video/fww1/57/s8/2/T/k/H/U/TkHUy.gaa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 7",
+      "urlOkru": "https://1a-1791.com/video/fww1/51/s8/2/d/l/H/U/dlHUy.gaa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 8",
+      "urlOkru": "https://1a-1791.com/video/fww1/db/s8/2/l/l/H/U/llHUy.gaa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 9",
+      "urlOkru": "https://1a-1791.com/video/fww1/dd/s8/2/v/l/H/U/vlHUy.gaa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 10",
+      "urlOkru": "https://1a-1791.com/video/fww1/55/s8/2/z/l/H/U/zlHUy.gaa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 11",
+      "urlOkru": "https://1a-1791.com/video/fww1/a2/s8/2/P/m/H/U/PmHUy.gaa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 12",
+      "urlOkru": "https://1a-1791.com/video/fww1/38/s8/2/t/n/H/U/tnHUy.gaa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 13",
+      "urlOkru": "https://1a-1791.com/video/fww1/c3/s8/2/J/n/H/U/JnHUy.gaa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 14",
+      "urlOkru": "https://1a-1791.com/video/fww1/70/s8/2/P/n/H/U/PnHUy.gaa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 15",
+      "urlOkru": "https://1a-1791.com/video/fww1/de/s8/2/R/n/H/U/RnHUy.gaa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 16",
+      "urlOkru": "https://1a-1791.com/video/fww1/59/s8/2/H/o/H/U/HoHUy.gaa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 17",
+      "urlOkru": "https://1a-1791.com/video/fww1/c4/s8/2/_/o/H/U/_oHUy.gaa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 18",
+      "urlOkru": "https://1a-1791.com/video/fww1/46/s8/2/r/p/H/U/rpHUy.gaa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 19",
+      "urlOkru": "https://1a-1791.com/video/fww1/cc/s8/2/f/p/H/U/fpHUy.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 20",
+      "urlOkru": "https://1a-1791.com/video/fww1/80/s8/2/j/p/H/U/jpHUy.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 21",
+      "urlOkru": "https://1a-1791.com/video/fww1/17/s8/2/p/v/H/U/pvHUy.gaa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 22",
+      "urlOkru": "https://1a-1791.com/video/fww1/00/s8/2/x/v/H/U/xvHUy.gaa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 23",
+      "urlOkru": "https://1a-1791.com/video/fww1/84/s8/2/D/S/V/U/DSVUy.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 24",
+      "urlOkru": "https://1a-1791.com/video/fww1/8e/s8/2/B/u/e/V/BueVy.gaa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 25",
+      "urlOkru": "https://1a-1791.com/video/fww1/fc/s8/2/9/E/x/V/9ExVy.gaa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 26",
+      "urlOkru": "https://1a-1791.com/video/fww1/77/s8/2/n/v/q/W/nvqWy.gaa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 27",
+      "urlOkru": "https://1a-1791.com/video/fww1/0b/s8/2/R/P/M/W/RPMWy.gaa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 28",
+      "urlOkru": "https://1a-1791.com/video/fww1/a0/s8/2/D/A/X/W/DAXWy.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 29",
+      "urlOkru": "https://1a-1791.com/video/fww1/28/s8/2/N/4/m/X/N4mXy.gaa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 30",
+      "urlOkru": "https://1a-1791.com/video/fww1/3d/s8/2/V/P/E/X/VPEXy.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 31",
+      "urlOkru": "https://1a-1791.com/video/fww1/02/s8/2/3/k/o/Y/3koYy.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 32",
+      "urlOkru": "https://1a-1791.com/video/fww1/42/s8/2/l/s/G/Y/lsGYy.gaa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 33",
+      "urlOkru": "https://1a-1791.com/video/fww1/66/s8/2/7/1/1/Y/711Yy.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 34",
+      "urlOkru": "https://1a-1791.com/video/fww1/00/s8/2/t/y/j/Z/tyjZy.gaa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 35",
+      "urlOkru": "https://1a-1791.com/video/fww1/5d/s8/2/S/3/s/0/S3s0y.gaa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 36",
+      "urlOkru": "https://1a-1791.com/video/fww1/02/s8/2/0/_/H/0/0_H0y.gaa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 37",
+      "urlOkru": "https://1a-1791.com/video/fww1/ee/s8/2/q/0/5/0/q050y.gaa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 38",
+      "urlOkru": "https://1a-1791.com/video/fww1/48/s8/2/K/S/r/1/KSr1y.gaa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 39",
+      "urlOkru": "https://1a-1791.com/video/fww1/6b/s8/2/8/Y/D/1/8YD1y.gaa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 40",
+      "urlOkru": "https://1a-1791.com/video/fww1/30/s8/2/i/r/x/2/irx2y.gaa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 41",
+      "urlOkru": "https://1a-1791.com/video/fww1/14/s8/2/M/3/5/2/M352y.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 42",
+      "urlOkru": "https://1a-1791.com/video/fww1/4e/s8/2/m/5/5/2/m552y.gaa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 43",
+      "urlOkru": "https://1a-1791.com/video/fww1/7b/s8/2/u/R/n/3/uRn3y.gaa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 44",
+      "urlOkru": "https://1a-1791.com/video/fww1/eb/s8/2/2/K/J/3/2KJ3y.gaa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 45",
+      "urlOkru": "https://1a-1791.com/video/fww1/90/s8/2/s/6/y/4/s6y4y.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 46",
+      "urlOkru": "https://1a-1791.com/video/fww1/2c/s8/2/w/3/T/4/w3T4y.gaa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 47",
+      "urlOkru": "https://1a-1791.com/video/fww1/d6/s8/2/u/n/c/5/unc5y.gaa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 48",
+      "urlOkru": "https://1a-1791.com/video/fww1/83/s8/2/0/T/v/5/0Tv5y.gaa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 49",
+      "urlOkru": "https://1a-1791.com/video/fww1/c8/s8/2/q/Y/D/6/qYD6y.gaa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 50",
+      "urlOkru": "https://1a-1791.com/video/fww1/7c/s8/2/C/Y/D/6/CYD6y.gaa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 51",
+      "urlOkru": "https://1a-1791.com/video/fww1/9f/s8/2/u/P/W/6/uPW6y.gaa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 52",
+      "urlOkru": "https://1a-1791.com/video/fww1/ad/s8/2/W/K/i/7/WKi7y.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 53",
+      "urlOkru": "https://1a-1791.com/video/fww1/cb/s8/2/C/8/A/7/C8A7y.gaa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 54",
+      "urlOkru": "https://1a-1791.com/video/fww1/d4/s8/2/-/S/s/8/-Ss8y.gaa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 55",
+      "urlOkru": "https://1a-1791.com/video/fww1/2d/s8/2/G/4/L/8/G4L8y.gaa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 56",
+      "urlOkru": "https://1a-1791.com/video/fww1/32/s8/2/q/L/3/8/qL38y.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 57",
+      "urlOkru": "https://1a-1791.com/video/fww1/bb/s8/2/4/T/n/9/4Tn9y.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 58",
+      "urlOkru": "https://1a-1791.com/video/fww1/13/s8/2/O/9/I/9/O9I9y.gaa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 59",
+      "urlOkru": "https://1a-1791.com/video/fww1/e6/s8/2/w/V/O/9/wVO9y.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 60",
+      "urlOkru": "https://1a-1791.com/video/fww1/f5/s8/2/C/V/I/-/CVI-y.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 61",
+      "urlOkru": "https://1a-1791.com/video/fww1/7a/s8/2/y/k/1/-/yk1-y.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 62",
+      "urlOkru": "https://1a-1791.com/video/fww1/b2/s8/2/e/I/m/_/eIm_y.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 63",
+      "urlOkru": "https://1a-1791.com/video/fww1/82/s8/2/m/j/z/_/mjz_y.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 64",
+      "urlOkru": "https://1a-1791.com/video/fww1/93/s8/2/A/K/O/_/AKO_y.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 65",
+      "urlOkru": "https://1a-1791.com/video/fww1/d6/s8/2/M/U/M/a/MUMaz.gaa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 66",
+      "urlOkru": "https://1a-1791.com/video/fww1/8a/s8/2/o/n/0/a/on0az.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 67",
+      "urlOkru": "https://1a-1791.com/video/fww1/ce/s8/2/M/2/n/b/M2nbz.gaa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 68",
+      "urlOkru": "https://1a-1791.com/video/fww1/24/s8/2/C/2/A/b/C2Abz.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 69",
+      "urlOkru": "https://1a-1791.com/video/fww1/51/s8/2/2/W/V/b/2WVbz.gaa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 70",
+      "urlOkru": "https://1a-1791.com/video/fww1/5b/s8/2/i/P/K/c/iPKcz.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 71",
+      "urlOkru": "https://1a-1791.com/video/fww1/33/s8/2/2/y/6/c/2y6cz.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 72",
+      "urlOkru": "https://1a-1791.com/video/fww1/49/s8/2/K/r/8/c/Kr8cz.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 73",
+      "urlOkru": "https://1a-1791.com/video/fww1/a8/s8/2/w/u/y/d/wuydz.gaa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 74",
+      "urlOkru": "https://1a-1791.com/video/fww1/63/s8/2/E/Z/6/d/EZ6dz.gaa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 75",
+      "urlOkru": "https://1a-1791.com/video/fww1/5f/s8/2/g/E/E/f/gEEfz.gaa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 76",
+      "urlOkru": "https://1a-1791.com/video/fww1/26/s8/2/q/E/E/f/qEEfz.gaa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 77",
+      "urlOkru": "https://1a-1791.com/video/fww1/a0/s8/2/u/E/E/f/uEEfz.gaa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 78",
+      "urlOkru": "https://1a-1791.com/video/fww1/b0/s8/2/S/-/E/g/S-Egz.gaa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 79",
+      "urlOkru": "https://1a-1791.com/video/fww1/36/s8/2/U/-/E/g/U-Egz.gaa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 80",
+      "urlOkru": "https://1a-1791.com/video/fww1/48/s8/2/M/9/E/g/M9Egz.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 81",
+      "urlOkru": "https://1a-1791.com/video/fww1/64/s8/2/K/S/8/g/KS8gz.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 82",
+      "urlOkru": "https://1a-1791.com/video/fww1/1d/s8/2/U/R/o/h/URohz.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 83",
+      "urlOkru": "https://1a-1791.com/video/fww1/68/s8/2/A/-/I/h/A-Ihz.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 84",
+      "urlOkru": "https://1a-1791.com/video/fww1/e5/s8/2/S/J/v/i/SJviz.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 85",
+      "urlOkru": "https://1a-1791.com/video/fww1/ac/s8/2/I/c/Y/i/IcYiz.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 86",
+      "urlOkru": "https://1a-1791.com/video/fww1/d3/s8/2/A/6/g/j/A6gjz.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 87",
+      "urlOkru": "https://1a-1791.com/video/fww1/f9/s8/2/a/8/v/j/a8vjz.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 88",
+      "urlOkru": "https://1a-1791.com/video/fww1/07/s8/2/i/y/O/j/iyOjz.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 89",
+      "urlOkru": "https://1a-1791.com/video/fww1/3f/s8/2/Q/j/L/k/QjLkz.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 90",
+      "urlOkru": "https://1a-1791.com/video/fww1/df/s8/2/U/i/5/k/Ui5kz.caa.tar",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 91",
+      "urlOkru": "https://1a-1791.com/video/fwe2/c7/s8/2/6/B/j/l/6Bjlz.gaa.tar",
+      "titulo": ""
+    }
+  ]
+}
