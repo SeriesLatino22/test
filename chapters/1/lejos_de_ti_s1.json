@@ -1,0 +1,383 @@
+{
+  "id": "lejos_de_ti_s1",
+  "titulo": "Lejos de ti",
+  "subtitulo": "Lejos de ti: Temporada 1",
+  "portada": "",
+  "capitulos": [
+    {
+      "numero": "Capítulo 1",
+      "urlOkru": "https://1a-1791.com/video/fwe2/b7/s8/2/8/U/U/s/8UUsz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=456050688-456085221",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 2",
+      "urlOkru": "https://1a-1791.com/video/fwe2/62/s8/2/Q/U/U/s/QUUsz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=360907264-360934644",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 3",
+      "urlOkru": "https://1a-1791.com/video/fww1/2e/s8/2/i/a/b/t/iabtz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=420855296-420887089",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 4",
+      "urlOkru": "https://1a-1791.com/video/fwe2/69/s8/2/M/I/M/u/MIMuz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=423444992-423477008",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 5",
+      "urlOkru": "https://1a-1791.com/video/fww1/5c/s8/2/U/J/M/u/UJMuz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=344610304-344636388",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 6",
+      "urlOkru": "https://1a-1791.com/video/fww1/ef/s8/2/2/J/M/u/2JMuz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=336492544-336518016",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 7",
+      "urlOkru": "https://1a-1791.com/video/fww1/e1/s8/2/-/m/d/v/-mdvz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=343079424-343105359",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 8",
+      "urlOkru": "https://1a-1791.com/video/fww1/ad/s8/2/o/h/w/v/ohwvz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=343154688-343180659",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 9",
+      "urlOkru": "https://1a-1791.com/video/fww1/14/s8/2/I/3/N/v/I3Nvz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=342457856-342483713",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 10",
+      "urlOkru": "https://1a-1791.com/video/fwe2/0f/s8/2/6/M/R/w/6MRwz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=423469568-423501677",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 11",
+      "urlOkru": "https://1a-1791.com/video/fww1/09/s8/2/c/N/F/x/cNFxz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=422831104-422863092",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 12",
+      "urlOkru": "https://1a-1791.com/video/fww1/cc/s8/2/2/M/F/x/2MFxz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=343647232-343673207",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 13",
+      "urlOkru": "https://1a-1791.com/video/fww1/32/s8/2/m/e/O/x/meOxz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=344055296-344081258",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 14",
+      "urlOkru": "https://1a-1791.com/video/fww1/b3/s8/2/Q/v/K/y/QvKyz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=343500800-343526763",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 15",
+      "urlOkru": "https://1a-1791.com/video/fww1/ab/s8/2/0/v/K/y/0vKyz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=343552512-343578575",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 16",
+      "urlOkru": "https://1a-1791.com/video/fwe2/c8/s8/2/2/R/0/y/2R0yz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=342432768-342458725",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 17",
+      "urlOkru": "https://1a-1791.com/video/fww1/2b/s8/2/C/6/k/z/C6kzz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=342650880-342676845",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 18",
+      "urlOkru": "https://1a-1791.com/video/fwe2/c2/s8/2/I/z/3/A/Iz3Az.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=343112704-343138693",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 19",
+      "urlOkru": "https://1a-1791.com/video/fww1/8c/s8/2/e/A/3/A/eA3Az.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=325186048-325210599",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 20",
+      "urlOkru": "https://1a-1791.com/video/fww1/4c/s8/2/u/A/3/A/uA3Az.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=340864512-340890282",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 21",
+      "urlOkru": "https://1a-1791.com/video/fww1/94/s8/2/g/Z/A/B/gZABz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=340627456-340653220",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 22",
+      "urlOkru": "https://1a-1791.com/video/fwe2/15/s8/2/y/0/5/C/y05Cz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=340746240-340772019",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 23",
+      "urlOkru": "https://1a-1791.com/video/fwe2/20/s8/2/O/N/l/D/ONlDz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=336929792-336955269",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 24",
+      "urlOkru": "https://1a-1791.com/video/fwe2/f4/s8/2/s/7/2/D/s72Dz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=343984128-344010291",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 25",
+      "urlOkru": "https://1a-1791.com/video/fww1/84/s8/2/K/7/2/D/K72Dz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=339193856-339219695",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 26",
+      "urlOkru": "https://1a-1791.com/video/fwe2/f7/s8/2/k/N/W/E/kNWEz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=342639104-342665078",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 27",
+      "urlOkru": "https://1a-1791.com/video/fwe2/16/s8/2/E/Y/6/E/EY6Ez.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=342737408-342763382",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 28",
+      "urlOkru": "https://1a-1791.com/video/fww1/9c/s8/2/E/f/m/F/EfmFz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=331620864-331645912",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 29",
+      "urlOkru": "https://1a-1791.com/video/fww1/e9/s8/2/w/n/S/F/wnSFz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=343660032-343686021",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 30",
+      "urlOkru": "https://1a-1791.com/video/fwe2/a4/s8/2/0/2/s/G/02sGz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=341742080-341767944",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 31",
+      "urlOkru": "https://1a-1791.com/video/fww1/f3/s8/2/Y/g/Z/G/YgZGz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=343250944-343276915",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 32",
+      "urlOkru": "https://1a-1791.com/video/fwe2/59/s8/2/G/d/Z/G/GdZGz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=319945216-319969377",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 33",
+      "urlOkru": "https://1a-1791.com/video/fww1/51/s8/2/e/I/A/H/eIAHz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=341628928-341654685",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 34",
+      "urlOkru": "https://1a-1791.com/video/fwe2/42/s8/2/8/6/H/I/86HIz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=343769600-343795749",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 35",
+      "urlOkru": "https://1a-1791.com/video/fww1/fa/s8/2/c/j/V/I/cjVIz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=341704192-341730059",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 36",
+      "urlOkru": "https://1a-1791.com/video/fww1/e2/s8/2/E/H/o/J/EHoJz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=343181312-343207176",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 37",
+      "urlOkru": "https://1a-1791.com/video/fww1/f5/s8/2/M/D/u/K/MDuKz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=341741056-341767007",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 38",
+      "urlOkru": "https://1a-1791.com/video/fww1/92/s8/2/o/E/u/K/oEuKz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=330152448-330177600",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 39",
+      "urlOkru": "https://1a-1791.com/video/fwe2/3d/s8/2/S/E/u/K/SEuKz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=340675584-340701350",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 40",
+      "urlOkru": "https://1a-1791.com/video/fww1/89/s8/2/4/R/M/K/4RMKz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=343559168-343585220",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 41",
+      "urlOkru": "https://1a-1791.com/video/fww1/ec/s8/2/y/R/2/K/yR2Kz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=339955712-339981485",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 42",
+      "urlOkru": "https://1a-1791.com/video/fwe2/4f/s8/2/U/f/x/L/UfxLz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=342828544-342854510",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 43",
+      "urlOkru": "https://1a-1791.com/video/fww1/e9/s8/2/I/g/x/L/IgxLz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=343313920-343339874",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 44",
+      "urlOkru": "https://1a-1791.com/video/fwe2/ef/s8/2/Q/z/h/M/QzhMz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=376060928-376089426",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 45",
+      "urlOkru": "https://1a-1791.com/video/fwe2/b8/s8/2/s/E/z/M/sEzMz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=340839936-340865705",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 46",
+      "urlOkru": "https://1a-1791.com/video/fww1/9d/s8/2/0/5/d/N/05dNz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=342387200-342413174",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 47",
+      "urlOkru": "https://1a-1791.com/video/fww1/67/s8/2/4/H/6/N/4H6Nz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=343217664-343243623",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 48",
+      "urlOkru": "https://1a-1791.com/video/fwe2/bb/s8/2/e/I/6/N/eI6Nz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=346132480-346158651",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 49",
+      "urlOkru": "https://1a-1791.com/video/fww1/99/s8/2/8/S/u/O/8SuOz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=340017664-340043326",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 50",
+      "urlOkru": "https://1a-1791.com/video/fww1/b0/s8/2/o/B/N/O/oBNOz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=343043072-343069041",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 51",
+      "urlOkru": "https://1a-1791.com/video/fww1/d5/s8/2/8/Q/3/O/8Q3Oz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=341252096-341277839",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 52",
+      "urlOkru": "https://1a-1791.com/video/fwe2/f5/s8/2/c/d/k/P/cdkPz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=342922240-342948109",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 53",
+      "urlOkru": "https://1a-1791.com/video/fwe2/ab/s8/2/E/9/u/Q/E9uQz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=342346240-342372111",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 54",
+      "urlOkru": "https://1a-1791.com/video/fww1/44/s8/2/6/-/C/Q/6-CQz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=343154688-343180642",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 55",
+      "urlOkru": "https://1a-1791.com/video/fww1/87/s8/2/W/i/c/R/WicRz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=340297728-340323473",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 56",
+      "urlOkru": "https://1a-1791.com/video/fwe2/f6/s8/2/2/U/c/R/2UcRz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=343704064-343730039",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 57",
+      "urlOkru": "https://1a-1791.com/video/fwe2/71/s8/2/g/t/_/R/gt_Rz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=343582720-343608689",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 58",
+      "urlOkru": "https://1a-1791.com/video/fwe2/59/s8/2/w/H/t/S/wHtSz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=342812672-342838538",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 59",
+      "urlOkru": "https://1a-1791.com/video/fwe2/ba/s8/2/i/Y/N/S/iYNSz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=338725376-338751041",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 60",
+      "urlOkru": "https://1a-1791.com/video/fww1/a2/s8/2/k/I/7/S/kI7Sz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=342490112-342516088",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 61",
+      "urlOkru": "https://1a-1791.com/video/fww1/24/s8/2/m/s/n/T/msnTz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=342616064-342642024",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 62",
+      "urlOkru": "https://1a-1791.com/video/fww1/2f/s8/2/y/S/k/U/ySkUz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=328539648-328564510",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 63",
+      "urlOkru": "https://1a-1791.com/video/fwe2/74/s8/2/g/r/F/U/grFUz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=343831552-343857521",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 64",
+      "urlOkru": "https://1a-1791.com/video/fww1/5c/s8/2/M/y/Z/U/MyZUz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=341554176-341580041",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 65",
+      "urlOkru": "https://1a-1791.com/video/fwe2/d6/s8/2/k/f/g/V/kfgVz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=341650432-341676304",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 66",
+      "urlOkru": "https://1a-1791.com/video/fwe2/71/s8/2/q/K/A/V/qKAVz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=342310912-342336804",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 67",
+      "urlOkru": "https://1a-1791.com/video/fww1/09/s8/2/a/Y/J/W/aYJWz.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=691665920-691691940",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 68",
+      "urlOkru": "https://1a-1791.com/video/fwe2/f1/s8/2/m/Y/J/W/mYJWz.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=692358144-692384156",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 69",
+      "urlOkru": "https://1a-1791.com/video/fwe2/1c/s8/2/S/Y/J/W/SYJWz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=342561792-342587755",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 70",
+      "urlOkru": "https://1a-1791.com/video/fww1/f1/s8/2/i/1/i/X/i1iXz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=341111808-341137580",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 71",
+      "urlOkru": "https://1a-1791.com/video/fww1/2a/s8/2/i/Q/A/X/iQAXz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=342949376-342975337",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 72",
+      "urlOkru": "https://1a-1791.com/video/fww1/47/s8/2/Y/n/u/Y/YnuYz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=342047744-342073599",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 73",
+      "urlOkru": "https://1a-1791.com/video/fww1/33/s8/2/q/T/L/Y/qTLYz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=342084608-342110575",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 74",
+      "urlOkru": "https://1a-1791.com/video/fwe2/eb/s8/2/S/c/4/Y/Sc4Yz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=342575104-342601054",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 75",
+      "urlOkru": "https://1a-1791.com/video/fww1/c1/s8/2/e/s/o/Z/esoZz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=344706560-344732624",
+      "titulo": ""
+    }
+  ]
+}
