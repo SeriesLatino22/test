@@ -5,42 +5,36 @@
     "category": "Narco Novelas",
     "ribbon": "GRAN ESTRENO",
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/rosa5.webp",
-    "isPremium": false,
-    "hasAd": false,
     "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/rosario_tijeras_5_mexico_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/rosario_tijeras_5_mexico_s1.json",
-        "episodesCount": 60
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/rosario_tijeras_5_mexico_s1.json"
       },
       {
         "seasonNumber": 2,
         "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/rosario_tijeras_5_mexico_s2.json",
-        "episodesCount": 67
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/rosario_tijeras_5_mexico_s2.json"
       },
       {
         "seasonNumber": 3,
         "name": "Temporada 3",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/rosario_tijeras_5_mexico_s3.json",
-        "episodesCount": 70
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/rosario_tijeras_5_mexico_s3.json"
       },
       {
         "seasonNumber": 4,
         "name": "Temporada 4",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/rosario_tijeras_5_mexico_s4.json",
-        "episodesCount": 40
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/rosario_tijeras_5_mexico_s4.json"
       },
       {
         "seasonNumber": 5,
         "name": "Temporada 5",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/rosario_tijeras_5_mexico_s5.json",
-        "episodesCount": 39
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/rosario_tijeras_5_mexico_s5.json"
       }
     ],
-    "episodesCount": 276
+    "isPremium": true,
+    "hasAd": false
   },
   {
     "id": "el_senor_de_los_cielos_t10",
