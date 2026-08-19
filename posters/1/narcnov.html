@@ -1,0 +1,1148 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <meta name="robots" content="noindex, nofollow">
+
+  <title>Narc0Novelas</title>
+  <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap" rel="stylesheet">
+  <meta name="theme-color" content="#1e1e1e">
+
+
+  <script type='text/javascript'>  document.oncontextmenu = function () { return false } </script>
+
+
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      background-color: #131720;
+      margin: 0;
+      padding: 20px;
+      padding-top: 10px;
+    }
+
+    /* Estilos para la barra de desplazamiento */
+    ::-webkit-scrollbar {
+      width: 8px;
+      /* Ancho de la barra de desplazamiento */
+    }
+
+    ::-webkit-scrollbar-track {
+      background-color: #131720;
+      /* Fondo negro para la pista */
+    }
+
+    ::-webkit-scrollbar-thumb {
+      background-color: #0077cc;
+      /* Pulgar gris */
+      border-radius: 10px;
+      /* Bordes redondeados para el pulgar */
+    }
+
+
+
+
+
+    .card {
+      background-color: #2b2b2b;
+      color: white;
+      width: 320px;
+      height: 150px;
+      /* Altura fija para todas */
+      border-radius: 12px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+      display: flex;
+      align-items: center;
+      border: 2px solid black;
+      justify-content: flex-start;
+      padding: 12px;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+      position: relative;
+      overflow: hidden;
+      box-sizing: border-box;
+    }
+
+    .card:hover {
+      transform: scale(1.05);
+      box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+    }
+
+    .card .image-container {
+
+      width: 90px;
+
+      height: 90px;
+
+      border-radius: 10%;
+
+      overflow: hidden;
+
+      background-color: #ddd;
+
+      margin-right: 15px;
+
+      position: relative;
+
+      flex: 0 0 90px;
+
+    }
+
+    .card .image-container img {
+
+      width: 100%;
+
+      height: 100%;
+
+      object-fit: cover;
+
+      opacity: 0;
+
+      transition: opacity 0.3s ease-in-out;
+
+    }
+
+
+
+
+
+
+    .card .image-container img.loaded {
+      opacity: 1;
+    }
+
+    .card .content {
+      flex: 1;
+      min-width: 0;
+      /* Permite que el contenido se encoja para truncar el texto */
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+
+    .card .content .title {
+      font-size: clamp(14px, 1.1rem, 18px);
+      margin-top: 0;
+      font-family: 'Pacifico', cursive;
+      font-weight: normal;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      line-height: 1.1;
+      max-height: 2.2em;
+    }
+
+    .card .content .description {
+      font-size: 13px;
+      color: #aaa;
+      margin-top: 4px;
+      margin-bottom: 10px;
+    }
+
+    .card .button-container {
+      display: flex;
+      justify-content: flex-end;
+      align-items: center;
+      gap: 6px;
+      flex-wrap: nowrap;
+      /* una sola línea */
+      overflow-x: auto;
+      /* scroll horizontal */
+      overflow-y: hidden;
+      -webkit-overflow-scrolling: touch;
+      scrollbar-width: thin;
+      /* Firefox */
+      scrollbar-color: #8a8a8a #1a1a1a;
+      /* pulgar gris sobre pista oscura */
+      scroll-snap-type: x mandatory;
+      /* efecto slider con encaje */
+      padding: 0 10px;
+      /* margen interno para que no queden pegados a los bordes */
+      /* Desvanecido en bordes para aspecto de slider */
+      -webkit-mask-image: linear-gradient(to right, transparent 0, black 16px, black calc(100% - 16px), transparent 100%);
+      mask-image: linear-gradient(to right, transparent 0, black 16px, black calc(100% - 16px), transparent 100%);
+    }
+
+    .card .button-container::-webkit-scrollbar {
+      height: 3px;
+      /* barra más delgada */
+    }
+
+    .card .button-container::-webkit-scrollbar-track {
+      background-color: #1a1a1a;
+      /* pista oscura */
+    }
+
+    .card .button-container::-webkit-scrollbar-thumb {
+      background-color: #8a8a8a;
+      /* gris */
+      border-radius: 10px;
+    }
+
+    @media (max-width: 767px) {
+      .card .button-container {
+        scrollbar-width: none;
+        /* Firefox: ocultar */
+      }
+
+      .card .button-container::-webkit-scrollbar {
+        display: none;
+        /* WebKit: ocultar */
+      }
+    }
+
+    .section-title {
+      font-family: 'Pacifico', cursive;
+      font-weight: normal;
+      font-size: 28px;
+      color: #ffffff;
+      margin: 0 0 57px 0;
+    }
+
+    .subtitle {
+      font-size: 13px;
+      color: rgba(255, 255, 255, 0.6);
+      margin: -63px 0 50px 0;
+      font-weight: normal;
+    }
+
+    .card .button-container .button {
+      position: relative;
+      display: inline-block;
+      padding: 8px 0;
+      /* un poco más compacto */
+      font-size: 13px;
+      /* más pequeño */
+      font-weight: bold;
+      color: white;
+      background-color: black;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      text-decoration: none;
+      overflow: hidden;
+      z-index: 1;
+      transition: all 0.3s ease;
+      width: 48px;
+      /* más pequeño y uniforme */
+      text-align: center;
+      flex: 0 0 auto;
+      /* no encoger dentro del slider */
+      scroll-snap-align: start;
+      /* encajar botón por botón */
+    }
+
+    .card:hover .button-container .button::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: -100%;
+      width: 100%;
+      height: 100%;
+      background: linear-gradient(120deg, rgba(255, 255, 255, 0.3), transparent);
+      z-index: -1;
+      transform: skewX(-25deg);
+      animation: wave 2s infinite;
+    }
+
+    @keyframes wave {
+      0% {
+        left: -100%;
+      }
+
+      50% {
+        left: 100%;
+      }
+
+      100% {
+        left: -100%;
+      }
+    }
+
+    /* Cortina lateral para temporadas */
+    .curtain {
+      position: absolute;
+      top: 0;
+      right: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(10, 10, 10, 0.98);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      transform: translateX(100%);
+      transition: transform 0.4s ease;
+      padding: 20px;
+      z-index: 10;
+      overflow-y: auto;
+    }
+
+    .card.open .curtain {
+      transform: translateX(0);
+    }
+
+    .close-btn {
+      position: absolute;
+      top: 10px;
+      right: 15px;
+      font-size: 24px;
+      color: #888;
+      cursor: pointer;
+      transition: all 0.2s;
+      /* Borde mucho más delgado y preciso */
+      -webkit-text-stroke: 0.5px #ff0000;
+    }
+
+    .close-btn:hover {
+      color: #fff;
+      transform: scale(1.1);
+      -webkit-text-stroke: 0.8px #ff0000;
+      filter: drop-shadow(0 0 2px rgba(255, 0, 0, 0.8));
+    }
+
+    .seasons-grid {
+      display: grid;
+      grid-template-columns: repeat(5, 40px);
+      justify-content: center;
+      gap: 8px;
+      width: 100%;
+      margin: 10px 0 0 0;
+      padding: 0 10px;
+      box-sizing: border-box;
+    }
+
+    .season {
+      background: #353232;
+      width: 40px;
+      /* Tamaño más compacto */
+      height: 40px;
+      border-radius: 4px;
+      cursor: pointer;
+      font-weight: bold;
+      font-size: 16px;
+      text-align: center;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.6);
+      transition: transform 0.2s ease, background 0.2s ease;
+      color: #fff;
+      text-decoration: none;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      box-sizing: border-box;
+    }
+
+    .season:hover {
+      transform: scale(1.1);
+      background: #444;
+    }
+
+    .season--wide {
+      display: inline-flex;
+      /* Asegura consistencia */
+    }
+
+    @media (max-width: 480px) {
+      .seasons-grid {
+        grid-template-columns: repeat(5, 38px);
+        gap: 6px;
+        justify-content: center;
+        padding: 0;
+      }
+
+      .season {
+        width: 38px;
+        height: 38px;
+        font-size: 13px;
+      }
+    }
+
+    @media (max-width: 360px) {
+      .seasons-grid {
+        grid-template-columns: repeat(5, 32px);
+        gap: 5px;
+        justify-content: center;
+        padding: 0;
+      }
+
+      .season {
+        width: 32px;
+        height: 32px;
+        font-size: 11px;
+      }
+
+      .season--wide {
+        display: inline-flex;
+      }
+    }
+
+    .related-card {
+      background-color: #222020;
+      color: white;
+      max-width: 320px;
+      border-radius: 12px;
+      padding: 15px;
+      box-shadow: 0 4px 8px rgb(50 50 50 / 80%);
+      margin: 20px auto;
+      cursor: pointer;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .related-card .title {
+      font-size: 16px;
+      font-weight: normal;
+      font-family: 'Roboto', sans-serif;
+    }
+
+    .related-card .arrow {
+      font-size: 18px;
+      font-weight: bold;
+    }
+
+    /* Centrado del contenedor de las tarjetas */
+    .card-container {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 20px;
+    }
+
+    /* Estilo inicial para las tarjetas adicionales */
+    .additional-cards-wrapper {
+      display: none;
+      /* Ocultar las tarjetas por defecto */
+      opacity: 0;
+      /* Iniciar con opacidad 0 */
+      transform: translateY(10px);
+      /* Desplazamiento más pequeño para una aparición más sutil */
+      transition: opacity 0.8s ease-in-out, transform 0.8s ease-in-out;
+      /* Transiciones más lentas y suaves */
+      justify-content: center;
+      margin: 0 auto;
+    }
+
+    /* Cuando las tarjetas se muestran, les damos visibilidad y opacidad */
+    .additional-cards-wrapper.show {
+      display: flex;
+      /* Cambiar display a flex cuando se muestran */
+      opacity: 1;
+      /* Mostrar las tarjetas */
+      transform: translateY(0);
+      /* Regresar a su posición original */
+      transition: opacity 0.8s ease-in-out, transform 0.8s ease-in-out;
+      /* Transiciones más suaves */
+    }
+
+    /* Estilos para el contenedor de las tarjetas adicionales */
+    .additional-cards {
+      display: flex;
+      /* Usar flexbox para móviles */
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 20px;
+      /* Espaciado entre tarjetas */
+    }
+
+    /* Contenedor de anuncio - Solo visible en desktop */
+    .ad-container {
+      width: 100%;
+      max-width: 800px;
+      margin: 30px auto;
+      padding: 20px;
+      background-color: transparent;
+      border-radius: 10px;
+      text-align: center;
+      display: none;
+      /* Oculto por defecto */
+    }
+
+    /* Mostrar solo en desktop */
+    @media (min-width: 768px) {
+      .ad-container {
+        display: block;
+      }
+    }
+
+    /* Estilos para el contenido del anuncio */
+    .ad-container * {
+      color: white !important;
+      background-color: transparent !important;
+    }
+
+    /* Asegurar que el texto sea blanco */
+    .ad-container div,
+    .ad-container span,
+    .ad-container p,
+    .ad-container a {
+      color: white !important;
+    }
+
+
+
+
+    @media (min-width: 768px) {
+      .additional-cards {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        /* Dos columnas */
+        grid-template-rows: repeat(2, auto);
+        /* Limitar a 2 filas */
+        gap: 20px;
+        /* Espacio entre tarjetas */
+        overflow: hidden;
+        /* Asegurarse de que no haya más filas si las tarjetas exceden el límite */
+      }
+
+      .card-container {
+        grid-template-columns: repeat(2, 1fr);
+        /* Dos columnas */
+        gap: 20px;
+        /* Espacio entre las tarjetas */
+        justify-items: center;
+        /* Centra las tarjetas en cada celda */
+        max-width: 960px;
+        /* Limita el ancho total de las tarjetas */
+        margin: 0 auto;
+        /* Centra el contenedor principal */
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+
+
+
+
+
+
+
+
+  <h1 class="section-title">Narc0Novelas</h1>
+  <h2 class="subtitle">Servidor externo.</h2>
+  <div class="card-container">
+    <!-- El Señor de los Cielos -->
+    <div class="card">
+      <div class="image-container">
+        <img src="https://app.latino7.com/portada/1/senorCIE.webp" alt="Profile Image" loading="lazy"
+          class="lazy-img" onload="this.classList.add('loaded')">
+      </div>
+      <div class="content">
+        <div class="title">El Señor de los Cielos</div>
+        <div class="description">9 temporadas HD, Español Latino.</div>
+        <div class="button-container">
+          <button class="button open-season-btn" style="width:auto;padding:8px 12px">Temporadas</button>
+        </div>
+      </div>
+      <div class="curtain">
+        <span class="close-btn">✖</span>
+        <div class="seasons-grid">
+          <a href="senor1" class="season">T1</a>
+          <a href="senor2" class="season">T2</a>
+          <a href="senor3" class="season">T3</a>
+          <a href="senor4" class="season">T4</a>
+          <a href="senor5" class="season">T5</a>
+          <a href="senor6" class="season">T6</a>
+          <a href="senor7" class="season">T7</a>
+          <a href="senor8" class="season">T8</a>
+         
+        </div>
+      </div>
+    </div>
+
+    <!-- Señora Acero -->
+    <div class="card">
+      <div class="image-container">
+        <img src="https://app.latino7.com/portada/1/senorCIE.webp" alt="Profile Image" loading="lazy" class="lazy-img" onload="this.classList.add('loaded')">
+      </div>
+      <div class="content">
+        <div class="title">Señora Acero</div>
+        <div class="description">5 temporadas HD, Español Latino.</div>
+        <div class="button-container">
+          <button class="button open-season-btn" style="width:auto;padding:8px 12px">Temporadas</button>
+        </div>
+      </div>
+      <div class="curtain">
+        <span class="close-btn">✖</span>
+        <div class="seasons-grid">
+          <a href="aceroT1" class="season">T1</a>
+          <a href="aceroT2" class="season">T2</a>
+          <a href="aceroT3" class="season">T3</a>
+          <a href="aceroT4" class="season">T4</a>
+          <a href="aceroT5" class="season">T5</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- La Reina del Sur -->
+    <div class="card">
+      <div class="image-container">
+        <img src="" alt="Profile Image" loading="lazy" class="lazy-img" onload="this.classList.add('loaded')">
+      </div>
+      <div class="content">
+        <div class="title">La Reina del Sur</div>
+        <div class="description">3 temporadas HD, Español Latino.</div>
+        <div class="button-container">
+          <button class="button open-season-btn" style="width:auto;padding:8px 12px">Temporadas</button>
+        </div>
+      </div>
+      <div class="curtain">
+        <span class="close-btn">✖</span>
+        <div class="seasons-grid">
+          <a href="reina?t=1" class="season">T1</a>
+          <a href="reina?t=2" class="season">T2</a>
+          <a href="reina?t=3" class="season season--wide">T3</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- El Capo -->
+    <div class="card">
+      <div class="image-container">
+        <img src="" alt="Profile Image" loading="lazy" class="lazy-img" onload="this.classList.add('loaded')">
+      </div>
+      <div class="content">
+        <div class="title">El Capo</div>
+        <div class="description">4 temporadas HD, Español Latino.</div>
+        <div class="button-container">
+          <button class="button open-season-btn" style="width:auto;padding:8px 12px">Temporadas</button>
+        </div>
+      </div>
+      <div class="curtain">
+        <span class="close-btn">✖</span>
+        <div class="seasons-grid">
+          <a href="capo?t=1" class="season">T1</a>
+          <a href="capo?t=2" class="season">T2</a>
+          <a href="capo?t=3" class="season">T3</a>
+          <a href="capo?t=4" class="season season--wide">T4</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- Sin Senos Si Hay Paraíso -->
+    <div class="card">
+      <div class="image-container">
+        <img src="" alt="Profile Image" loading="lazy" class="lazy-img" onload="this.classList.add('loaded')">
+      </div>
+      <div class="content">
+        <div class="title">Sin Senos Si Hay Paraíso</div>
+        <div class="description">4 temporadas HD, Español Latino.</div>
+        <div class="button-container">
+          <button class="button open-season-btn" style="width:auto;padding:8px 12px">Temporadas</button>
+        </div>
+      </div>
+      <div class="curtain">
+        <span class="close-btn">✖</span>
+        <div class="seasons-grid">
+          <a href="sinsenos?t=1" class="season">T1</a>
+          <a href="sinsenos?t=2" class="season">T2</a>
+          <a href="sinsenos?t=3" class="season">T3</a>
+          <a href="sinsenos?t=4" class="season season--wide">T4</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- El Cartel de los Sapos -->
+    <div class="card">
+      <div class="image-container">
+        <img src="" alt="Profile Image" loading="lazy" class="lazy-img" onload="this.classList.add('loaded')">
+      </div>
+      <div class="content">
+        <div class="title">El Cartel de los Sapos</div>
+        <div class="description">2 temporadas HD, Español Latino.</div>
+        <div class="button-container">
+          <button class="button open-season-btn" style="width:auto;padding:8px 12px">Temporadas</button>
+        </div>
+      </div>
+      <div class="curtain">
+        <span class="close-btn">✖</span>
+        <div class="seasons-grid">
+          <a href="cartel?t=1" class="season">T1</a>
+          <a href="cartel?t=2" class="season season--wide">T2</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- Escobar, El Patrón del Mal -->
+    <div class="card">
+      <div class="image-container">
+        <img src="" alt="Profile Image" loading="lazy" class="lazy-img" onload="this.classList.add('loaded')">
+      </div>
+      <div class="content">
+        <div class="title">Escobar, El Patrón del Mal</div>
+        <div class="description">74 capítulos HD, Español Latino.</div>
+        <div class="button-container">
+          <button class="button open-season-btn" style="width:auto;padding:8px 12px">Temporadas</button>
+        </div>
+      </div>
+      <div class="curtain">
+        <span class="close-btn">✖</span>
+        <div class="seasons-grid">
+          <a href="escobar?t=1" class="season season--wide">T1</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- La Viuda Negra -->
+    <div class="card">
+      <div class="image-container">
+        <img src="" alt="Profile Image" loading="lazy" class="lazy-img" onload="this.classList.add('loaded')">
+      </div>
+      <div class="content">
+        <div class="title">La Viuda Negra</div>
+        <div class="description">2 temporadas HD, Español Latino.</div>
+        <div class="button-container">
+          <button class="button open-season-btn" style="width:auto;padding:8px 12px">Temporadas</button>
+        </div>
+      </div>
+      <div class="curtain">
+        <span class="close-btn">✖</span>
+        <div class="seasons-grid">
+          <a href="viuda?t=1" class="season">T1</a>
+          <a href="viuda?t=2" class="season season--wide">T2</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- El Chema -->
+    <div class="card">
+      <div class="image-container">
+        <img src="" alt="Profile Image" loading="lazy" class="lazy-img" onload="this.classList.add('loaded')">
+      </div>
+      <div class="content">
+        <div class="title">El Chema</div>
+        <div class="description">84 capítulos HD, Español Latino.</div>
+        <div class="button-container">
+          <button class="button open-season-btn" style="width:auto;padding:8px 12px">Temporadas</button>
+        </div>
+      </div>
+      <div class="curtain">
+        <span class="close-btn">✖</span>
+        <div class="seasons-grid">
+          <a href="chema?t=1" class="season season--wide">T1</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- Rosario Tijeras (Colombia) -->
+    <div class="card">
+      <div class="image-container">
+        <img src="" alt="Profile Image" loading="lazy" class="lazy-img" onload="this.classList.add('loaded')">
+      </div>
+      <div class="content">
+        <div class="title">Rosario Tijeras (Colombia)</div>
+        <div class="description">60 capítulos HD, Español Latino.</div>
+        <div class="button-container">
+          <button class="button open-season-btn" style="width:auto;padding:8px 12px">Temporadas</button>
+        </div>
+      </div>
+      <div class="curtain">
+        <span class="close-btn">✖</span>
+        <div class="seasons-grid">
+          <a href="rosariocol?t=1" class="season season--wide">T1</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- Rosario Tijeras (México) -->
+    <div class="card">
+      <div class="image-container">
+        <img src="" alt="Profile Image" loading="lazy" class="lazy-img" onload="this.classList.add('loaded')">
+      </div>
+      <div class="content">
+        <div class="title">Rosario Tijeras (México)</div>
+        <div class="description">3 temporadas HD, Español Latino.</div>
+        <div class="button-container">
+          <button class="button open-season-btn" style="width:auto;padding:8px 12px">Temporadas</button>
+        </div>
+      </div>
+      <div class="curtain">
+        <span class="close-btn">✖</span>
+        <div class="seasons-grid">
+          <a href="rosariomex?t=1" class="season">T1</a>
+          <a href="rosariomex?t=2" class="season">T2</a>
+          <a href="rosariomex?t=3" class="season season--wide">T3</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- La Querida del Centauro -->
+    <div class="card">
+      <div class="image-container">
+        <img src="" alt="Profile Image" loading="lazy" class="lazy-img" onload="this.classList.add('loaded')">
+      </div>
+      <div class="content">
+        <div class="title">La Querida del Centauro</div>
+        <div class="description">2 temporadas HD, Español Latino.</div>
+        <div class="button-container">
+          <button class="button open-season-btn" style="width:auto;padding:8px 12px">Temporadas</button>
+        </div>
+      </div>
+      <div class="curtain">
+        <span class="close-btn">✖</span>
+        <div class="seasons-grid">
+          <a href="centauro?t=1" class="season">T1</a>
+          <a href="centauro?t=2" class="season season--wide">T2</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- Las Muñecas de la Mafia -->
+    <div class="card">
+      <div class="image-container">
+        <img src="" alt="Profile Image" loading="lazy" class="lazy-img" onload="this.classList.add('loaded')">
+      </div>
+      <div class="content">
+        <div class="title">Las Muñecas de la Mafia</div>
+        <div class="description">2 temporadas HD, Español Latino.</div>
+        <div class="button-container">
+          <button class="button open-season-btn" style="width:auto;padding:8px 12px">Temporadas</button>
+        </div>
+      </div>
+      <div class="curtain">
+        <span class="close-btn">✖</span>
+        <div class="seasons-grid">
+          <a href="munecas?t=1" class="season">T1</a>
+          <a href="munecas?t=2" class="season season--wide">T2</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- Enemigo Íntimo -->
+    <div class="card">
+      <div class="image-container">
+        <img src="" alt="Profile Image" loading="lazy" class="lazy-img" onload="this.classList.add('loaded')">
+      </div>
+      <div class="content">
+        <div class="title">Enemigo Íntimo</div>
+        <div class="description">2 temporadas HD, Español Latino.</div>
+        <div class="button-container">
+          <button class="button open-season-btn" style="width:auto;padding:8px 12px">Temporadas</button>
+        </div>
+      </div>
+      <div class="curtain">
+        <span class="close-btn">✖</span>
+        <div class="seasons-grid">
+          <a href="enemigo?t=1" class="season">T1</a>
+          <a href="enemigo?t=2" class="season season--wide">T2</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- Narcos México -->
+    <div class="card">
+      <div class="image-container">
+        <img src="" alt="Profile Image" loading="lazy" class="lazy-img" onload="this.classList.add('loaded')">
+      </div>
+      <div class="content">
+        <div class="title">Narcos México</div>
+        <div class="description">3 temporadas HD, Español Latino.</div>
+        <div class="button-container">
+          <button class="button open-season-btn" style="width:auto;padding:8px 12px">Temporadas</button>
+        </div>
+      </div>
+      <div class="curtain">
+        <span class="close-btn">✖</span>
+        <div class="seasons-grid">
+          <a href="narcos?t=1" class="season">T1</a>
+          <a href="narcos?t=2" class="season">T2</a>
+          <a href="narcos?t=3" class="season season--wide">T3</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- El Chapo -->
+    <div class="card">
+      <div class="image-container">
+        <img src="" alt="Profile Image" loading="lazy" class="lazy-img" onload="this.classList.add('loaded')">
+      </div>
+      <div class="content">
+        <div class="title">El Chapo</div>
+        <div class="description">3 temporadas HD, Español Latino.</div>
+        <div class="button-container">
+          <button class="button open-season-btn" style="width:auto;padding:8px 12px">Temporadas</button>
+        </div>
+      </div>
+      <div class="curtain">
+        <span class="close-btn">✖</span>
+        <div class="seasons-grid">
+          <a href="chapo?t=1" class="season">T1</a>
+          <a href="chapo?t=2" class="season">T2</a>
+          <a href="chapo?t=3" class="season season--wide">T3</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- Sin Senos No Hay Paraíso -->
+    <div class="card">
+      <div class="image-container">
+        <img src="" alt="Profile Image" loading="lazy" class="lazy-img" onload="this.classList.add('loaded')">
+      </div>
+      <div class="content">
+        <div class="title">Sin Senos No Hay Paraíso</div>
+        <div class="description">23 capítulos HD, Español Latino.</div>
+        <div class="button-container">
+          <button class="button open-season-btn" style="width:auto;padding:8px 12px">Temporadas</button>
+        </div>
+      </div>
+      <div class="curtain">
+        <span class="close-btn">✖</span>
+        <div class="seasons-grid">
+          <a href="sinsenosno?t=1" class="season season--wide">T1</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- En la Boca del Lobo -->
+    <div class="card">
+      <div class="image-container">
+        <img src="" alt="Profile Image" loading="lazy" class="lazy-img" onload="this.classList.add('loaded')">
+      </div>
+      <div class="content">
+        <div class="title">En la Boca del Lobo</div>
+        <div class="description">80 capítulos HD, Español Latino.</div>
+        <div class="button-container">
+          <button class="button open-season-btn" style="width:auto;padding:8px 12px">Temporadas</button>
+        </div>
+      </div>
+      <div class="curtain">
+        <span class="close-btn">✖</span>
+        <div class="seasons-grid">
+          <a href="boca?t=1" class="season season--wide">T1</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- Camelia la Texana -->
+    <div class="card">
+      <div class="image-container">
+        <img src="" alt="Profile Image" loading="lazy" class="lazy-img" onload="this.classList.add('loaded')">
+      </div>
+      <div class="content">
+        <div class="title">Camelia la Texana</div>
+        <div class="description">60 capítulos HD, Español Latino.</div>
+        <div class="button-container">
+          <button class="button open-season-btn" style="width:auto;padding:8px 12px">Temporadas</button>
+        </div>
+      </div>
+      <div class="curtain">
+        <span class="close-btn">✖</span>
+        <div class="seasons-grid">
+          <a href="camelia?t=1" class="season season--wide">T1</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- Alias J.J. -->
+    <div class="card">
+      <div class="image-container">
+        <img src="" alt="Profile Image" loading="lazy" class="lazy-img" onload="this.classList.add('loaded')">
+      </div>
+      <div class="content">
+        <div class="title">Alias J.J.</div>
+        <div class="description">69 capítulos HD, Español Latino.</div>
+        <div class="button-container">
+          <button class="button open-season-btn" style="width:auto;padding:8px 12px">Temporadas</button>
+        </div>
+      </div>
+      <div class="curtain">
+        <span class="close-btn">✖</span>
+        <div class="seasons-grid">
+          <a href="aliasjj?t=1" class="season season--wide">T1</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- Alias El Mexicano -->
+    <div class="card">
+      <div class="image-container">
+        <img src="" alt="Profile Image" loading="lazy" class="lazy-img" onload="this.classList.add('loaded')">
+      </div>
+      <div class="content">
+        <div class="title">Alias El Mexicano</div>
+        <div class="description">80 capítulos HD, Español Latino.</div>
+        <div class="button-container">
+          <button class="button open-season-btn" style="width:auto;padding:8px 12px">Temporadas</button>
+        </div>
+      </div>
+      <div class="curtain">
+        <span class="close-btn">✖</span>
+        <div class="seasons-grid">
+          <a href="aliasmex?t=1" class="season season--wide">T1</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- La Bandida -->
+    <div class="card">
+      <div class="image-container">
+        <img src="" alt="Profile Image" loading="lazy" class="lazy-img" onload="this.classList.add('loaded')">
+      </div>
+      <div class="content">
+        <div class="title">La Bandida</div>
+        <div class="description">62 capítulos HD, Español Latino.</div>
+        <div class="button-container">
+          <button class="button open-season-btn" style="width:auto;padding:8px 12px">Temporadas</button>
+        </div>
+      </div>
+      <div class="curtain">
+        <span class="close-btn">✖</span>
+        <div class="seasons-grid">
+          <a href="bandida?t=1" class="season season--wide">T1</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- Perseguidos -->
+    <div class="card">
+      <div class="image-container">
+        <img src="" alt="Profile Image" loading="lazy" class="lazy-img" onload="this.classList.add('loaded')">
+      </div>
+      <div class="content">
+        <div class="title">Perseguidos</div>
+        <div class="description">60 capítulos HD, Español Latino.</div>
+        <div class="button-container">
+          <button class="button open-season-btn" style="width:auto;padding:8px 12px">Temporadas</button>
+        </div>
+      </div>
+      <div class="curtain">
+        <span class="close-btn">✖</span>
+        <div class="seasons-grid">
+          <a href="perseguidos?t=1" class="season season--wide">T1</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- El Cartel de los Sapos: El Origen -->
+    <div class="card">
+      <div class="image-container">
+        <img src="" alt="Profile Image" loading="lazy" class="lazy-img" onload="this.classList.add('loaded')">
+      </div>
+      <div class="content">
+        <div class="title">El Cartel de los Sapos: El Origen</div>
+        <div class="description">60 capítulos HD, Español Latino.</div>
+        <div class="button-container">
+          <button class="button open-season-btn" style="width:auto;padding:8px 12px">Temporadas</button>
+        </div>
+      </div>
+      <div class="curtain">
+        <span class="close-btn">✖</span>
+        <div class="seasons-grid">
+          <a href="cartelorigen?t=1" class="season season--wide">T1</a>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+
+
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      // Asegurar que las imágenes se muestren aunque estén en caché
+      document.querySelectorAll('.lazy-img').forEach(function (img) {
+        if (img.complete) {
+          img.classList.add('loaded');
+        } else {
+          img.addEventListener('load', function () {
+            img.classList.add('loaded');
+          });
+        }
+      });
+
+      // Habilitar arrastre para hacer scroll horizontal en los contenedores de botones
+      document.querySelectorAll('.card .button-container').forEach(function (scroller) {
+        let isDragging = false;
+        let startX = 0;
+        let startScrollLeft = 0;
+        const dragThreshold = 5;
+
+        scroller.addEventListener('pointerdown', function (e) {
+          // No iniciar arrastre si el click fue sobre el botón "Temporadas"
+          if ((e.target && e.target.closest && e.target.closest('.open-season-btn'))) {
+            isDragging = false;
+            return;
+          }
+          isDragging = false; // aún no arrastramos hasta superar umbral
+          startX = e.clientX;
+          startScrollLeft = scroller.scrollLeft;
+          if (e.pointerId !== undefined) {
+            scroller.setPointerCapture(e.pointerId);
+          }
+        });
+
+        scroller.addEventListener('pointermove', function (e) {
+          const deltaX = e.clientX - startX;
+          if (!isDragging && Math.abs(deltaX) > dragThreshold) {
+            isDragging = true;
+          }
+          if (!isDragging) return;
+          scroller.scrollLeft = startScrollLeft - deltaX;
+        });
+
+        function endDrag() { isDragging = false; }
+        scroller.addEventListener('pointerup', endDrag);
+        scroller.addEventListener('pointercancel', endDrag);
+        scroller.addEventListener('pointerleave', endDrag);
+
+        // Convertir scroll vertical del mouse en desplazamiento horizontal
+        scroller.addEventListener('wheel', function (e) {
+          if (Math.abs(e.deltaY) > Math.abs(e.deltaX)) {
+            scroller.scrollLeft += e.deltaY;
+            e.preventDefault();
+          }
+        }, { passive: false });
+
+        // Evitar que el gesto de arrastre capture el click normal
+        scroller.addEventListener('click', function (e) {
+          if (isDragging) {
+            e.preventDefault();
+            e.stopPropagation();
+          }
+        }, true);
+      });
+
+      // Abrir/cerrar cortina de temporadas por tarjeta
+      document.querySelectorAll('.card').forEach(function (card) {
+        var openBtn = card.querySelector('.open-season-btn');
+        var closeBtn = card.querySelector('.close-btn');
+        if (openBtn) {
+          openBtn.addEventListener('click', function (e) {
+            e.preventDefault();
+            e.stopPropagation();
+            card.classList.add('open');
+          });
+        }
+        // Solo cerrar con el botón X (se eliminó el cierre automático al tocar fuera)
+        if (closeBtn) {
+          closeBtn.addEventListener('click', function (e) {
+            e.preventDefault();
+            e.stopPropagation();
+            card.classList.remove('open');
+          });
+        }
+      });
+    });
+  </script>
+
+
+
+
+
+  </div>
+  </div>
+
+
+
+
+
+</body>
+
+</html>
