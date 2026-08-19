@@ -7,14 +7,40 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/rosa5.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/rosario_tijeras_5_mexico_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/rosario_tijeras_5_mexico_s1.json",
+        "episodesCount": 60
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Temporada 2",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/rosario_tijeras_5_mexico_s2.json",
+        "episodesCount": 67
+      },
+      {
+        "seasonNumber": 3,
+        "name": "Temporada 3",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/rosario_tijeras_5_mexico_s3.json",
+        "episodesCount": 70
+      },
+      {
+        "seasonNumber": 4,
+        "name": "Temporada 4",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/rosario_tijeras_5_mexico_s4.json",
+        "episodesCount": 40
+      },
+      {
+        "seasonNumber": 5,
+        "name": "Temporada 5",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/rosario_tijeras_5_mexico_s5.json",
+        "episodesCount": 39
       }
-    ]
+    ],
+    "episodesCount": 276
   },
   {
     "id": "el_senor_de_los_cielos_t10",
@@ -59,7 +85,7 @@
     "title": "Guardián de mi vida",
     "category": "Recién agregadas",
     "ribbon": "GRAN ESTRENO",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/guardiimg2.webp",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/guardiIMG2.webp",
     "isPremium": false,
     "hasAd": false,
     "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/guardian_de_mi_vida_s1.json",
@@ -78,7 +104,7 @@
     "title": "El renacer de Luna",
     "category": "Recién agregadas",
     "ribbon": "GRAN ESTRENO",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/renacerimg.webp",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/renacerIMG.webp",
     "isPremium": false,
     "hasAd": false,
     "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_renacer_de_luna_s1.json",
@@ -100,21 +126,29 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/lejosdeti2.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/lejos_de_ti_t2_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/lejos_de_ti_t2_s1.json",
+        "episodesCount": 75
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Temporada 2",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/lejos_de_ti_t2_s2.json",
+        "episodesCount": 22
       }
-    ]
+    ],
+    "episodesCount": 97
   },
   {
     "id": "tan_cerca_de_ti_nace_el_amor",
     "title": "Tan cerca de ti, nace el amor",
     "category": "Recién agregadas",
     "ribbon": "GRAN ESTRENO",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/cercatin.webp",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/cercatiN.webp",
     "isPremium": false,
     "hasAd": false,
     "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/tan_cerca_de_ti_nace_el_amor_s1.json",
@@ -133,7 +167,7 @@
     "title": "Corazón de oro",
     "category": "Finalizadas",
     "ribbon": "FINALIZADO",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/corazon2img.webp",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/corazon2IMG.webp",
     "isPremium": false,
     "hasAd": false,
     "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/corazon_de_oro_s1.json",
@@ -152,7 +186,7 @@
     "title": "Lobo, Morir matando",
     "category": "Finalizadas",
     "ribbon": "FINALIZADO",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/logoimg.webp",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/logoIMG.webp",
     "isPremium": false,
     "hasAd": false,
     "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/lobo_morir_matando_s1.json",
@@ -171,7 +205,7 @@
     "title": "La Reina del Flow 3",
     "category": "Narco Novelas",
     "ribbon": "FINALIZADO",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/retinat33port.webp",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/retinaT33port.webp",
     "isPremium": false,
     "hasAd": false,
     "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_reina_del_flow_3_s1.json",
@@ -190,7 +224,7 @@
     "title": "Los Encantos del Sinvergüenza",
     "category": "Recién agregadas",
     "ribbon": "GRAN ESTRENO",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/encantimg.webp",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/encantImg.webp",
     "isPremium": false,
     "hasAd": false,
     "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/los_encantos_del_sinverguenza_s1.json",
@@ -247,7 +281,7 @@
     "title": "Hermanas, un amor compartido",
     "category": "Finalizadas",
     "ribbon": "FINALIZADO",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/hermanast111.webp",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/hermanasT111.webp",
     "isPremium": false,
     "hasAd": false,
     "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/hermanas_un_amor_compartido_s1.json",
@@ -266,7 +300,7 @@
     "title": "Las de siempre",
     "category": "Finalizadas",
     "ribbon": "FINALIZADO",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/lasdeismpimg.webp",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/lasdeismpIMG.webp",
     "isPremium": false,
     "hasAd": false,
     "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/las_de_siempre_s1.json",
@@ -285,7 +319,7 @@
     "title": "Mi verdad oculta",
     "category": "Finalizadas",
     "ribbon": "FINALIZADO",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/verdadimg.webp",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/verdadIMG.webp",
     "isPremium": false,
     "hasAd": false,
     "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/mi_verdad_oculta_s1.json",
@@ -323,7 +357,7 @@
     "title": "Dinastía Casillas",
     "category": "Finalizadas",
     "ribbon": "FINALIZADO",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/dinastiaimg.webp",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/dinastiaIMG.webp",
     "isPremium": false,
     "hasAd": false,
     "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/dinastia_casillas_s1.json",
@@ -361,7 +395,7 @@
     "title": "Papás por siempre",
     "category": "Finalizadas",
     "ribbon": "FINALIZADO",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/papasimg.webp",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/papasImg.webp",
     "isPremium": false,
     "hasAd": false,
     "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/papas_por_siempre_s1.json",
@@ -399,7 +433,7 @@
     "title": "La influencer",
     "category": "Finalizadas",
     "ribbon": "FINALIZADO",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/lainfluimg.webp",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/lainfluImg.webp",
     "isPremium": false,
     "hasAd": false,
     "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_influencer_s1.json",
@@ -409,15 +443,9 @@
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_influencer_s1.json",
         "episodesCount": 60
-      },
-      {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_influencer_s2.json",
-        "episodesCount": 60
       }
     ],
-    "episodesCount": 120
+    "episodesCount": 60
   },
   {
     "id": "los_hilos_del_pasado",
@@ -465,14 +493,34 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/betty.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/betty_la_fea_fans_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": ""
+        "name": "Betty la fea 1999",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/betty_la_fea_fans_s1.json",
+        "episodesCount": 169
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Ecomoda",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/betty_la_fea_fans_s2.json",
+        "episodesCount": 13
+      },
+      {
+        "seasonNumber": 3,
+        "name": "Betty la fea 2024",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/betty_la_fea_fans_s3.json",
+        "episodesCount": 10
+      },
+      {
+        "seasonNumber": 4,
+        "name": "Betty la fea 2025",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/betty_la_fea_fans_s4.json",
+        "episodesCount": 10
       }
-    ]
+    ],
+    "episodesCount": 202
   },
   {
     "id": "la_hija_del_mariachi_2025",
@@ -498,34 +546,56 @@
     "title": "Con esa misma mirada",
     "category": "Finalizadas",
     "ribbon": "FINALIZADO",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/mismamirimg.webp",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/mismamirImg.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/con_esa_misma_mirada_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/con_esa_misma_mirada_s1.json",
+        "episodesCount": 8
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Temporada 2",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/con_esa_misma_mirada_s2.json",
+        "episodesCount": 8
+      },
+      {
+        "seasonNumber": 3,
+        "name": "Temporada 3",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/con_esa_misma_mirada_s3.json",
+        "episodesCount": 8
       }
-    ]
+    ],
+    "episodesCount": 24
   },
   {
     "id": "pasion_de_gavilanes_t1_t2",
     "title": "Pasión de gavilanes T1-T2",
     "category": "Recién agregadas",
     "ribbon": "NINGUNA",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/pasionimg.webp",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/pasionImg.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/pasion_de_gavilanes_t1_t2_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/pasion_de_gavilanes_t1_t2_s1.json",
+        "episodesCount": 188
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Temporada 2",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/pasion_de_gavilanes_t1_t2_s2.json",
+        "episodesCount": 71
       }
-    ]
+    ],
+    "episodesCount": 259
   },
   {
     "id": "nuevos_amores_de_mercado",
@@ -542,22 +612,16 @@
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/nuevos_amores_de_mercado_s1.json",
         "episodesCount": 144
-      },
-      {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/nuevos_amores_de_mercado_s2.json",
-        "episodesCount": 108
       }
     ],
-    "episodesCount": 252
+    "episodesCount": 144
   },
   {
     "id": "bahar_esencia_de_mujer",
     "title": "Bahar: Esencia de Mujer",
     "category": "Finalizadas",
     "ribbon": "FINALIZADO",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/baharimg.webp",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/baharImg.webp",
     "isPremium": false,
     "hasAd": false,
     "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/bahar_esencia_de_mujer_s1.json",
@@ -576,7 +640,7 @@
     "title": "Amanecer",
     "category": "Finalizadas",
     "ribbon": "FINALIZADO",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/amaneimg.webp",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/amaneImg.webp",
     "isPremium": false,
     "hasAd": false,
     "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/amanecer_s1.json",
@@ -614,7 +678,7 @@
     "title": "Velvet: El nuevo imperio",
     "category": "Finalizadas",
     "ribbon": "FINALIZADO",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/velvetimg.webp",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/velvetImg.webp",
     "isPremium": false,
     "hasAd": false,
     "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/velvet_el_nuevo_imperio_s1.json",
@@ -643,15 +707,9 @@
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/cautiva_por_amor_s1.json",
         "episodesCount": 66
-      },
-      {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/cautiva_por_amor_s2.json",
-        "episodesCount": 9
       }
     ],
-    "episodesCount": 75
+    "episodesCount": 66
   },
   {
     "id": "sed_de_venganza",
@@ -687,15 +745,9 @@
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_jefa_s1.json",
         "episodesCount": 94
-      },
-      {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_jefa_s2.json",
-        "episodesCount": 63
       }
     ],
-    "episodesCount": 157
+    "episodesCount": 94
   },
   {
     "id": "juegos_de_amor_y_poder",
@@ -712,15 +764,9 @@
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/juegos_de_amor_y_poder_s1.json",
         "episodesCount": 70
-      },
-      {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/juegos_de_amor_y_poder_s2.json",
-        "episodesCount": 46
       }
     ],
-    "episodesCount": 116
+    "episodesCount": 70
   },
   {
     "id": "salvajes",
@@ -730,14 +776,22 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/salvajes2.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/salvajes_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/salvajes_s1.json",
+        "episodesCount": 10
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Temporada 2",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/salvajes_s2.json",
+        "episodesCount": 8
       }
-    ]
+    ],
+    "episodesCount": 18
   },
   {
     "id": "las_hijas_de_la_senora_garcia",
@@ -754,15 +808,9 @@
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/las_hijas_de_la_senora_garcia_s1.json",
         "episodesCount": 82
-      },
-      {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/las_hijas_de_la_senora_garcia_s2.json",
-        "episodesCount": 82
       }
     ],
-    "episodesCount": 164
+    "episodesCount": 82
   },
   {
     "id": "a_mar",
@@ -779,15 +827,9 @@
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/a_mar_s1.json",
         "episodesCount": 74
-      },
-      {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/a_mar_s2.json",
-        "episodesCount": 74
       }
     ],
-    "episodesCount": 148
+    "episodesCount": 74
   },
   {
     "id": "me_atrevo_a_amarte",
@@ -804,15 +846,9 @@
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/me_atrevo_a_amarte_s1.json",
         "episodesCount": 87
-      },
-      {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/me_atrevo_a_amarte_s2.json",
-        "episodesCount": 64
       }
     ],
-    "episodesCount": 151
+    "episodesCount": 87
   },
   {
     "id": "100_anos_de_soledad",
@@ -860,14 +896,16 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/sinsenos.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/sin_senos_si_hay_paraiso_t1_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/sin_senos_si_hay_paraiso_t1_s1.json",
+        "episodesCount": 90
       }
-    ]
+    ],
+    "episodesCount": 90
   },
   {
     "id": "el_desconocido",
@@ -903,15 +941,9 @@
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/nuevo_rico_nuevo_pobre_s1.json",
         "episodesCount": 62
-      },
-      {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/nuevo_rico_nuevo_pobre_s2.json",
-        "episodesCount": 62
       }
     ],
-    "episodesCount": 124
+    "episodesCount": 62
   },
   {
     "id": "papas_por_conveniencia",
@@ -959,14 +991,16 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/aliasjj.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/alias_j_j_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/alias_j_j_s1.json",
+        "episodesCount": 68
       }
-    ]
+    ],
+    "episodesCount": 68
   },
   {
     "id": "pedro_el_escamoso",
@@ -976,16 +1010,22 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/pedro.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/pedro_el_escamoso_s2.json",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/pedro_el_escamoso_s1.json",
     "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/pedro_el_escamoso_s1.json",
+        "episodesCount": 206
+      },
       {
         "seasonNumber": 2,
         "name": "Temporada 2",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/pedro_el_escamoso_s2.json",
-        "episodesCount": 206
+        "episodesCount": 23
       }
     ],
-    "episodesCount": 206
+    "episodesCount": 229
   },
   {
     "id": "papa_soltero",
@@ -1033,14 +1073,28 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/mujeres2.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/mujeres_asesinas_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/mujeres_asesinas_s1.json",
+        "episodesCount": 8
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Temporada 2",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/mujeres_asesinas_s2.json",
+        "episodesCount": 8
+      },
+      {
+        "seasonNumber": 3,
+        "name": "Temporada 3",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/mujeres_asesinas_s3.json",
+        "episodesCount": 8
       }
-    ]
+    ],
+    "episodesCount": 24
   },
   {
     "id": "la_venganza_de_analia_2",
@@ -1050,14 +1104,22 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/analia22.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_venganza_de_analia_2_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_venganza_de_analia_2_s1.json",
+        "episodesCount": 53
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Temporada 2",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_venganza_de_analia_2_s2.json",
+        "episodesCount": 67
       }
-    ]
+    ],
+    "episodesCount": 120
   },
   {
     "id": "el_cartel_de_los_sapos_t1_t2",
@@ -1067,14 +1129,22 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/cartel.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_cartel_de_los_sapos_t1_t2_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_cartel_de_los_sapos_t1_t2_s1.json",
+        "episodesCount": 57
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Temporada 2",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_cartel_de_los_sapos_t1_t2_s2.json",
+        "episodesCount": 50
       }
-    ]
+    ],
+    "episodesCount": 107
   },
   {
     "id": "las_munecas_de_la_mafia_t1_t2",
@@ -1084,14 +1154,22 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/munecas.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/las_munecas_de_la_mafia_t1_t2_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/las_munecas_de_la_mafia_t1_t2_s1.json",
+        "episodesCount": 58
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Temporada 2",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/las_munecas_de_la_mafia_t1_t2_s2.json",
+        "episodesCount": 60
       }
-    ]
+    ],
+    "episodesCount": 118
   },
   {
     "id": "pablo_escobar_el_patron_del_mal",
@@ -1101,21 +1179,23 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/pablo.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/pablo_escobar_el_patron_del_mal_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/pablo_escobar_el_patron_del_mal_s1.json",
+        "episodesCount": 73
       }
-    ]
+    ],
+    "episodesCount": 73
   },
   {
     "id": "desafio_del_siglo_xxi",
     "title": "Desafío del Siglo XXI",
     "category": "Recién agregadas",
     "ribbon": "GRAN ESTRENO",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/defport2.webp",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/defPort2.webp",
     "isPremium": false,
     "hasAd": false,
     "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/desafio_del_siglo_xxi_s1.json",
@@ -1163,21 +1243,9 @@
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_jardin_de_olivia_s1.json",
         "episodesCount": 100
-      },
-      {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_jardin_de_olivia_s2.json",
-        "episodesCount": 100
-      },
-      {
-        "seasonNumber": 3,
-        "name": "Temporada 3",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_jardin_de_olivia_s3.json",
-        "episodesCount": 49
       }
     ],
-    "episodesCount": 249
+    "episodesCount": 100
   },
   {
     "id": "los_casablanca",
@@ -1194,15 +1262,9 @@
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/los_casablanca_s1.json",
         "episodesCount": 153
-      },
-      {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/los_casablanca_s2.json",
-        "episodesCount": 95
       }
     ],
-    "episodesCount": 248
+    "episodesCount": 153
   },
   {
     "id": "rosario_tijeras_4_mexico",
@@ -1212,14 +1274,40 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/rosariotij.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/rosario_tijeras_4_mexico_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/rosario_tijeras_4_mexico_s1.json",
+        "episodesCount": 60
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Temporada 2",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/rosario_tijeras_4_mexico_s2.json",
+        "episodesCount": 67
+      },
+      {
+        "seasonNumber": 3,
+        "name": "Temporada 3",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/rosario_tijeras_4_mexico_s3.json",
+        "episodesCount": 70
+      },
+      {
+        "seasonNumber": 4,
+        "name": "Temporada 4",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/rosario_tijeras_4_mexico_s4.json",
+        "episodesCount": 40
+      },
+      {
+        "seasonNumber": 5,
+        "name": "Temporada 5",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/rosario_tijeras_4_mexico_s5.json",
+        "episodesCount": 39
       }
-    ]
+    ],
+    "episodesCount": 276
   },
   {
     "id": "tierra_indomable",
@@ -1255,15 +1343,9 @@
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/las_vegas_s1.json",
         "episodesCount": 90
-      },
-      {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/las_vegas_s2.json",
-        "episodesCount": 90
       }
     ],
-    "episodesCount": 180
+    "episodesCount": 90
   },
   {
     "id": "lo_que_la_vida_me_robo",
@@ -1273,12 +1355,12 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/vidamerobo.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/lo_que_la_vida_me_robo_s2.json",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/lo_que_la_vida_me_robo_s1.json",
     "seasons": [
       {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/lo_que_la_vida_me_robo_s2.json",
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/lo_que_la_vida_me_robo_s1.json",
         "episodesCount": 197
       }
     ],
@@ -1292,12 +1374,12 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/devuelvemelavida.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/devuelveme_la_vida_s2.json",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/devuelveme_la_vida_s1.json",
     "seasons": [
       {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/devuelveme_la_vida_s2.json",
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/devuelveme_la_vida_s1.json",
         "episodesCount": 60
       }
     ],
@@ -1318,15 +1400,9 @@
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/vivir_a_destiempo_s1.json",
         "episodesCount": 150
-      },
-      {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/vivir_a_destiempo_s2.json",
-        "episodesCount": 150
       }
     ],
-    "episodesCount": 300
+    "episodesCount": 150
   },
   {
     "id": "escupire_sobre_sus_tumbas",
@@ -1355,14 +1431,16 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/elbronx.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_bronx_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_bronx_s1.json",
+        "episodesCount": 82
       }
-    ]
+    ],
+    "episodesCount": 82
   },
   {
     "id": "vecinos",
@@ -1372,14 +1450,16 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/vecinos.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/vecinos_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/vecinos_s1.json",
+        "episodesCount": 209
       }
-    ]
+    ],
+    "episodesCount": 209
   },
   {
     "id": "quien_mato_a_patricia_soler",
@@ -1396,7 +1476,8 @@
         "name": "Temporada 1",
         "jsonUrl": ""
       }
-    ]
+    ],
+    "episodesCount": 0
   },
   {
     "id": "rafael_orozco_el_idolo",
@@ -1413,7 +1494,8 @@
         "name": "Temporada 1",
         "jsonUrl": ""
       }
-    ]
+    ],
+    "episodesCount": 0
   },
   {
     "id": "tiro_de_gracia",
@@ -1430,7 +1512,8 @@
         "name": "Temporada 1",
         "jsonUrl": ""
       }
-    ]
+    ],
+    "episodesCount": 0
   },
   {
     "id": "un_bandido_honrado",
@@ -1440,16 +1523,15 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/bandido.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/un_bandido_honrado_s2.json",
+    "targetUrl": "",
     "seasons": [
       {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/un_bandido_honrado_s2.json",
-        "episodesCount": 63
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": ""
       }
     ],
-    "episodesCount": 63
+    "episodesCount": 0
   },
   {
     "id": "arelys_henao",
@@ -1459,14 +1541,16 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/arelys.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/arelys_henao_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/arelys_henao_s1.json",
+        "episodesCount": 64
       }
-    ]
+    ],
+    "episodesCount": 64
   },
   {
     "id": "romina_poderosa",
@@ -1476,16 +1560,15 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/romina.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/romina_poderosa_s2.json",
+    "targetUrl": "",
     "seasons": [
       {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/romina_poderosa_s2.json",
-        "episodesCount": 66
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": ""
       }
     ],
-    "episodesCount": 66
+    "episodesCount": 0
   },
   {
     "id": "la_que_no_podia_amar",
@@ -1514,14 +1597,22 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/la_querida_del_centauro.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_querida_del_centauro_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_querida_del_centauro_s1.json",
+        "episodesCount": 51
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Temporada 2",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_querida_del_centauro_s2.json",
+        "episodesCount": 90
       }
-    ]
+    ],
+    "episodesCount": 141
   },
   {
     "id": "la_quiero_a_morir",
@@ -1569,14 +1660,28 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/la_reina_del_sur.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_reina_del_sur_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_reina_del_sur_s1.json",
+        "episodesCount": 63
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Temporada 2",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_reina_del_sur_s2.json",
+        "episodesCount": 60
+      },
+      {
+        "seasonNumber": 3,
+        "name": "Temporada 3",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_reina_del_sur_s3.json",
+        "episodesCount": 60
       }
-    ]
+    ],
+    "episodesCount": 183
   },
   {
     "id": "la_revancha",
@@ -1643,14 +1748,22 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/la_seleccion.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_seleccion_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_seleccion_s1.json",
+        "episodesCount": 76
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Temporada 2",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_seleccion_s2.json",
+        "episodesCount": 64
       }
-    ]
+    ],
+    "episodesCount": 140
   },
   {
     "id": "la_serie_de_celia_cruz",
@@ -1743,15 +1856,9 @@
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_suegra_s1.json",
         "episodesCount": 124
-      },
-      {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_suegra_s2.json",
-        "episodesCount": 124
       }
     ],
-    "episodesCount": 248
+    "episodesCount": 124
   },
   {
     "id": "la_suerte_de_loli",
@@ -2255,14 +2362,22 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/las_munecas_de_la_mafia.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/las_munecas_de_la_mafia_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/las_munecas_de_la_mafia_s1.json",
+        "episodesCount": 58
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Temporada 2",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/las_munecas_de_la_mafia_s2.json",
+        "episodesCount": 60
       }
-    ]
+    ],
+    "episodesCount": 118
   },
   {
     "id": "las_noches_de_luciana",
@@ -2345,7 +2460,7 @@
     "title": "Las villamizar",
     "category": "Recién agregadas",
     "ribbon": "NINGUNA",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/logooo.webp",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/Logooo.webp",
     "isPremium": false,
     "hasAd": false,
     "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/las_villamizar_s1.json",
@@ -2412,15 +2527,9 @@
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/lejana_como_el_viento_s1.json",
         "episodesCount": 109
-      },
-      {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/lejana_como_el_viento_s2.json",
-        "episodesCount": 109
       }
     ],
-    "episodesCount": 218
+    "episodesCount": 109
   },
   {
     "id": "like",
@@ -2684,15 +2793,9 @@
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/los_reyes_s1.json",
         "episodesCount": 197
-      },
-      {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/los_reyes_s2.json",
-        "episodesCount": 197
       }
     ],
-    "episodesCount": 394
+    "episodesCount": 197
   },
   {
     "id": "los_caballeros_las_prefieren_brutas",
@@ -2702,14 +2805,22 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/los_caballeros_las_prefieren_brutas.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/los_caballeros_las_prefieren_brutas_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/los_caballeros_las_prefieren_brutas_s1.json",
+        "episodesCount": 22
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Temporada 2",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/los_caballeros_las_prefieren_brutas_s2.json",
+        "episodesCount": 40
       }
-    ]
+    ],
+    "episodesCount": 62
   },
   {
     "id": "los_elegidos",
@@ -2764,15 +2875,9 @@
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/los_graduados_s1.json",
         "episodesCount": 256
-      },
-      {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/los_graduados_s2.json",
-        "episodesCount": 256
       }
     ],
-    "episodesCount": 512
+    "episodesCount": 256
   },
   {
     "id": "los_hombres_tambien_lloran",
@@ -2827,7 +2932,8 @@
         "name": "Temporada 1",
         "jsonUrl": ""
       }
-    ]
+    ],
+    "episodesCount": 0
   },
   {
     "id": "fugitivos",
@@ -2844,7 +2950,8 @@
         "name": "Temporada 1",
         "jsonUrl": ""
       }
-    ]
+    ],
+    "episodesCount": 0
   },
   {
     "id": "victoria",
@@ -2854,16 +2961,15 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/victoria.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/victoria_s2.json",
+    "targetUrl": "",
     "seasons": [
       {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/victoria_s2.json",
-        "episodesCount": 171
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": ""
       }
     ],
-    "episodesCount": 171
+    "episodesCount": 0
   },
   {
     "id": "contra_el_tiempo",
@@ -2880,7 +2986,8 @@
         "name": "Temporada 1",
         "jsonUrl": ""
       }
-    ]
+    ],
+    "episodesCount": 0
   },
   {
     "id": "dejemonos_de_vargas",
@@ -2897,7 +3004,8 @@
         "name": "Temporada 1",
         "jsonUrl": ""
       }
-    ]
+    ],
+    "episodesCount": 0
   },
   {
     "id": "los_protegidos",
@@ -3059,14 +3167,22 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/luz_de_luna.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/luz_de_luna_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/luz_de_luna_s1.json",
+        "episodesCount": 129
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Temporada 2",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/luz_de_luna_s2.json",
+        "episodesCount": 125
       }
-    ]
+    ],
+    "episodesCount": 254
   },
   {
     "id": "machos",
@@ -3387,15 +3503,9 @@
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/mariana_de_la_noche_s1.json",
         "episodesCount": 135
-      },
-      {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/mariana_de_la_noche_s2.json",
-        "episodesCount": 135
       }
     ],
-    "episodesCount": 270
+    "episodesCount": 135
   },
   {
     "id": "marido_en_alquiler",
@@ -3621,15 +3731,9 @@
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/me_llaman_lolita_s1.json",
         "episodesCount": 98
-      },
-      {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/me_llaman_lolita_s2.json",
-        "episodesCount": 98
       }
     ],
-    "episodesCount": 196
+    "episodesCount": 98
   },
   {
     "id": "medicos_linea_de_vida",
@@ -3867,14 +3971,22 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/mi_marido_tiene_mas_familia.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/mi_marido_tiene_mas_familia_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/mi_marido_tiene_mas_familia_s1.json",
+        "episodesCount": 102
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Temporada 2",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/mi_marido_tiene_mas_familia_s2.json",
+        "episodesCount": 155
       }
-    ]
+    ],
+    "episodesCount": 257
   },
   {
     "id": "mi_pequena_soledad",
@@ -3960,14 +4072,22 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/mirada_de_mujer_el_regreso.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/mirada_de_mujer_el_regreso_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/mirada_de_mujer_el_regreso_s1.json",
+        "episodesCount": 120
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Temporada 2",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/mirada_de_mujer_el_regreso_s2.json",
+        "episodesCount": 119
       }
-    ]
+    ],
+    "episodesCount": 239
   },
   {
     "id": "mis_3_hermanas",
@@ -4003,15 +4123,9 @@
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/mis_amigos_de_siempre_s1.json",
         "episodesCount": 150
-      },
-      {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/mis_amigos_de_siempre_s2.json",
-        "episodesCount": 160
       }
     ],
-    "episodesCount": 310
+    "episodesCount": 150
   },
   {
     "id": "mis_tres_marias",
@@ -4256,7 +4370,8 @@
         "name": "Temporada 1",
         "jsonUrl": ""
       }
-    ]
+    ],
+    "episodesCount": 0
   },
   {
     "id": "donde_esta_elisa",
@@ -4273,7 +4388,8 @@
         "name": "Temporada 1",
         "jsonUrl": ""
       }
-    ]
+    ],
+    "episodesCount": 0
   },
   {
     "id": "dulce_amor",
@@ -4290,7 +4406,8 @@
         "name": "Temporada 1",
         "jsonUrl": ""
       }
-    ]
+    ],
+    "episodesCount": 0
   },
   {
     "id": "el_baile_de_la_vida",
@@ -4300,16 +4417,15 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/baile.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_baile_de_la_vida_s2.json",
+    "targetUrl": "",
     "seasons": [
       {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_baile_de_la_vida_s2.json",
-        "episodesCount": 125
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": ""
       }
     ],
-    "episodesCount": 125
+    "episodesCount": 0
   },
   {
     "id": "el_engano",
@@ -4326,7 +4442,8 @@
         "name": "Temporada 1",
         "jsonUrl": ""
       }
-    ]
+    ],
+    "episodesCount": 0
   },
   {
     "id": "el_laberinto",
@@ -4336,16 +4453,15 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/laberinto.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_laberinto_s2.json",
+    "targetUrl": "",
     "seasons": [
       {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_laberinto_s2.json",
-        "episodesCount": 41
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": ""
       }
     ],
-    "episodesCount": 41
+    "episodesCount": 0
   },
   {
     "id": "historias_clasificadas",
@@ -4362,7 +4478,8 @@
         "name": "Temporada 1",
         "jsonUrl": ""
       }
-    ]
+    ],
+    "episodesCount": 0
   },
   {
     "id": "infiltrados",
@@ -4372,16 +4489,15 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/infiltrados.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/infiltrados_s2.json",
+    "targetUrl": "",
     "seasons": [
       {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/infiltrados_s2.json",
-        "episodesCount": 36
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": ""
       }
     ],
-    "episodesCount": 36
+    "episodesCount": 0
   },
   {
     "id": "narcos",
@@ -4398,7 +4514,8 @@
         "name": "Temporada 1",
         "jsonUrl": ""
       }
-    ]
+    ],
+    "episodesCount": 0
   },
   {
     "id": "a_todo_dar",
@@ -4415,15 +4532,9 @@
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/a_todo_dar_s1.json",
         "episodesCount": 125
-      },
-      {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/a_todo_dar_s2.json",
-        "episodesCount": 125
       }
     ],
-    "episodesCount": 250
+    "episodesCount": 125
   },
   {
     "id": "cara_sucia",
@@ -4440,15 +4551,9 @@
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/cara_sucia_s1.json",
         "episodesCount": 173
-      },
-      {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/cara_sucia_s2.json",
-        "episodesCount": 173
       }
     ],
-    "episodesCount": 346
+    "episodesCount": 173
   },
   {
     "id": "el_joe_la_leyenda",
@@ -4693,15 +4798,9 @@
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/nadie_es_eterno_en_el_mundo_s1.json",
         "episodesCount": 149
-      },
-      {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/nadie_es_eterno_en_el_mundo_s2.json",
-        "episodesCount": 149
       }
     ],
-    "episodesCount": 298
+    "episodesCount": 149
   },
   {
     "id": "nano",
@@ -4756,15 +4855,9 @@
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/navidad_sin_fin_s1.json",
         "episodesCount": 16
-      },
-      {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/navidad_sin_fin_s2.json",
-        "episodesCount": 16
       }
     ],
-    "episodesCount": 32
+    "episodesCount": 16
   },
   {
     "id": "ni_contigo_ni_sin_ti",
@@ -4964,14 +5057,22 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/ojitoshechi.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/ojitos_hechiceros_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/ojitos_hechiceros_s1.json",
+        "episodesCount": 104
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Temporada 2",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/ojitos_hechiceros_s2.json",
+        "episodesCount": 86
       }
-    ]
+    ],
+    "episodesCount": 190
   },
   {
     "id": "ojo_por_ojo",
@@ -5007,15 +5108,9 @@
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/olvidarte_jamas_s1.json",
         "episodesCount": 118
-      },
-      {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/olvidarte_jamas_s2.json",
-        "episodesCount": 118
       }
     ],
-    "episodesCount": 236
+    "episodesCount": 118
   },
   {
     "id": "oye_bonita",
@@ -5044,14 +5139,22 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/pa_quererte.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/pa_quererte_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/pa_quererte_s1.json",
+        "episodesCount": 56
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Temporada 2",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/pa_quererte_s2.json",
+        "episodesCount": 83
       }
-    ]
+    ],
+    "episodesCount": 139
   },
   {
     "id": "pablo_y_andrea",
@@ -5087,15 +5190,9 @@
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/padre_coraje_s1.json",
         "episodesCount": 189
-      },
-      {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/padre_coraje_s2.json",
-        "episodesCount": 189
       }
     ],
-    "episodesCount": 378
+    "episodesCount": 189
   },
   {
     "id": "palabra_de_mujer",
@@ -5238,14 +5335,22 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/paraiso_blanco.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/paraiso_blanco_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/paraiso_blanco_s1.json",
+        "episodesCount": 15
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Temporada 2",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/paraiso_blanco_s2.json",
+        "episodesCount": 15
       }
-    ]
+    ],
+    "episodesCount": 30
   },
   {
     "id": "parientes_a_la_fuerza",
@@ -5350,14 +5455,22 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/patito_feo.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/patito_feo_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/patito_feo_s1.json",
+        "episodesCount": 170
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Temporada 2",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/patito_feo_s2.json",
+        "episodesCount": 112
       }
-    ]
+    ],
+    "episodesCount": 282
   },
   {
     "id": "pecadora",
@@ -5671,14 +5784,22 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/por_amar_sin_ley.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/por_amar_sin_ley_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/por_amar_sin_ley_s1.json",
+        "episodesCount": 87
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Temporada 2",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/por_amar_sin_ley_s2.json",
+        "episodesCount": 90
       }
-    ]
+    ],
+    "episodesCount": 177
   },
   {
     "id": "por_amarte_asi",
@@ -5733,15 +5854,9 @@
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_mala_hierba_s1.json",
         "episodesCount": 61
-      },
-      {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_mala_hierba_s2.json",
-        "episodesCount": 61
       }
     ],
-    "episodesCount": 122
+    "episodesCount": 61
   },
   {
     "id": "laberinto_de_pasion",
@@ -5815,15 +5930,9 @@
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/sobreviviendo_a_mi_familia_s1.json",
         "episodesCount": 80
-      },
-      {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/sobreviviendo_a_mi_familia_s2.json",
-        "episodesCount": 80
       }
     ],
-    "episodesCount": 160
+    "episodesCount": 80
   },
   {
     "id": "alejo_la_busqueda_del_amor",
@@ -5840,15 +5949,9 @@
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/alejo_la_busqueda_del_amor_s1.json",
         "episodesCount": 102
-      },
-      {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/alejo_la_busqueda_del_amor_s2.json",
-        "episodesCount": 102
       }
     ],
-    "episodesCount": 204
+    "episodesCount": 102
   },
   {
     "id": "floricienta",
@@ -5865,7 +5968,8 @@
         "name": "Temporada 1",
         "jsonUrl": ""
       }
-    ]
+    ],
+    "episodesCount": 0
   },
   {
     "id": "isatkm",
@@ -5882,7 +5986,8 @@
         "name": "Temporada 1",
         "jsonUrl": ""
       }
-    ]
+    ],
+    "episodesCount": 0
   },
   {
     "id": "la_fiera",
@@ -5899,15 +6004,9 @@
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_fiera_s1.json",
         "episodesCount": 88
-      },
-      {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_fiera_s2.json",
-        "episodesCount": 88
       }
     ],
-    "episodesCount": 176
+    "episodesCount": 88
   },
   {
     "id": "por_amor_a_gloria",
@@ -6430,14 +6529,22 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/quien_mato_a_sara.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/quien_mato_a_sara_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/quien_mato_a_sara_s1.json",
+        "episodesCount": 10
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Temporada 2",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/quien_mato_a_sara_s2.json",
+        "episodesCount": 8
       }
-    ]
+    ],
+    "episodesCount": 18
   },
   {
     "id": "quiero_amarte",
@@ -6580,14 +6687,22 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/rebelde.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/rebelde_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/rebelde_s1.json",
+        "episodesCount": 120
+      },
+      {
+        "seasonNumber": 3,
+        "name": "Temporada 3",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/rebelde_s3.json",
+        "episodesCount": 104
       }
-    ]
+    ],
+    "episodesCount": 224
   },
   {
     "id": "rebelde_way",
@@ -6597,14 +6712,22 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/rebelde_way.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/rebelde_way_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/rebelde_way_s1.json",
+        "episodesCount": 139
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Temporada 2",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/rebelde_way_s2.json",
+        "episodesCount": 179
       }
-    ]
+    ],
+    "episodesCount": 318
   },
   {
     "id": "regreso_a_la_guaca",
@@ -7172,15 +7295,9 @@
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/secretos_del_alma_s1.json",
         "episodesCount": 26
-      },
-      {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/secretos_del_alma_s2.json",
-        "episodesCount": 26
       }
     ],
-    "episodesCount": 52
+    "episodesCount": 26
   },
   {
     "id": "el_elegido",
@@ -7254,15 +7371,9 @@
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/yo_no_creo_en_los_hombres_s1.json",
         "episodesCount": 81
-      },
-      {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/yo_no_creo_en_los_hombres_s2.json",
-        "episodesCount": 122
       }
     ],
-    "episodesCount": 203
+    "episodesCount": 81
   },
   {
     "id": "don_juan_y_su_bella_dama",
@@ -7279,15 +7390,9 @@
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/don_juan_y_su_bella_dama_s1.json",
         "episodesCount": 173
-      },
-      {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/don_juan_y_su_bella_dama_s2.json",
-        "episodesCount": 173
       }
     ],
-    "episodesCount": 346
+    "episodesCount": 173
   },
   {
     "id": "el_amor_las_vuelve_locas",
@@ -7304,15 +7409,9 @@
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_amor_las_vuelve_locas_s1.json",
         "episodesCount": 137
-      },
-      {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_amor_las_vuelve_locas_s2.json",
-        "episodesCount": 137
       }
     ],
-    "episodesCount": 274
+    "episodesCount": 137
   },
   {
     "id": "el_senor_de_los_cielos_sus_comienzos",
@@ -7348,15 +7447,9 @@
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_vuelo_de_la_victoria_s1.json",
         "episodesCount": 90
-      },
-      {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_vuelo_de_la_victoria_s2.json",
-        "episodesCount": 89
       }
     ],
-    "episodesCount": 179
+    "episodesCount": 90
   },
   {
     "id": "la_potra_zaira",
@@ -7727,14 +7820,28 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/sin_tetas_no_hay_paraiso.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/sin_tetas_no_hay_paraiso_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/sin_tetas_no_hay_paraiso_s1.json",
+        "episodesCount": 12
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Temporada 2",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/sin_tetas_no_hay_paraiso_s2.json",
+        "episodesCount": 17
+      },
+      {
+        "seasonNumber": 3,
+        "name": "Temporada 3",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/sin_tetas_no_hay_paraiso_s3.json",
+        "episodesCount": 15
       }
-    ]
+    ],
+    "episodesCount": 44
   },
   {
     "id": "sobregiro_de_amor",
@@ -8625,15 +8732,9 @@
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/valientes_s1.json",
         "episodesCount": 216
-      },
-      {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/valientes_s2.json",
-        "episodesCount": 216
       }
     ],
-    "episodesCount": 432
+    "episodesCount": 216
   },
   {
     "id": "amor_en_silencio",
@@ -8650,15 +8751,9 @@
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/amor_en_silencio_s1.json",
         "episodesCount": 115
-      },
-      {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/amor_en_silencio_s2.json",
-        "episodesCount": 115
       }
     ],
-    "episodesCount": 230
+    "episodesCount": 115
   },
   {
     "id": "valgame_dios",
@@ -8760,7 +8855,7 @@
     "title": "Vencer el desamor",
     "category": "Recién agregadas",
     "ribbon": "NINGUNA",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/vencerdesamor.webp",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/VencerDesamor.webp",
     "isPremium": false,
     "hasAd": false,
     "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/vencer_el_desamor_s1.json",
@@ -9216,7 +9311,7 @@
     "title": "Águila Roja",
     "category": "Recién agregadas",
     "ribbon": "NINGUNA",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/aguilaroja.webp",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/aguilaRoja.webp",
     "isPremium": false,
     "hasAd": false,
     "targetUrl": "",
@@ -9226,14 +9321,15 @@
         "name": "Temporada 1",
         "jsonUrl": ""
       }
-    ]
+    ],
+    "episodesCount": 0
   },
   {
     "id": "angel_de_la_guarda_mi_dulce_compania",
     "title": "Ángel de la Guarda Mi Dulce Compania",
     "category": "Recién agregadas",
     "ribbon": "NINGUNA",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/angeldemiguarda.webp",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/Angeldemiguarda.webp",
     "isPremium": false,
     "hasAd": false,
     "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/angel_de_la_guarda_mi_dulce_compania_s1.json",
@@ -9252,7 +9348,7 @@
     "title": "Ángel rebelde",
     "category": "Recién agregadas",
     "ribbon": "NINGUNA",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/angelrebelde.webp",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/AngelRebelde.webp",
     "isPremium": false,
     "hasAd": false,
     "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/angel_rebelde_s1.json",
@@ -9281,15 +9377,9 @@
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/caballo_viejo_s1.json",
         "episodesCount": 141
-      },
-      {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/caballo_viejo_s2.json",
-        "episodesCount": 141
       }
     ],
-    "episodesCount": 282
+    "episodesCount": 141
   },
   {
     "id": "carita_pintada",
@@ -9306,15 +9396,9 @@
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/carita_pintada_s1.json",
         "episodesCount": 126
-      },
-      {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/carita_pintada_s2.json",
-        "episodesCount": 126
       }
     ],
-    "episodesCount": 252
+    "episodesCount": 126
   },
   {
     "id": "cuento_de_navidad",
@@ -9331,15 +9415,9 @@
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/cuento_de_navidad_s1.json",
         "episodesCount": 15
-      },
-      {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/cuento_de_navidad_s2.json",
-        "episodesCount": 15
       }
     ],
-    "episodesCount": 30
+    "episodesCount": 15
   },
   {
     "id": "el_pasado_no_perdona",
@@ -9356,15 +9434,9 @@
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_pasado_no_perdona_s1.json",
         "episodesCount": 117
-      },
-      {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_pasado_no_perdona_s2.json",
-        "episodesCount": 117
       }
     ],
-    "episodesCount": 234
+    "episodesCount": 117
   },
   {
     "id": "enamorada",
@@ -9431,14 +9503,16 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/lateniente.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_teniente_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_teniente_s1.json",
+        "episodesCount": 24
       }
-    ]
+    ],
+    "episodesCount": 24
   },
   {
     "id": "los_canarios",
@@ -9448,14 +9522,16 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/loscanarios.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/los_canarios_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/los_canarios_s1.json",
+        "episodesCount": 119
       }
-    ]
+    ],
+    "episodesCount": 119
   },
   {
     "id": "el_man_es_german",
@@ -9465,14 +9541,28 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/elman.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_man_es_german_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_man_es_german_s1.json",
+        "episodesCount": 86
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Temporada 2",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_man_es_german_s2.json",
+        "episodesCount": 37
+      },
+      {
+        "seasonNumber": 3,
+        "name": "Temporada 3",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_man_es_german_s3.json",
+        "episodesCount": 25
       }
-    ]
+    ],
+    "episodesCount": 148
   },
   {
     "id": "cuentos_de_los_hermanos_grimm",
@@ -9482,14 +9572,16 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/cuentos.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/cuentos_de_los_hermanos_grimm_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/cuentos_de_los_hermanos_grimm_s1.json",
+        "episodesCount": 40
       }
-    ]
+    ],
+    "episodesCount": 40
   },
   {
     "id": "rigo",
@@ -9499,14 +9591,16 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/rigo.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/rigo_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/rigo_s1.json",
+        "episodesCount": 99
       }
-    ]
+    ],
+    "episodesCount": 99
   },
   {
     "id": "manual_para_ninjas",
@@ -9516,14 +9610,16 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/manual.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/manual_para_ninjas_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/manual_para_ninjas_s1.json",
+        "episodesCount": 60
       }
-    ]
+    ],
+    "episodesCount": 60
   },
   {
     "id": "el_encantador",
@@ -9533,14 +9629,16 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/encantador.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_encantador_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_encantador_s1.json",
+        "episodesCount": 43
       }
-    ]
+    ],
+    "episodesCount": 43
   },
   {
     "id": "el_secretario",
@@ -9550,14 +9648,16 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/secretario.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_secretario_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_secretario_s1.json",
+        "episodesCount": 123
       }
-    ]
+    ],
+    "episodesCount": 123
   },
   {
     "id": "el_estilista",
@@ -9567,14 +9667,16 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/estilista.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_estilista_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_estilista_s1.json",
+        "episodesCount": 84
       }
-    ]
+    ],
+    "episodesCount": 84
   },
   {
     "id": "la_ronca_de_oro",
@@ -9584,12 +9686,12 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/ronca.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_ronca_de_oro_s2.json",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_ronca_de_oro_s1.json",
     "seasons": [
       {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_ronca_de_oro_s2.json",
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_ronca_de_oro_s1.json",
         "episodesCount": 62
       }
     ],
@@ -9603,14 +9705,22 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/laseleccion.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_seleccion_t1_t2_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_seleccion_t1_t2_s1.json",
+        "episodesCount": 76
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Temporada 2",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_seleccion_t1_t2_s2.json",
+        "episodesCount": 70
       }
-    ]
+    ],
+    "episodesCount": 146
   },
   {
     "id": "tres_caines",
@@ -9620,14 +9730,16 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/tres.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/tres_caines_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/tres_caines_s1.json",
+        "episodesCount": 79
       }
-    ]
+    ],
+    "episodesCount": 79
   },
   {
     "id": "correo_inocentes",
@@ -9637,14 +9749,16 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/correo.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/correo_inocentes_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/correo_inocentes_s1.json",
+        "episodesCount": 83
       }
-    ]
+    ],
+    "episodesCount": 83
   },
   {
     "id": "esmeraldas",
@@ -9654,14 +9768,16 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/esmeralda.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/esmeraldas_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/esmeraldas_s1.json",
+        "episodesCount": 62
       }
-    ]
+    ],
+    "episodesCount": 62
   },
   {
     "id": "la_promesa",
@@ -9671,16 +9787,16 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/promesa.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_promesa_s2.json",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_promesa_s1.json",
     "seasons": [
       {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_promesa_s2.json",
-        "episodesCount": 61
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_promesa_s1.json",
+        "episodesCount": 60
       }
     ],
-    "episodesCount": 61
+    "episodesCount": 60
   },
   {
     "id": "polvo_carnavalero",
@@ -9690,14 +9806,16 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/polvo.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/polvo_carnavalero_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/polvo_carnavalero_s1.json",
+        "episodesCount": 90
       }
-    ]
+    ],
+    "episodesCount": 90
   },
   {
     "id": "los_hombres_tambien_lloran",
@@ -9714,7 +9832,8 @@
         "name": "Temporada 1",
         "jsonUrl": ""
       }
-    ]
+    ],
+    "episodesCount": 0
   },
   {
     "id": "la_familia_de_mi_esposo",
@@ -9731,7 +9850,8 @@
         "name": "Temporada 1",
         "jsonUrl": ""
       }
-    ]
+    ],
+    "episodesCount": 0
   },
   {
     "id": "tarde_lo_conoci",
@@ -9748,7 +9868,8 @@
         "name": "Temporada 1",
         "jsonUrl": ""
       }
-    ]
+    ],
+    "episodesCount": 0
   },
   {
     "id": "sinu_rio_de_pasiones",
@@ -9765,7 +9886,8 @@
         "name": "Temporada 1",
         "jsonUrl": ""
       }
-    ]
+    ],
+    "episodesCount": 0
   },
   {
     "id": "cuando_vivas_conmigo",
@@ -9782,7 +9904,8 @@
         "name": "Temporada 1",
         "jsonUrl": ""
       }
-    ]
+    ],
+    "episodesCount": 0
   },
   {
     "id": "eva_luna",
@@ -9799,7 +9922,8 @@
         "name": "Temporada 1",
         "jsonUrl": ""
       }
-    ]
+    ],
+    "episodesCount": 0
   },
   {
     "id": "el_rey_vicente_fernandez",
@@ -9816,7 +9940,8 @@
         "name": "Temporada 1",
         "jsonUrl": ""
       }
-    ]
+    ],
+    "episodesCount": 0
   },
   {
     "id": "alla_te_espero",
@@ -9833,7 +9958,8 @@
         "name": "Temporada 1",
         "jsonUrl": ""
       }
-    ]
+    ],
+    "episodesCount": 0
   },
   {
     "id": "a_mano_limpia",
@@ -9850,7 +9976,8 @@
         "name": "Temporada 1",
         "jsonUrl": ""
       }
-    ]
+    ],
+    "episodesCount": 0
   },
   {
     "id": "amor_en_custodia",
@@ -9867,7 +9994,8 @@
         "name": "Temporada 1",
         "jsonUrl": ""
       }
-    ]
+    ],
+    "episodesCount": 0
   },
   {
     "id": "anonima",
@@ -9884,7 +10012,8 @@
         "name": "Temporada 1",
         "jsonUrl": ""
       }
-    ]
+    ],
+    "episodesCount": 0
   },
   {
     "id": "bazurto",
@@ -9901,7 +10030,8 @@
         "name": "Temporada 1",
         "jsonUrl": ""
       }
-    ]
+    ],
+    "episodesCount": 0
   },
   {
     "id": "bermudez",
@@ -9918,7 +10048,8 @@
         "name": "Temporada 1",
         "jsonUrl": ""
       }
-    ]
+    ],
+    "episodesCount": 0
   },
   {
     "id": "bloque_de_busqueda",
@@ -9935,7 +10066,8 @@
         "name": "Temporada 1",
         "jsonUrl": ""
       }
-    ]
+    ],
+    "episodesCount": 0
   },
   {
     "id": "bolivar",
@@ -9945,16 +10077,15 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/bolivar.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/bolivar_s2.json",
+    "targetUrl": "",
     "seasons": [
       {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/bolivar_s2.json",
-        "episodesCount": 60
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": ""
       }
     ],
-    "episodesCount": 60
+    "episodesCount": 0
   },
   {
     "id": "chepe_fortuna",
@@ -9964,16 +10095,15 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/chepe.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/chepe_fortuna_s2.json",
+    "targetUrl": "",
     "seasons": [
       {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/chepe_fortuna_s2.json",
-        "episodesCount": 151
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": ""
       }
     ],
-    "episodesCount": 151
+    "episodesCount": 0
   },
   {
     "id": "chica_vampiro",
@@ -9983,16 +10113,15 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/chica.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/chica_vampiro_s2.json",
+    "targetUrl": "",
     "seasons": [
       {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/chica_vampiro_s2.json",
-        "episodesCount": 120
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": ""
       }
     ],
-    "episodesCount": 120
+    "episodesCount": 0
   },
   {
     "id": "juegos_prohibidos",
@@ -10002,16 +10131,15 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/juegos.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/juegos_prohibidos_s2.json",
+    "targetUrl": "",
     "seasons": [
       {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/juegos_prohibidos_s2.json",
-        "episodesCount": 107
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": ""
       }
     ],
-    "episodesCount": 107
+    "episodesCount": 0
   },
   {
     "id": "100_dias_para_enamorarnos",
@@ -10021,14 +10149,22 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/100_dias_para_enamorarnos.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/100_dias_para_enamorarnos_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/100_dias_para_enamorarnos_s1.json",
+        "episodesCount": 57
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Temporada 2",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/100_dias_para_enamorarnos_s2.json",
+        "episodesCount": 35
       }
-    ]
+    ],
+    "episodesCount": 92
   },
   {
     "id": "1000_millones",
@@ -10057,14 +10193,46 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/40_y_20.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/40_y_20_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/40_y_20_s1.json",
+        "episodesCount": 13
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Temporada 2",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/40_y_20_s2.json",
+        "episodesCount": 13
+      },
+      {
+        "seasonNumber": 3,
+        "name": "Temporada 3",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/40_y_20_s3.json",
+        "episodesCount": 13
+      },
+      {
+        "seasonNumber": 4,
+        "name": "Temporada 4",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/40_y_20_s4.json",
+        "episodesCount": 13
+      },
+      {
+        "seasonNumber": 5,
+        "name": "Temporada 5",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/40_y_20_s5.json",
+        "episodesCount": 12
+      },
+      {
+        "seasonNumber": 6,
+        "name": "Temporada 6",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/40_y_20_s6.json",
+        "episodesCount": 12
       }
-    ]
+    ],
+    "episodesCount": 76
   },
   {
     "id": "5_viudas_sueltas",
@@ -10283,14 +10451,22 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/alcanzar_una_estrella.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/alcanzar_una_estrella_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/alcanzar_una_estrella_s1.json",
+        "episodesCount": 80
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Temporada 2",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/alcanzar_una_estrella_s2.json",
+        "episodesCount": 99
       }
-    ]
+    ],
+    "episodesCount": 179
   },
   {
     "id": "alegrijes_y_rebujos",
@@ -10582,7 +10758,7 @@
     "title": "Amantes del desierto",
     "category": "Recién agregadas",
     "ribbon": "NINGUNA",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/logooo.webp",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/Logooo.webp",
     "isPremium": false,
     "hasAd": false,
     "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/amantes_del_desierto_s1.json",
@@ -10886,7 +11062,7 @@
     "title": "Amor a mil",
     "category": "Recién agregadas",
     "ribbon": "NINGUNA",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/logooo.webp",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/Logooo.webp",
     "isPremium": false,
     "hasAd": false,
     "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/amor_a_mil_s1.json",
@@ -11133,7 +11309,7 @@
     "title": "Amores de Fin de Siglo",
     "category": "Recién agregadas",
     "ribbon": "NINGUNA",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/logooo.webp",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/Logooo.webp",
     "isPremium": false,
     "hasAd": false,
     "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/amores_de_fin_de_siglo_s1.json",
@@ -11269,16 +11445,15 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/clase.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/clase_ejecutiva_s2.json",
+    "targetUrl": "",
     "seasons": [
       {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/clase_ejecutiva_s2.json",
-        "episodesCount": 20
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": ""
       }
     ],
-    "episodesCount": 20
+    "episodesCount": 0
   },
   {
     "id": "infieles",
@@ -11295,7 +11470,8 @@
         "name": "Temporada 1",
         "jsonUrl": ""
       }
-    ]
+    ],
+    "episodesCount": 0
   },
   {
     "id": "angela",
@@ -12138,7 +12314,7 @@
     "title": "Carita de Ángel",
     "category": "Recién agregadas",
     "ribbon": "NINGUNA",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/logooo.webp",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/Logooo.webp",
     "isPremium": false,
     "hasAd": false,
     "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/carita_de_angel_s1.json",
@@ -12350,14 +12526,34 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/clase_406.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/clase_406_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/clase_406_s1.json",
+        "episodesCount": 34
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Temporada 2",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/clase_406_s2.json",
+        "episodesCount": 100
+      },
+      {
+        "seasonNumber": 3,
+        "name": "Temporada 3",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/clase_406_s3.json",
+        "episodesCount": 165
+      },
+      {
+        "seasonNumber": 4,
+        "name": "Temporada 4",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/clase_406_s4.json",
+        "episodesCount": 50
       }
-    ]
+    ],
+    "episodesCount": 349
   },
   {
     "id": "colorina",
@@ -12500,16 +12696,15 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/lapola.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_pola_s2.json",
+    "targetUrl": "",
     "seasons": [
       {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_pola_s2.json",
-        "episodesCount": 98
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": ""
       }
     ],
-    "episodesCount": 98
+    "episodesCount": 0
   },
   {
     "id": "alias_mexicano",
@@ -12526,7 +12721,8 @@
         "name": "Temporada 1",
         "jsonUrl": ""
       }
-    ]
+    ],
+    "episodesCount": 0
   },
   {
     "id": "rosario_tijeras",
@@ -12543,7 +12739,8 @@
         "name": "Temporada 1",
         "jsonUrl": ""
       }
-    ]
+    ],
+    "episodesCount": 0
   },
   {
     "id": "hermanitas_calle",
@@ -12560,7 +12757,8 @@
         "name": "Temporada 1",
         "jsonUrl": ""
       }
-    ]
+    ],
+    "episodesCount": 0
   },
   {
     "id": "metastasis",
@@ -12577,7 +12775,8 @@
         "name": "Temporada 1",
         "jsonUrl": ""
       }
-    ]
+    ],
+    "episodesCount": 0
   },
   {
     "id": "sin_tetas_no_hay_paraiso_2006",
@@ -12594,7 +12793,8 @@
         "name": "Temporada 1",
         "jsonUrl": ""
       }
-    ]
+    ],
+    "episodesCount": 0
   },
   {
     "id": "la_playita",
@@ -12604,16 +12804,15 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/playita.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_playita_s2.json",
+    "targetUrl": "",
     "seasons": [
       {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_playita_s2.json",
-        "episodesCount": 147
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": ""
       }
     ],
-    "episodesCount": 147
+    "episodesCount": 0
   },
   {
     "id": "la_reina_del_flow",
@@ -12630,7 +12829,8 @@
         "name": "Temporada 1",
         "jsonUrl": ""
       }
-    ]
+    ],
+    "episodesCount": 0
   },
   {
     "id": "la_nina",
@@ -12640,16 +12840,15 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/nina.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_nina_s2.json",
+    "targetUrl": "",
     "seasons": [
       {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_nina_s2.json",
-        "episodesCount": 86
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": ""
       }
     ],
-    "episodesCount": 86
+    "episodesCount": 0
   },
   {
     "id": "el_fantasma_del_gran_hotel",
@@ -12666,7 +12865,8 @@
         "name": "Temporada 1",
         "jsonUrl": ""
       }
-    ]
+    ],
+    "episodesCount": 0
   },
   {
     "id": "el_laberinto_de_alicia",
@@ -12676,16 +12876,15 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/alicia.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_laberinto_de_alicia_s2.json",
+    "targetUrl": "",
     "seasons": [
       {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_laberinto_de_alicia_s2.json",
-        "episodesCount": 92
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": ""
       }
     ],
-    "episodesCount": 92
+    "episodesCount": 0
   },
   {
     "id": "el_tesoro",
@@ -12695,16 +12894,15 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/tesoro.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_tesoro_s2.json",
+    "targetUrl": "",
     "seasons": [
       {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_tesoro_s2.json",
-        "episodesCount": 79
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": ""
       }
     ],
-    "episodesCount": 79
+    "episodesCount": 0
   },
   {
     "id": "el_ultimo_matrimonio_feliz",
@@ -12721,7 +12919,8 @@
         "name": "Temporada 1",
         "jsonUrl": ""
       }
-    ]
+    ],
+    "episodesCount": 0
   },
   {
     "id": "en_la_boca_del_lobo",
@@ -12738,15 +12937,9 @@
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/en_la_boca_del_lobo_s1.json",
         "episodesCount": 80
-      },
-      {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/en_la_boca_del_lobo_s2.json",
-        "episodesCount": 80
       }
     ],
-    "episodesCount": 160
+    "episodesCount": 80
   },
   {
     "id": "gabriela_giros_del_destino",
@@ -12763,7 +12956,8 @@
         "name": "Temporada 1",
         "jsonUrl": ""
       }
-    ]
+    ],
+    "episodesCount": 0
   },
   {
     "id": "tierra_de_cantores",
@@ -12780,7 +12974,8 @@
         "name": "Temporada 1",
         "jsonUrl": ""
       }
-    ]
+    ],
+    "episodesCount": 0
   },
   {
     "id": "contra_las_cuerdas",
@@ -13167,7 +13362,7 @@
     "title": "Cuidado Con El Ángel",
     "category": "Recién agregadas",
     "ribbon": "NINGUNA",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/logooo.webp",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/Logooo.webp",
     "isPremium": false,
     "hasAd": false,
     "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/cuidado_con_el_angel_s1.json",
@@ -13319,7 +13514,7 @@
     "title": "De que tamano es tu amor",
     "category": "Recién agregadas",
     "ribbon": "NINGUNA",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/logooo.webp",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/Logooo.webp",
     "isPremium": false,
     "hasAd": false,
     "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/de_que_tamano_es_tu_amor_s1.json",
@@ -13835,14 +14030,28 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/el_capo.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_capo_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_capo_s1.json",
+        "episodesCount": 90
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Temporada 2",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_capo_s2.json",
+        "episodesCount": 76
+      },
+      {
+        "seasonNumber": 3,
+        "name": "Temporada 3",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_capo_s3.json",
+        "episodesCount": 60
       }
-    ]
+    ],
+    "episodesCount": 226
   },
   {
     "id": "el_chema",
@@ -14004,16 +14213,15 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/hermanos.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/hermanos_y_hermanas_s2.json",
+    "targetUrl": "",
     "seasons": [
       {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/hermanos_y_hermanas_s2.json",
-        "episodesCount": 82
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": ""
       }
     ],
-    "episodesCount": 82
+    "episodesCount": 0
   },
   {
     "id": "hilos_de_amor",
@@ -14023,16 +14231,15 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/hilos.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/hilos_de_amor_s2.json",
+    "targetUrl": "",
     "seasons": [
       {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/hilos_de_amor_s2.json",
-        "episodesCount": 112
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": ""
       }
     ],
-    "episodesCount": 112
+    "episodesCount": 0
   },
   {
     "id": "la_dama_de_troya",
@@ -14042,16 +14249,15 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/troya.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_dama_de_troya_s2.json",
+    "targetUrl": "",
     "seasons": [
       {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_dama_de_troya_s2.json",
-        "episodesCount": 88
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": ""
       }
     ],
-    "episodesCount": 88
+    "episodesCount": 0
   },
   {
     "id": "la_bella_ceci_y_el_imprudente",
@@ -14061,16 +14267,15 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/bellaceci.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_bella_ceci_y_el_imprudente_s2.json",
+    "targetUrl": "",
     "seasons": [
       {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_bella_ceci_y_el_imprudente_s2.json",
-        "episodesCount": 126
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": ""
       }
     ],
-    "episodesCount": 126
+    "episodesCount": 0
   },
   {
     "id": "la_bruja",
@@ -14087,7 +14292,8 @@
         "name": "Temporada 1",
         "jsonUrl": ""
       }
-    ]
+    ],
+    "episodesCount": 0
   },
   {
     "id": "el_pais_de_las_mujeres",
@@ -14455,7 +14661,7 @@
     "title": "El inutil",
     "category": "Recién agregadas",
     "ribbon": "NINGUNA",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/logooo.webp",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/Logooo.webp",
     "isPremium": false,
     "hasAd": false,
     "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_inutil_s1.json",
@@ -14496,12 +14702,12 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/el_maleficio.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_maleficio_s1.json",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/el_maleficio_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_maleficio_s1.json",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/el_maleficio_s1.json",
         "episodesCount": 160
       }
     ],
@@ -14515,12 +14721,12 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/el_nino_que_vino_del_mar.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_nino_que_vino_del_mar_s1.json",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/el_nino_que_vino_del_mar_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_nino_que_vino_del_mar_s1.json",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/el_nino_que_vino_del_mar_s1.json",
         "episodesCount": 95
       }
     ],
@@ -14534,12 +14740,12 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/el_pecado_de_oyuki.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_pecado_de_oyuki_s1.json",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/el_pecado_de_oyuki_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_pecado_de_oyuki_s1.json",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/el_pecado_de_oyuki_s1.json",
         "episodesCount": 123
       }
     ],
@@ -14553,12 +14759,12 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/el_penultimo_beso.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_penultimo_beso_s1.json",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/el_penultimo_beso_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_penultimo_beso_s1.json",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/el_penultimo_beso_s1.json",
         "episodesCount": 70
       }
     ],
@@ -14572,12 +14778,12 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/el_premio_mayor.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_premio_mayor_s1.json",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/el_premio_mayor_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_premio_mayor_s1.json",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/el_premio_mayor_s1.json",
         "episodesCount": 190
       }
     ],
@@ -14591,12 +14797,12 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/el_primero_de_nosotros.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_primero_de_nosotros_s1.json",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/el_primero_de_nosotros_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_primero_de_nosotros_s1.json",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/el_primero_de_nosotros_s1.json",
         "episodesCount": 59
       }
     ],
@@ -14610,12 +14816,12 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/el_privilegio_de_amar.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_privilegio_de_amar_s1.json",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/el_privilegio_de_amar_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_privilegio_de_amar_s1.json",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/el_privilegio_de_amar_s1.json",
         "episodesCount": 155
       }
     ],
@@ -14629,12 +14835,12 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/el_regreso.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_regreso_s1.json",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/el_regreso_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_regreso_s1.json",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/el_regreso_s1.json",
         "episodesCount": 140
       }
     ],
@@ -14648,12 +14854,12 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/el_rostro_de_analia.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_rostro_de_analia_s1.json",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/el_rostro_de_analia_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_rostro_de_analia_s1.json",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/el_rostro_de_analia_s1.json",
         "episodesCount": 146
       }
     ],
@@ -14667,12 +14873,12 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/el_rostro_de_la_venganza.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_rostro_de_la_venganza_s1.json",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/el_rostro_de_la_venganza_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_rostro_de_la_venganza_s1.json",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/el_rostro_de_la_venganza_s1.json",
         "episodesCount": 115
       }
     ],
@@ -14686,12 +14892,12 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/el_talisman.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_talisman_s1.json",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/el_talisman_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_talisman_s1.json",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/el_talisman_s1.json",
         "episodesCount": 101
       }
     ],
@@ -14705,12 +14911,12 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/el_ultimo_matrimonio_feliz.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_ultimo_matrimonio_feliz_s1.json",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/el_ultimo_matrimonio_feliz_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_ultimo_matrimonio_feliz_s1.json",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/el_ultimo_matrimonio_feliz_s1.json",
         "episodesCount": 149
       }
     ],
@@ -14724,12 +14930,12 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/ellas_aman_ellos_mienten.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/ellas_aman_ellos_mienten_s1.json",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/ellas_aman_ellos_mienten_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/ellas_aman_ellos_mienten_s1.json",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/ellas_aman_ellos_mienten_s1.json",
         "episodesCount": 60
       }
     ],
@@ -14743,12 +14949,12 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/emperatriz.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/emperatriz_s1.json",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/emperatriz_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/emperatriz_s1.json",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/emperatriz_s1.json",
         "episodesCount": 155
       }
     ],
@@ -14762,12 +14968,12 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/en_los_tacones_de_eva.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/en_los_tacones_de_eva_s1.json",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/en_los_tacones_de_eva_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/en_los_tacones_de_eva_s1.json",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/en_los_tacones_de_eva_s1.json",
         "episodesCount": 158
       }
     ],
@@ -14781,12 +14987,12 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/en_nombre_del_amor.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/en_nombre_del_amor_s1.json",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/en_nombre_del_amor_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/en_nombre_del_amor_s1.json",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/en_nombre_del_amor_s1.json",
         "episodesCount": 170
       }
     ],
@@ -14800,12 +15006,12 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/en_otra_piel.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/en_otra_piel_s1.json",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/en_otra_piel_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/en_otra_piel_s1.json",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/en_otra_piel_s1.json",
         "episodesCount": 154
       }
     ],
@@ -14819,12 +15025,12 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/en_la_piel_de_alicia.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/en_la_piel_de_alicia_s1.json",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/en_la_piel_de_alicia_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/en_la_piel_de_alicia_s1.json",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/en_la_piel_de_alicia_s1.json",
         "episodesCount": 81
       }
     ],
@@ -14838,12 +15044,12 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/en_tierras_salvajes.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/en_tierras_salvajes_s1.json",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/en_tierras_salvajes_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/en_tierras_salvajes_s1.json",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/en_tierras_salvajes_s1.json",
         "episodesCount": 70
       }
     ],
@@ -14857,12 +15063,12 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/enamorandome_de_ramon.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/enamorandome_de_ramon_s1.json",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/enamorandome_de_ramon_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/enamorandome_de_ramon_s1.json",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/enamorandome_de_ramon_s1.json",
         "episodesCount": 117
       }
     ],
@@ -14876,12 +15082,12 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/encadenados.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/encadenados_s1.json",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/encadenados_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/encadenados_s1.json",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/encadenados_s1.json",
         "episodesCount": 176
       }
     ],
@@ -14895,14 +15101,22 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/enemigo_intimo.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/enemigo_intimo_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/enemigo_intimo_s1.json",
+        "episodesCount": 53
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Temporada 2",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/enemigo_intimo_s2.json",
+        "episodesCount": 60
       }
-    ]
+    ],
+    "episodesCount": 113
   },
   {
     "id": "enfermeras",
@@ -14919,7 +15133,8 @@
         "name": "Temporada 1",
         "jsonUrl": ""
       }
-    ]
+    ],
+    "episodesCount": 0
   },
   {
     "id": "entre_el_amor_y_el_odio",
@@ -14929,12 +15144,12 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/entre_el_amor_y_el_odio.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/entre_el_amor_y_el_odio_s1.json",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/entre_el_amor_y_el_odio_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/entre_el_amor_y_el_odio_s1.json",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/entre_el_amor_y_el_odio_s1.json",
         "episodesCount": 124
       }
     ],
@@ -14948,12 +15163,12 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/entre_la_vida_y_la_muerte.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/entre_la_vida_y_la_muerte_s1.json",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/entre_la_vida_y_la_muerte_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/entre_la_vida_y_la_muerte_s1.json",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/entre_la_vida_y_la_muerte_s1.json",
         "episodesCount": 89
       }
     ],
@@ -14967,12 +15182,12 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/entre_sombras.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/entre_sombras_s1.json",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/entre_sombras_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/entre_sombras_s1.json",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/entre_sombras_s1.json",
         "episodesCount": 60
       }
     ],
@@ -14986,12 +15201,12 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/entre_tu_amor_y_mi_amor.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/entre_tu_amor_y_mi_amor_s1.json",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/entre_tu_amor_y_mi_amor_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/entre_tu_amor_y_mi_amor_s1.json",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/entre_tu_amor_y_mi_amor_s1.json",
         "episodesCount": 111
       }
     ],
@@ -15005,12 +15220,12 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/eres_mi_tesoro.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/eres_mi_tesoro_s1.json",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/eres_mi_tesoro_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/eres_mi_tesoro_s1.json",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/eres_mi_tesoro_s1.json",
         "episodesCount": 171
       }
     ],
@@ -15024,12 +15239,12 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/esa_mujer.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/esa_mujer_s1.json",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/esa_mujer_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/esa_mujer_s1.json",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/esa_mujer_s1.json",
         "episodesCount": 120
       }
     ],
@@ -15043,12 +15258,12 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/escalona.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/escalona_s1.json",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/escalona_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/escalona_s1.json",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/escalona_s1.json",
         "episodesCount": 33
       }
     ],
@@ -15062,12 +15277,12 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/esmeralda.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/esmeralda_s1.json",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/esmeralda_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/esmeralda_s1.json",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/esmeralda_s1.json",
         "episodesCount": 137
       }
     ],
@@ -15081,12 +15296,12 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/esperanza_del_destino.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/esperanza_del_destino_s1.json",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/esperanza_del_destino_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/esperanza_del_destino_s1.json",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/esperanza_del_destino_s1.json",
         "episodesCount": 106
       }
     ],
@@ -15100,12 +15315,12 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/esperanza_del_corazon.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/esperanza_del_corazon_s1.json",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/esperanza_del_corazon_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/esperanza_del_corazon_s1.json",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/esperanza_del_corazon_s1.json",
         "episodesCount": 145
       }
     ],
@@ -15119,12 +15334,12 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/esperanza_mia.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/esperanza_mia_s1.json",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/esperanza_mia_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/esperanza_mia_s1.json",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/esperanza_mia_s1.json",
         "episodesCount": 192
       }
     ],
@@ -15138,12 +15353,12 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/estrellita_mia.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/estrellita_mia_s1.json",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/estrellita_mia_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/estrellita_mia_s1.json",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/estrellita_mia_s1.json",
         "episodesCount": 159
       }
     ],
@@ -15157,16 +15372,15 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/esquina.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_esquina_del_diablo_s2.json",
+    "targetUrl": "",
     "seasons": [
       {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_esquina_del_diablo_s2.json",
-        "episodesCount": 70
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": ""
       }
     ],
-    "episodesCount": 70
+    "episodesCount": 0
   },
   {
     "id": "la_hipocondriaca",
@@ -15176,16 +15390,15 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/hipocondriaca.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_hipocondriaca_s2.json",
+    "targetUrl": "",
     "seasons": [
       {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_hipocondriaca_s2.json",
-        "episodesCount": 116
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": ""
       }
     ],
-    "episodesCount": 116
+    "episodesCount": 0
   },
   {
     "id": "la_nocturna_t1_t2",
@@ -15202,7 +15415,8 @@
         "name": "Temporada 1",
         "jsonUrl": ""
       }
-    ]
+    ],
+    "episodesCount": 0
   },
   {
     "id": "la_esclava_blanca",
@@ -15219,7 +15433,8 @@
         "name": "Temporada 1",
         "jsonUrl": ""
       }
-    ]
+    ],
+    "episodesCount": 0
   },
   {
     "id": "cafe_con_aroma_de_mujer",
@@ -15236,7 +15451,8 @@
         "name": "Temporada 1",
         "jsonUrl": ""
       }
-    ]
+    ],
+    "episodesCount": 0
   },
   {
     "id": "diomedes_el_cacique_de_la_junta",
@@ -15253,7 +15469,8 @@
         "name": "Temporada 1",
         "jsonUrl": ""
       }
-    ]
+    ],
+    "episodesCount": 0
   },
   {
     "id": "historias_de_la_cripta",
@@ -15270,7 +15487,8 @@
         "name": "Temporada 1",
         "jsonUrl": ""
       }
-    ]
+    ],
+    "episodesCount": 0
   },
   {
     "id": "eternamente_manuela",
@@ -15280,12 +15498,12 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/eternamente_manuela.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/eternamente_manuela_s1.json",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/eternamente_manuela_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/eternamente_manuela_s1.json",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/eternamente_manuela_s1.json",
         "episodesCount": 101
       }
     ],
@@ -15299,12 +15517,12 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/eva_la_trailera.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/eva_la_trailera_s1.json",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/eva_la_trailera_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/eva_la_trailera_s1.json",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/eva_la_trailera_s1.json",
         "episodesCount": 118
       }
     ],
@@ -15318,14 +15536,22 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/falsa_identidad.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/falsa_identidad_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/falsa_identidad_s1.json",
+        "episodesCount": 91
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Temporada 2",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/falsa_identidad_s2.json",
+        "episodesCount": 78
       }
-    ]
+    ],
+    "episodesCount": 169
   },
   {
     "id": "felina",
@@ -15335,12 +15561,12 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/felina.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/felina_s1.json",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/felina_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/felina_s1.json",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/felina_s1.json",
         "episodesCount": 56
       }
     ],
@@ -15354,12 +15580,12 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/feroz.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/feroz_s1.json",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/feroz_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/feroz_s1.json",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/feroz_s1.json",
         "episodesCount": 96
       }
     ],
@@ -15373,12 +15599,12 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/flor_salvaje.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/flor_salvaje_s1.json",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/flor_salvaje_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/flor_salvaje_s1.json",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/flor_salvaje_s1.json",
         "episodesCount": 150
       }
     ],
@@ -15392,12 +15618,12 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/fuego_en_la_sangre.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/fuego_en_la_sangre_s1.json",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/fuego_en_la_sangre_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/fuego_en_la_sangre_s1.json",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/fuego_en_la_sangre_s1.json",
         "episodesCount": 200
       }
     ],
@@ -15411,12 +15637,12 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/fuego_ardiente.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/fuego_ardiente_s1.json",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/fuego_ardiente_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/fuego_ardiente_s1.json",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/fuego_ardiente_s1.json",
         "episodesCount": 85
       }
     ],
@@ -15430,12 +15656,12 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/gabriel_y_gabriela.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/gabriel_y_gabriela_s1.json",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/gabriel_y_gabriela_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/gabriel_y_gabriela_s1.json",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/gabriel_y_gabriela_s1.json",
         "episodesCount": 71
       }
     ],
@@ -15449,12 +15675,12 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/gabriela_giros_del_destino.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/gabriela_giros_del_destino_s1.json",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/gabriela_giros_del_destino_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/gabriela_giros_del_destino_s1.json",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/gabriela_giros_del_destino_s1.json",
         "episodesCount": 120
       }
     ],
@@ -15468,12 +15694,12 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/gata_salvaje.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/gata_salvaje_s1.json",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/gata_salvaje_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/gata_salvaje_s1.json",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/gata_salvaje_s1.json",
         "episodesCount": 252
       }
     ],
@@ -15487,12 +15713,12 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/gitanas.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/gitanas_s1.json",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/gitanas_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/gitanas_s1.json",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/gitanas_s1.json",
         "episodesCount": 162
       }
     ],
@@ -15544,14 +15770,22 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/grachi.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/grachi_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/grachi_s1.json",
+        "episodesCount": 81
+      },
+      {
+        "seasonNumber": 3,
+        "name": "Temporada 3",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/grachi_s3.json",
+        "episodesCount": 50
       }
-    ]
+    ],
+    "episodesCount": 131
   },
   {
     "id": "guadalupe",
@@ -16017,14 +16251,22 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/isa_tkm.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/isa_tkm_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/isa_tkm_s1.json",
+        "episodesCount": 105
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Temporada 2",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/isa_tkm_s2.json",
+        "episodesCount": 120
       }
-    ]
+    ],
+    "episodesCount": 225
   },
   {
     "id": "juana_iris",
@@ -16129,14 +16371,22 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/kdabra.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/kdabra_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/kdabra_s1.json",
+        "episodesCount": 12
+      },
+      {
+        "seasonNumber": 3,
+        "name": "Temporada 3",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/kdabra_s3.json",
+        "episodesCount": 10
       }
-    ]
+    ],
+    "episodesCount": 22
   },
   {
     "id": "klass_95",
@@ -16336,14 +16586,22 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/la_dona.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/la_dona_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/la_dona_s1.json",
+        "episodesCount": 120
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Temporada 2",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/la_dona_s2.json",
+        "episodesCount": 75
       }
-    ]
+    ],
+    "episodesCount": 195
   },
   {
     "id": "la_duena",
@@ -16493,7 +16751,8 @@
         "name": "Temporada 1",
         "jsonUrl": ""
       }
-    ]
+    ],
+    "episodesCount": 0
   },
   {
     "id": "la_costena_y_el_cachaco",
@@ -16510,7 +16769,8 @@
         "name": "Temporada 1",
         "jsonUrl": ""
       }
-    ]
+    ],
+    "episodesCount": 0
   },
   {
     "id": "la_ex",
@@ -16520,16 +16780,15 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/laex.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/la_ex_s2.json",
+    "targetUrl": "",
     "seasons": [
       {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/la_ex_s2.json",
-        "episodesCount": 159
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": ""
       }
     ],
-    "episodesCount": 159
+    "episodesCount": 0
   },
   {
     "id": "la_hija_del_mariachi",
@@ -16546,15 +16805,9 @@
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/la_hija_del_mariachi_s1.json",
         "episodesCount": 147
-      },
-      {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/la_hija_del_mariachi_s2.json",
-        "episodesCount": 147
       }
     ],
-    "episodesCount": 294
+    "episodesCount": 147
   },
   {
     "id": "la_prepago",
@@ -16564,16 +16817,15 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/laprepago.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/la_prepago_s2.json",
+    "targetUrl": "",
     "seasons": [
       {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/la_prepago_s2.json",
-        "episodesCount": 61
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": ""
       }
     ],
-    "episodesCount": 61
+    "episodesCount": 0
   },
   {
     "id": "la_nieta_elegida",
@@ -16609,7 +16861,8 @@
         "name": "Temporada 1",
         "jsonUrl": ""
       }
-    ]
+    ],
+    "episodesCount": 0
   },
   {
     "id": "la_invasora",
@@ -16752,14 +17005,22 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/la_nocturna.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/la_nocturna_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/la_nocturna_s1.json",
+        "episodesCount": 105
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Temporada 2",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/la_nocturna_s2.json",
+        "episodesCount": 70
       }
-    ]
+    ],
+    "episodesCount": 175
   },
   {
     "id": "la_perricholi",
@@ -16788,14 +17049,22 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/la_piloto.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/la_piloto_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/la_piloto_s1.json",
+        "episodesCount": 80
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Temporada 2",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/la_piloto_s2.json",
+        "episodesCount": 82
       }
-    ]
+    ],
+    "episodesCount": 162
   },
   {
     "id": "la_reina_soy_yo",
@@ -16919,14 +17188,22 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/la_viuda_negra.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/la_viuda_negra_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/la_viuda_negra_s1.json",
+        "episodesCount": 78
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Temporada 2",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/la_viuda_negra_s2.json",
+        "episodesCount": 58
       }
-    ]
+    ],
+    "episodesCount": 136
   },
   {
     "id": "la_bandida",
@@ -17297,14 +17574,22 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/la_ley_del_corazon.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/la_ley_del_corazon_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/la_ley_del_corazon_s1.json",
+        "episodesCount": 131
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Temporada 2",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/la_ley_del_corazon_s2.json",
+        "episodesCount": 146
       }
-    ]
+    ],
+    "episodesCount": 277
   },
   {
     "id": "la_ley_secreta",
@@ -17625,7 +17910,8 @@
         "name": "Temporada 1",
         "jsonUrl": ""
       }
-    ]
+    ],
+    "episodesCount": 0
   },
   {
     "id": "operacion_pacifico",
@@ -17642,7 +17928,8 @@
         "name": "Temporada 1",
         "jsonUrl": ""
       }
-    ]
+    ],
+    "episodesCount": 0
   },
   {
     "id": "yo_no_te_pido_la_luna",
@@ -17659,7 +17946,8 @@
         "name": "Temporada 1",
         "jsonUrl": ""
       }
-    ]
+    ],
+    "episodesCount": 0
   },
   {
     "id": "primera_dama",
@@ -17676,6 +17964,7 @@
         "name": "Temporada 1",
         "jsonUrl": ""
       }
-    ]
+    ],
+    "episodesCount": 0
   }
 ]
