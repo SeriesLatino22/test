@@ -6,5 +6,11 @@
     "rosario_tijeras_5_mexico"
   ],
   "isFullCatalogUpdate": false,
-  "priorityNovelas": []
+  "priorityNovelas": [
+    {
+      "id": "el_senor_de_los_cielos_t10",
+      "title": "El Señor de los Cielos: T10",
+      "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/senoirrt10.webp"
+    }
+  ]
 }
