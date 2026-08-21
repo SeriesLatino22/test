@@ -1,117 +1,149 @@
 {
-  "id": "lejos_de_ti_t2_s2",
   "titulo": "Lejos de ti T2",
-  "subtitulo": "Lejos de ti T2: Temporada 2",
-  "portada": "",
+  "source_url": "",
   "capitulos": [
     {
       "numero": "Capítulo 1",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/d3731c96b22ee63a75172805b517b77b.m3u8",
+      "urlOkru": "https://1a-1791.com/video/fwe2/db/s8/2/I/J/-/G/IJ-GA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=451020800-451054917",
+      "rumbleUrl": "https://rumble.com/v7cuqci-lejs-1.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 2",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/7f39e0f2c7b4ef74e9ef7666f1b88285.m3u8",
+      "urlOkru": "https://1a-1791.com/video/fwe2/06/s8/2/s/K/-/G/sK-GA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=448454656-448488573",
+      "rumbleUrl": "https://rumble.com/v7cuqdu-lejs-2.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 3",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/3b311ecc19d7fa0f6d42885806b2354a.m3u8",
+      "urlOkru": "https://1a-1791.com/video/fwe2/a1/s8/2/o/L/-/G/oL-GA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=418879488-418911197",
+      "rumbleUrl": "https://rumble.com/v7cuqfi-lejs-3.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 4",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/2e090bb6d95f7661bb4e3b57816391a8.m3u8",
+      "urlOkru": "https://1a-1791.com/video/fwe2/22/s8/2/Y/B/R/I/YBRIA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=401891840-401922216",
+      "rumbleUrl": "https://rumble.com/v7d4agi-lejs-4.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 5",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/de0b7fbc5163ed71784e11e7047d7a27.m3u8",
+      "urlOkru": "https://1a-1791.com/video/fwe2/23/s8/2/I/B/R/I/IBRIA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=325012992-325037648",
+      "rumbleUrl": "https://rumble.com/v7d4ag2-lejos-5.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 6",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/7983fc686ed3fd42ec003e23b85db440.m3u8",
+      "urlOkru": "https://1a-1791.com/video/fww1/ff/s8/2/u/E/R/I/uERIA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=341940224-341966077",
+      "rumbleUrl": "https://rumble.com/v7d4al0-lejs-6.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 7",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/4/e280cc2dff9f256955710c8af38aa1a9.m3u8",
+      "urlOkru": "https://1a-1791.com/video/fww1/aa/s8/2/y/O/J/J/yOJJA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=341770240-341796091",
+      "rumbleUrl": "https://rumble.com/v7d982g-lejos-7.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 8",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/2e58c6c2e90bbe4596919e68619460d5.m3u8",
+      "urlOkru": "https://1a-1791.com/video/fwe2/4e/s8/2/-/O/J/J/-OJJA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=337108992-337134451",
+      "rumbleUrl": "https://rumble.com/v7d983i-lejos-8.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 9",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/25e68608216de31252de4181e2bd6b6b.m3u8",
+      "urlOkru": "https://1a-1791.com/video/fwe2/b1/s8/2/o/P/J/J/oPJJA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=343033344-343059203",
+      "rumbleUrl": "https://rumble.com/v7d983y-lejos-9.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 10",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/a3205e33546c13a3d78c97fc7e9c11b0.m3u8",
+      "urlOkru": "https://1a-1791.com/video/fww1/08/s8/2/O/P/Z/K/OPZKA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=341590528-341616298",
+      "rumbleUrl": "https://rumble.com/v7dg8yw-lejs-10.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 11",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/2721ca5f47e752c921f9577339b9a7ec.m3u8",
+      "urlOkru": "https://1a-1791.com/video/fwe2/f3/s8/2/W/Q/Z/K/WQZKA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=343936512-343962488",
+      "rumbleUrl": "https://rumble.com/v7dg90w-lejs-11.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 12",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/433513da70c39a999584b3052e022c28.m3u8",
+      "urlOkru": "https://1a-1791.com/video/fww1/4c/s8/2/c/5/x/L/c5xLA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=339611648-339637407",
+      "rumbleUrl": "https://rumble.com/v7djfia-lejs-12.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 13",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/c30dbe54d47d22320d9d3bd12c622910.m3u8",
+      "urlOkru": "https://1a-1791.com/video/fww1/c5/s8/2/a/5/x/L/a5xLA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=341675008-341700887",
+      "rumbleUrl": "https://rumble.com/v7djfi8-lejs-13.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 14",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/2c6bd0488b880c0eee5439e5802d2e51.m3u8",
+      "urlOkru": "https://1a-1791.com/video/fwe2/90/s8/2/8/2/i/M/82iMA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=341292544-341318424",
+      "rumbleUrl": "https://rumble.com/v7dnq9o-lejs-14.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 15",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/82a283b5d07842208c177985c35a3c6f.m3u8",
+      "urlOkru": "https://1a-1791.com/video/fww1/55/s8/2/8/W/W/M/8WWMA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=342757888-342783856",
+      "rumbleUrl": "https://rumble.com/v7dr8e4-ljs-15.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 16",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/4/ef9dd639ec80c4db9ce7fdad6c0f8bb9.m3u8",
+      "urlOkru": "https://1a-1791.com/video/fww1/59/s8/2/Q/Y/W/M/QYWMA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=342508032-342534001",
+      "rumbleUrl": "https://rumble.com/v7dr8h6-ljs-16.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 17",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/b53beef5be6a7ff7a57a5bf70c4b6b7d.m3u8",
+      "urlOkru": "https://1a-1791.com/video/fww1/42/s8/2/M/z/w/N/MzwNA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=344150528-344176492",
+      "rumbleUrl": "https://rumble.com/v7dujc6-lejs-17.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 18",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/95877f5078d00b4c3e488c2c94537c20.m3u8",
+      "urlOkru": "https://1a-1791.com/video/fwe2/14/s8/2/Y/z/w/N/YzwNA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=342687744-342713581",
+      "rumbleUrl": "https://rumble.com/v7dujci-lejos-18.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 19",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/c533fea85ad5824bc860731c036aec36.m3u8",
+      "urlOkru": "https://1a-1791.com/video/fww1/b2/s8/2/M/F/G/O/MFGOA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=696349696-696375736",
+      "rumbleUrl": "https://rumble.com/v7e11ie-lejs19.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 20",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/7591f30b04c65a4ddb9ad444853086ec.m3u8",
+      "urlOkru": "https://1a-1791.com/video/fww1/23/s8/2/O/F/G/O/OFGOA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=342642688-342668658",
+      "rumbleUrl": "https://rumble.com/v7e11ig-lejs-20.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 21",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/d1f70b45699fdb565e34cf18f47f954e.m3u8",
+      "urlOkru": "https://1a-1791.com/video/fwe2/f0/s8/2/Y/s/n/P/YsnPA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=343811072-343837140",
+      "rumbleUrl": "https://rumble.com/v7e4z3m-lejs-21.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 22",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/cde4b0a923d5ec4807d236ac54d9e996.m3u8",
+      "urlOkru": "https://1a-1791.com/video/fww1/45/s8/2/8/s/n/P/8snPA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=340283904-340309692",
+      "rumbleUrl": "https://rumble.com/v7e4z3w-lejs-22.html",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 23",
+      "urlOkru": "https://1a-1791.com/video/fwe2/8c/s8/2/u/j/o/R/ujoRA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=312580608-312604242",
+      "rumbleUrl": "https://rumble.com/v7egac4-lejs-23.html",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 24",
+      "urlOkru": "https://1a-1791.com/video/fww1/6c/s8/2/A/j/o/R/AjoRA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=337527296-337552871",
+      "rumbleUrl": "https://rumble.com/v7egaca-lejs-24.html",
       "titulo": ""
     }
   ]
