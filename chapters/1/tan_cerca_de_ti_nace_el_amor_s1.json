@@ -1,297 +1,383 @@
 {
-  "id": "tan_cerca_de_ti_nace_el_amor_s1",
   "titulo": "Tan cerca de ti, nace el amor",
-  "subtitulo": "Tan cerca de ti, nace el amor: Temporada 1",
-  "portada": "",
+  "source_url": "",
   "capitulos": [
     {
       "numero": "Capítulo 1",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/506b716e939b06dcbffdf93db9cbf048.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/fa/s8/2/K/v/6/k/Kv6kA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1443280896-1443309274",
+      "rumbleUrl": "https://rumble.com/v79er1g-cerca-1.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 2",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/0d0cb172195b786be5ade67ad3777dc2.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/b1/s8/2/Q/v/6/k/Qv6kA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1409938944-1409966722",
+      "rumbleUrl": "https://rumble.com/v79er1m-cerca-2.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 3",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/8727b75b7b811d2cf2656b62c9653f6b.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/20/s8/2/W/v/6/k/Wv6kA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1375534592-1375561630",
+      "rumbleUrl": "https://rumble.com/v79er1s-cerca-3.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 4",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/1bd505a796fddf4d9a09ff52f46ac59f.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/86/s8/2/0/v/6/k/0v6kA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1423108096-1423136169",
+      "rumbleUrl": "https://rumble.com/v79er1w-cerca-4.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 5",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/b2a3ebdca765f3770d87cda5fd07b639.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/83/s8/2/Y/v/6/k/Yv6kA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1279501312-1279526518",
+      "rumbleUrl": "https://rumble.com/v79er1u-cerca-5.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 6",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/4344a0f599025249f2876f600c9aac92.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/9a/s8/2/c/G/b/m/cGbmA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=325852672-325877433",
+      "rumbleUrl": "https://rumble.com/v79kzya-cerca-6.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 7",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/5728e9acde64cb87ad84008795a0aa30.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/3f/s8/2/m/G/b/m/mGbmA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=323307008-323331554",
+      "rumbleUrl": "https://rumble.com/v79kzyk-cerca-7.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 8",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/c0a5b63333ebed9b2519f18337fe31e6.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/9b/s8/2/o/G/b/m/oGbmA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=323980800-324005369",
+      "rumbleUrl": "https://rumble.com/v79kzym-cerca-8.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 9",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/c359dd1a15209c823717896ecdd5abd3.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/dc/s8/2/y/G/b/m/yGbmA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=327136768-327161623",
+      "rumbleUrl": "https://rumble.com/v79kzyw-cerca-9.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 10",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/46b68c291f652112f0e923c1c64b83f4.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/ef/s8/2/G/G/b/m/GGbmA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=324279296-324303955",
+      "rumbleUrl": "https://rumble.com/v79kzz4-cerca-10.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 11",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/2bfd184fceb43340c750968c580a9284.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/4d/s8/2/Y/Q/h/o/YQhoA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1244121088-1244145568",
+      "rumbleUrl": "https://rumble.com/v79wrzm-cerca-11.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 12",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/3048c7b3cc7bb73d62333a159efa94ad.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/81/s8/2/-/Q/h/o/-QhoA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1300159488-1300185098",
+      "rumbleUrl": "https://rumble.com/v79wrzy-cerca-12.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 13",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/00d8015953ad17c7544af6449a68df93.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/0b/s8/2/s/R/h/o/sRhoA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1269251072-1269275978",
+      "rumbleUrl": "https://rumble.com/v79ws0i-cerca-13.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 14",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/6b872a3a7d91443289179f4f9d9cd705.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/f4/s8/2/I/R/h/o/IRhoA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1272804352-1272829334",
+      "rumbleUrl": "https://rumble.com/v79ws0y-cerca-14.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 15",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/000836e8582a82c5b2ce0909eb623614.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/e6/s8/2/K/R/h/o/KRhoA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1258889216-1258914009",
+      "rumbleUrl": "https://rumble.com/v79ws10-cerca-15.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 16",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/9be8c0a95fb44eefc99ade199e3749d9.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/27/s8/2/E/c/u/s/EcusA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1295063040-1295088545",
+      "rumbleUrl": "https://rumble.com/v7akc66-cerca-16.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 17",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/3a6c9d4f460eadf8fd424664766ec023.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/1b/s8/2/m/d/u/s/mdusA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1267834368-1267859265",
+      "rumbleUrl": "https://rumble.com/v7akc7g-cerca-17.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 18",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/5b7d74f4bed3117ac79f7d137e012695.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/f1/s8/2/6/c/u/s/6cusA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1276290048-1276315144",
+      "rumbleUrl": "https://rumble.com/v7akc6y-cerca-18.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 19",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/4038ce49f92a14fef864dcd10fd1aaa8.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/7e/s8/2/C/d/u/s/CdusA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1231019008-1231043171",
+      "rumbleUrl": "https://rumble.com/v7akc7w-cerca-19.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 20",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/b4ec5e7a488c4e751624e476412ac22e.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/54/s8/2/S/d/u/s/SdusA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1265186816-1265211705",
+      "rumbleUrl": "https://rumble.com/v7akc8c-cerca-20.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 21",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/4e3854af938a6cb9262d152f45b2f140.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/1a/s8/2/Y/d/u/s/YdusA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1295489024-1295514544",
+      "rumbleUrl": "https://rumble.com/v7akc8i-cerca-21.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 22",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/30bb086a9881ebd42767e640c22de3d7.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/de/s8/2/W/d/u/s/WdusA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1280443904-1280469114",
+      "rumbleUrl": "https://rumble.com/v7akc8g-cerca-22.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 23",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/532896eac5f4ec8b89e0c53cdee9407a.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/bf/s8/2/Y/f/u/s/YfusA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1305294336-1305320047",
+      "rumbleUrl": "https://rumble.com/v7akcc2-cerca-23.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 24",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/4/ea2ae7d038c670120c3701362a063fde.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/c7/s8/2/c/g/u/s/cgusA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1295090176-1295115689",
+      "rumbleUrl": "https://rumble.com/v7akcci-caerca-24.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 25",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/bd53312dd2c9952470d5b40ece7e8296.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/df/s8/2/e/g/u/s/egusA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1309963776-1309989587",
+      "rumbleUrl": "https://rumble.com/v7akcck-cerca-25.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 26",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/19ca43a415fe9a246ef1042fe22f3d6f.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/28/s8/2/I/r/I/u/IrIuA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=335548928-335574299",
+      "rumbleUrl": "https://rumble.com/v7awtpe-cerca-26.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 27",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/12199509459ef0981dd9900c30fea035.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/63/s8/2/-/r/I/u/-rIuA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=330362880-330387849",
+      "rumbleUrl": "https://rumble.com/v7awtq6-cercda-27.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 28",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/4/fbd5355025fbc2172984d2d65e4845df.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/dd/s8/2/o/s/I/u/osIuA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=325262336-325286903",
+      "rumbleUrl": "https://rumble.com/v7awtqm-cerca-28.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 29",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/4/fce3af1a5d0c8af401a0428b740f379e.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/72/s8/2/K/s/I/u/KsIuA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=324818944-324843492",
+      "rumbleUrl": "https://rumble.com/v7awtr8-cerca-29.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 30",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/5eb97ef1cb8a263361ecedea71e05673.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/8a/s8/2/6/s/I/u/6sIuA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=330990080-331015051",
+      "rumbleUrl": "https://rumble.com/v7awtru-cerca-30.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 31",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/5d1f389c7947d147a27ee574939673a1.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/48/s8/2/c/B/z/w/cBzwA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1284824064-1284849368",
+      "rumbleUrl": "https://rumble.com/v7b7a9u-cerca-31.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 32",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/4b4d1d90a43c36d9d12e40a6f15ce9f5.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/f2/s8/2/o/C/z/w/oCzwA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1270114816-1270139806",
+      "rumbleUrl": "https://rumble.com/v7b7aby-cerca-32.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 33",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/27ec978fb050406623bab1eb61d3a4b8.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/8b/s8/2/c/I/z/w/cIzwA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1273043968-1273069067",
+      "rumbleUrl": "https://rumble.com/v7b7ama-cerca-33.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 34",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/b82ec39418aa80feb8f7b0dbb110b629.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/b2/s8/2/q/I/z/w/qIzwA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1286967808-1286993214",
+      "rumbleUrl": "https://rumble.com/v7b7amo-cerca-34.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 35",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/855c6f1c760bd15f68b82092596bbe1b.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/b2/s8/2/6/H/z/w/6HzwA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1264313856-1264338743",
+      "rumbleUrl": "https://rumble.com/v7b7am2-cerca-35.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 36",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/79b64ceea960eba3b0db389308a7f303.m3u8",
+      "urlOkru": "https://1a-1791.com/video/fwe2/14/s8/2/M/u/p/G/MupGA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1296020480-1296045968",
+      "rumbleUrl": "https://rumble.com/v7cql2e-cerc-36.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 37",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/441a87a5461f14c1efe81fd8985129cf.m3u8",
+      "urlOkru": "https://1a-1791.com/video/fwe2/5c/s8/2/I/H/-/G/IH-GA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1293443072-1293468594",
+      "rumbleUrl": "https://rumble.com/v7cuq8y-carca-37.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 38",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/7f2bad46cf4e622cfb562344101829a6.m3u8",
+      "urlOkru": "https://1a-1791.com/video/fwe2/85/s8/2/k/J/-/G/kJ-GA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1270258688-1270283690",
+      "rumbleUrl": "https://rumble.com/v7cuqbu-cerca-38.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 39",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/37e78c2c91cbc9fb0f6e5f8feed5ef75.m3u8",
+      "urlOkru": "https://1a-1791.com/video/fww1/89/s8/2/O/i/V/H/OiVHA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1269731328-1269756328",
+      "rumbleUrl": "https://rumble.com/v7cyzvs-cerc-39.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 40",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/393c81a1e3a5b87ab27685d13c30403d.m3u8",
+      "urlOkru": "https://1a-1791.com/video/fww1/af/s8/2/k/l/V/H/klVHA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1293150208-1293175621",
+      "rumbleUrl": "https://rumble.com/v7cz00a-cerca-40.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 41",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/a7892254331fb831537d4ff42fed11c0.m3u8",
+      "urlOkru": "https://1a-1791.com/video/fww1/ff/s8/2/w/9/y/I/w9yIA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=671482368-671507534",
+      "rumbleUrl": "https://rumble.com/v7d2o2e-cerc-41.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 42",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/4/efc524b18402476ef9d06a49faf112c6.m3u8",
+      "urlOkru": "https://1a-1791.com/video/fww1/84/s8/2/I/F/R/I/IFRIA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1266274816-1266299613",
+      "rumbleUrl": "https://rumble.com/v7d4an6-cerca-42.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 43",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/b03eb08de4ebe3a8644f0c7d42892b69.m3u8",
+      "urlOkru": "https://1a-1791.com/video/fww1/46/s8/2/k/4/a/J/k4aJA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1299228160-1299253666",
+      "rumbleUrl": "https://rumble.com/v7d668a-cerca-43.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 44",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/0f22dc0e559e5948e37a11cd2877add4.m3u8",
+      "urlOkru": "https://1a-1791.com/video/fwe2/2b/s8/2/Q/Q/J/J/QQJJA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1285815296-1285840499",
+      "rumbleUrl": "https://rumble.com/v7d986i-cerca-44.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 45",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/647cee7f3afa1cbbe5fec5d211fab522.m3u8",
+      "urlOkru": "https://1a-1791.com/video/fwe2/07/s8/2/0/Q/J/J/0QJJA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1278062592-1278087688",
+      "rumbleUrl": "https://rumble.com/v7d986s-carca-45.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 46",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/4e60dfa263d14562c03de2ed7db9fcaf.m3u8",
+      "urlOkru": "https://1a-1791.com/video/fwe2/13/s8/2/-/S/Z/K/-SZKA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=676443648-676469096",
+      "rumbleUrl": "https://rumble.com/v7dg94u-cerca-46.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 47",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/4/ee91d81f3c7bb7844f2cad5849d3e0b2.m3u8",
+      "urlOkru": "https://1a-1791.com/video/fww1/ac/s8/2/c/T/Z/K/cTZKA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=329300480-329325467",
+      "rumbleUrl": "https://rumble.com/v7dg94y-cerca-47.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 48",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/9a0f603c5600a90faf8b53993d512d66.m3u8",
+      "urlOkru": "https://1a-1791.com/video/fww1/ed/s8/2/G/8/x/L/G8xLA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1281165824-1281190925",
+      "rumbleUrl": "https://rumble.com/v7djfog-cerca-48.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 49",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/3bf8d2c210200aaf99c9c31c707b1b2f.m3u8",
+      "urlOkru": "https://1a-1791.com/video/fww1/14/s8/2/I/8/x/L/I8xLA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1278438912-1278464001",
+      "rumbleUrl": "https://rumble.com/v7djfoi-cerca-49.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 50",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/538f7a7b0fb062290287e0c59917810b.m3u8",
+      "urlOkru": "https://1a-1791.com/video/fwe2/21/s8/2/G/4/i/M/G4iMA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1292476928-1292502341",
+      "rumbleUrl": "https://rumble.com/v7dnqcg-cerca-50.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 51",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/daede8c27cbf891845f6a9ceb42c5f4f.m3u8",
+      "urlOkru": "https://1a-1791.com/video/fwe2/51/s8/2/G/6/W/M/G6WMA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1283631104-1283656308",
+      "rumbleUrl": "https://rumble.com/v7dr8v4-cerca-51.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 52",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/4c073bb9d0aa8f5f42a5e7fce6bbcd20.m3u8",
+      "urlOkru": "https://1a-1791.com/video/fwe2/a2/s8/2/2/6/W/M/26WMA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1273928192-1273953195",
+      "rumbleUrl": "https://rumble.com/v7dr8vq-cerca-52.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 53",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/0a75b02ceb81f82adfe1172439a3254c.m3u8",
+      "urlOkru": "https://1a-1791.com/video/fwe2/42/s8/2/0/B/w/N/0BwNA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1287707648-1287732959",
+      "rumbleUrl": "https://rumble.com/v7dujg4-cerca-53.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 54",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/1c76501c833ddabcb97c5295ec13d580.m3u8",
+      "urlOkru": "https://1a-1791.com/video/fwe2/28/s8/2/8/B/w/N/8BwNA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1294930944-1294956363",
+      "rumbleUrl": "https://rumble.com/v7dujgc-cerca-54.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 55",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/4/f2bd85a31ff51d9aed1bc14850c5487d.m3u8",
+      "urlOkru": "https://1a-1791.com/video/fww1/ff/s8/2/M/L/G/O/MLGOA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1269709824-1269734723",
+      "rumbleUrl": "https://rumble.com/v7e11t2-cerca-55.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 56",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/d963b2210f45f62884030567d7e23f00.m3u8",
+      "urlOkru": "https://1a-1791.com/video/fww1/2f/s8/2/S/L/G/O/SLGOA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1264003584-1264028483",
+      "rumbleUrl": "https://rumble.com/v7e11t8-cerca-56.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 57",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/4/e415a6278bded4035959e45b9511b1ea.m3u8",
+      "urlOkru": "https://1a-1791.com/video/fwe2/be/s8/2/O/w/n/P/OwnPA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=660688384-660713228",
+      "rumbleUrl": "https://rumble.com/v7e4zag-cerca-57.html",
       "titulo": ""
     },
     {
       "numero": "Capítulo 58",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/143856bcefedb381ffa0dc3af71ee5c6.m3u8",
+      "urlOkru": "https://1a-1791.com/video/fww1/35/s8/2/Y/w/n/P/YwnPA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=669594112-669619269",
+      "rumbleUrl": "https://rumble.com/v7e4zaq-cerca-58.html",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 59",
+      "urlOkru": "https://1a-1791.com/video/fww1/20/s8/2/y/m/o/R/ymoRA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1272908800-1272933784",
+      "rumbleUrl": "https://rumble.com/v7egahk-cerca-59.html",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 60",
+      "urlOkru": "https://1a-1791.com/video/fwe2/c6/s8/2/C/m/o/R/CmoRA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1245070848-1245095329",
+      "rumbleUrl": "https://rumble.com/v7egaho-cerca-60.html",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 61",
+      "urlOkru": "https://1a-1791.com/video/fwe2/d4/s8/2/I/m/o/R/ImoRA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=658783744-658808484",
+      "rumbleUrl": "https://rumble.com/v7egahu-cerca-61.html",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 62",
+      "urlOkru": "https://1a-1791.com/video/fww1/97/s8/2/S/m/o/R/SmoRA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=665376768-665401719",
+      "rumbleUrl": "https://rumble.com/v7egai4-cerca-62.html",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 63",
+      "urlOkru": "https://1a-1791.com/video/fwe2/28/s8/2/Y/m/o/R/YmoRA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1273566720-1273591818",
+      "rumbleUrl": "https://rumble.com/v7egaia-cerca-63.html",
       "titulo": ""
     }
   ]
