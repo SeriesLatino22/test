@@ -5,5 +5,11 @@
     "el_senor_de_los_cielos_t10"
   ],
   "isFullCatalogUpdate": false,
-  "priorityNovelas": []
+  "priorityNovelas": [
+    {
+      "id": "rosario_tijeras_5_mexico",
+      "title": "Rosario Tijeras 5",
+      "posterUrl": "https://app.latino7.com/cdn/posters/rosa5.webp"
+    }
+  ]
 }
