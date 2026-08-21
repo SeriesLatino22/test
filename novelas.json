@@ -13,7 +13,7 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/el_senor_de_los_cielos_t10_s1.json",
-        "episodesCount": 28
+        "episodesCount": 33
       }
     ],
     "episodesCount": 27
@@ -80,7 +80,7 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/pa_seguirte_queriendo_s1.json",
-        "episodesCount": 16
+        "episodesCount": 21
       }
     ],
     "episodesCount": 16
@@ -99,7 +99,7 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_renacer_de_luna_s1.json",
-        "episodesCount": 38
+        "episodesCount": 43
       }
     ],
     "episodesCount": 38
@@ -118,7 +118,7 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/guardian_de_mi_vida_s1.json",
-        "episodesCount": 62
+        "episodesCount": 68
       }
     ],
     "episodesCount": 62
@@ -143,7 +143,7 @@
         "seasonNumber": 2,
         "name": "Temporada 2",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/lejos_de_ti_t2_s2.json",
-        "episodesCount": 22
+        "episodesCount": 24
       }
     ],
     "episodesCount": 97
@@ -162,7 +162,7 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/tan_cerca_de_ti_nace_el_amor_s1.json",
-        "episodesCount": 58
+        "episodesCount": 63
       }
     ],
     "episodesCount": 58
