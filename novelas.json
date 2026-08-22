@@ -25,30 +25,30 @@
     "ribbon": "GRAN ESTRENO",
     "defaultSeason": 5,
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/rosa5.webp",
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/rosario_tijeras_5_mexico_s1.json",
+    "targetUrl": "https://ww1.123flmsfree.com/es/detail/drama/bzyWuREFqKcpWjvaHDs3m-Rosario-Tijeras-Season-1",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/rosario_tijeras_5_mexico_s1.json",
+        "jsonUrl": "https://ww1.123flmsfree.com/es/detail/drama/bzyWuREFqKcpWjvaHDs3m-Rosario-Tijeras-Season-1",
         "hasAdOverride": false
       },
       {
         "seasonNumber": 2,
         "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/rosario_tijeras_5_mexico_s2.json",
+        "jsonUrl": "https://ww1.123flmsfree.com/es/detail/drama/8iTxRrGBuAhJIcsrFsu8c-Rosario-Tijeras-Season-2",
         "hasAdOverride": false
       },
       {
         "seasonNumber": 3,
         "name": "Temporada 3",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/rosario_tijeras_5_mexico_s3.json",
+        "jsonUrl": "https://ww1.123flmsfree.com/es/detail/drama/tXuB8bnEjwm3LkEYWEhD2-Rosario-Tijeras-Season-3",
         "hasAdOverride": false
       },
       {
         "seasonNumber": 4,
         "name": "Temporada 4",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/rosario_tijeras_5_mexico_s4.json",
+        "jsonUrl": "https://ww1.123flmsfree.com/es/detail/drama/JzFc9AVOrv4FxrZJbyTi9-Rosario-Tijeras-Season-4",
         "hasAdOverride": false
       },
       {
