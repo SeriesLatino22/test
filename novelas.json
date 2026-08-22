@@ -151,13 +151,13 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/cercatiN.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/tan_cerca_de_ti_nace_el_amor_s1.json",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/tan_cerca_de_ti_nace_el_amor_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/tan_cerca_de_ti_nace_el_amor_s1.json",
-        "episodesCount": 63
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/tan_cerca_de_ti_nace_el_amor_s1.json",
+        "episodesCount": 64
       }
     ],
     "episodesCount": 58
