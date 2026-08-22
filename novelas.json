@@ -4,25 +4,26 @@
     "title": "El Señor de los Cielos: T10",
     "category": "Narco Novelas",
     "ribbon": "GRAN ESTRENO",
+    "defaultSeason": 1,
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/senoirrt10.webp",
-    "isPremium": false,
-    "hasAd": false,
     "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/el_senor_de_los_cielos_t10_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/el_senor_de_los_cielos_t10_s1.json",
-        "episodesCount": 33
+        "hasAdOverride": false
       }
     ],
-    "episodesCount": 27
+    "isPremium": true,
+    "hasAd": true
   },
   {
     "id": "rosario_tijeras_5_mexico",
     "title": "Rosario Tijeras 5 [México]",
     "category": "Narco Novelas",
     "ribbon": "GRAN ESTRENO",
+    "defaultSeason": 5,
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/rosa5.webp",
     "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/rosario_tijeras_5_mexico_s1.json",
     "seasons": [
@@ -54,12 +55,6 @@
         "seasonNumber": 5,
         "name": "Temporada 5",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/rosario_tijeras_5_mexico_s5.json",
-        "hasAdOverride": false
-      },
-      {
-        "seasonNumber": 6,
-        "name": "Temporada 6",
-        "jsonUrl": "https://ww1.123flmsfree.com/es/detail/drama/bN3uyz255P6ZZn1DkPNLI-Soy-Luna-Lets-Roll-Again[AR-SUB]",
         "hasAdOverride": true
       }
     ],
@@ -128,25 +123,25 @@
     "title": "Lejos de ti T2",
     "category": "Recién agregadas",
     "ribbon": "GRAN ESTRENO",
+    "defaultSeason": 1,
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/lejosdeti2.webp",
-    "isPremium": false,
-    "hasAd": false,
     "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/lejos_de_ti_t2_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/lejos_de_ti_t2_s1.json",
-        "episodesCount": 75
+        "hasAdOverride": false
       },
       {
         "seasonNumber": 2,
         "name": "Temporada 2",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/lejos_de_ti_t2_s2.json",
-        "episodesCount": 24
+        "hasAdOverride": true
       }
     ],
-    "episodesCount": 97
+    "isPremium": false,
+    "hasAd": false
   },
   {
     "id": "tan_cerca_de_ti_nace_el_amor",
@@ -185,6 +180,49 @@
       }
     ],
     "episodesCount": 79
+  },
+  {
+    "id": "betty_la_fea_fans",
+    "title": "Betty la fea - Fans",
+    "category": "Colombianas",
+    "ribbon": "FINALIZADO",
+    "defaultSeason": 1,
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/betty.webp",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/betty_la_fea_fans_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Betty la fea 1999",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/betty_la_fea_fans_s1.json",
+        "hasAdOverride": false
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Betty la fea 1999 ( extendida )",
+        "jsonUrl": "https://ww20.321moviesfree.com/es/detail/drama/zikIWF6AAD8E7LrjVMhuD-I-Am-Betty-the-Ugly-GirlUgly-Betty-Season-1/1",
+        "hasAdOverride": true
+      },
+      {
+        "seasonNumber": 3,
+        "name": "Ecomoda 2001",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/betty_la_fea_fans_s2.json",
+        "hasAdOverride": false
+      },
+      {
+        "seasonNumber": 4,
+        "name": "Betty la fea 2024",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/betty_la_fea_fans_s3.json",
+        "hasAdOverride": false
+      },
+      {
+        "seasonNumber": 5,
+        "name": "Betty la fea 2025",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/betty_la_fea_fans_s4.json",
+        "hasAdOverride": false
+      }
+    ],
+    "isPremium": true,
+    "hasAd": false
   },
   {
     "id": "lobo_morir_matando",
@@ -228,20 +266,20 @@
     "id": "los_encantos_del_sinverguenza",
     "title": "Los Encantos del Sinvergüenza",
     "category": "Recién agregadas",
-    "ribbon": "GRAN ESTRENO",
+    "ribbon": "NINGUNA",
+    "defaultSeason": 1,
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/encantImg.webp",
-    "isPremium": false,
-    "hasAd": false,
     "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/los_encantos_del_sinverguenza_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/los_encantos_del_sinverguenza_s1.json",
-        "episodesCount": 20
+        "hasAdOverride": false
       }
     ],
-    "episodesCount": 20
+    "isPremium": false,
+    "hasAd": false
   },
   {
     "id": "mi_rival",
@@ -489,43 +527,6 @@
       }
     ],
     "episodesCount": 100
-  },
-  {
-    "id": "betty_la_fea_fans",
-    "title": "Betty la fea - Fans",
-    "category": "Colombianas",
-    "ribbon": "FINALIZADO",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/betty.webp",
-    "isPremium": false,
-    "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/betty_la_fea_fans_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Betty la fea 1999",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/betty_la_fea_fans_s1.json",
-        "episodesCount": 169
-      },
-      {
-        "seasonNumber": 2,
-        "name": "Ecomoda 2001",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/betty_la_fea_fans_s2.json",
-        "episodesCount": 13
-      },
-      {
-        "seasonNumber": 3,
-        "name": "Betty la fea 2024",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/betty_la_fea_fans_s3.json",
-        "episodesCount": 10
-      },
-      {
-        "seasonNumber": 4,
-        "name": "Betty la fea 2025",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/betty_la_fea_fans_s4.json",
-        "episodesCount": 10
-      }
-    ],
-    "episodesCount": 202
   },
   {
     "id": "la_hija_del_mariachi_2025",
