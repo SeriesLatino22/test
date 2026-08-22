@@ -1,8 +1,10 @@
 {
-  "catalogVersion": 1787366135118,
+  "catalogVersion": 1787410030323,
   "notifsVersion": 1787311492007,
-  "updatedNovelaIds": [],
-  "isFullCatalogUpdate": true,
+  "updatedNovelaIds": [
+    "tan_cerca_de_ti_nace_el_amor"
+  ],
+  "isFullCatalogUpdate": false,
   "priorityNovelas": [
     {
       "id": "el_senor_de_los_cielos_t10",
