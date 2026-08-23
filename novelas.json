@@ -68,12 +68,12 @@
     "ribbon": "GRAN ESTRENO",
     "defaultSeason": 1,
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/queirnedo22im.webp",
-    "targetUrl": "https://canela.tv/tvseries/el-otro-lado-del-paraiso",
+    "targetUrl": "https://canela.tv/tvseries/amores-que-enganan",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://canela.tv/tvseries/el-otro-lado-del-paraiso",
+        "jsonUrl": "https://canela.tv/tvseries/amores-que-enganan",
         "hasAdOverride": false
       }
     ],
