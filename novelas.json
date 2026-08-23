@@ -66,19 +66,19 @@
     "title": "Pa’ seguirte queriendo",
     "category": "Recién agregadas",
     "ribbon": "GRAN ESTRENO",
+    "defaultSeason": 1,
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/queirnedo22im.webp",
-    "isPremium": false,
-    "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/pa_seguirte_queriendo_s1.json",
+    "targetUrl": "https://peliculaplay.com/es/detail/drama/ZTj34N3mpIC3vxtzbURwS-Pa-Seguirte-Queriendo",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/pa_seguirte_queriendo_s1.json",
-        "episodesCount": 21
+        "jsonUrl": "https://peliculaplay.com/es/detail/drama/ZTj34N3mpIC3vxtzbURwS-Pa-Seguirte-Queriendo",
+        "hasAdOverride": false
       }
     ],
-    "episodesCount": 16
+    "isPremium": false,
+    "hasAd": false
   },
   {
     "id": "el_renacer_de_luna",
