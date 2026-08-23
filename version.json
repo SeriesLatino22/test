@@ -1,8 +1,10 @@
 {
-  "catalogVersion": 1787482612612,
+  "catalogVersion": 1787482627210,
   "notifsVersion": 1787311492007,
-  "updatedNovelaIds": [],
-  "isFullCatalogUpdate": true,
+  "updatedNovelaIds": [
+    "pa_seguirte_queriendo"
+  ],
+  "isFullCatalogUpdate": false,
   "priorityNovelas": [
     {
       "id": "el_senor_de_los_cielos_t10",
