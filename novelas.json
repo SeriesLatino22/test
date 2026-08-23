@@ -68,12 +68,12 @@
     "ribbon": "GRAN ESTRENO",
     "defaultSeason": 1,
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/queirnedo22im.webp",
-    "targetUrl": "https://canela.tv/tvseries/tierra-indomable",
+    "targetUrl": "https://canela.tv/tvseries/el-otro-lado-del-paraiso",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://canela.tv/tvseries/tierra-indomable",
+        "jsonUrl": "https://canela.tv/tvseries/el-otro-lado-del-paraiso",
         "hasAdOverride": false
       }
     ],
