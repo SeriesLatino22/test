@@ -1438,19 +1438,19 @@
     "title": "El Bronx",
     "category": "Colombianas",
     "ribbon": "NINGUNA",
+    "defaultSeason": 1,
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/elbronx.webp",
-    "isPremium": false,
-    "hasAd": false,
     "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_bronx_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_bronx_s1.json",
-        "episodesCount": 82
+        "hasAdOverride": false
       }
     ],
-    "episodesCount": 82
+    "isPremium": false,
+    "hasAd": true
   },
   {
     "id": "vecinos",
