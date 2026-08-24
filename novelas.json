@@ -922,19 +922,19 @@
     "title": "El desconocido",
     "category": "Recién agregadas",
     "ribbon": "NINGUNA",
+    "defaultSeason": 1,
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/eldesconocido.webp",
-    "isPremium": false,
-    "hasAd": false,
     "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_desconocido_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_desconocido_s1.json",
-        "episodesCount": 13
+        "hasAdOverride": false
       }
     ],
-    "episodesCount": 13
+    "isPremium": false,
+    "hasAd": true
   },
   {
     "id": "nuevo_rico_nuevo_pobre",
