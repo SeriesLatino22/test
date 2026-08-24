@@ -1017,25 +1017,25 @@
     "title": "Pedro el escamoso",
     "category": "Colombianas",
     "ribbon": "FINALIZADO",
+    "defaultSeason": 1,
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/pedro.webp",
-    "isPremium": false,
-    "hasAd": false,
     "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/pedro_el_escamoso_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/pedro_el_escamoso_s1.json",
-        "episodesCount": 206
+        "hasAdOverride": false
       },
       {
         "seasonNumber": 2,
         "name": "Temporada 2",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/pedro_el_escamoso_s2.json",
-        "episodesCount": 23
+        "hasAdOverride": false
       }
     ],
-    "episodesCount": 229
+    "isPremium": false,
+    "hasAd": false
   },
   {
     "id": "papa_soltero",
