@@ -26,37 +26,37 @@
     "ribbon": "GRAN ESTRENO",
     "defaultSeason": 5,
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/rosa5.webp",
-    "targetUrl": "https://ww1.123flmsfree.com/es/detail/drama/bzyWuREFqKcpWjvaHDs3m-Rosario-Tijeras-Season-1",
+    "targetUrl": "https://app.latino7.com/cdn/chapters/1/rosario_tijeras_5_mexico_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://ww1.123flmsfree.com/es/detail/drama/bzyWuREFqKcpWjvaHDs3m-Rosario-Tijeras-Season-1",
-        "hasAdOverride": false
+        "jsonUrl": "https://app.latino7.com/cdn/chapters/1/rosario_tijeras_5_mexico_s1.json",
+        "episodesCount": 60
       },
       {
         "seasonNumber": 2,
         "name": "Temporada 2",
-        "jsonUrl": "https://ww1.123flmsfree.com/es/detail/drama/8iTxRrGBuAhJIcsrFsu8c-Rosario-Tijeras-Season-2",
-        "hasAdOverride": false
+        "jsonUrl": "https://app.latino7.com/cdn/chapters/1/rosario_tijeras_5_mexico_s2.json",
+        "episodesCount": 67
       },
       {
         "seasonNumber": 3,
         "name": "Temporada 3",
-        "jsonUrl": "https://ww1.123flmsfree.com/es/detail/drama/tXuB8bnEjwm3LkEYWEhD2-Rosario-Tijeras-Season-3",
-        "hasAdOverride": false
+        "jsonUrl": "https://app.latino7.com/cdn/chapters/1/rosario_tijeras_5_mexico_s3.json",
+        "episodesCount": 70
       },
       {
         "seasonNumber": 4,
         "name": "Temporada 4",
-        "jsonUrl": "https://ww1.123flmsfree.com/es/detail/drama/JzFc9AVOrv4FxrZJbyTi9-Rosario-Tijeras-Season-4",
-        "hasAdOverride": false
+        "jsonUrl": "https://app.latino7.com/cdn/chapters/1/rosario_tijeras_5_mexico_s4.json",
+        "episodesCount": 40
       },
       {
         "seasonNumber": 5,
         "name": "Temporada 5",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/rosario_tijeras_5_mexico_s5.json",
-        "hasAdOverride": true
+        "jsonUrl": "https://app.latino7.com/cdn/chapters/1/rosario_tijeras_5_mexico_s5.json",
+        "episodesCount": 39
       }
     ],
     "isPremium": true,
@@ -69,13 +69,14 @@
     "ribbon": "GRAN ESTRENO",
     "defaultSeason": 1,
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/queirnedo22im.webp",
-    "targetUrl": "https://peliculaplay.com/es/detail/drama/ZTj34N3mpIC3vxtzbURwS-Pa-Seguirte-Queriendo",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/pa_seguirte_queriendo_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://peliculaplay.com/es/detail/drama/ZTj34N3mpIC3vxtzbURwS-Pa-Seguirte-Queriendo",
-        "hasAdOverride": false
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/pa_seguirte_queriendo_s1.json",
+        "hasAdOverride": false,
+        "episodesCount": 60
       }
     ],
     "isPremium": false,
@@ -201,8 +202,9 @@
       {
         "seasonNumber": 2,
         "name": "Betty la fea 1999 ( extendida )",
-        "jsonUrl": "https://ww20.321moviesfree.com/es/detail/drama/zikIWF6AAD8E7LrjVMhuD-I-Am-Betty-the-Ugly-GirlUgly-Betty-Season-1/1",
-        "hasAdOverride": true
+        "jsonUrl": "https://app.latino7.com/cdn/chapters/1/betty_la_fea_fans_s2.json",
+        "hasAdOverride": true,
+        "episodesCount": 335
       },
       {
         "seasonNumber": 3,
