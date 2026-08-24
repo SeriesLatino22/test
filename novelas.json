@@ -1205,19 +1205,19 @@
     "title": "Desafío del Siglo XXI",
     "category": "Recién agregadas",
     "ribbon": "GRAN ESTRENO",
+    "defaultSeason": 1,
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/defPort2.webp",
-    "isPremium": false,
-    "hasAd": false,
     "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/desafio_del_siglo_xxi_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/desafio_del_siglo_xxi_s1.json",
-        "episodesCount": 137
+        "hasAdOverride": false
       }
     ],
-    "episodesCount": 137
+    "isPremium": false,
+    "hasAd": true
   },
   {
     "id": "lejos_de_ti",
