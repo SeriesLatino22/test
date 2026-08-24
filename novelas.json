@@ -404,19 +404,19 @@
     "title": "Dinastía Casillas",
     "category": "Recién agregadas",
     "ribbon": "FINALIZADO",
+    "defaultSeason": 1,
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/dinastiaIMG.webp",
-    "isPremium": false,
-    "hasAd": false,
     "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/dinastia_casillas_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/dinastia_casillas_s1.json",
-        "episodesCount": 88
+        "hasAdOverride": false
       }
     ],
-    "episodesCount": 88
+    "isPremium": false,
+    "hasAd": true
   },
   {
     "id": "domenica_montero",
