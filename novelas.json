@@ -32,31 +32,31 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://app.latino7.com/cdn/chapters/1/rosario_tijeras_5_mexico_s1.json",
-        "episodesCount": 60
+        "hasAdOverride": false
       },
       {
         "seasonNumber": 2,
         "name": "Temporada 2",
         "jsonUrl": "https://app.latino7.com/cdn/chapters/1/rosario_tijeras_5_mexico_s2.json",
-        "episodesCount": 67
+        "hasAdOverride": false
       },
       {
         "seasonNumber": 3,
         "name": "Temporada 3",
         "jsonUrl": "https://app.latino7.com/cdn/chapters/1/rosario_tijeras_5_mexico_s3.json",
-        "episodesCount": 70
+        "hasAdOverride": false
       },
       {
         "seasonNumber": 4,
         "name": "Temporada 4",
         "jsonUrl": "https://app.latino7.com/cdn/chapters/1/rosario_tijeras_5_mexico_s4.json",
-        "episodesCount": 40
+        "hasAdOverride": false
       },
       {
         "seasonNumber": 5,
         "name": "Temporada 5",
         "jsonUrl": "https://app.latino7.com/cdn/chapters/1/rosario_tijeras_5_mexico_s5.json",
-        "episodesCount": 39
+        "hasAdOverride": false
       }
     ],
     "isPremium": true,
