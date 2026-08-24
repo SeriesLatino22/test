@@ -1080,31 +1080,31 @@
     "title": "Mujeres asesinas",
     "category": "Recién agregadas",
     "ribbon": "FINALIZADO",
+    "defaultSeason": 1,
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/mujeres2.webp",
-    "isPremium": false,
-    "hasAd": false,
     "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/mujeres_asesinas_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/mujeres_asesinas_s1.json",
-        "episodesCount": 8
+        "hasAdOverride": false
       },
       {
         "seasonNumber": 2,
         "name": "Temporada 2",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/mujeres_asesinas_s2.json",
-        "episodesCount": 8
+        "hasAdOverride": false
       },
       {
         "seasonNumber": 3,
         "name": "Temporada 3",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/mujeres_asesinas_s3.json",
-        "episodesCount": 8
+        "hasAdOverride": false
       }
     ],
-    "episodesCount": 24
+    "isPremium": false,
+    "hasAd": true
   },
   {
     "id": "la_venganza_de_analia_2",
