@@ -707,19 +707,19 @@
     "title": "Cautiva por amor",
     "category": "Recién agregadas",
     "ribbon": "FINALIZADO",
+    "defaultSeason": 1,
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/cautiva2.webp",
-    "isPremium": false,
-    "hasAd": false,
     "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/cautiva_por_amor_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/cautiva_por_amor_s1.json",
-        "episodesCount": 66
+        "hasAdOverride": false
       }
     ],
-    "episodesCount": 66
+    "isPremium": false,
+    "hasAd": true
   },
   {
     "id": "sed_de_venganza",
