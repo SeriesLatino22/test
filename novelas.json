@@ -587,25 +587,25 @@
     "title": "Pasión de gavilanes T1-T2",
     "category": "Colombianas",
     "ribbon": "NINGUNA",
+    "defaultSeason": 1,
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/pasionImg.webp",
-    "isPremium": false,
-    "hasAd": false,
     "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/pasion_de_gavilanes_t1_t2_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/pasion_de_gavilanes_t1_t2_s1.json",
-        "episodesCount": 188
+        "hasAdOverride": false
       },
       {
         "seasonNumber": 2,
         "name": "Temporada 2",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/pasion_de_gavilanes_t1_t2_s2.json",
-        "episodesCount": 71
+        "hasAdOverride": false
       }
     ],
-    "episodesCount": 259
+    "isPremium": false,
+    "hasAd": true
   },
   {
     "id": "nuevos_amores_de_mercado",
