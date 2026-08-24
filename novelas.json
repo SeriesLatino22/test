@@ -69,13 +69,14 @@
     "ribbon": "GRAN ESTRENO",
     "defaultSeason": 1,
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/queirnedo22im.webp",
-    "targetUrl": "https://peliculaplay.com/es/detail/drama/ZTj34N3mpIC3vxtzbURwS-Pa-Seguirte-Queriendo",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/pa_seguirte_queriendo_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://peliculaplay.com/es/detail/drama/ZTj34N3mpIC3vxtzbURwS-Pa-Seguirte-Queriendo",
-        "hasAdOverride": false
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/pa_seguirte_queriendo_s1.json",
+        "hasAdOverride": false,
+        "episodesCount": 22
       }
     ],
     "isPremium": false,
