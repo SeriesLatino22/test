@@ -1,9 +1,7 @@
 {
-  "catalogVersion": 1787760086063,
+  "catalogVersion": 1787760114975,
   "notifsVersion": 1787752730348,
-  "updatedNovelaIds": [
-    "rosario_tijeras_5_mexico"
-  ],
-  "isFullCatalogUpdate": false,
+  "updatedNovelaIds": [],
+  "isFullCatalogUpdate": true,
   "priorityNovelas": []
 }
