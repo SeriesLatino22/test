@@ -1,45 +1,9 @@
 {
-  "catalogVersion": 1787730343460,
-  "notifsVersion": 1787311492007,
+  "catalogVersion": 1787752730348,
+  "notifsVersion": 1787752730348,
   "updatedNovelaIds": [
+    "rosario_tijeras_5_mexico",
     "betty_la_fea_fans"
   ],
-  "isFullCatalogUpdate": false,
-  "priorityNovelas": [
-    {
-      "id": "el_senor_de_los_cielos_t10",
-      "title": "El Señor de los Cielos: T10",
-      "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/senoirrt10.webp"
-    },
-    {
-      "id": "guardian_de_mi_vida",
-      "title": "Guardián de mi vida",
-      "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/guardiIMG2.webp"
-    },
-    {
-      "id": "tan_cerca_de_ti_nace_el_amor",
-      "title": "Tan cerca de ti, nace el amor",
-      "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/cercatiN.webp"
-    },
-    {
-      "id": "el_renacer_de_luna",
-      "title": "El renacer de Luna",
-      "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/renacerIMG.webp"
-    },
-    {
-      "id": "lejos_de_ti_t2",
-      "title": "Lejos de ti T2",
-      "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/lejosdeti2.webp"
-    },
-    {
-      "id": "pa_seguirte_queriendo",
-      "title": "Pa’ seguirte queriendo",
-      "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/queirnedo22im.webp"
-    },
-    {
-      "id": "rosario_tijeras_5_mexico",
-      "title": "Rosario Tijeras 5 [México]",
-      "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/rosa5.webp"
-    }
-  ]
+  "isFullCatalogUpdate": true
 }
