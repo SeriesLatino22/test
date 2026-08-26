@@ -26,13 +26,14 @@
     "ribbon": "GRAN ESTRENO",
     "defaultSeason": 5,
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/rosa5.webp",
-    "targetUrl": "https://app.latino7.com/cdn/chapters/1/rosario_tijeras_5_mexico_s1.json",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/rosario_tijeras_5_mexico_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://app.latino7.com/cdn/chapters/1/rosario_tijeras_5_mexico_s1.json",
-        "hasAdOverride": false
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/rosario_tijeras_5_mexico_s1.json",
+        "hasAdOverride": false,
+        "episodesCount": 60
       },
       {
         "seasonNumber": 2,
