@@ -1,8 +1,10 @@
 {
-  "catalogVersion": 1787728244015,
+  "catalogVersion": 1787728252541,
   "notifsVersion": 1787311492007,
-  "updatedNovelaIds": [],
-  "isFullCatalogUpdate": true,
+  "updatedNovelaIds": [
+    "betty_la_fea_fans"
+  ],
+  "isFullCatalogUpdate": false,
   "priorityNovelas": [
     {
       "id": "el_senor_de_los_cielos_t10",
