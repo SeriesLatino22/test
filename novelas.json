@@ -192,13 +192,14 @@
     "ribbon": "FINALIZADO",
     "defaultSeason": 1,
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/betty.webp",
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/betty_la_fea_fans_s1.json",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/betty_la_fea_fans_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Betty la fea 1999",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/betty_la_fea_fans_s1.json",
-        "hasAdOverride": false
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/betty_la_fea_fans_s1.json",
+        "hasAdOverride": false,
+        "episodesCount": 169
       },
       {
         "seasonNumber": 2,
