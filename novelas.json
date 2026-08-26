@@ -56,8 +56,9 @@
       {
         "seasonNumber": 5,
         "name": "Temporada 5",
-        "jsonUrl": "https://app.latino7.com/cdn/chapters/1/rosario_tijeras_5_mexico_s5.json",
-        "hasAdOverride": false
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/rosario_tijeras_5_mexico_s5.json",
+        "hasAdOverride": false,
+        "episodesCount": 40
       }
     ],
     "isPremium": true,
