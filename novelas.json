@@ -109,13 +109,13 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/guardiIMG2.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/guardian_de_mi_vida_s1.json",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/guardian_de_mi_vida_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/guardian_de_mi_vida_s1.json",
-        "episodesCount": 68
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/guardian_de_mi_vida_s1.json",
+        "episodesCount": 71
       }
     ],
     "episodesCount": 62
