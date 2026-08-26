@@ -1,9 +1,9 @@
 {
-  "catalogVersion": 1787752730348,
+  "catalogVersion": 1787752828442,
   "notifsVersion": 1787752730348,
   "updatedNovelaIds": [
-    "rosario_tijeras_5_mexico",
-    "betty_la_fea_fans"
+    "rosario_tijeras_5_mexico"
   ],
-  "isFullCatalogUpdate": true
+  "isFullCatalogUpdate": false,
+  "priorityNovelas": []
 }
