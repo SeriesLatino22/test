@@ -1,10 +1,8 @@
 {
-  "catalogVersion": 1787728225749,
+  "catalogVersion": 1787728244015,
   "notifsVersion": 1787311492007,
-  "updatedNovelaIds": [
-    "rosario_tijeras_5_mexico"
-  ],
-  "isFullCatalogUpdate": false,
+  "updatedNovelaIds": [],
+  "isFullCatalogUpdate": true,
   "priorityNovelas": [
     {
       "id": "el_senor_de_los_cielos_t10",
