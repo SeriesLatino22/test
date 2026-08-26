@@ -203,8 +203,9 @@
       {
         "seasonNumber": 2,
         "name": "Betty la fea 1999 ( extendida )",
-        "jsonUrl": "https://app.latino7.com/cdn/chapters/1/betty_la_fea_fans_s2.json",
-        "hasAdOverride": false
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/betty_la_fea_fans_s2.json",
+        "hasAdOverride": false,
+        "episodesCount": 335
       },
       {
         "seasonNumber": 3,
