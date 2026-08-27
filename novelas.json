@@ -6,7 +6,7 @@
     "ribbon": "GRAN ESTRENO",
     "defaultSeason": 10,
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/senoirrt10.webp",
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/el_senor_de_los_cielos_t10_s1.json",
+    "targetUrl": "https://flixlat.com/es/detail/drama/kfbCzob4Pb3GnjEa5slgT-El-Se%C3%B1or-de-los-Cielos-season-1",
     "seasons": [
       {
         "seasonNumber": 1,
@@ -66,8 +66,7 @@
         "seasonNumber": 10,
         "name": "Temporada 10",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/el_senor_de_los_cielos_t10_s10.json",
-        "hasAdOverride": false,
-        "episodesCount": 28
+        "hasAdOverride": false
       }
     ],
     "isPremium": true,
