@@ -902,19 +902,31 @@
     "title": "Sin senos si hay paraiso T1",
     "category": "Narco Novelas",
     "ribbon": "NINGUNA",
+    "defaultSeason": 1,
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/sinsenos.webp",
-    "isPremium": false,
-    "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/sin_senos_si_hay_paraiso_t1_s1.json",
+    "targetUrl": "https://es.cuevana4br.com/es/detail/drama/n1xlOzQEvsdedmaGGNl4O-Sin-Senos-S%C3%AD-Hay-Para%C3%ADso-Season-1",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/sin_senos_si_hay_paraiso_t1_s1.json",
-        "episodesCount": 90
+        "jsonUrl": "https://es.cuevana4br.com/es/detail/drama/n1xlOzQEvsdedmaGGNl4O-Sin-Senos-S%C3%AD-Hay-Para%C3%ADso-Season-1",
+        "hasAdOverride": false
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Temporada 2",
+        "jsonUrl": "https://es.cuevana4br.com/es/detail/drama/0488OmaFglNeNTmLmpjLY-Sin-Senos-S%C3%AD-Hay-Para%C3%ADso-Season-2",
+        "hasAdOverride": false
+      },
+      {
+        "seasonNumber": 3,
+        "name": "Temporada 3",
+        "jsonUrl": "https://es.cuevana4br.com/es/detail/drama/JU3Et790HjqFNx1CaE6sJ-Sin-Senos-S%C3%AD-Hay-Para%C3%ADso-Season-3",
+        "hasAdOverride": false
       }
     ],
-    "episodesCount": 90
+    "isPremium": false,
+    "hasAd": true
   },
   {
     "id": "el_desconocido",
