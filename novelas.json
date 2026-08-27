@@ -6,60 +6,61 @@
     "ribbon": "GRAN ESTRENO",
     "defaultSeason": 10,
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/senoirrt10.webp",
-    "targetUrl": "https://flixlat.com/es/detail/drama/kfbCzob4Pb3GnjEa5slgT-El-Se%C3%B1or-de-los-Cielos-season-1",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/el_senor_de_los_cielos_t10_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://flixlat.com/es/detail/drama/kfbCzob4Pb3GnjEa5slgT-El-Se%C3%B1or-de-los-Cielos-season-1",
-        "hasAdOverride": false
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/el_senor_de_los_cielos_t10_s1.json",
+        "hasAdOverride": false,
+        "episodesCount": 74
       },
       {
         "seasonNumber": 2,
         "name": "Temporada 2",
-        "jsonUrl": "https://flixlat.com/es/detail/drama/6231xk99bbWvhS0FrPS9t-El-Se%C3%B1or-de-los-Cielos-season-2",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_senor_de_los_cielos_t10_s2.json",
         "hasAdOverride": false
       },
       {
         "seasonNumber": 3,
         "name": "Temporada 3",
-        "jsonUrl": "https://flixlat.com/es/detail/drama/YFfPtq1pKpnpUflxbXwz5-El-Se%C3%B1or-de-los-Cielos-season-3",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_senor_de_los_cielos_t10_s3.json",
         "hasAdOverride": false
       },
       {
         "seasonNumber": 4,
         "name": "Temporada 4",
-        "jsonUrl": "https://flixlat.com/es/detail/drama/SwUXxlDS0Z4l2n4UDG0L8-El-Se%C3%B1or-de-los-Cielos-season-4",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_senor_de_los_cielos_t10_s4.json",
         "hasAdOverride": false
       },
       {
         "seasonNumber": 5,
         "name": "Temporada 5",
-        "jsonUrl": "https://flixlat.com/es/detail/drama/Xg1rO7aYppcmHL6Wnp797-El-Se%C3%B1or-de-los-Cielos-season-5",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_senor_de_los_cielos_t10_s5.json",
         "hasAdOverride": false
       },
       {
         "seasonNumber": 6,
         "name": "Temporada 6",
-        "jsonUrl": "https://flixlat.com/es/detail/drama/OWVqDnjGeyczZxlRIdHys-El-Se%C3%B1or-de-los-Cielos-season-6",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_senor_de_los_cielos_t10_s6.json",
         "hasAdOverride": false
       },
       {
         "seasonNumber": 7,
         "name": "Temporada 7",
-        "jsonUrl": "https://flixlat.com/es/detail/drama/oEMHLPISIehIaDZZPeJkr-El-Se%C3%B1or-de-los-Cielos-season-7",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_senor_de_los_cielos_t10_s7.json",
         "hasAdOverride": false
       },
       {
         "seasonNumber": 8,
         "name": "Temporada 8",
-        "jsonUrl": "https://flixlat.com/es/detail/drama/uXqdNUd0yOpQCEEYmxV6Y-El-Se%C3%B1or-de-los-Cielos-season-8",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_senor_de_los_cielos_t10_s8.json",
         "hasAdOverride": false
       },
       {
         "seasonNumber": 9,
         "name": "Temporada 9",
-        "jsonUrl": "https://flixlat.com/es/detail/drama/aFbtFvn8JsU2WpbMCnd9E-El-Se%C3%B1or-de-los-Cielos-season-9[Audio%C2%A0Latino]",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_senor_de_los_cielos_t10_s9.json",
         "hasAdOverride": false
       },
       {
@@ -975,21 +976,23 @@
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/sin_senos_si_hay_paraiso_t1_s1.json",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/sin_senos_si_hay_paraiso_t1_s1.json",
         "hasAdOverride": false,
-        "episodesCount": 60
+        "episodesCount": 90
       },
       {
         "seasonNumber": 2,
         "name": "Temporada 2",
-        "jsonUrl": "https://es.cuevana4br.com/es/detail/drama/0488OmaFglNeNTmLmpjLY-Sin-Senos-S%C3%AD-Hay-Para%C3%ADso-Season-2",
-        "hasAdOverride": false
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/sin_senos_si_hay_paraiso_t1_s2.json",
+        "hasAdOverride": false,
+        "episodesCount": 87
       },
       {
         "seasonNumber": 3,
         "name": "Temporada 3",
-        "jsonUrl": "https://es.cuevana4br.com/es/detail/drama/JU3Et790HjqFNx1CaE6sJ-Sin-Senos-S%C3%AD-Hay-Para%C3%ADso-Season-3",
-        "hasAdOverride": false
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/sin_senos_si_hay_paraiso_t1_s3.json",
+        "hasAdOverride": false,
+        "episodesCount": 63
       }
     ],
     "isPremium": false,
