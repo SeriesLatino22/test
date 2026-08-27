@@ -111,6 +111,12 @@
         "name": "Betty la fea 2025",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/betty_la_fea_fans_s4.json",
         "hasAdOverride": false
+      },
+      {
+        "seasonNumber": 6,
+        "name": "Temporada 6",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/betty_la_fea_fans_s6.json",
+        "episodesCount": 1
       }
     ],
     "isPremium": true,
