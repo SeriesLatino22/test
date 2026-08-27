@@ -1,9 +1,7 @@
 {
-  "catalogVersion": 1787850533976,
+  "catalogVersion": 1787850638584,
   "notifsVersion": 1787752730348,
-  "updatedNovelaIds": [
-    "sin_senos_si_hay_paraiso_t1"
-  ],
-  "isFullCatalogUpdate": false,
+  "updatedNovelaIds": [],
+  "isFullCatalogUpdate": true,
   "priorityNovelas": []
 }
