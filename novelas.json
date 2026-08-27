@@ -1541,6 +1541,26 @@
     "hasAd": true
   },
   {
+    "id": "lady_la_vendedora_de_rosas",
+    "title": "Lady la vendedora de rosas",
+    "category": "Recién agregadas",
+    "ribbon": "NINGUNA",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/lady_la_vendedora_de_rosas.webp",
+    "isPremium": false,
+    "hasAd": false,
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/lady_la_vendedora_de_rosas_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/lady_la_vendedora_de_rosas_s1.json",
+        "episodesCount": 75,
+        "hasAdOverride": false
+      }
+    ],
+    "episodesCount": 75
+  },
+  {
     "id": "vecinos",
     "title": "Vecinos",
     "category": "Colombianas",
@@ -2178,25 +2198,6 @@
       }
     ],
     "episodesCount": 141
-  },
-  {
-    "id": "lady_la_vendedora_de_rosas",
-    "title": "Lady la vendedora de rosas",
-    "category": "Recién agregadas",
-    "ribbon": "NINGUNA",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/lady_la_vendedora_de_rosas.webp",
-    "isPremium": false,
-    "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/lady_la_vendedora_de_rosas_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/lady_la_vendedora_de_rosas_s1.json",
-        "episodesCount": 75
-      }
-    ],
-    "episodesCount": 75
   },
   {
     "id": "lala_s_spa",
