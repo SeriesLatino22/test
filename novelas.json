@@ -766,31 +766,43 @@
     "title": "La reina del sur",
     "category": "Narco Novelas",
     "ribbon": "NINGUNA",
+    "defaultSeason": 1,
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/la_reina_del_sur.webp",
-    "isPremium": false,
-    "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_reina_del_sur_s1.json",
+    "targetUrl": "https://play.cuevana19.com/es/detail/drama/58swGdKVN9UwkfxZ08ELP-Queen-of-the-South-Season-1",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_reina_del_sur_s1.json",
-        "episodesCount": 63
+        "jsonUrl": "https://play.cuevana19.com/es/detail/drama/58swGdKVN9UwkfxZ08ELP-Queen-of-the-South-Season-1",
+        "hasAdOverride": false
       },
       {
         "seasonNumber": 2,
         "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_reina_del_sur_s2.json",
-        "episodesCount": 60
+        "jsonUrl": "https://play.cuevana19.com/es/detail/drama/wdYWl7ASOwNReTI2Jy2ip-Queen-of-the-South-Season-2",
+        "hasAdOverride": false
       },
       {
         "seasonNumber": 3,
         "name": "Temporada 3",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_reina_del_sur_s3.json",
-        "episodesCount": 60
+        "jsonUrl": "https://play.cuevana19.com/es/detail/drama/NyIItmh7LkUtzj5XKrCaN-Queen-of-the-South-Season-3",
+        "hasAdOverride": false
+      },
+      {
+        "seasonNumber": 4,
+        "name": "Temporada 4",
+        "jsonUrl": "https://play.cuevana19.com/es/detail/drama/WrloXBXin2vKnyhdJmy7t-Queen-of-the-South-Season-4",
+        "hasAdOverride": false
+      },
+      {
+        "seasonNumber": 5,
+        "name": "Temporada 5",
+        "jsonUrl": "https://play.cuevana19.com/es/detail/drama/vqqVEYm45uLhHv6U5bLyJ-Queen-of-the-South-Season-5",
+        "hasAdOverride": false
       }
     ],
-    "episodesCount": 183
+    "isPremium": false,
+    "hasAd": true
   },
   {
     "id": "sin_senos_si_hay_paraiso_t1",
