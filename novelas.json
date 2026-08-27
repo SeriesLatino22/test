@@ -96,8 +96,9 @@
       {
         "seasonNumber": 3,
         "name": "Ecomoda 2001",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/betty_la_fea_fans_s2.json",
-        "hasAdOverride": false
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/betty_la_fea_fans_s3.json",
+        "hasAdOverride": false,
+        "episodesCount": 13
       },
       {
         "seasonNumber": 4,
