@@ -67,7 +67,8 @@
         "seasonNumber": 10,
         "name": "Temporada 10",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/el_senor_de_los_cielos_t10_s10.json",
-        "hasAdOverride": false
+        "hasAdOverride": false,
+        "episodesCount": 37
       }
     ],
     "isPremium": true,
@@ -200,7 +201,7 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/el_renacer_de_luna_s1.json",
-        "episodesCount": 43
+        "episodesCount": 48
       }
     ],
     "episodesCount": 38
