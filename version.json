@@ -1,7 +1,9 @@
 {
-  "catalogVersion": 1787850638584,
+  "catalogVersion": 1787850654211,
   "notifsVersion": 1787752730348,
-  "updatedNovelaIds": [],
-  "isFullCatalogUpdate": true,
+  "updatedNovelaIds": [
+    "100_anos_de_soledad"
+  ],
+  "isFullCatalogUpdate": false,
   "priorityNovelas": []
 }
