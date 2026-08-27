@@ -1137,6 +1137,31 @@
     "episodesCount": 107
   },
   {
+    "id": "las_munecas_de_la_mafia_t1_t2",
+    "title": "Las muñecas de la mafia [T1-T2]",
+    "category": "Narco Novelas",
+    "ribbon": "NINGUNA",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/munecas.webp",
+    "isPremium": false,
+    "hasAd": false,
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/las_munecas_de_la_mafia_t1_t2_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/las_munecas_de_la_mafia_t1_t2_s1.json",
+        "episodesCount": 58
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Temporada 2",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/las_munecas_de_la_mafia_t1_t2_s2.json",
+        "episodesCount": 60
+      }
+    ],
+    "episodesCount": 118
+  },
+  {
     "id": "fugitivas",
     "title": "Fugitivas",
     "category": "Mexicanas",
@@ -1255,31 +1280,6 @@
       }
     ],
     "episodesCount": 10
-  },
-  {
-    "id": "las_munecas_de_la_mafia_t1_t2",
-    "title": "Las muñecas de la mafia [T1-T2]",
-    "category": "Narco Novelas",
-    "ribbon": "NINGUNA",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/munecas.webp",
-    "isPremium": false,
-    "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/las_munecas_de_la_mafia_t1_t2_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/las_munecas_de_la_mafia_t1_t2_s1.json",
-        "episodesCount": 58
-      },
-      {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/las_munecas_de_la_mafia_t1_t2_s2.json",
-        "episodesCount": 60
-      }
-    ],
-    "episodesCount": 118
   },
   {
     "id": "pablo_escobar_el_patron_del_mal",
