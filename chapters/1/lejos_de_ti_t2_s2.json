@@ -145,14 +145,24 @@
     {
       "numero": "Capítulo 29",
       "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/44/s8/2/o/a/S/S/oaSSA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=343697408-343723369",
-      "titulo": "",
-      "rumbleUrl": "https://rumble.com/v7eoiz2-lejs-29.html"
+      "titulo": ""
     },
     {
       "numero": "Capítulo 30",
       "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/b7/s8/2/u/a/S/S/uaSSA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=343880192-343906158",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 31",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/78/s8/2/4/M/b/T/4MbTA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=339705344-339731013",
       "titulo": "",
-      "rumbleUrl": "https://rumble.com/v7eoiz8-lejs-30.html"
+      "rumbleUrl": "https://rumble.com/v7eqf94-lejs-31.html"
+    },
+    {
+      "numero": "Capítulo 32",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/7d/s8/2/W/M/b/T/WMbTA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=343623680-343649679",
+      "titulo": "",
+      "rumbleUrl": "https://rumble.com/v7eqf8w-lejs-32.html"
     }
   ]
 }
