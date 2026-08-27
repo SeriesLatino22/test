@@ -1037,6 +1037,106 @@
     "episodesCount": 13
   },
   {
+    "id": "pedro_el_escamoso",
+    "title": "Pedro el escamoso",
+    "category": "Colombianas",
+    "ribbon": "FINALIZADO",
+    "defaultSeason": 1,
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/pedro.webp",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/pedro_el_escamoso_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/pedro_el_escamoso_s1.json",
+        "hasAdOverride": false
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Temporada 2",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/pedro_el_escamoso_s2.json",
+        "hasAdOverride": false
+      }
+    ],
+    "isPremium": false,
+    "hasAd": false
+  },
+  {
+    "id": "mujeres_asesinas",
+    "title": "Mujeres asesinas",
+    "category": "Recién agregadas",
+    "ribbon": "FINALIZADO",
+    "defaultSeason": 1,
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/mujeres2.webp",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/mujeres_asesinas_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/mujeres_asesinas_s1.json",
+        "hasAdOverride": false
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Temporada 2",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/mujeres_asesinas_s2.json",
+        "hasAdOverride": false
+      },
+      {
+        "seasonNumber": 3,
+        "name": "Temporada 3",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/mujeres_asesinas_s3.json",
+        "hasAdOverride": false
+      }
+    ],
+    "isPremium": false,
+    "hasAd": true
+  },
+  {
+    "id": "chespirito_sin_querer_queriendo",
+    "title": "Chespirito: Sin querer queriendo",
+    "category": "Recién agregadas",
+    "ribbon": "FINALIZADO",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/chavoimg.webp",
+    "isPremium": false,
+    "hasAd": false,
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/chespirito_sin_querer_queriendo_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/chespirito_sin_querer_queriendo_s1.json",
+        "episodesCount": 8
+      }
+    ],
+    "episodesCount": 8
+  },
+  {
+    "id": "la_venganza_de_analia_2",
+    "title": "La venganza de analia 2",
+    "category": "Colombianas",
+    "ribbon": "FINALIZADO",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/analia22.webp",
+    "isPremium": false,
+    "hasAd": false,
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_venganza_de_analia_2_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_venganza_de_analia_2_s1.json",
+        "episodesCount": 53
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Temporada 2",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_venganza_de_analia_2_s2.json",
+        "episodesCount": 67
+      }
+    ],
+    "episodesCount": 120
+  },
+  {
     "id": "nuevo_rico_nuevo_pobre",
     "title": "Nuevo rico, Nuevo pobre",
     "category": "Colombianas",
@@ -1094,31 +1194,6 @@
     "episodesCount": 68
   },
   {
-    "id": "pedro_el_escamoso",
-    "title": "Pedro el escamoso",
-    "category": "Colombianas",
-    "ribbon": "FINALIZADO",
-    "defaultSeason": 1,
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/pedro.webp",
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/pedro_el_escamoso_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/pedro_el_escamoso_s1.json",
-        "hasAdOverride": false
-      },
-      {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/pedro_el_escamoso_s2.json",
-        "hasAdOverride": false
-      }
-    ],
-    "isPremium": false,
-    "hasAd": false
-  },
-  {
     "id": "papa_soltero",
     "title": "Papá soltero",
     "category": "Recién agregadas",
@@ -1136,81 +1211,6 @@
       }
     ],
     "episodesCount": 10
-  },
-  {
-    "id": "chespirito_sin_querer_queriendo",
-    "title": "Chespirito: Sin querer queriendo",
-    "category": "Recién agregadas",
-    "ribbon": "FINALIZADO",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/chavoimg.webp",
-    "isPremium": false,
-    "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/chespirito_sin_querer_queriendo_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/chespirito_sin_querer_queriendo_s1.json",
-        "episodesCount": 8
-      }
-    ],
-    "episodesCount": 8
-  },
-  {
-    "id": "mujeres_asesinas",
-    "title": "Mujeres asesinas",
-    "category": "Recién agregadas",
-    "ribbon": "FINALIZADO",
-    "defaultSeason": 1,
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/mujeres2.webp",
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/mujeres_asesinas_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/mujeres_asesinas_s1.json",
-        "hasAdOverride": false
-      },
-      {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/mujeres_asesinas_s2.json",
-        "hasAdOverride": false
-      },
-      {
-        "seasonNumber": 3,
-        "name": "Temporada 3",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/mujeres_asesinas_s3.json",
-        "hasAdOverride": false
-      }
-    ],
-    "isPremium": false,
-    "hasAd": true
-  },
-  {
-    "id": "la_venganza_de_analia_2",
-    "title": "La venganza de analia 2",
-    "category": "Colombianas",
-    "ribbon": "FINALIZADO",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/analia22.webp",
-    "isPremium": false,
-    "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_venganza_de_analia_2_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_venganza_de_analia_2_s1.json",
-        "episodesCount": 53
-      },
-      {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_venganza_de_analia_2_s2.json",
-        "episodesCount": 67
-      }
-    ],
-    "episodesCount": 120
   },
   {
     "id": "el_cartel_de_los_sapos_t1_t2",
