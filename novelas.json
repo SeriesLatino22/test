@@ -1200,6 +1200,25 @@
     "episodesCount": 153
   },
   {
+    "id": "tierra_indomable",
+    "title": "Tierra indomable",
+    "category": "Recién agregadas",
+    "ribbon": "NINGUNA",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/tierra.webp",
+    "isPremium": false,
+    "hasAd": false,
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/tierra_indomable_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/tierra_indomable_s1.json",
+        "episodesCount": 40
+      }
+    ],
+    "episodesCount": 40
+  },
+  {
     "id": "fugitivas",
     "title": "Fugitivas",
     "category": "Mexicanas",
@@ -1261,25 +1280,6 @@
       }
     ],
     "episodesCount": 194
-  },
-  {
-    "id": "tierra_indomable",
-    "title": "Tierra indomable",
-    "category": "Recién agregadas",
-    "ribbon": "NINGUNA",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/tierra.webp",
-    "isPremium": false,
-    "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/tierra_indomable_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/tierra_indomable_s1.json",
-        "episodesCount": 40
-      }
-    ],
-    "episodesCount": 40
   },
   {
     "id": "papas_por_conveniencia",
