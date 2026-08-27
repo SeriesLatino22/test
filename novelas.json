@@ -773,14 +773,7 @@
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://ww1.123flmsfree.com/es/detail/drama/IUFEVEF13655t2qLuwEDR-La-Reina-del-Sur-Season-1/1",
-        "hasAdOverride": false
-      },
-      {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://ww1.123flmsfree.com/es/detail/drama/DQww9K8ifBPAlcf1hZBZ9-La-Reina-del-Sur-Season-2",
-        "hasAdOverride": false
+        "jsonUrl": "https://ww1.123flmsfree.com/es/detail/drama/IUFEVEF13655t2qLuwEDR-La-Reina-del-Sur-Season-1/1"
       }
     ],
     "isPremium": false,
