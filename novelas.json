@@ -1181,6 +1181,25 @@
     "episodesCount": 107
   },
   {
+    "id": "desafio_del_siglo_xxi",
+    "title": "Desafío del Siglo XXI",
+    "category": "Recién agregadas",
+    "ribbon": "GRAN ESTRENO",
+    "defaultSeason": 1,
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/defPort2.webp",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/desafio_del_siglo_xxi_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/desafio_del_siglo_xxi_s1.json",
+        "hasAdOverride": false
+      }
+    ],
+    "isPremium": false,
+    "hasAd": true
+  },
+  {
     "id": "papas_por_conveniencia",
     "title": "Papás por conveniencia",
     "category": "Recién agregadas",
@@ -1280,25 +1299,6 @@
       }
     ],
     "episodesCount": 73
-  },
-  {
-    "id": "desafio_del_siglo_xxi",
-    "title": "Desafío del Siglo XXI",
-    "category": "Recién agregadas",
-    "ribbon": "GRAN ESTRENO",
-    "defaultSeason": 1,
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/defPort2.webp",
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/desafio_del_siglo_xxi_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/desafio_del_siglo_xxi_s1.json",
-        "hasAdOverride": false
-      }
-    ],
-    "isPremium": false,
-    "hasAd": true
   },
   {
     "id": "el_jardin_de_olivia",
