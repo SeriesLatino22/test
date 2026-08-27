@@ -946,23 +946,23 @@
     "hasAd": true
   },
   {
-    "id": "fugitivas",
-    "title": "Fugitivas",
-    "category": "Mexicanas",
-    "ribbon": "FINALIZADO",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/fugitivas.webp",
-    "isPremium": false,
-    "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/fugitivas_s1.json",
+    "id": "desafio_del_siglo_xxi",
+    "title": "Desafío del Siglo XXI",
+    "category": "Recién agregadas",
+    "ribbon": "GRAN ESTRENO",
+    "defaultSeason": 1,
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/defPort2.webp",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/desafio_del_siglo_xxi_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/fugitivas_s1.json",
-        "episodesCount": 80
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/desafio_del_siglo_xxi_s1.json",
+        "hasAdOverride": false
       }
     ],
-    "episodesCount": 80
+    "isPremium": false,
+    "hasAd": true
   },
   {
     "id": "sin_senos_si_hay_paraiso_t1",
@@ -997,6 +997,25 @@
     ],
     "isPremium": false,
     "hasAd": true
+  },
+  {
+    "id": "fugitivas",
+    "title": "Fugitivas",
+    "category": "Mexicanas",
+    "ribbon": "FINALIZADO",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/fugitivas.webp",
+    "isPremium": false,
+    "hasAd": false,
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/fugitivas_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/fugitivas_s1.json",
+        "episodesCount": 80
+      }
+    ],
+    "episodesCount": 80
   },
   {
     "id": "el_desconocido",
@@ -1060,25 +1079,6 @@
     ],
     "isPremium": false,
     "hasAd": false
-  },
-  {
-    "id": "desafio_del_siglo_xxi",
-    "title": "Desafío del Siglo XXI",
-    "category": "Recién agregadas",
-    "ribbon": "GRAN ESTRENO",
-    "defaultSeason": 1,
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/defPort2.webp",
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/desafio_del_siglo_xxi_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/desafio_del_siglo_xxi_s1.json",
-        "hasAdOverride": false
-      }
-    ],
-    "isPremium": false,
-    "hasAd": true
   },
   {
     "id": "mujeres_asesinas",
