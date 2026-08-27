@@ -999,25 +999,6 @@
     "hasAd": true
   },
   {
-    "id": "fugitivas",
-    "title": "Fugitivas",
-    "category": "Mexicanas",
-    "ribbon": "FINALIZADO",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/fugitivas.webp",
-    "isPremium": false,
-    "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/fugitivas_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/fugitivas_s1.json",
-        "episodesCount": 80
-      }
-    ],
-    "episodesCount": 80
-  },
-  {
     "id": "el_desconocido",
     "title": "El desconocido",
     "category": "Recién agregadas",
@@ -1131,6 +1112,50 @@
     "episodesCount": 8
   },
   {
+    "id": "el_cartel_de_los_sapos_t1_t2",
+    "title": "El cartel de los sapos [T1-T2]",
+    "category": "Narco Novelas",
+    "ribbon": "NINGUNA",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/cartel.webp",
+    "isPremium": false,
+    "hasAd": false,
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_cartel_de_los_sapos_t1_t2_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_cartel_de_los_sapos_t1_t2_s1.json",
+        "episodesCount": 57
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Temporada 2",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_cartel_de_los_sapos_t1_t2_s2.json",
+        "episodesCount": 50
+      }
+    ],
+    "episodesCount": 107
+  },
+  {
+    "id": "fugitivas",
+    "title": "Fugitivas",
+    "category": "Mexicanas",
+    "ribbon": "FINALIZADO",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/fugitivas.webp",
+    "isPremium": false,
+    "hasAd": false,
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/fugitivas_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/fugitivas_s1.json",
+        "episodesCount": 80
+      }
+    ],
+    "episodesCount": 80
+  },
+  {
     "id": "la_venganza_de_analia_2",
     "title": "La venganza de analia 2",
     "category": "Colombianas",
@@ -1173,31 +1198,6 @@
       }
     ],
     "episodesCount": 194
-  },
-  {
-    "id": "el_cartel_de_los_sapos_t1_t2",
-    "title": "El cartel de los sapos [T1-T2]",
-    "category": "Narco Novelas",
-    "ribbon": "NINGUNA",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/cartel.webp",
-    "isPremium": false,
-    "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_cartel_de_los_sapos_t1_t2_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_cartel_de_los_sapos_t1_t2_s1.json",
-        "episodesCount": 57
-      },
-      {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_cartel_de_los_sapos_t1_t2_s2.json",
-        "episodesCount": 50
-      }
-    ],
-    "episodesCount": 107
   },
   {
     "id": "papas_por_conveniencia",
