@@ -1403,49 +1403,6 @@
     "episodesCount": 100
   },
   {
-    "id": "rosario_tijeras_4_mexico",
-    "title": "Rosario Tijeras 4 [México]",
-    "category": "Narco Novelas",
-    "ribbon": "FINALIZADO",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/rosariotij.webp",
-    "isPremium": false,
-    "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/rosario_tijeras_4_mexico_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/rosario_tijeras_4_mexico_s1.json",
-        "episodesCount": 60
-      },
-      {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/rosario_tijeras_4_mexico_s2.json",
-        "episodesCount": 67
-      },
-      {
-        "seasonNumber": 3,
-        "name": "Temporada 3",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/rosario_tijeras_4_mexico_s3.json",
-        "episodesCount": 70
-      },
-      {
-        "seasonNumber": 4,
-        "name": "Temporada 4",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/rosario_tijeras_4_mexico_s4.json",
-        "episodesCount": 40
-      },
-      {
-        "seasonNumber": 5,
-        "name": "Temporada 5",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/rosario_tijeras_4_mexico_s5.json",
-        "episodesCount": 39
-      }
-    ],
-    "episodesCount": 276
-  },
-  {
     "id": "lo_que_la_vida_me_robo",
     "title": "Lo que la vida me robo",
     "category": "Mexicanas",
