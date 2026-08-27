@@ -838,6 +838,40 @@
     "episodesCount": 94
   },
   {
+    "id": "sin_senos_si_hay_paraiso_t1",
+    "title": "Sin senos si hay paraiso",
+    "category": "Narco Novelas",
+    "ribbon": "NINGUNA",
+    "defaultSeason": 1,
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/sinsenos.webp",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/sin_senos_si_hay_paraiso_t1_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/sin_senos_si_hay_paraiso_t1_s1.json",
+        "hasAdOverride": false,
+        "episodesCount": 90
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Temporada 2",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/sin_senos_si_hay_paraiso_t1_s2.json",
+        "hasAdOverride": false,
+        "episodesCount": 87
+      },
+      {
+        "seasonNumber": 3,
+        "name": "Temporada 3",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/sin_senos_si_hay_paraiso_t1_s3.json",
+        "hasAdOverride": false,
+        "episodesCount": 63
+      }
+    ],
+    "isPremium": false,
+    "hasAd": true
+  },
+  {
     "id": "juegos_de_amor_y_poder",
     "title": "Juegos de amor y poder",
     "category": "Recién agregadas",
@@ -978,40 +1012,6 @@
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/desafio_del_siglo_xxi_s1.json",
         "hasAdOverride": false
-      }
-    ],
-    "isPremium": false,
-    "hasAd": true
-  },
-  {
-    "id": "sin_senos_si_hay_paraiso_t1",
-    "title": "Sin senos si hay paraiso",
-    "category": "Narco Novelas",
-    "ribbon": "NINGUNA",
-    "defaultSeason": 1,
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/sinsenos.webp",
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/sin_senos_si_hay_paraiso_t1_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/sin_senos_si_hay_paraiso_t1_s1.json",
-        "hasAdOverride": false,
-        "episodesCount": 90
-      },
-      {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/sin_senos_si_hay_paraiso_t1_s2.json",
-        "hasAdOverride": false,
-        "episodesCount": 87
-      },
-      {
-        "seasonNumber": 3,
-        "name": "Temporada 3",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/sin_senos_si_hay_paraiso_t1_s3.json",
-        "hasAdOverride": false,
-        "episodesCount": 63
       }
     ],
     "isPremium": false,
