@@ -937,8 +937,9 @@
       {
         "seasonNumber": 2,
         "name": "Temporada 2",
-        "jsonUrl": "https://play.cuevana19.com/es/detail/drama/6VvZyBcG1HYUmcQYkeCIR-One-Hundred-Years-of-Solitude-Part-2",
-        "hasAdOverride": true
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/100_anos_de_soledad_s2.json",
+        "hasAdOverride": true,
+        "episodesCount": 8
       }
     ],
     "isPremium": false,
