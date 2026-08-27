@@ -1,7 +1,9 @@
 {
-  "catalogVersion": 1787864927266,
+  "catalogVersion": 1787865107750,
   "notifsVersion": 1787864181530,
-  "updatedNovelaIds": [],
-  "isFullCatalogUpdate": true,
+  "updatedNovelaIds": [
+    "betty_la_fea_fans"
+  ],
+  "isFullCatalogUpdate": false,
   "priorityNovelas": []
 }
