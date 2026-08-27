@@ -6,14 +6,67 @@
     "ribbon": "GRAN ESTRENO",
     "defaultSeason": 1,
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/senoirrt10.webp",
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/el_senor_de_los_cielos_t10_s1.json",
+    "targetUrl": "https://flixlat.com/es/detail/drama/kfbCzob4Pb3GnjEa5slgT-El-Se%C3%B1or-de-los-Cielos-season-1",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
+        "jsonUrl": "https://flixlat.com/es/detail/drama/kfbCzob4Pb3GnjEa5slgT-El-Se%C3%B1or-de-los-Cielos-season-1",
+        "hasAdOverride": false
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Temporada 2",
+        "jsonUrl": "https://flixlat.com/es/detail/drama/6231xk99bbWvhS0FrPS9t-El-Se%C3%B1or-de-los-Cielos-season-2",
+        "hasAdOverride": false
+      },
+      {
+        "seasonNumber": 3,
+        "name": "Temporada 3",
+        "jsonUrl": "https://flixlat.com/es/detail/drama/YFfPtq1pKpnpUflxbXwz5-El-Se%C3%B1or-de-los-Cielos-season-3",
+        "hasAdOverride": false
+      },
+      {
+        "seasonNumber": 4,
+        "name": "Temporada 4",
+        "jsonUrl": "https://flixlat.com/es/detail/drama/SwUXxlDS0Z4l2n4UDG0L8-El-Se%C3%B1or-de-los-Cielos-season-4",
+        "hasAdOverride": false
+      },
+      {
+        "seasonNumber": 5,
+        "name": "Temporada 5",
+        "jsonUrl": "https://flixlat.com/es/detail/drama/Xg1rO7aYppcmHL6Wnp797-El-Se%C3%B1or-de-los-Cielos-season-5",
+        "hasAdOverride": false
+      },
+      {
+        "seasonNumber": 6,
+        "name": "Temporada 6",
+        "jsonUrl": "https://flixlat.com/es/detail/drama/OWVqDnjGeyczZxlRIdHys-El-Se%C3%B1or-de-los-Cielos-season-6",
+        "hasAdOverride": false
+      },
+      {
+        "seasonNumber": 7,
+        "name": "Temporada 7",
+        "jsonUrl": "https://flixlat.com/es/detail/drama/oEMHLPISIehIaDZZPeJkr-El-Se%C3%B1or-de-los-Cielos-season-7",
+        "hasAdOverride": false
+      },
+      {
+        "seasonNumber": 8,
+        "name": "Temporada 8",
+        "jsonUrl": "https://flixlat.com/es/detail/drama/uXqdNUd0yOpQCEEYmxV6Y-El-Se%C3%B1or-de-los-Cielos-season-8",
+        "hasAdOverride": false
+      },
+      {
+        "seasonNumber": 9,
+        "name": "Temporada 9",
+        "jsonUrl": "https://flixlat.com/es/detail/drama/aFbtFvn8JsU2WpbMCnd9E-El-Se%C3%B1or-de-los-Cielos-season-9[Audio%C2%A0Latino]",
+        "hasAdOverride": false
+      },
+      {
+        "seasonNumber": 10,
+        "name": "Temporada 10",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/el_senor_de_los_cielos_t10_s1.json",
-        "hasAdOverride": false,
-        "episodesCount": 36
+        "hasAdOverride": false
       }
     ],
     "isPremium": true,
