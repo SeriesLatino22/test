@@ -1282,6 +1282,25 @@
     "episodesCount": 80
   },
   {
+    "id": "las_vegas",
+    "title": "Las vegas",
+    "category": "Recién agregadas",
+    "ribbon": "NINGUNA",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/vegas.webp",
+    "isPremium": false,
+    "hasAd": false,
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/las_vegas_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/las_vegas_s1.json",
+        "episodesCount": 90
+      }
+    ],
+    "episodesCount": 90
+  },
+  {
     "id": "alias_j_j",
     "title": "Alias J.J",
     "category": "Narco Novelas",
@@ -1399,25 +1418,6 @@
       }
     ],
     "episodesCount": 40
-  },
-  {
-    "id": "las_vegas",
-    "title": "Las vegas",
-    "category": "Recién agregadas",
-    "ribbon": "NINGUNA",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/vegas.webp",
-    "isPremium": false,
-    "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/las_vegas_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/las_vegas_s1.json",
-        "episodesCount": 90
-      }
-    ],
-    "episodesCount": 90
   },
   {
     "id": "lo_que_la_vida_me_robo",
