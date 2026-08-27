@@ -1,10 +1,8 @@
 {
-  "catalogVersion": 1787865341907,
+  "catalogVersion": 1787865562103,
   "notifsVersion": 1787865150638,
-  "updatedNovelaIds": [
-    "lady_la_vendedora_de_rosas"
-  ],
-  "isFullCatalogUpdate": false,
+  "updatedNovelaIds": [],
+  "isFullCatalogUpdate": true,
   "priorityNovelas": [],
   "emergencyFullFlush": 1787865150638
 }
