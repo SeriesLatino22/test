@@ -1081,6 +1081,37 @@
     "hasAd": false
   },
   {
+    "id": "la_reina_del_sur",
+    "title": "La reina del sur",
+    "category": "Narco Novelas",
+    "ribbon": "NINGUNA",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/la_reina_del_sur.webp",
+    "isPremium": false,
+    "hasAd": false,
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_reina_del_sur_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_reina_del_sur_s1.json",
+        "episodesCount": 63
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Temporada 2",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_reina_del_sur_s2.json",
+        "episodesCount": 60
+      },
+      {
+        "seasonNumber": 3,
+        "name": "Temporada 3",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_reina_del_sur_s3.json",
+        "episodesCount": 60
+      }
+    ],
+    "episodesCount": 183
+  },
+  {
     "id": "mujeres_asesinas",
     "title": "Mujeres asesinas",
     "category": "Recién agregadas",
@@ -1299,37 +1330,6 @@
       }
     ],
     "episodesCount": 194
-  },
-  {
-    "id": "la_reina_del_sur",
-    "title": "La reina del sur",
-    "category": "Narco Novelas",
-    "ribbon": "NINGUNA",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/la_reina_del_sur.webp",
-    "isPremium": false,
-    "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_reina_del_sur_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_reina_del_sur_s1.json",
-        "episodesCount": 63
-      },
-      {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_reina_del_sur_s2.json",
-        "episodesCount": 60
-      },
-      {
-        "seasonNumber": 3,
-        "name": "Temporada 3",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_reina_del_sur_s3.json",
-        "episodesCount": 60
-      }
-    ],
-    "episodesCount": 183
   },
   {
     "id": "papas_por_conveniencia",
