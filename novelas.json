@@ -1018,6 +1018,25 @@
     "hasAd": true
   },
   {
+    "id": "ojos_sin_culpa",
+    "title": "Ojos sin culpa",
+    "category": "Recién agregadas",
+    "ribbon": "NINGUNA",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/ojos.webp",
+    "isPremium": false,
+    "hasAd": false,
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/ojos_sin_culpa_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/ojos_sin_culpa_s1.json",
+        "episodesCount": 13
+      }
+    ],
+    "episodesCount": 13
+  },
+  {
     "id": "nuevo_rico_nuevo_pobre",
     "title": "Nuevo rico, Nuevo pobre",
     "category": "Colombianas",
@@ -1054,25 +1073,6 @@
       }
     ],
     "episodesCount": 80
-  },
-  {
-    "id": "ojos_sin_culpa",
-    "title": "Ojos sin culpa",
-    "category": "Recién agregadas",
-    "ribbon": "NINGUNA",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/ojos.webp",
-    "isPremium": false,
-    "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/ojos_sin_culpa_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/ojos_sin_culpa_s1.json",
-        "episodesCount": 13
-      }
-    ],
-    "episodesCount": 13
   },
   {
     "id": "alias_j_j",
