@@ -20,6 +20,50 @@
     "hasAd": true
   },
   {
+    "id": "betty_la_fea_fans",
+    "title": "Betty la fea - Fans",
+    "category": "Colombianas",
+    "ribbon": "FINALIZADO",
+    "defaultSeason": 1,
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/betty.webp",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/betty_la_fea_fans_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Betty la fea 1999",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/betty_la_fea_fans_s1.json",
+        "hasAdOverride": false,
+        "episodesCount": 169
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Betty la fea 1999 ( extendida )",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/betty_la_fea_fans_s2.json",
+        "hasAdOverride": false
+      },
+      {
+        "seasonNumber": 3,
+        "name": "Ecomoda 2001",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/betty_la_fea_fans_s2.json",
+        "hasAdOverride": false
+      },
+      {
+        "seasonNumber": 4,
+        "name": "Betty la fea 2024",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/betty_la_fea_fans_s3.json",
+        "hasAdOverride": false
+      },
+      {
+        "seasonNumber": 5,
+        "name": "Betty la fea 2025",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/betty_la_fea_fans_s4.json",
+        "hasAdOverride": false
+      }
+    ],
+    "isPremium": true,
+    "hasAd": false
+  },
+  {
     "id": "rosario_tijeras_5_mexico",
     "title": "Rosario Tijeras 5 [México]",
     "category": "Narco Novelas",
@@ -183,50 +227,6 @@
       }
     ],
     "episodesCount": 79
-  },
-  {
-    "id": "betty_la_fea_fans",
-    "title": "Betty la fea - Fans",
-    "category": "Colombianas",
-    "ribbon": "FINALIZADO",
-    "defaultSeason": 1,
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/betty.webp",
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/betty_la_fea_fans_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Betty la fea 1999",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/betty_la_fea_fans_s1.json",
-        "hasAdOverride": false,
-        "episodesCount": 169
-      },
-      {
-        "seasonNumber": 2,
-        "name": "Betty la fea 1999 ( extendida )",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/betty_la_fea_fans_s2.json",
-        "hasAdOverride": false
-      },
-      {
-        "seasonNumber": 3,
-        "name": "Ecomoda 2001",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/betty_la_fea_fans_s2.json",
-        "hasAdOverride": false
-      },
-      {
-        "seasonNumber": 4,
-        "name": "Betty la fea 2024",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/betty_la_fea_fans_s3.json",
-        "hasAdOverride": false
-      },
-      {
-        "seasonNumber": 5,
-        "name": "Betty la fea 2025",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/betty_la_fea_fans_s4.json",
-        "hasAdOverride": false
-      }
-    ],
-    "isPremium": true,
-    "hasAd": false
   },
   {
     "id": "lobo_morir_matando",
