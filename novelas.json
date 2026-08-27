@@ -76,7 +76,7 @@
     "id": "betty_la_fea_fans",
     "title": "Betty la fea - Fans",
     "category": "Colombianas",
-    "ribbon": "FINALIZADO",
+    "ribbon": "GRAN ESTRENO",
     "defaultSeason": 1,
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/betty.webp",
     "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/betty_la_fea_fans_s1.json",
@@ -115,7 +115,7 @@
         "seasonNumber": 6,
         "name": "Temporada 6",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/betty_la_fea_fans_s6.json",
-        "episodesCount": 1
+        "hasAdOverride": false
       }
     ],
     "isPremium": true,
