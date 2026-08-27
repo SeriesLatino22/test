@@ -743,6 +743,25 @@
     "episodesCount": 87
   },
   {
+    "id": "pablo_escobar_el_patron_del_mal",
+    "title": "Pablo escobar, El patrón del mal",
+    "category": "Narco Novelas",
+    "ribbon": "NINGUNA",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/pablo.webp",
+    "isPremium": false,
+    "hasAd": false,
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/pablo_escobar_el_patron_del_mal_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/pablo_escobar_el_patron_del_mal_s1.json",
+        "episodesCount": 73
+      }
+    ],
+    "episodesCount": 73
+  },
+  {
     "id": "velvet_el_nuevo_imperio",
     "title": "Velvet: El nuevo imperio",
     "category": "Recién agregadas",
@@ -836,25 +855,6 @@
       }
     ],
     "episodesCount": 70
-  },
-  {
-    "id": "pablo_escobar_el_patron_del_mal",
-    "title": "Pablo escobar, El patrón del mal",
-    "category": "Narco Novelas",
-    "ribbon": "NINGUNA",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/pablo.webp",
-    "isPremium": false,
-    "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/pablo_escobar_el_patron_del_mal_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/pablo_escobar_el_patron_del_mal_s1.json",
-        "episodesCount": 73
-      }
-    ],
-    "episodesCount": 73
   },
   {
     "id": "salvajes",
