@@ -904,13 +904,14 @@
     "ribbon": "NINGUNA",
     "defaultSeason": 1,
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/sinsenos.webp",
-    "targetUrl": "https://es.cuevana4br.com/es/detail/drama/n1xlOzQEvsdedmaGGNl4O-Sin-Senos-S%C3%AD-Hay-Para%C3%ADso-Season-1",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/sin_senos_si_hay_paraiso_t1_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://es.cuevana4br.com/es/detail/drama/n1xlOzQEvsdedmaGGNl4O-Sin-Senos-S%C3%AD-Hay-Para%C3%ADso-Season-1",
-        "hasAdOverride": false
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/sin_senos_si_hay_paraiso_t1_s1.json",
+        "hasAdOverride": false,
+        "episodesCount": 60
       },
       {
         "seasonNumber": 2,
