@@ -1181,6 +1181,25 @@
     "episodesCount": 118
   },
   {
+    "id": "los_casablanca",
+    "title": "Los casablanca",
+    "category": "Colombianas",
+    "ribbon": "FINALIZADO",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/loscasa.webp",
+    "isPremium": false,
+    "hasAd": false,
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/los_casablanca_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/los_casablanca_s1.json",
+        "episodesCount": 153
+      }
+    ],
+    "episodesCount": 153
+  },
+  {
     "id": "fugitivas",
     "title": "Fugitivas",
     "category": "Mexicanas",
@@ -1318,25 +1337,6 @@
       }
     ],
     "episodesCount": 100
-  },
-  {
-    "id": "los_casablanca",
-    "title": "Los casablanca",
-    "category": "Colombianas",
-    "ribbon": "FINALIZADO",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/loscasa.webp",
-    "isPremium": false,
-    "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/los_casablanca_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/los_casablanca_s1.json",
-        "episodesCount": 153
-      }
-    ],
-    "episodesCount": 153
   },
   {
     "id": "rosario_tijeras_4_mexico",
