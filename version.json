@@ -1,13 +1,8 @@
 {
-  "catalogVersion": 1787913781851,
-  "notifsVersion": 1787913781851,
-  "updatedNovelaIds": [
-    "el_senor_de_los_cielos_t10",
-    "sin_senos_si_hay_paraiso_t1",
-    "la_reina_del_sur",
-    "betty_la_fea_fans",
-    "lady_la_vendedora_de_rosas"
-  ],
+  "catalogVersion": 1787914370029,
+  "notifsVersion": 1787914370029,
+  "updatedNovelaIds": [],
   "isFullCatalogUpdate": true,
-  "priorityNovelas": []
+  "priorityNovelas": [],
+  "emergencyFullFlush": 1787914370029
 }
