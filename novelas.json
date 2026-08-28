@@ -114,8 +114,9 @@
       {
         "seasonNumber": 6,
         "name": "Betty la fea 2026",
-        "jsonUrl": "https://play.cuevana19.com/es/detail/drama/iVvOA2SunUjcfQ62UwGkI-Betty-la-Fea-The-Story-Continues-Season-1[Audio%C2%A0La/1",
-        "hasAdOverride": false
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/betty_la_fea_fans_s6.json",
+        "hasAdOverride": false,
+        "episodesCount": 10
       }
     ],
     "isPremium": true,
