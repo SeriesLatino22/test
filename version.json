@@ -1,10 +1,8 @@
 {
-  "catalogVersion": 1787902739691,
+  "catalogVersion": 1787913469457,
   "notifsVersion": 1787902142384,
-  "updatedNovelaIds": [
-    "la_reina_del_sur"
-  ],
-  "isFullCatalogUpdate": false,
+  "updatedNovelaIds": [],
+  "isFullCatalogUpdate": true,
   "priorityNovelas": [],
   "emergencyFullFlush": 1787902142384
 }
