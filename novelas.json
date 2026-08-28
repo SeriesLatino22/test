@@ -103,15 +103,13 @@
         "seasonNumber": 4,
         "name": "Betty la fea 2024",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/betty_la_fea_fans_s4.json",
-        "hasAdOverride": false,
-        "episodesCount": 10
+        "hasAdOverride": false
       },
       {
         "seasonNumber": 5,
         "name": "Betty la fea 2025",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/betty_la_fea_fans_s5.json",
-        "hasAdOverride": false,
-        "episodesCount": 10
+        "jsonUrl": "https://play.cuevana19.com/es/detail/drama/tNahm66u8H8clMg9xSyXe-Betty-la-Fea-The-Story-Continues-Season-2",
+        "hasAdOverride": false
       },
       {
         "seasonNumber": 6,
@@ -782,9 +780,8 @@
       {
         "seasonNumber": 2,
         "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/la_reina_del_sur_s2.json",
-        "hasAdOverride": false,
-        "episodesCount": 60
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_reina_del_sur_s2.json",
+        "hasAdOverride": false
       }
     ],
     "isPremium": false,
