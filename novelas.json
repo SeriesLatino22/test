@@ -781,8 +781,9 @@
       {
         "seasonNumber": 2,
         "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_reina_del_sur_s2.json",
-        "hasAdOverride": false
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/la_reina_del_sur_s2.json",
+        "hasAdOverride": false,
+        "episodesCount": 60
       }
     ],
     "isPremium": false,
