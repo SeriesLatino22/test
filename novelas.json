@@ -1970,19 +1970,19 @@
     "title": "Cuentos de los hermanos Grimm",
     "category": "Recién agregadas",
     "ribbon": "NINGUNA",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/cuentos.webp",
-    "isPremium": false,
-    "hasAd": false,
+    "defaultSeason": 1,
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/1788021210445_images__1_.jpg",
     "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/cuentos_de_los_hermanos_grimm_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/cuentos_de_los_hermanos_grimm_s1.json",
-        "episodesCount": 40
+        "hasAdOverride": false
       }
     ],
-    "episodesCount": 40
+    "isPremium": false,
+    "hasAd": false
   },
   {
     "id": "el_encantador",
