@@ -1698,7 +1698,7 @@
   {
     "id": "dejemonos_de_vargas",
     "title": "Dejémonos de Vargas",
-    "category": "Recién agregadas",
+    "category": "Colombianas",
     "ribbon": "NINGUNA",
     "defaultSeason": 1,
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/dejemonos.webp",
@@ -1708,7 +1708,7 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/dejemonos_de_vargas_s1.json",
-        "episodesCount": 68
+        "hasAdOverride": false
       }
     ],
     "isPremium": false,
