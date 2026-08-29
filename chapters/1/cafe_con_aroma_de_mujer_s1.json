@@ -1,733 +1,534 @@
 {
-  "id": "cafe_con_aroma_de_mujer_s1",
-  "titulo": "Cafe con aroma de mujer",
-  "subtitulo": "Cafe con aroma de mujer: Temporada 1",
-  "portada": "",
+  "titulo": "Café con aroma de mujer: T1",
+  "total": 88,
   "capitulos": [
     {
-      "numero": "Capítulo 1",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243851",
-      "titulo": ""
+      "id": "cap_1",
+      "title": "Capítulo 1",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/1",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/1"
     },
     {
-      "numero": "Capítulo 2",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243906",
-      "titulo": ""
+      "id": "cap_2",
+      "title": "Capítulo 2",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/2",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/2"
     },
     {
-      "numero": "Capítulo 3",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243917",
-      "titulo": ""
+      "id": "cap_3",
+      "title": "Capítulo 3",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/3",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/3"
     },
     {
-      "numero": "Capítulo 4",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243927",
-      "titulo": ""
+      "id": "cap_4",
+      "title": "Capítulo 4",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/4",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/4"
     },
     {
-      "numero": "Capítulo 5",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243938",
-      "titulo": ""
+      "id": "cap_5",
+      "title": "Capítulo 5",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/5",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/5"
     },
     {
-      "numero": "Capítulo 6",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243948",
-      "titulo": ""
+      "id": "cap_6",
+      "title": "Capítulo 6",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/6",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/6"
     },
     {
-      "numero": "Capítulo 7",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243959",
-      "titulo": ""
+      "id": "cap_7",
+      "title": "Capítulo 7",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/7",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/7"
     },
     {
-      "numero": "Capítulo 8",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243969",
-      "titulo": ""
+      "id": "cap_8",
+      "title": "Capítulo 8",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/8",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/8"
     },
     {
-      "numero": "Capítulo 9",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243980",
-      "titulo": ""
+      "id": "cap_9",
+      "title": "Capítulo 9",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/9",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/9"
     },
     {
-      "numero": "Capítulo 10",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243852",
-      "titulo": ""
+      "id": "cap_10",
+      "title": "Capítulo 10",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/10",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/10"
     },
     {
-      "numero": "Capítulo 11",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243863",
-      "titulo": ""
+      "id": "cap_11",
+      "title": "Capítulo 11",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/11",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/11"
     },
     {
-      "numero": "Capítulo 12",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243874",
-      "titulo": ""
+      "id": "cap_12",
+      "title": "Capítulo 12",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/12",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/12"
     },
     {
-      "numero": "Capítulo 13",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243885",
-      "titulo": ""
+      "id": "cap_13",
+      "title": "Capítulo 13",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/13",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/13"
     },
     {
-      "numero": "Capítulo 14",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243896",
-      "titulo": ""
+      "id": "cap_14",
+      "title": "Capítulo 14",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/14",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/14"
     },
     {
-      "numero": "Capítulo 15",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243902",
-      "titulo": ""
+      "id": "cap_15",
+      "title": "Capítulo 15",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/15",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/15"
     },
     {
-      "numero": "Capítulo 16",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243903",
-      "titulo": ""
+      "id": "cap_16",
+      "title": "Capítulo 16",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/16",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/16"
     },
     {
-      "numero": "Capítulo 17",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243904",
-      "titulo": ""
+      "id": "cap_17",
+      "title": "Capítulo 17",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/17",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/17"
     },
     {
-      "numero": "Capítulo 18",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243905",
-      "titulo": ""
+      "id": "cap_18",
+      "title": "Capítulo 18",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/18",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/18"
     },
     {
-      "numero": "Capítulo 19",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456244409",
-      "titulo": ""
+      "id": "cap_19",
+      "title": "Capítulo 19",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/19",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/19"
     },
     {
-      "numero": "Capítulo 20",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243907",
-      "titulo": ""
+      "id": "cap_20",
+      "title": "Capítulo 20",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/20",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/20"
     },
     {
-      "numero": "Capítulo 21",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243908",
-      "titulo": ""
+      "id": "cap_21",
+      "title": "Capítulo 21",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/21",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/21"
     },
     {
-      "numero": "Capítulo 22",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243909",
-      "titulo": ""
+      "id": "cap_22",
+      "title": "Capítulo 22",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/22",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/22"
     },
     {
-      "numero": "Capítulo 23",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243910",
-      "titulo": ""
+      "id": "cap_23",
+      "title": "Capítulo 23",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/23",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/23"
     },
     {
-      "numero": "Capítulo 24",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243911",
-      "titulo": ""
+      "id": "cap_24",
+      "title": "Capítulo 24",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/24",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/24"
     },
     {
-      "numero": "Capítulo 25",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243912",
-      "titulo": ""
+      "id": "cap_25",
+      "title": "Capítulo 25",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/25",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/25"
     },
     {
-      "numero": "Capítulo 26",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243913",
-      "titulo": ""
+      "id": "cap_26",
+      "title": "Capítulo 26",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/26",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/26"
     },
     {
-      "numero": "Capítulo 27",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243914",
-      "titulo": ""
+      "id": "cap_27",
+      "title": "Capítulo 27",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/27",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/27"
     },
     {
-      "numero": "Capítulo 28",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243915",
-      "titulo": ""
+      "id": "cap_28",
+      "title": "Capítulo 28",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/28",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/28"
     },
     {
-      "numero": "Capítulo 29",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243916",
-      "titulo": ""
+      "id": "cap_29",
+      "title": "Capítulo 29",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/29",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/29"
     },
     {
-      "numero": "Capítulo 30",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243918",
-      "titulo": ""
+      "id": "cap_30",
+      "title": "Capítulo 30",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/30",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/30"
     },
     {
-      "numero": "Capítulo 31",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243919",
-      "titulo": ""
+      "id": "cap_31",
+      "title": "Capítulo 31",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/31",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/31"
     },
     {
-      "numero": "Capítulo 32",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243920",
-      "titulo": ""
+      "id": "cap_32",
+      "title": "Capítulo 32",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/32",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/32"
     },
     {
-      "numero": "Capítulo 33",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243921",
-      "titulo": ""
+      "id": "cap_33",
+      "title": "Capítulo 33",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/33",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/33"
     },
     {
-      "numero": "Capítulo 34",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243922",
-      "titulo": ""
+      "id": "cap_34",
+      "title": "Capítulo 34",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/34",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/34"
     },
     {
-      "numero": "Capítulo 35",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243923",
-      "titulo": ""
+      "id": "cap_35",
+      "title": "Capítulo 35",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/35",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/35"
     },
     {
-      "numero": "Capítulo 36",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243924",
-      "titulo": ""
+      "id": "cap_36",
+      "title": "Capítulo 36",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/36",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/36"
     },
     {
-      "numero": "Capítulo 37",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456244407",
-      "titulo": ""
+      "id": "cap_37",
+      "title": "Capítulo 37",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/37",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/37"
     },
     {
-      "numero": "Capítulo 38",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243925",
-      "titulo": ""
+      "id": "cap_38",
+      "title": "Capítulo 38",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/38",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/38"
     },
     {
-      "numero": "Capítulo 39",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243926",
-      "titulo": ""
+      "id": "cap_39",
+      "title": "Capítulo 39",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/39",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/39"
     },
     {
-      "numero": "Capítulo 40",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243928",
-      "titulo": ""
+      "id": "cap_40",
+      "title": "Capítulo 40",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/40",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/40"
     },
     {
-      "numero": "Capítulo 41",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243929",
-      "titulo": ""
+      "id": "cap_41",
+      "title": "Capítulo 41",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/41",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/41"
     },
     {
-      "numero": "Capítulo 42",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243930",
-      "titulo": ""
+      "id": "cap_42",
+      "title": "Capítulo 42",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/42",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/42"
     },
     {
-      "numero": "Capítulo 43",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243931",
-      "titulo": ""
+      "id": "cap_43",
+      "title": "Capítulo 43",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/43",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/43"
     },
     {
-      "numero": "Capítulo 44",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243932",
-      "titulo": ""
+      "id": "cap_44",
+      "title": "Capítulo 44",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/44",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/44"
     },
     {
-      "numero": "Capítulo 45",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243933",
-      "titulo": ""
+      "id": "cap_45",
+      "title": "Capítulo 45",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/45",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/45"
     },
     {
-      "numero": "Capítulo 46",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243934",
-      "titulo": ""
+      "id": "cap_46",
+      "title": "Capítulo 46",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/46",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/46"
     },
     {
-      "numero": "Capítulo 47",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243935",
-      "titulo": ""
+      "id": "cap_47",
+      "title": "Capítulo 47",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/47",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/47"
     },
     {
-      "numero": "Capítulo 48",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243936",
-      "titulo": ""
+      "id": "cap_48",
+      "title": "Capítulo 48",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/48",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/48"
     },
     {
-      "numero": "Capítulo 49",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243937",
-      "titulo": ""
+      "id": "cap_49",
+      "title": "Capítulo 49",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/49",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/49"
     },
     {
-      "numero": "Capítulo 50",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243939",
-      "titulo": ""
+      "id": "cap_50",
+      "title": "Capítulo 50",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/50",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/50"
     },
     {
-      "numero": "Capítulo 51",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243940",
-      "titulo": ""
+      "id": "cap_51",
+      "title": "Capítulo 51",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/51",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/51"
     },
     {
-      "numero": "Capítulo 52",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243941",
-      "titulo": ""
+      "id": "cap_52",
+      "title": "Capítulo 52",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/52",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/52"
     },
     {
-      "numero": "Capítulo 53",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456244417",
-      "titulo": ""
+      "id": "cap_53",
+      "title": "Capítulo 53",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/53",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/53"
     },
     {
-      "numero": "Capítulo 54",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243942",
-      "titulo": ""
+      "id": "cap_54",
+      "title": "Capítulo 54",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/54",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/54"
     },
     {
-      "numero": "Capítulo 55",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243943",
-      "titulo": ""
+      "id": "cap_55",
+      "title": "Capítulo 55",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/55",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/55"
     },
     {
-      "numero": "Capítulo 56",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243944",
-      "titulo": ""
+      "id": "cap_56",
+      "title": "Capítulo 56",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/56",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/56"
     },
     {
-      "numero": "Capítulo 57",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243945",
-      "titulo": ""
+      "id": "cap_57",
+      "title": "Capítulo 57",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/57",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/57"
     },
     {
-      "numero": "Capítulo 58",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243946",
-      "titulo": ""
+      "id": "cap_58",
+      "title": "Capítulo 58",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/58",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/58"
     },
     {
-      "numero": "Capítulo 59",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243947",
-      "titulo": ""
+      "id": "cap_59",
+      "title": "Capítulo 59",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/59",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/59"
     },
     {
-      "numero": "Capítulo 60",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243949",
-      "titulo": ""
+      "id": "cap_60",
+      "title": "Capítulo 60",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/60",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/60"
     },
     {
-      "numero": "Capítulo 61",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243950",
-      "titulo": ""
+      "id": "cap_61",
+      "title": "Capítulo 61",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/61",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/61"
     },
     {
-      "numero": "Capítulo 62",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243951",
-      "titulo": ""
+      "id": "cap_62",
+      "title": "Capítulo 62",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/62",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/62"
     },
     {
-      "numero": "Capítulo 63",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243952",
-      "titulo": ""
+      "id": "cap_63",
+      "title": "Capítulo 63",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/63",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/63"
     },
     {
-      "numero": "Capítulo 64",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243953",
-      "titulo": ""
+      "id": "cap_64",
+      "title": "Capítulo 64",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/64",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/64"
     },
     {
-      "numero": "Capítulo 65",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243954",
-      "titulo": ""
+      "id": "cap_65",
+      "title": "Capítulo 65",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/65",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/65"
     },
     {
-      "numero": "Capítulo 66",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243955",
-      "titulo": ""
+      "id": "cap_66",
+      "title": "Capítulo 66",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/66",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/66"
     },
     {
-      "numero": "Capítulo 67",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243956",
-      "titulo": ""
+      "id": "cap_67",
+      "title": "Capítulo 67",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/67",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/67"
     },
     {
-      "numero": "Capítulo 68",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243957",
-      "titulo": ""
+      "id": "cap_68",
+      "title": "Capítulo 68",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/68",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/68"
     },
     {
-      "numero": "Capítulo 69",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243958",
-      "titulo": ""
+      "id": "cap_69",
+      "title": "Capítulo 69",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/69",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/69"
     },
     {
-      "numero": "Capítulo 70",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243960",
-      "titulo": ""
+      "id": "cap_70",
+      "title": "Capítulo 70",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/70",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/70"
     },
     {
-      "numero": "Capítulo 71",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243961",
-      "titulo": ""
+      "id": "cap_71",
+      "title": "Capítulo 71",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/71",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/71"
     },
     {
-      "numero": "Capítulo 72",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243962",
-      "titulo": ""
+      "id": "cap_72",
+      "title": "Capítulo 72",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/72",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/72"
     },
     {
-      "numero": "Capítulo 73",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243963",
-      "titulo": ""
+      "id": "cap_73",
+      "title": "Capítulo 73",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/73",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/73"
     },
     {
-      "numero": "Capítulo 74",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456244415",
-      "titulo": ""
+      "id": "cap_74",
+      "title": "Capítulo 74",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/74",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/74"
     },
     {
-      "numero": "Capítulo 75",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243964",
-      "titulo": ""
+      "id": "cap_75",
+      "title": "Capítulo 75",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/75",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/75"
     },
     {
-      "numero": "Capítulo 76",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243965",
-      "titulo": ""
+      "id": "cap_76",
+      "title": "Capítulo 76",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/76",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/76"
     },
     {
-      "numero": "Capítulo 77",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243966",
-      "titulo": ""
+      "id": "cap_77",
+      "title": "Capítulo 77",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/77",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/77"
     },
     {
-      "numero": "Capítulo 78",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243967",
-      "titulo": ""
+      "id": "cap_78",
+      "title": "Capítulo 78",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/78",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/78"
     },
     {
-      "numero": "Capítulo 79",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243968",
-      "titulo": ""
+      "id": "cap_79",
+      "title": "Capítulo 79",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/79",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/79"
     },
     {
-      "numero": "Capítulo 80",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243970",
-      "titulo": ""
+      "id": "cap_80",
+      "title": "Capítulo 80",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/80",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/80"
     },
     {
-      "numero": "Capítulo 81",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243971",
-      "titulo": ""
+      "id": "cap_81",
+      "title": "Capítulo 81",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/81",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/81"
     },
     {
-      "numero": "Capítulo 82",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243972",
-      "titulo": ""
+      "id": "cap_82",
+      "title": "Capítulo 82",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/82",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/82"
     },
     {
-      "numero": "Capítulo 83",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243973",
-      "titulo": ""
+      "id": "cap_83",
+      "title": "Capítulo 83",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/83",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/83"
     },
     {
-      "numero": "Capítulo 84",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243974",
-      "titulo": ""
+      "id": "cap_84",
+      "title": "Capítulo 84",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/84",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/84"
     },
     {
-      "numero": "Capítulo 85",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243975",
-      "titulo": ""
+      "id": "cap_85",
+      "title": "Capítulo 85",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/85",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/85"
     },
     {
-      "numero": "Capítulo 86",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243976",
-      "titulo": ""
+      "id": "cap_86",
+      "title": "Capítulo 86",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/86",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/86"
     },
     {
-      "numero": "Capítulo 87",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243977",
-      "titulo": ""
+      "id": "cap_87",
+      "title": "Capítulo 87",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/87",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/87"
     },
     {
-      "numero": "Capítulo 88",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243978",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 89",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243979",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 90",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243981",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 91",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243982",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 92",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243983",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 93",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243984",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 94",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243985",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 95",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243986",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 96",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243987",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 97",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243988",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 98",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243989",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 99",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243990",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 100",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243853",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 101",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243854",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 102",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243855",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 103",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243856",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 104",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243857",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 105",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243858",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 106",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243859",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 107",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243860",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 108",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243861",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 109",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243862",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 110",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243864",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 111",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243865",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 112",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243866",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 113",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243867",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 114",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243868",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 115",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243869",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 116",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243870",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 117",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243871",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 118",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243872",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 119",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243873",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 120",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243875",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 121",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243876",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 122",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243877",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 123",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243878",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 124",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243879",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 125",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243880",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 126",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243881",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 127",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243882",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 128",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243883",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 129",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243884",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 130",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243886",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 131",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243887",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 132",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243888",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 133",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243889",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 134",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243890",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 135",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243891",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 136",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243892",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 137",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243893",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 138",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243894",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 139",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243895",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 140",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243897",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 141",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243899",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 142",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243898",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 143",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456244405",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 144",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243900",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 145",
-      "urlOkru": "https://vk.com/video_ext.php?oid=865964634&id=456243901",
-      "titulo": ""
+      "id": "cap_88",
+      "title": "Capítulo 88",
+      "url": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/88",
+      "urlOkru": "https://flixlat.com/es/detail/drama/ImVfBnwiWTq7JWlqjNJvP-Caf%C3%A9-con-aroma-de-mujer-Season-1/88"
     }
   ]
 }

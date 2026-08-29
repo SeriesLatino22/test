@@ -1,66 +1,46 @@
 {
-  "titulo": "Betty la fea - Fans: T6",
-  "total": 10,
+  "titulo": "Betty la fea - Fans",
+  "source_url": "",
   "capitulos": [
     {
-      "id": "cap_1",
-      "title": "Capítulo 1",
-      "url": "https://play.cuevana19.com/es/detail/drama/IoHBjvsedLo4oWaykwzSI-Betty-la-Fea-The-Story-Continues-Season-3/1",
-      "urlOkru": "https://play.cuevana19.com/es/detail/drama/IoHBjvsedLo4oWaykwzSI-Betty-la-Fea-The-Story-Continues-Season-3/1"
+      "urlOkru": "https://play.cuevana19.com/es/detail/drama/IoHBjvsedLo4oWaykwzSI-Betty-la-Fea-The-Story-Continues-Season-3/1",
+      "titulo": ""
     },
     {
-      "id": "cap_2",
-      "title": "Capítulo 2",
-      "url": "https://play.cuevana19.com/es/detail/drama/IoHBjvsedLo4oWaykwzSI-Betty-la-Fea-The-Story-Continues-Season-3/2",
-      "urlOkru": "https://play.cuevana19.com/es/detail/drama/IoHBjvsedLo4oWaykwzSI-Betty-la-Fea-The-Story-Continues-Season-3/2"
+      "urlOkru": "https://play.cuevana19.com/es/detail/drama/IoHBjvsedLo4oWaykwzSI-Betty-la-Fea-The-Story-Continues-Season-3/2",
+      "titulo": ""
     },
     {
-      "id": "cap_3",
-      "title": "Capítulo 3",
-      "url": "https://play.cuevana19.com/es/detail/drama/IoHBjvsedLo4oWaykwzSI-Betty-la-Fea-The-Story-Continues-Season-3/3",
-      "urlOkru": "https://play.cuevana19.com/es/detail/drama/IoHBjvsedLo4oWaykwzSI-Betty-la-Fea-The-Story-Continues-Season-3/3"
+      "urlOkru": "https://play.cuevana19.com/es/detail/drama/IoHBjvsedLo4oWaykwzSI-Betty-la-Fea-The-Story-Continues-Season-3/3",
+      "titulo": ""
     },
     {
-      "id": "cap_4",
-      "title": "Capítulo 4",
-      "url": "https://play.cuevana19.com/es/detail/drama/IoHBjvsedLo4oWaykwzSI-Betty-la-Fea-The-Story-Continues-Season-3/4",
-      "urlOkru": "https://play.cuevana19.com/es/detail/drama/IoHBjvsedLo4oWaykwzSI-Betty-la-Fea-The-Story-Continues-Season-3/4"
+      "urlOkru": "https://play.cuevana19.com/es/detail/drama/IoHBjvsedLo4oWaykwzSI-Betty-la-Fea-The-Story-Continues-Season-3/4",
+      "titulo": ""
     },
     {
-      "id": "cap_5",
-      "title": "Capítulo 5",
-      "url": "https://play.cuevana19.com/es/detail/drama/IoHBjvsedLo4oWaykwzSI-Betty-la-Fea-The-Story-Continues-Season-3/5",
-      "urlOkru": "https://play.cuevana19.com/es/detail/drama/IoHBjvsedLo4oWaykwzSI-Betty-la-Fea-The-Story-Continues-Season-3/5"
+      "urlOkru": "https://play.cuevana19.com/es/detail/drama/IoHBjvsedLo4oWaykwzSI-Betty-la-Fea-The-Story-Continues-Season-3/5",
+      "titulo": ""
     },
     {
-      "id": "cap_6",
-      "title": "Capítulo 6",
-      "url": "https://play.cuevana19.com/es/detail/drama/IoHBjvsedLo4oWaykwzSI-Betty-la-Fea-The-Story-Continues-Season-3/6",
-      "urlOkru": "https://play.cuevana19.com/es/detail/drama/IoHBjvsedLo4oWaykwzSI-Betty-la-Fea-The-Story-Continues-Season-3/6"
+      "urlOkru": "https://play.cuevana19.com/es/detail/drama/IoHBjvsedLo4oWaykwzSI-Betty-la-Fea-The-Story-Continues-Season-3/6",
+      "titulo": ""
     },
     {
-      "id": "cap_7",
-      "title": "Capítulo 7",
-      "url": "https://play.cuevana19.com/es/detail/drama/IoHBjvsedLo4oWaykwzSI-Betty-la-Fea-The-Story-Continues-Season-3/7",
-      "urlOkru": "https://play.cuevana19.com/es/detail/drama/IoHBjvsedLo4oWaykwzSI-Betty-la-Fea-The-Story-Continues-Season-3/7"
+      "urlOkru": "https://play.cuevana19.com/es/detail/drama/IoHBjvsedLo4oWaykwzSI-Betty-la-Fea-The-Story-Continues-Season-3/7",
+      "titulo": ""
     },
     {
-      "id": "cap_8",
-      "title": "Capítulo 8",
-      "url": "https://play.cuevana19.com/es/detail/drama/IoHBjvsedLo4oWaykwzSI-Betty-la-Fea-The-Story-Continues-Season-3/8",
-      "urlOkru": "https://play.cuevana19.com/es/detail/drama/IoHBjvsedLo4oWaykwzSI-Betty-la-Fea-The-Story-Continues-Season-3/8"
+      "urlOkru": "https://play.cuevana19.com/es/detail/drama/IoHBjvsedLo4oWaykwzSI-Betty-la-Fea-The-Story-Continues-Season-3/8",
+      "titulo": ""
     },
     {
-      "id": "cap_9",
-      "title": "Capítulo 9",
-      "url": "https://play.cuevana19.com/es/detail/drama/IoHBjvsedLo4oWaykwzSI-Betty-la-Fea-The-Story-Continues-Season-3/9",
-      "urlOkru": "https://play.cuevana19.com/es/detail/drama/IoHBjvsedLo4oWaykwzSI-Betty-la-Fea-The-Story-Continues-Season-3/9"
+      "urlOkru": "https://play.cuevana19.com/es/detail/drama/IoHBjvsedLo4oWaykwzSI-Betty-la-Fea-The-Story-Continues-Season-3/9",
+      "titulo": ""
     },
     {
-      "id": "cap_10",
-      "title": "Capítulo 10",
-      "url": "https://play.cuevana19.com/es/detail/drama/IoHBjvsedLo4oWaykwzSI-Betty-la-Fea-The-Story-Continues-Season-3/10",
-      "urlOkru": "https://play.cuevana19.com/es/detail/drama/IoHBjvsedLo4oWaykwzSI-Betty-la-Fea-The-Story-Continues-Season-3/10"
+      "urlOkru": "https://play.cuevana19.com/es/detail/drama/IoHBjvsedLo4oWaykwzSI-Betty-la-Fea-The-Story-Continues-Season-3/10",
+      "titulo": ""
     }
   ]
 }

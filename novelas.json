@@ -1159,56 +1159,6 @@
     "episodesCount": 8
   },
   {
-    "id": "el_cartel_de_los_sapos_t1_t2",
-    "title": "El cartel de los sapos [T1-T2]",
-    "category": "Narco Novelas",
-    "ribbon": "NINGUNA",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/cartel.webp",
-    "isPremium": false,
-    "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_cartel_de_los_sapos_t1_t2_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_cartel_de_los_sapos_t1_t2_s1.json",
-        "episodesCount": 57
-      },
-      {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_cartel_de_los_sapos_t1_t2_s2.json",
-        "episodesCount": 50
-      }
-    ],
-    "episodesCount": 107
-  },
-  {
-    "id": "las_munecas_de_la_mafia_t1_t2",
-    "title": "Las muñecas de la mafia [T1-T2]",
-    "category": "Narco Novelas",
-    "ribbon": "NINGUNA",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/munecas.webp",
-    "isPremium": false,
-    "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/las_munecas_de_la_mafia_t1_t2_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/las_munecas_de_la_mafia_t1_t2_s1.json",
-        "episodesCount": 58
-      },
-      {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/las_munecas_de_la_mafia_t1_t2_s2.json",
-        "episodesCount": 60
-      }
-    ],
-    "episodesCount": 118
-  },
-  {
     "id": "los_casablanca",
     "title": "Los casablanca",
     "category": "Colombianas",
@@ -1518,6 +1468,353 @@
       }
     ],
     "episodesCount": 75
+  },
+  {
+    "id": "las_munecas_de_la_mafia_t1_t2",
+    "title": "Las muñecas de la mafia [T1-T2]",
+    "category": "Narco Novelas",
+    "ribbon": "NINGUNA",
+    "defaultSeason": 2,
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/munecas.webp",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/munecas_s2.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/las_munecas_de_la_mafia_t1_t2_s1.json",
+        "episodesCount": 58
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Temporada 2",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/munecas_s2.json",
+        "episodesCount": 60
+      }
+    ],
+    "isPremium": false,
+    "hasAd": true
+  },
+  {
+    "id": "a_mano_limpia",
+    "title": "A mano limpia",
+    "category": "Recién agregadas",
+    "ribbon": "NINGUNA",
+    "defaultSeason": 1,
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/mano.webp",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/a_mano_limpia_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/a_mano_limpia_s1.json",
+        "episodesCount": 141
+      }
+    ],
+    "isPremium": false,
+    "hasAd": true
+  },
+  {
+    "id": "cafe_con_aroma_de_mujer",
+    "title": "Cafe con aroma de mujer",
+    "category": "Colombianas",
+    "ribbon": "NINGUNA",
+    "defaultSeason": 1,
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/cafe_con_aroma_de_mujer.webp",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/cafe_con_aroma_de_mujer_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/cafe_con_aroma_de_mujer_s1.json",
+        "episodesCount": 88
+      }
+    ],
+    "isPremium": false,
+    "hasAd": true
+  },
+  {
+    "id": "rebelde",
+    "title": "Rebelde",
+    "category": "Mexicanas",
+    "ribbon": "NINGUNA",
+    "defaultSeason": 1,
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/rebelde.webp",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/rebelde_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/rebelde_s1.json",
+        "episodesCount": 215
+      },
+      {
+        "seasonNumber": 3,
+        "name": "Temporada 3",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/rebelde_s3.json",
+        "episodesCount": 104
+      }
+    ],
+    "isPremium": false,
+    "hasAd": true
+  },
+  {
+    "id": "chica_vampiro",
+    "title": "Chica vampiro",
+    "category": "Recién agregadas",
+    "ribbon": "NINGUNA",
+    "defaultSeason": 1,
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/chica.webp",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/chica_vampiro_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/chica_vampiro_s1.json",
+        "episodesCount": 120
+      }
+    ],
+    "isPremium": false,
+    "hasAd": true
+  },
+  {
+    "id": "la_piloto",
+    "title": "La Piloto",
+    "category": "Narco Novelas",
+    "ribbon": "NINGUNA",
+    "defaultSeason": 1,
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/la_piloto.webp",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/la_piloto_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/la_piloto_s1.json",
+        "episodesCount": 80
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Temporada 2",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/la_piloto_s2.json",
+        "episodesCount": 82
+      }
+    ],
+    "isPremium": false,
+    "hasAd": true
+  },
+  {
+    "id": "rosario_tijeras_colombia",
+    "title": "Rosario Tijeras Colombia",
+    "category": "Narco Novelas",
+    "ribbon": "NINGUNA",
+    "defaultSeason": 1,
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/rosario_tijeras_colombia.webp",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/rosario_tijeras_colombia_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/rosario_tijeras_colombia_s1.json",
+        "episodesCount": 60
+      }
+    ],
+    "isPremium": false,
+    "hasAd": true
+  },
+  {
+    "id": "el_cartel_de_los_sapos_t1_t2",
+    "title": "El cartel de los sapos [T1-T2]",
+    "category": "Narco Novelas",
+    "ribbon": "NINGUNA",
+    "defaultSeason": 2,
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/cartel.webp",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/cartel_s2.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_cartel_de_los_sapos_t1_t2_s1.json",
+        "episodesCount": 57
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Temporada 2",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/cartel_s2.json",
+        "episodesCount": 50
+      }
+    ],
+    "isPremium": false,
+    "hasAd": true
+  },
+  {
+    "id": "enemigo_intimo",
+    "title": "Enemigo intimo",
+    "category": "Narco Novelas",
+    "ribbon": "NINGUNA",
+    "defaultSeason": 2,
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/enemigo_intimo.webp",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/enemigo_intimo_s2.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/enemigo_intimo_s1.json",
+        "episodesCount": 53
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Temporada 2",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/enemigo_intimo_s2.json",
+        "episodesCount": 60
+      }
+    ],
+    "isPremium": false,
+    "hasAd": true
+  },
+  {
+    "id": "la_viuda_negra",
+    "title": "La Viuda Negra",
+    "category": "Recién agregadas",
+    "ribbon": "NINGUNA",
+    "defaultSeason": 1,
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/la_viuda_negra.webp",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/la_viuda_negra_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/la_viuda_negra_s1.json",
+        "episodesCount": 81
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Temporada 2",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/la_viuda_negra_s2.json",
+        "episodesCount": 58
+      }
+    ],
+    "isPremium": false,
+    "hasAd": true
+  },
+  {
+    "id": "dejemonos_de_vargas",
+    "title": "Dejémonos de Vargas",
+    "category": "Recién agregadas",
+    "ribbon": "NINGUNA",
+    "defaultSeason": 1,
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/dejemonos.webp",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/dejemonos_de_vargas_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/dejemonos_de_vargas_s1.json",
+        "episodesCount": 68
+      }
+    ],
+    "isPremium": false,
+    "hasAd": true
+  },
+  {
+    "id": "la_dona",
+    "title": "La Doña",
+    "category": "Recién agregadas",
+    "ribbon": "NINGUNA",
+    "defaultSeason": 1,
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/la_dona.webp",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/la_dona_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/la_dona_s1.json",
+        "episodesCount": 120
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Temporada 2",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/la_dona_s2.json",
+        "episodesCount": 75
+      }
+    ],
+    "isPremium": false,
+    "hasAd": true
+  },
+  {
+    "id": "los_reyes",
+    "title": "Los Reyes",
+    "category": "Colombianas",
+    "ribbon": "NINGUNA",
+    "defaultSeason": 1,
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/los_reyes.webp",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/los_reyes_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/los_reyes_s1.json",
+        "episodesCount": 236
+      }
+    ],
+    "isPremium": false,
+    "hasAd": true
+  },
+  {
+    "id": "que_pobres_tan_ricos",
+    "title": "Que pobres tan ricos",
+    "category": "Mexicanas",
+    "ribbon": "NINGUNA",
+    "defaultSeason": 1,
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/que_pobres_tan_ricos.webp",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/que_pobres_tan_ricos_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/que_pobres_tan_ricos_s1.json",
+        "episodesCount": 167
+      }
+    ],
+    "isPremium": false,
+    "hasAd": true
+  },
+  {
+    "id": "hasta_que_la_plata_nos_separe",
+    "title": "Hasta que la plata nos separe",
+    "category": "Colombianas",
+    "ribbon": "NINGUNA",
+    "defaultSeason": 1,
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/hasta_que_la_plata_nos_separe.webp",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/hasta_que_la_plata_nos_separe_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/hasta_que_la_plata_nos_separe_s1.json",
+        "episodesCount": 85
+      }
+    ],
+    "isPremium": false,
+    "hasAd": true
+  },
+  {
+    "id": "el_clon",
+    "title": "El clon",
+    "category": "Novelas Clásicas",
+    "ribbon": "NINGUNA",
+    "defaultSeason": 1,
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/el_clon.webp",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/el_clon_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/el_clon_s1.json",
+        "hasAdOverride": false,
+        "episodesCount": 80
+      }
+    ],
+    "isPremium": false,
+    "hasAd": true
   },
   {
     "id": "vecinos",
@@ -2811,25 +3108,6 @@
     "episodesCount": 126
   },
   {
-    "id": "los_reyes",
-    "title": "Los Reyes",
-    "category": "Colombianas",
-    "ribbon": "NINGUNA",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/los_reyes.webp",
-    "isPremium": false,
-    "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/los_reyes_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/los_reyes_s1.json",
-        "episodesCount": 197
-      }
-    ],
-    "episodesCount": 197
-  },
-  {
     "id": "los_caballeros_las_prefieren_brutas",
     "title": "Los caballeros las prefieren brutas",
     "category": "Recién agregadas",
@@ -3023,25 +3301,6 @@
       }
     ],
     "episodesCount": 126
-  },
-  {
-    "id": "dejemonos_de_vargas",
-    "title": "Dejémonos de Vargas",
-    "category": "Recién agregadas",
-    "ribbon": "NINGUNA",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/dejemonos.webp",
-    "isPremium": false,
-    "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/dejemonos_de_vargas_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/dejemonos_de_vargas_s1.json",
-        "episodesCount": 68
-      }
-    ],
-    "episodesCount": 68
   },
   {
     "id": "los_protegidos",
@@ -6435,25 +6694,6 @@
     "episodesCount": 102
   },
   {
-    "id": "que_pobres_tan_ricos",
-    "title": "Que pobres tan ricos",
-    "category": "Mexicanas",
-    "ribbon": "NINGUNA",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/que_pobres_tan_ricos.webp",
-    "isPremium": false,
-    "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/que_pobres_tan_ricos_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/que_pobres_tan_ricos_s1.json",
-        "episodesCount": 167
-      }
-    ],
-    "episodesCount": 167
-  },
-  {
     "id": "que_te_perdone_dios",
     "title": "Que te perdone Dios",
     "category": "Recién agregadas",
@@ -6724,31 +6964,6 @@
       }
     ],
     "episodesCount": 150
-  },
-  {
-    "id": "rebelde",
-    "title": "Rebelde",
-    "category": "Mexicanas",
-    "ribbon": "NINGUNA",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/rebelde.webp",
-    "isPremium": false,
-    "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/rebelde_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/rebelde_s1.json",
-        "episodesCount": 120
-      },
-      {
-        "seasonNumber": 3,
-        "name": "Temporada 3",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/rebelde_s3.json",
-        "episodesCount": 104
-      }
-    ],
-    "episodesCount": 224
   },
   {
     "id": "rebelde_way",
@@ -7059,25 +7274,6 @@
       }
     ],
     "episodesCount": 107
-  },
-  {
-    "id": "rosario_tijeras_colombia",
-    "title": "Rosario Tijeras Colombia",
-    "category": "Narco Novelas",
-    "ribbon": "NINGUNA",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/rosario_tijeras_colombia.webp",
-    "isPremium": false,
-    "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/rosario_tijeras_colombia_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/rosario_tijeras_colombia_s1.json",
-        "episodesCount": 60
-      }
-    ],
-    "episodesCount": 60
   },
   {
     "id": "rubi",
@@ -10060,25 +10256,6 @@
     "episodesCount": 135
   },
   {
-    "id": "a_mano_limpia",
-    "title": "A mano limpia",
-    "category": "Recién agregadas",
-    "ribbon": "NINGUNA",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/mano.webp",
-    "isPremium": false,
-    "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/a_mano_limpia_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/a_mano_limpia_s1.json",
-        "episodesCount": 141
-      }
-    ],
-    "episodesCount": 141
-  },
-  {
     "id": "amor_en_custodia",
     "title": "Amor en custodia",
     "category": "Recién agregadas",
@@ -10210,25 +10387,6 @@
       }
     ],
     "episodesCount": 151
-  },
-  {
-    "id": "chica_vampiro",
-    "title": "Chica vampiro",
-    "category": "Recién agregadas",
-    "ribbon": "NINGUNA",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/chica.webp",
-    "isPremium": false,
-    "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/chica_vampiro_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/chica_vampiro_s1.json",
-        "episodesCount": 120
-      }
-    ],
-    "episodesCount": 120
   },
   {
     "id": "juegos_prohibidos",
@@ -12211,25 +12369,6 @@
     "episodesCount": 103
   },
   {
-    "id": "cafe_con_aroma_de_mujer",
-    "title": "Cafe con aroma de mujer",
-    "category": "Colombianas",
-    "ribbon": "NINGUNA",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/cafe_con_aroma_de_mujer.webp",
-    "isPremium": false,
-    "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/cafe_con_aroma_de_mujer_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/cafe_con_aroma_de_mujer_s1.json",
-        "episodesCount": 145
-      }
-    ],
-    "episodesCount": 145
-  },
-  {
     "id": "cafe_con_aroma_de_mujer_2021",
     "title": "Cafe con aroma de mujer 2021",
     "category": "Colombianas",
@@ -13669,25 +13808,6 @@
       }
     ],
     "episodesCount": 187
-  },
-  {
-    "id": "dejemonos_de_vargas",
-    "title": "Dejémonos de Vargas",
-    "category": "Recién agregadas",
-    "ribbon": "NINGUNA",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/dejemonos.webp",
-    "isPremium": false,
-    "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/dejemonos_de_vargas_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/dejemonos_de_vargas_s1.json",
-        "episodesCount": 68
-      }
-    ],
-    "episodesCount": 68
   },
   {
     "id": "desaparecida",
@@ -15222,31 +15342,6 @@
     "episodesCount": 176
   },
   {
-    "id": "enemigo_intimo",
-    "title": "Enemigo intimo",
-    "category": "Narco Novelas",
-    "ribbon": "NINGUNA",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/enemigo_intimo.webp",
-    "isPremium": false,
-    "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/enemigo_intimo_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/enemigo_intimo_s1.json",
-        "episodesCount": 53
-      },
-      {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/enemigo_intimo_s2.json",
-        "episodesCount": 60
-      }
-    ],
-    "episodesCount": 113
-  },
-  {
     "id": "enfermeras",
     "title": "Enfermeras",
     "category": "Colombianas",
@@ -15568,25 +15663,6 @@
       }
     ],
     "episodesCount": 62
-  },
-  {
-    "id": "cafe_con_aroma_de_mujer",
-    "title": "Cafe con aroma de mujer",
-    "category": "Colombianas",
-    "ribbon": "NINGUNA",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/cafe_con_aroma_de_mujer.webp",
-    "isPremium": false,
-    "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/cafe_con_aroma_de_mujer_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/cafe_con_aroma_de_mujer_s1.json",
-        "episodesCount": 145
-      }
-    ],
-    "episodesCount": 145
   },
   {
     "id": "diomedes_el_cacique_de_la_junta",
@@ -16054,25 +16130,6 @@
       }
     ],
     "episodesCount": 227
-  },
-  {
-    "id": "hasta_que_la_plata_nos_separe",
-    "title": "Hasta que la plata nos separe",
-    "category": "Colombianas",
-    "ribbon": "NINGUNA",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/hasta_que_la_plata_nos_separe.webp",
-    "isPremium": false,
-    "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/hasta_que_la_plata_nos_separe_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/hasta_que_la_plata_nos_separe_s1.json",
-        "episodesCount": 87
-      }
-    ],
-    "episodesCount": 87
   },
   {
     "id": "hay_amores_que_matan",
@@ -16714,31 +16771,6 @@
     "episodesCount": 85
   },
   {
-    "id": "la_dona",
-    "title": "La Doña",
-    "category": "Recién agregadas",
-    "ribbon": "NINGUNA",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/la_dona.webp",
-    "isPremium": false,
-    "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/la_dona_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/la_dona_s1.json",
-        "episodesCount": 120
-      },
-      {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/la_dona_s2.json",
-        "episodesCount": 75
-      }
-    ],
-    "episodesCount": 195
-  },
-  {
     "id": "la_duena",
     "title": "La Duena",
     "category": "Recién agregadas",
@@ -17182,31 +17214,6 @@
     "episodesCount": 73
   },
   {
-    "id": "la_piloto",
-    "title": "La Piloto",
-    "category": "Narco Novelas",
-    "ribbon": "NINGUNA",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/la_piloto.webp",
-    "isPremium": false,
-    "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/la_piloto_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/la_piloto_s1.json",
-        "episodesCount": 80
-      },
-      {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/la_piloto_s2.json",
-        "episodesCount": 82
-      }
-    ],
-    "episodesCount": 162
-  },
-  {
     "id": "la_reina_soy_yo",
     "title": "La Reina Soy Yo",
     "category": "Narco Novelas",
@@ -17319,31 +17326,6 @@
       }
     ],
     "episodesCount": 99
-  },
-  {
-    "id": "la_viuda_negra",
-    "title": "La Viuda Negra",
-    "category": "Recién agregadas",
-    "ribbon": "NINGUNA",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/la_viuda_negra.webp",
-    "isPremium": false,
-    "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/la_viuda_negra_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/la_viuda_negra_s1.json",
-        "episodesCount": 78
-      },
-      {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/la_viuda_negra_s2.json",
-        "episodesCount": 58
-      }
-    ],
-    "episodesCount": 136
   },
   {
     "id": "la_bandida",
