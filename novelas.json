@@ -1799,18 +1799,17 @@
   {
     "id": "el_clon",
     "title": "El clon",
-    "category": "Novelas Clásicas",
+    "category": "Recién agregadas",
     "ribbon": "NINGUNA",
     "defaultSeason": 1,
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/el_clon.webp",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/1788019913678_images.jpg",
     "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/el_clon_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/el_clon_s1.json",
-        "hasAdOverride": false,
-        "episodesCount": 80
+        "hasAdOverride": false
       }
     ],
     "isPremium": false,
