@@ -1673,7 +1673,7 @@
   {
     "id": "la_viuda_negra",
     "title": "La Viuda Negra",
-    "category": "Recién agregadas",
+    "category": "Narco Novelas",
     "ribbon": "NINGUNA",
     "defaultSeason": 1,
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/la_viuda_negra.webp",
@@ -1683,13 +1683,13 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/la_viuda_negra_s1.json",
-        "episodesCount": 81
+        "hasAdOverride": false
       },
       {
         "seasonNumber": 2,
         "name": "Temporada 2",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/la_viuda_negra_s2.json",
-        "episodesCount": 58
+        "hasAdOverride": false
       }
     ],
     "isPremium": false,
