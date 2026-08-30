@@ -1,5 +1,5 @@
 {
-  "titulo": "El Señor de los Cielos: T10",
+  "titulo": "El Señor de los Cielos",
   "source_url": "",
   "capitulos": [
     {
@@ -145,56 +145,59 @@
     {
       "numero": "Capítulo 29",
       "urlOkru": "https://1a-1791.com/video/fww1/91/s8/2/0/k/n/R/0knRA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=689197056-689222909",
-      "titulo": "",
-      "rumbleUrl": "https://rumble.com/v7eg790-senor-29.html"
+      "titulo": ""
     },
     {
       "numero": "Capítulo 30",
       "urlOkru": "https://1a-1791.com/video/fwe2/aa/s8/2/C/m/n/R/CmnRA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=692713472-692739420",
-      "titulo": "",
-      "rumbleUrl": "https://rumble.com/v7eg7bw-senor-30.html"
+      "titulo": ""
     },
     {
       "numero": "Capítulo 31",
       "urlOkru": "https://1a-1791.com/video/fww1/3f/s8/2/E/o/n/R/EonRA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=691073024-691098880",
-      "titulo": "",
-      "rumbleUrl": "https://rumble.com/v7eg7fi-senor-31.html"
+      "titulo": ""
     },
     {
       "numero": "Capítulo 32",
       "urlOkru": "https://1a-1791.com/video/fwe2/1b/s8/2/s/p/n/R/spnRA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=609778176-609801004",
-      "titulo": "",
-      "rumbleUrl": "https://rumble.com/v7eg7gy-senor-32.html"
+      "titulo": ""
     },
     {
       "numero": "Capítulo 33",
       "urlOkru": "https://1a-1791.com/video/fwe2/49/s8/2/Q/q/n/R/QqnRA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=346468864-346495032",
-      "titulo": "",
-      "rumbleUrl": "https://rumble.com/v7eg7je-senor-33.html"
+      "titulo": ""
     },
     {
       "numero": "Capítulo 34",
       "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/1d/s8/2/u/-/R/S/u-RSA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=689851392-689877241",
-      "titulo": "",
-      "rumbleUrl": "https://rumble.com/v7eoivo-senor-34.html"
+      "titulo": ""
     },
     {
       "numero": "Capítulo 35",
       "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/ea/s8/2/O/-/R/S/O-RSA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=690984960-691010825",
-      "titulo": "",
-      "rumbleUrl": "https://rumble.com/v7eoiw8-senor-35.html"
+      "titulo": ""
     },
     {
       "numero": "Capítulo 36",
       "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/a8/s8/2/K/-/R/S/K-RSA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=690916352-690942212",
-      "titulo": "",
-      "rumbleUrl": "https://rumble.com/v7eoiw4-senor-36.html"
+      "titulo": ""
     },
     {
       "numero": "Capítulo 37",
       "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/b4/s8/2/c/I/b/T/cIbTA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=689455104-689480843",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 38",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/d2/s8/2/W/n/K/T/WnKTA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=690717696-690743645",
       "titulo": "",
-      "rumbleUrl": "https://rumble.com/v7eqf0i-senor-37.html"
+      "rumbleUrl": "https://rumble.com/v7etgmo-senor-38.html"
+    },
+    {
+      "numero": "Capítulo 39",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/1c/s8/2/6/n/K/T/6nKTA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=691278336-691304303",
+      "titulo": "",
+      "rumbleUrl": "https://rumble.com/v7etgmy-senor-39.html"
     }
   ]
 }
