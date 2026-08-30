@@ -325,20 +325,29 @@
     {
       "numero": "Capítulo 65",
       "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/be/s8/2/E/b/S/S/EbSSA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1289067008-1289092404",
-      "titulo": "",
-      "rumbleUrl": "https://rumble.com/v7eoj1a-cerca-65.html"
+      "titulo": ""
     },
     {
       "numero": "Capítulo 66",
       "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/8e/s8/2/G/b/S/S/GbSSA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1314698752-1314724566",
-      "titulo": "",
-      "rumbleUrl": "https://rumble.com/v7eoj1c-cerca-66.html"
+      "titulo": ""
     },
     {
       "numero": "Capítulo 67",
       "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/8a/s8/2/Q/B/S/S/QBSSA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1275589120-1275614123",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 68",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/01/s8/2/G/y/K/T/GyKTA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1292664832-1292690226",
       "titulo": "",
-      "rumbleUrl": "https://rumble.com/v7eokbu-cerca-67.html"
+      "rumbleUrl": "https://rumble.com/v7eth5s-cerca-68.html"
+    },
+    {
+      "numero": "Capítulo 69",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/6f/s8/2/8/y/K/T/8yKTA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1315723776-1315749600",
+      "titulo": "",
+      "rumbleUrl": "https://rumble.com/v7eth6k-cerca-69.html"
     }
   ]
 }
