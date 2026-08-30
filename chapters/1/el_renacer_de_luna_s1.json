@@ -220,32 +220,39 @@
     {
       "numero": "Capítulo 44",
       "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/dd/s8/2/E/K/b/T/EKbTA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=691808768-691834813",
-      "titulo": "",
-      "rumbleUrl": "https://rumble.com/v7eqf4u-renacr-44.html"
+      "titulo": ""
     },
     {
       "numero": "Capítulo 45",
       "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/17/s8/2/S/K/b/T/SKbTA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=696961024-696987169",
-      "titulo": "",
-      "rumbleUrl": "https://rumble.com/v7eqf58-renacr-45.html"
+      "titulo": ""
     },
     {
       "numero": "Capítulo 46",
       "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/44/s8/2/0/K/b/T/0KbTA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1332667904-1332694140",
-      "titulo": "",
-      "rumbleUrl": "https://rumble.com/v7eqf5g-renacr-46.html"
+      "titulo": ""
     },
     {
       "numero": "Capítulo 47",
       "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/aa/s8/2/a/L/b/T/aLbTA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=691764224-691790173",
-      "titulo": "",
-      "rumbleUrl": "https://rumble.com/v7eqf5s-renacr-47.html"
+      "titulo": ""
     },
     {
       "numero": "Capítulo 48",
       "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/c6/s8/2/m/L/b/T/mLbTA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1310609920-1310635736",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 49",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/eb/s8/2/G/o/K/T/GoKTA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1335886336-1335912563",
       "titulo": "",
-      "rumbleUrl": "https://rumble.com/v7eqf64-rencr-48.html"
+      "rumbleUrl": "https://rumble.com/v7etgo0-renacr-49.html"
+    },
+    {
+      "numero": "Capítulo 50",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/16/s8/2/M/o/K/T/MoKTA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1329399296-1329425412",
+      "titulo": "",
+      "rumbleUrl": "https://rumble.com/v7etgo6-renacr-50.html"
     }
   ]
 }
