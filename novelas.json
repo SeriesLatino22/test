@@ -66,7 +66,8 @@
         "seasonNumber": 10,
         "name": "Temporada 10",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/el_senor_de_los_cielos_t10_s10.json",
-        "hasAdOverride": false
+        "hasAdOverride": false,
+        "episodesCount": 39
       }
     ],
     "isPremium": true,
