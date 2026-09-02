@@ -1,8 +1,10 @@
 {
-  "catalogVersion": 1788370533537,
+  "catalogVersion": 1788370569213,
   "notifsVersion": 1788021034041,
-  "updatedNovelaIds": [],
-  "isFullCatalogUpdate": true,
+  "updatedNovelaIds": [
+    "lejos_de_ti_t2"
+  ],
+  "isFullCatalogUpdate": false,
   "priorityNovelas": [],
   "emergencyFullFlush": 1788021034041
 }
