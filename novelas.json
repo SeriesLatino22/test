@@ -244,7 +244,8 @@
         "seasonNumber": 2,
         "name": "Temporada 2",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/lejos_de_ti_t2_s2.json",
-        "hasAdOverride": false
+        "hasAdOverride": false,
+        "episodesCount": 34
       }
     ],
     "isPremium": false,
