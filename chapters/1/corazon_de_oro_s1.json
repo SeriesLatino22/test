@@ -1,8 +1,6 @@
 {
-  "id": "corazon_de_oro_s1",
   "titulo": "Corazón de oro",
-  "subtitulo": "Corazón de oro: Temporada 1",
-  "portada": "",
+  "source_url": "",
   "capitulos": [
     {
       "numero": "Capítulo 1",
@@ -398,6 +396,12 @@
       "numero": "Capítulo 79",
       "urlOkru": "https://1a-1791.com/video/fwe2/a9/s8/2/M/p/2/y/Mp2yA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1324783104-1324809225",
       "titulo": ""
+    },
+    {
+      "numero": "Capítulo 80",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/f4/s8/2/u/n/M/U/unMUA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1344299008-1344325428",
+      "titulo": "",
+      "rumbleUrl": "https://rumble.com/v7ez978-corazon-80.html"
     }
   ]
 }
