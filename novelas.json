@@ -1666,8 +1666,9 @@
       {
         "seasonNumber": 2,
         "name": "Temporada 2",
-        "jsonUrl": "https://flixlat.com/es/detail/drama/rvqPOAm7QeXoWQUPf0WEg-Enemigo-%C3%8Dntimo-Season%C2%A02",
-        "hasAdOverride": false
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/enemigo_intimo_s2.json",
+        "hasAdOverride": false,
+        "episodesCount": 60
       }
     ],
     "isPremium": false,
