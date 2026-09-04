@@ -1,8 +1,10 @@
 {
-  "catalogVersion": 1788533471833,
+  "catalogVersion": 1788533482336,
   "notifsVersion": 1788021034041,
-  "updatedNovelaIds": [],
-  "isFullCatalogUpdate": true,
+  "updatedNovelaIds": [
+    "la_dona"
+  ],
+  "isFullCatalogUpdate": false,
   "priorityNovelas": [],
   "emergencyFullFlush": 1788021034041
 }
