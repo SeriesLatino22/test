@@ -2288,12 +2288,12 @@
     "posterUrl": "https://pbs.twimg.com/media/GV6pYtZWkAAfd67?format=jpg&name=small",
     "isPremium": false,
     "hasAd": true,
-    "targetUrl": "https://app.latino7.com/cdn/chapters/1/sinu_rio_de_pasiones_s1.json",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/sinu_rio_de_pasiones_s1_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://app.latino7.com/cdn/chapters/1/sinu_rio_de_pasiones_s1.json",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/sinu_rio_de_pasiones_s1_s1.json",
         "hasAdOverride": false,
         "episodesCount": 61
       }
