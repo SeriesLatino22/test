@@ -1,10 +1,8 @@
 {
-  "catalogVersion": 1788534775659,
+  "catalogVersion": 1788534878309,
   "notifsVersion": 1788021034041,
-  "updatedNovelaIds": [
-    "cuentos_de_los_hermanos_grimm"
-  ],
-  "isFullCatalogUpdate": false,
+  "updatedNovelaIds": [],
+  "isFullCatalogUpdate": true,
   "priorityNovelas": [],
   "emergencyFullFlush": 1788021034041
 }
