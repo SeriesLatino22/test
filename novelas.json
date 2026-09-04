@@ -1978,13 +1978,14 @@
     "ribbon": "NINGUNA",
     "defaultSeason": 1,
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/1788021210445_images__1_.jpg",
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/cuentos_de_los_hermanos_grimm_s1.json",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/cuentos_de_los_hermanos_grimm_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/cuentos_de_los_hermanos_grimm_s1.json",
-        "hasAdOverride": false
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/cuentos_de_los_hermanos_grimm_s1.json",
+        "hasAdOverride": false,
+        "episodesCount": 40
       }
     ],
     "isPremium": false,
