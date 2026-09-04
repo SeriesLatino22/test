@@ -1488,8 +1488,9 @@
       {
         "seasonNumber": 2,
         "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/munecas_s2.json",
-        "hasAdOverride": false
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/las_munecas_de_la_mafia_t1_t2_s2.json",
+        "hasAdOverride": false,
+        "episodesCount": 60
       }
     ],
     "isPremium": false,
