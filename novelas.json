@@ -2201,6 +2201,25 @@
     "episodesCount": 90
   },
   {
+    "id": "la_nieta_elegida",
+    "title": "La nieta elegida",
+    "category": "Recién agregadas",
+    "ribbon": "NINGUNA",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/nieta.webp",
+    "isPremium": false,
+    "hasAd": false,
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/la_nieta_elegida_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/la_nieta_elegida_s1.json",
+        "episodesCount": 72
+      }
+    ],
+    "episodesCount": 72
+  },
+  {
     "id": "los_hombres_tambien_lloran",
     "title": "Los hombres tambien lloran",
     "category": "Recién agregadas",
@@ -2273,25 +2292,6 @@
       }
     ],
     "episodesCount": 25
-  },
-  {
-    "id": "la_nieta_elegida",
-    "title": "La nieta elegida",
-    "category": "Recién agregadas",
-    "ribbon": "NINGUNA",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/nieta.webp",
-    "isPremium": false,
-    "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/la_nieta_elegida_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/la_nieta_elegida_s1.json",
-        "episodesCount": 72
-      }
-    ],
-    "episodesCount": 72
   },
   {
     "id": "quien_mato_a_patricia_soler",
