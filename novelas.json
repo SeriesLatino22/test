@@ -17984,5 +17984,25 @@
       }
     ],
     "episodesCount": 95
+  },
+  {
+    "id": "los_hombres_tambien_lloran_s1",
+    "title": "Los hombres también lloran",
+    "category": "Colombianas",
+    "ribbon": "",
+    "defaultSeason": 1,
+    "posterUrl": "https://pbs.twimg.com/media/GV6pR3bWwAAYaaS?format=jpg&name=small",
+    "targetUrl": "https://app.latino7.com/cdn/chapters/1/los_hombres_tambien_lloran_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://app.latino7.com/cdn/chapters/1/los_hombres_tambien_lloran_s1.json",
+        "hasAdOverride": false,
+        "episodesCount": 41
+      }
+    ],
+    "isPremium": false,
+    "hasAd": true
   }
 ]
