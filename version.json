@@ -1,8 +1,10 @@
 {
-  "catalogVersion": 1788532954721,
+  "catalogVersion": 1788532974042,
   "notifsVersion": 1788021034041,
-  "updatedNovelaIds": [],
-  "isFullCatalogUpdate": true,
+  "updatedNovelaIds": [
+    "las_munecas_de_la_mafia_t1_t2"
+  ],
+  "isFullCatalogUpdate": false,
   "priorityNovelas": [],
   "emergencyFullFlush": 1788021034041
 }
