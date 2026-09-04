@@ -1,10 +1,8 @@
 {
-  "catalogVersion": 1788533306489,
+  "catalogVersion": 1788533396682,
   "notifsVersion": 1788021034041,
-  "updatedNovelaIds": [
-    "el_cartel_de_los_sapos_t1_t2"
-  ],
-  "isFullCatalogUpdate": false,
+  "updatedNovelaIds": [],
+  "isFullCatalogUpdate": true,
   "priorityNovelas": [],
   "emergencyFullFlush": 1788021034041
 }
