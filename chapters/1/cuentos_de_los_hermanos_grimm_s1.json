@@ -1,8 +1,6 @@
 {
-  "id": "cuentos_de_los_hermanos_grimm_s1",
   "titulo": "Cuentos de los hermanos Grimm",
-  "subtitulo": "Cuentos de los hermanos Grimm: Temporada 1",
-  "portada": "",
+  "source_url": "",
   "capitulos": [
     {
       "numero": "Capítulo 1",
@@ -16,7 +14,7 @@
     },
     {
       "numero": "Capítulo 3",
-      "urlOkru": "https://1a-1791.com/video/s8/2/f/s/r/3/fsr3s.baa.mp4",
+      "urlOkru": "https://1a-1791.com/video/s8/2/f/s/r/3/fsr3s.caa.mp4",
       "titulo": ""
     },
     {
