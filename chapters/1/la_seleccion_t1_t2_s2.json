@@ -1,8 +1,8 @@
 {
   "id": "la_seleccion_t1_t2_s2",
-  "titulo": "La selección [T1-T2]",
-  "subtitulo": "La selección [T1-T2]: Temporada 2",
-  "portada": "",
+  "titulo": "La Selección [T1-T2]",
+  "subtitulo": "La Selección [T1-T2]: Temporada 2",
+  "portada": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/laseleccion.webp",
   "capitulos": [
     {
       "numero": "Capítulo 1",

@@ -1840,10 +1840,10 @@
         "seasonNumber": 2,
         "name": "Temporada 2",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_seleccion_s2.json",
-        "episodesCount": 64
+        "episodesCount": 70
       }
     ],
-    "episodesCount": 140
+    "episodesCount": 146
   },
   {
     "id": "caso_colmenares",
@@ -1872,15 +1872,16 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/comando.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/comando_elite_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/comando_elite_s1.json",
+        "episodesCount": 40
       }
     ],
-    "episodesCount": 0
+    "episodesCount": 40
   },
   {
     "id": "vecinos",
