@@ -375,14 +375,18 @@
     {
       "numero": "Capítulo 75",
       "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/65/s8/2/q/k/M/U/qkMUA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1274903040-1274928133",
-      "titulo": "",
-      "rumbleUrl": "https://rumble.com/v7ez91s-guard-75.html"
+      "titulo": ""
     },
     {
       "numero": "Capítulo 76",
       "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/50/s8/2/A/k/M/U/AkMUA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1275775488-1275800585",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 77",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/86/s8/2/6/9/m/V/69mVA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1284957696-1284982994",
       "titulo": "",
-      "rumbleUrl": "https://rumble.com/v7ez922-guard-76.html"
+      "rumbleUrl": "https://rumble.com/v7f2np6-guard-77.html"
     }
   ]
 }
