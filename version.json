@@ -1,10 +1,8 @@
 {
-  "catalogVersion": 1788538621067,
+  "catalogVersion": 1788538639825,
   "notifsVersion": 1788021034041,
-  "updatedNovelaIds": [
-    "tan_cerca_de_ti_nace_el_amor"
-  ],
-  "isFullCatalogUpdate": false,
+  "updatedNovelaIds": [],
+  "isFullCatalogUpdate": true,
   "priorityNovelas": [],
   "emergencyFullFlush": 1788021034041
 }
