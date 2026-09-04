@@ -175,8 +175,19 @@
     {
       "numero": "Capítulo 35",
       "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/95/s8/2/y/k/M/U/ykMUA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=347340288-347366566",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 36",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/82/s8/2/-/b/n/V/-bnVA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=342416896-342442726",
       "titulo": "",
-      "rumbleUrl": "https://rumble.com/v7ez920-kwjs-35.html"
+      "rumbleUrl": "https://rumble.com/v7f2nwe-lejs-36.html"
+    },
+    {
+      "numero": "Capítulo 37",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/0e/s8/2/s/c/n/V/scnVA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=343782400-343808384",
+      "titulo": "",
+      "rumbleUrl": "https://rumble.com/v7f2nwy-lejs-37.html"
     }
   ]
 }
