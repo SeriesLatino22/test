@@ -207,25 +207,6 @@
     "episodesCount": 38
   },
   {
-    "id": "guardian_de_mi_vida",
-    "title": "Guardián de mi vida",
-    "category": "Recién agregadas",
-    "ribbon": "FINALIZADO",
-    "defaultSeason": 1,
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/guardiIMG2.webp",
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/guardian_de_mi_vida_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/guardian_de_mi_vida_s1.json",
-        "hasAdOverride": false
-      }
-    ],
-    "isPremium": false,
-    "hasAd": false
-  },
-  {
     "id": "lejos_de_ti_t2",
     "title": "Lejos de ti T2",
     "category": "Recién agregadas",
@@ -269,6 +250,25 @@
       }
     ],
     "episodesCount": 58
+  },
+  {
+    "id": "guardian_de_mi_vida",
+    "title": "Guardián de mi vida",
+    "category": "Recién agregadas",
+    "ribbon": "FINALIZADO",
+    "defaultSeason": 1,
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/guardiIMG2.webp",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/guardian_de_mi_vida_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/guardian_de_mi_vida_s1.json",
+        "hasAdOverride": false
+      }
+    ],
+    "isPremium": false,
+    "hasAd": false
   },
   {
     "id": "corazon_de_oro",
