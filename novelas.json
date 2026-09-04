@@ -210,20 +210,20 @@
     "id": "guardian_de_mi_vida",
     "title": "Guardián de mi vida",
     "category": "Recién agregadas",
-    "ribbon": "GRAN ESTRENO",
+    "ribbon": "FINALIZADO",
+    "defaultSeason": 1,
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/guardiIMG2.webp",
-    "isPremium": false,
-    "hasAd": false,
     "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/guardian_de_mi_vida_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/guardian_de_mi_vida_s1.json",
-        "episodesCount": 77
+        "hasAdOverride": false
       }
     ],
-    "episodesCount": 62
+    "isPremium": false,
+    "hasAd": false
   },
   {
     "id": "lejos_de_ti_t2",
