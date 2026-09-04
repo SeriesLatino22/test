@@ -1,8 +1,10 @@
 {
-  "catalogVersion": 1788533396682,
+  "catalogVersion": 1788533404693,
   "notifsVersion": 1788021034041,
-  "updatedNovelaIds": [],
-  "isFullCatalogUpdate": true,
+  "updatedNovelaIds": [
+    "enemigo_intimo"
+  ],
+  "isFullCatalogUpdate": false,
   "priorityNovelas": [],
   "emergencyFullFlush": 1788021034041
 }
