@@ -1,8 +1,10 @@
 {
-  "catalogVersion": 1788551207882,
+  "catalogVersion": 1788552107499,
   "notifsVersion": 1788021034041,
-  "updatedNovelaIds": [],
-  "isFullCatalogUpdate": true,
+  "updatedNovelaIds": [
+    "sinu_rio_de_pasiones_s1"
+  ],
+  "isFullCatalogUpdate": false,
   "priorityNovelas": [],
   "emergencyFullFlush": 1788021034041
 }
