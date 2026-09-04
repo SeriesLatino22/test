@@ -2267,12 +2267,12 @@
     "posterUrl": "https://pbs.twimg.com/media/GV6pR3aWkAAcbjQ?format=jpg&name=small",
     "isPremium": false,
     "hasAd": true,
-    "targetUrl": "https://app.latino7.com/cdn/chapters/1/la_familia_de_mi_esposo_s1.json",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/la_familia_de_mi_esposo_s1_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://app.latino7.com/cdn/chapters/1/la_familia_de_mi_esposo_s1.json",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/la_familia_de_mi_esposo_s1_s1.json",
         "hasAdOverride": false,
         "episodesCount": 152
       }
