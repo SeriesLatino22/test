@@ -2260,40 +2260,46 @@
     "episodesCount": 41
   },
   {
-    "id": "la_familia_de_mi_esposo",
+    "id": "la_familia_de_mi_esposo_s1",
     "title": "La familia de mi esposo",
-    "category": "Recién agregadas",
-    "ribbon": "NINGUNA",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/familia.webp",
+    "category": "Otras Novelas",
+    "ribbon": "",
+    "posterUrl": "https://pbs.twimg.com/media/GV6pR3aWkAAcbjQ?format=jpg&name=small",
     "isPremium": false,
-    "hasAd": false,
-    "targetUrl": "",
+    "hasAd": true,
+    "targetUrl": "https://app.latino7.com/cdn/chapters/1/la_familia_de_mi_esposo_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://app.latino7.com/cdn/chapters/1/la_familia_de_mi_esposo_s1.json",
+        "hasAdOverride": false,
+        "episodesCount": 152
       }
     ],
-    "episodesCount": 0
+    "episodesCount": 0,
+    "defaultSeason": 1
   },
   {
-    "id": "sinu_rio_de_pasiones",
-    "title": "Sinú, Río de pasiones",
-    "category": "Recién agregadas",
-    "ribbon": "NINGUNA",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/sinu.webp",
+    "id": "sinu_rio_de_pasiones_s1",
+    "title": "Sinú, río de pasiones",
+    "category": "Colombianas",
+    "ribbon": "",
+    "posterUrl": "https://pbs.twimg.com/media/GV6pYtZWkAAfd67?format=jpg&name=small",
     "isPremium": false,
-    "hasAd": false,
-    "targetUrl": "",
+    "hasAd": true,
+    "targetUrl": "https://app.latino7.com/cdn/chapters/1/sinu_rio_de_pasiones_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://app.latino7.com/cdn/chapters/1/sinu_rio_de_pasiones_s1.json",
+        "hasAdOverride": false,
+        "episodesCount": 61
       }
     ],
-    "episodesCount": 0
+    "episodesCount": 0,
+    "defaultSeason": 1
   },
   {
     "id": "infieles",
@@ -17978,31 +17984,5 @@
       }
     ],
     "episodesCount": 95
-  },
-  {
-    "id": "1",
-    "titulo": "La familia de mi esposo",
-    "imagen": "https://pbs.twimg.com/media/GV6pR3aWkAAcbjQ?format=jpg&name=small",
-    "capitulosUrl": "chapters/1/la_familia_de_mi_esposo_s1.json",
-    "numCapitulos": "152",
-    "temporadas": [
-      {
-        "numero": 1,
-        "capitulosUrl": "chapters/1/la_familia_de_mi_esposo_s1.json"
-      }
-    ]
-  },
-  {
-    "id": "2",
-    "titulo": "Sinú, río de pasiones",
-    "imagen": "https://pbs.twimg.com/media/GV6pYtZWkAAfd67?format=jpg&name=small",
-    "capitulosUrl": "chapters/1/sinu_rio_de_pasiones_s1.json",
-    "numCapitulos": "61",
-    "temporadas": [
-      {
-        "numero": 1,
-        "capitulosUrl": "chapters/1/sinu_rio_de_pasiones_s1.json"
-      }
-    ]
   }
 ]
