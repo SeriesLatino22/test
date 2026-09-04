@@ -226,25 +226,6 @@
     "episodesCount": 62
   },
   {
-    "id": "novela-1788536356940",
-    "title": "Toda una dama",
-    "category": "Recién agregadas",
-    "ribbon": "NINGUNA",
-    "defaultSeason": 1,
-    "posterUrl": "https://image-resizer-cloud-cdn.cms.api.canela.tv/image/62B37717-86B6-42B9-A564-E955F41C5175/0-16x9.jpg?width=400&updatedTime=2026-05-28T18:21:38Z&dt=Web",
-    "targetUrl": "https://canela.tv/tvseries/toda-una-dama",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://canela.tv/tvseries/toda-una-dama",
-        "hasAdOverride": false
-      }
-    ],
-    "isPremium": false,
-    "hasAd": false
-  },
-  {
     "id": "lejos_de_ti_t2",
     "title": "Lejos de ti T2",
     "category": "Recién agregadas",
@@ -345,6 +326,25 @@
     ],
     "isPremium": false,
     "hasAd": true
+  },
+  {
+    "id": "novela-1788536356940",
+    "title": "Toda una dama",
+    "category": "Recién agregadas",
+    "ribbon": "NINGUNA",
+    "defaultSeason": 1,
+    "posterUrl": "https://image-resizer-cloud-cdn.cms.api.canela.tv/image/62B37717-86B6-42B9-A564-E955F41C5175/0-16x9.jpg?width=400&updatedTime=2026-05-28T18:21:38Z&dt=Web",
+    "targetUrl": "https://canela.tv/tvseries/toda-una-dama",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://canela.tv/tvseries/toda-una-dama",
+        "hasAdOverride": false
+      }
+    ],
+    "isPremium": false,
+    "hasAd": false
   },
   {
     "id": "los_encantos_del_sinverguenza",
