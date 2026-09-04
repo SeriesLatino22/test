@@ -1,10 +1,8 @@
 {
-  "catalogVersion": 1788552143165,
+  "catalogVersion": 1788552204157,
   "notifsVersion": 1788021034041,
-  "updatedNovelaIds": [
-    "los_hombres_tambien_lloran"
-  ],
-  "isFullCatalogUpdate": false,
+  "updatedNovelaIds": [],
+  "isFullCatalogUpdate": true,
   "priorityNovelas": [],
   "emergencyFullFlush": 1788021034041
 }
