@@ -17978,5 +17978,31 @@
       }
     ],
     "episodesCount": 95
+  },
+  {
+    "id": "1",
+    "titulo": "La familia de mi esposo",
+    "imagen": "https://pbs.twimg.com/media/GV6pR3aWkAAcbjQ?format=jpg&name=small",
+    "capitulosUrl": "chapters/1/la_familia_de_mi_esposo_s1.json",
+    "numCapitulos": "152",
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulosUrl": "chapters/1/la_familia_de_mi_esposo_s1.json"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "titulo": "Sinú, río de pasiones",
+    "imagen": "https://pbs.twimg.com/media/GV6pYtZWkAAfd67?format=jpg&name=small",
+    "capitulosUrl": "chapters/1/sinu_rio_de_pasiones_s1.json",
+    "numCapitulos": "61",
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulosUrl": "chapters/1/sinu_rio_de_pasiones_s1.json"
+      }
+    ]
   }
 ]
