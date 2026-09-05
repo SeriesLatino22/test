@@ -538,26 +538,6 @@
     "episodesCount": 82
   },
   {
-    "id": "novela-1788536356940",
-    "title": "Toda una dama",
-    "category": "Recién agregadas",
-    "ribbon": "NINGUNA",
-    "defaultSeason": 1,
-    "posterUrl": "https://image-resizer-cloud-cdn.cms.api.canela.tv/image/62B37717-86B6-42B9-A564-E955F41C5175/0-16x9.jpg?width=400&updatedTime=2026-05-28T18:21:38Z&dt=Web",
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/novela_1788536356940_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/novela_1788536356940_s1.json",
-        "hasAdOverride": false,
-        "episodesCount": 147
-      }
-    ],
-    "isPremium": false,
-    "hasAd": false
-  },
-  {
     "id": "la_encrucijada",
     "title": "La encrucijada",
     "category": "Recién agregadas",
