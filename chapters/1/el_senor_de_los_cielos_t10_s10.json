@@ -210,14 +210,18 @@
     {
       "numero": "Capítulo 42",
       "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/38/s8/2/c/7/m/V/c7mVA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=691257856-691283812",
-      "titulo": "",
-      "rumbleUrl": "https://rumble.com/v7f2nk2-senor-42.html"
+      "titulo": ""
     },
     {
       "numero": "Capítulo 43",
       "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/a1/s8/2/W/7/m/V/W7mVA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=690454016-690479865",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 44",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/8c/s8/2/A/L/F/V/ALFVA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=695291392-695317448",
       "titulo": "",
-      "rumbleUrl": "https://rumble.com/v7f2nlc-senor-43.html"
+      "rumbleUrl": "https://rumble.com/v7f4aje-senor-44.html"
     }
   ]
 }
