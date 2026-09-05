@@ -1,5 +1,24 @@
 [
   {
+    "id": "novela-1788636491872",
+    "title": "Tierra de Amor y Coraje",
+    "category": "Colombianas",
+    "ribbon": "GRAN ESTRENO",
+    "defaultSeason": 1,
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/1788636447111_tierrad22.webp",
+    "targetUrl": "tierrapee",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "tierrapee",
+        "hasAdOverride": false
+      }
+    ],
+    "isPremium": false,
+    "hasAd": false
+  },
+  {
     "id": "el_senor_de_los_cielos_t10",
     "title": "El Señor de los Cielos",
     "category": "Narco Novelas",
