@@ -102,22 +102,27 @@
       },
       {
         "seasonNumber": 4,
+        "name": "Betty en NY",
+        "jsonUrl": "https://video.playspelis.com/es/detail/drama/ktrfBz19Fwfu6tWevUC61-Betty-en-NY/1",
+        "hasAdOverride": true
+      },
+      {
+        "seasonNumber": 5,
         "name": "Betty la fea 2024",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/betty_la_fea_fans_s4.json",
         "hasAdOverride": false
       },
       {
-        "seasonNumber": 5,
+        "seasonNumber": 6,
         "name": "Betty la fea 2025",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/betty_la_fea_fans_s5.json",
         "hasAdOverride": false
       },
       {
-        "seasonNumber": 6,
+        "seasonNumber": 7,
         "name": "Betty la fea 2026",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/betty_la_fea_fans_s6.json",
-        "hasAdOverride": false,
-        "episodesCount": 10
+        "hasAdOverride": false
       }
     ],
     "isPremium": true,
