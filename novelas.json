@@ -130,14 +130,13 @@
     "ribbon": "GRAN ESTRENO",
     "defaultSeason": 1,
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/1788636447111_tierrad22.webp",
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/novela_1788636491872_s1.json",
+    "targetUrl": "https://flixlat.com/es/detail/drama/eAbpDEPS3PIynr6cLva66-Tierra-de-amor-y-coraje/1",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/novela_1788636491872_s1.json",
-        "hasAdOverride": false,
-        "episodesCount": 1
+        "jsonUrl": "https://flixlat.com/es/detail/drama/eAbpDEPS3PIynr6cLva66-Tierra-de-amor-y-coraje/1",
+        "hasAdOverride": false
       }
     ],
     "isPremium": false,
