@@ -126,7 +126,7 @@
   {
     "id": "novela-1788636491872",
     "title": "Tierra de Amor y Coraje",
-    "category": "Colombianas",
+    "category": "Mexicanas",
     "ribbon": "GRAN ESTRENO",
     "defaultSeason": 1,
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/1788636447111_tierrad22.webp",
@@ -136,8 +136,7 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/novela_1788636491872_s1.json",
-        "hasAdOverride": false,
-        "episodesCount": 25
+        "hasAdOverride": false
       }
     ],
     "isPremium": false,
