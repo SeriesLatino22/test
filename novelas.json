@@ -103,8 +103,9 @@
       {
         "seasonNumber": 4,
         "name": "Betty en NY",
-        "jsonUrl": "https://video.playspelis.com/es/detail/drama/ktrfBz19Fwfu6tWevUC61-Betty-en-NY/1",
-        "hasAdOverride": true
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/betty_la_fea_fans_s4.json",
+        "hasAdOverride": true,
+        "episodesCount": 100
       },
       {
         "seasonNumber": 5,
