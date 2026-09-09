@@ -117,14 +117,16 @@
       {
         "seasonNumber": 6,
         "name": "Betty la fea 2025",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/betty_la_fea_fans_s5.json",
-        "hasAdOverride": false
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/betty_la_fea_fans_s6.json",
+        "hasAdOverride": false,
+        "episodesCount": 10
       },
       {
         "seasonNumber": 7,
         "name": "Betty la fea 2026",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/betty_la_fea_fans_s6.json",
-        "hasAdOverride": false
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/betty_la_fea_fans_s7.json",
+        "hasAdOverride": false,
+        "episodesCount": 10
       }
     ],
     "isPremium": true,
