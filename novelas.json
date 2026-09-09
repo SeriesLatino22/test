@@ -1924,15 +1924,14 @@
     "category": "Recién agregadas",
     "ribbon": "NINGUNA",
     "defaultSeason": 1,
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/like_la_leyenda.webp",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/1788929110937_like_la_leyenda.webp",
     "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/like_la_leyenda_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/like_la_leyenda_s1.json",
-        "hasAdOverride": false,
-        "episodesCount": 97
+        "hasAdOverride": false
       }
     ],
     "isPremium": false,
