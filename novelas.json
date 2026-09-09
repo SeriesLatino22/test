@@ -2002,57 +2002,50 @@
     "category": "Recién agregadas",
     "ribbon": "NINGUNA",
     "defaultSeason": 1,
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/reyes_reis.webp",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/1788929200283_reyes.webp",
     "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/reyes_reis_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/reyes_reis_s1.json",
-        "hasAdOverride": false,
-        "episodesCount": 27
+        "hasAdOverride": false
       },
       {
         "seasonNumber": 2,
         "name": "Temporada 2",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/reyes_reis_s2.json",
-        "hasAdOverride": false,
-        "episodesCount": 30
+        "hasAdOverride": false
       },
       {
         "seasonNumber": 3,
         "name": "Temporada 3",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/reyes_reis_s3.json",
-        "hasAdOverride": false,
-        "episodesCount": 31
+        "hasAdOverride": false
       },
       {
         "seasonNumber": 4,
         "name": "Temporada 4",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/reyes_reis_s4.json",
-        "hasAdOverride": false,
-        "episodesCount": 16
+        "hasAdOverride": false
       },
       {
         "seasonNumber": 5,
         "name": "Temporada 5",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/reyes_reis_s5.json",
-        "hasAdOverride": false,
-        "episodesCount": 36
+        "hasAdOverride": false
       },
       {
         "seasonNumber": 6,
         "name": "Temporada 6",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/reyes_reis_s6.json",
-        "hasAdOverride": false,
-        "episodesCount": 25
+        "hasAdOverride": false
       },
       {
         "seasonNumber": 7,
         "name": "Temporada 7",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/reyes_reis_s7.json",
-        "hasAdOverride": false,
-        "episodesCount": 39
+        "hasAdOverride": false
       }
     ],
     "isPremium": false,
