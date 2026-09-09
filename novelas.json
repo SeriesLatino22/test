@@ -1634,7 +1634,7 @@
     "title": "Enemigo intimo",
     "category": "Narco Novelas",
     "ribbon": "NINGUNA",
-    "defaultSeason": 2,
+    "defaultSeason": 1,
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/enemigo_intimo.webp",
     "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/enemigo_intimo_s1.json",
     "seasons": [
