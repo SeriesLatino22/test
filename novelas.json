@@ -2124,15 +2124,14 @@
     "category": "Mexicanas",
     "ribbon": "NINGUNA",
     "defaultSeason": 1,
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/teresa.webp",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/1788929248842_terssaa.webp",
     "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/teresa_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/teresa_s1.json",
-        "hasAdOverride": false,
-        "episodesCount": 151
+        "hasAdOverride": false
       }
     ],
     "isPremium": false,
