@@ -409,25 +409,6 @@
     "episodesCount": 61
   },
   {
-    "id": "novela-1788896814493",
-    "title": "y",
-    "category": "Recién agregadas",
-    "ribbon": "GRAN ESTRENO",
-    "defaultSeason": 1,
-    "posterUrl": "https://image-resizer-cloud-cdn.cms.api.canela.tv/image/D73101E6-1425-40B0-B603-DCFF2322D02C/0-16x9.jpg?width=2050&updatedTime=2026-08-14T18:49:24Z&dt=Web",
-    "targetUrl": "https://canela.tv/tvseries/el-otro-lado-del-paraiso",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://canela.tv/tvseries/el-otro-lado-del-paraiso",
-        "hasAdOverride": false
-      }
-    ],
-    "isPremium": false,
-    "hasAd": false
-  },
-  {
     "id": "hermanas_un_amor_compartido",
     "title": "Hermanas, un amor compartido",
     "category": "Recién agregadas",
