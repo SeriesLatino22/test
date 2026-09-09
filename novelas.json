@@ -1905,15 +1905,14 @@
     "category": "Recién agregadas",
     "ribbon": "NINGUNA",
     "defaultSeason": 1,
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/tres_gracias_carpisma.webp",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/1788929079571_tres_gracias.webp",
     "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/tres_gracias_carpisma_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/tres_gracias_carpisma_s1.json",
-        "hasAdOverride": false,
-        "episodesCount": 179
+        "hasAdOverride": false
       }
     ],
     "isPremium": false,
