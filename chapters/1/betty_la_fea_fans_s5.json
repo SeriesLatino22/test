@@ -1,86 +1,54 @@
 {
-  "id": "betty_la_fea_fans_s5",
   "titulo": "Betty la fea - Fans",
-  "subtitulo": "Betty la fea 2024",
-  "total": 10,
+  "source_url": "",
   "capitulos": [
     {
-      "id": "cap_1",
       "numero": "Capítulo 1",
-      "title": "Capítulo 1",
-      "url": "https://hugh.cdn.rumble.cloud/video/s8/2/v/p/y/3/vpy3s.caa.mp4",
       "urlOkru": "https://hugh.cdn.rumble.cloud/video/s8/2/v/p/y/3/vpy3s.caa.mp4",
       "titulo": ""
     },
     {
-      "id": "cap_2",
       "numero": "Capítulo 2",
-      "title": "Capítulo 2",
-      "url": "https://hugh.cdn.rumble.cloud/video/s8/2/e/q/y/3/eqy3s.caa.mp4",
       "urlOkru": "https://hugh.cdn.rumble.cloud/video/s8/2/e/q/y/3/eqy3s.caa.mp4",
       "titulo": ""
     },
     {
-      "id": "cap_3",
       "numero": "Capítulo 3",
-      "title": "Capítulo 3",
-      "url": "https://hugh.cdn.rumble.cloud/video/s8/2/n/w/e/5/nwe5s.caa.mp4",
       "urlOkru": "https://hugh.cdn.rumble.cloud/video/s8/2/n/w/e/5/nwe5s.caa.mp4",
       "titulo": ""
     },
     {
-      "id": "cap_4",
       "numero": "Capítulo 4",
-      "title": "Capítulo 4",
-      "url": "https://hugh.cdn.rumble.cloud/video/s8/2/T/y/e/5/Tye5s.caa.mp4",
       "urlOkru": "https://hugh.cdn.rumble.cloud/video/s8/2/T/y/e/5/Tye5s.caa.mp4",
       "titulo": ""
     },
     {
-      "id": "cap_5",
       "numero": "Capítulo 5",
-      "title": "Capítulo 5",
-      "url": "https://hugh.cdn.rumble.cloud/video/s8/2/T/X/p/-/TXp-s.caa.mp4",
       "urlOkru": "https://hugh.cdn.rumble.cloud/video/s8/2/T/X/p/-/TXp-s.caa.mp4",
       "titulo": ""
     },
     {
-      "id": "cap_6",
       "numero": "Capítulo 6",
-      "title": "Capítulo 6",
-      "url": "https://hugh.cdn.rumble.cloud/video/s8/2/f/Z/p/-/fZp-s.caa.mp4",
       "urlOkru": "https://hugh.cdn.rumble.cloud/video/s8/2/f/Z/p/-/fZp-s.caa.mp4",
       "titulo": ""
     },
     {
-      "id": "cap_7",
       "numero": "Capítulo 7",
-      "title": "Capítulo 7",
-      "url": "https://1a-1791.com/video/s8/2/L/W/F/d/LWFdt.caa.mp4",
       "urlOkru": "https://1a-1791.com/video/s8/2/L/W/F/d/LWFdt.caa.mp4",
       "titulo": ""
     },
     {
-      "id": "cap_8",
       "numero": "Capítulo 8",
-      "title": "Capítulo 8",
-      "url": "https://hugh.cdn.rumble.cloud/video/s8/2/8/Y/F/d/8YFdt.caa.mp4",
       "urlOkru": "https://hugh.cdn.rumble.cloud/video/s8/2/8/Y/F/d/8YFdt.caa.mp4",
       "titulo": ""
     },
     {
-      "id": "cap_9",
       "numero": "Capítulo 9",
-      "title": "Capítulo 9",
-      "url": "https://1a-1791.com/video/s8/2/S/9/r/j/S9rjt.caa.mp4",
       "urlOkru": "https://1a-1791.com/video/s8/2/S/9/r/j/S9rjt.caa.mp4",
       "titulo": ""
     },
     {
-      "id": "cap_10",
       "numero": "Capítulo 10",
-      "title": "Capítulo 10",
-      "url": "https://1a-1791.com/video/s8/2/S/a/s/j/Sasjt.caa.mp4",
       "urlOkru": "https://1a-1791.com/video/s8/2/S/a/s/j/Sasjt.caa.mp4",
       "titulo": ""
     }
