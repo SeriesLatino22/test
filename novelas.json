@@ -1943,15 +1943,14 @@
     "category": "Colombianas",
     "ribbon": "NINGUNA",
     "defaultSeason": 1,
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/arelys_henao.webp",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/1788929165134_arelys_henao__1_.webp",
     "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/arelys_henao_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/arelys_henao_s1.json",
-        "hasAdOverride": false,
-        "episodesCount": 61
+        "hasAdOverride": false
       }
     ],
     "isPremium": false,
