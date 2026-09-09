@@ -1834,19 +1834,22 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/violetta_s1.json",
-        "hasAdOverride": false
+        "hasAdOverride": false,
+        "episodesCount": 80
       },
       {
         "seasonNumber": 2,
         "name": "Temporada 2",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/violetta_s2.json",
-        "hasAdOverride": false
+        "hasAdOverride": false,
+        "episodesCount": 80
       },
       {
         "seasonNumber": 3,
         "name": "Temporada 3",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/violetta_s3.json",
-        "hasAdOverride": false
+        "hasAdOverride": false,
+        "episodesCount": 80
       }
     ],
     "isPremium": false,
@@ -1912,7 +1915,8 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/tres_gracias_carpisma_s1.json",
-        "hasAdOverride": false
+        "hasAdOverride": false,
+        "episodesCount": 179
       }
     ],
     "isPremium": false,
@@ -1931,7 +1935,8 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/like_la_leyenda_s1.json",
-        "hasAdOverride": false
+        "hasAdOverride": false,
+        "episodesCount": 97
       }
     ],
     "isPremium": false,
@@ -1950,7 +1955,8 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/arelys_henao_s1.json",
-        "hasAdOverride": false
+        "hasAdOverride": false,
+        "episodesCount": 61
       }
     ],
     "isPremium": false,
@@ -2009,43 +2015,50 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/reyes_reis_s1.json",
-        "hasAdOverride": false
+        "hasAdOverride": false,
+        "episodesCount": 27
       },
       {
         "seasonNumber": 2,
         "name": "Temporada 2",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/reyes_reis_s2.json",
-        "hasAdOverride": false
+        "hasAdOverride": false,
+        "episodesCount": 30
       },
       {
         "seasonNumber": 3,
         "name": "Temporada 3",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/reyes_reis_s3.json",
-        "hasAdOverride": false
+        "hasAdOverride": false,
+        "episodesCount": 31
       },
       {
         "seasonNumber": 4,
         "name": "Temporada 4",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/reyes_reis_s4.json",
-        "hasAdOverride": false
+        "hasAdOverride": false,
+        "episodesCount": 16
       },
       {
         "seasonNumber": 5,
         "name": "Temporada 5",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/reyes_reis_s5.json",
-        "hasAdOverride": false
+        "hasAdOverride": false,
+        "episodesCount": 36
       },
       {
         "seasonNumber": 6,
         "name": "Temporada 6",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/reyes_reis_s6.json",
-        "hasAdOverride": false
+        "hasAdOverride": false,
+        "episodesCount": 25
       },
       {
         "seasonNumber": 7,
         "name": "Temporada 7",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/reyes_reis_s7.json",
-        "hasAdOverride": false
+        "hasAdOverride": false,
+        "episodesCount": 39
       }
     ],
     "isPremium": false,
@@ -2131,7 +2144,8 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/teresa_s1.json",
-        "hasAdOverride": false
+        "hasAdOverride": false,
+        "episodesCount": 151
       }
     ],
     "isPremium": false,
@@ -2150,13 +2164,15 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/moises_y_los_diez_mandamientos_s1.json",
-        "hasAdOverride": false
+        "hasAdOverride": false,
+        "episodesCount": 176
       },
       {
         "seasonNumber": 2,
         "name": "Temporada 2",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/moises_y_los_diez_mandamientos_s2.json",
-        "hasAdOverride": false
+        "hasAdOverride": false,
+        "episodesCount": 66
       }
     ],
     "isPremium": false,
@@ -2356,7 +2372,8 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/alias_jj_s1.json",
-        "hasAdOverride": false
+        "hasAdOverride": false,
+        "episodesCount": 69
       }
     ],
     "isPremium": false,
