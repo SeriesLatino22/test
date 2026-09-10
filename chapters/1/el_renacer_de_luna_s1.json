@@ -275,14 +275,24 @@
     {
       "numero": "Capítulo 55",
       "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/4f/s8/2/6/V/u/W/6VuWA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1334370304-1334396631",
-      "titulo": "",
-      "rumbleUrl": "https://rumble.com/v7f8yka-rencr-55.html"
+      "titulo": ""
     },
     {
       "numero": "Capítulo 56",
       "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/d1/s8/2/c/W/u/W/cWuWA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1325060608-1325086620",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 57",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/6e/s8/2/M/k/5/W/Mk5WA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1331976704-1332002917",
       "titulo": "",
-      "rumbleUrl": "https://rumble.com/v7f8yki-rencr-56.html"
+      "rumbleUrl": "https://rumble.com/v7fc5nq-renacr-57.html"
+    },
+    {
+      "numero": "Capítulo 58",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/b0/s8/2/4/k/5/W/4k5WA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=694548480-694574629",
+      "titulo": "",
+      "rumbleUrl": "https://rumble.com/v7fc5o8-renacr-58.html"
     }
   ]
 }
