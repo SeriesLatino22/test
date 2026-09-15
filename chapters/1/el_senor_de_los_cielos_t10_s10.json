@@ -230,8 +230,25 @@
     {
       "numero": "Capítulo 46",
       "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/a2/s8/2/e/j/5/W/ej5WA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=689266176-689292032",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 47",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/3a/s8/2/A/k/h/Y/AkhYA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=690800128-690825979",
       "titulo": "",
-      "rumbleUrl": "https://rumble.com/v7fc5l0-senio-46.html"
+      "rumbleUrl": "https://rumble.com/v7fj062-senor-47.html"
+    },
+    {
+      "numero": "Capítulo 48",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/ae/s8/2/G/k/h/Y/GkhYA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=692629504-692655562",
+      "titulo": "",
+      "rumbleUrl": "https://rumble.com/v7fj068-senor-48.html"
+    },
+    {
+      "numero": "Capítulo 49",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/1d/s8/2/K/k/h/Y/KkhYA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=692046848-692072709",
+      "titulo": "",
+      "rumbleUrl": "https://rumble.com/v7fj06c-senor-49.html"
     }
   ]
 }
