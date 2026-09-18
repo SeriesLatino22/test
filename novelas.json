@@ -1,24 +1,5 @@
 [
   {
-    "id": "novela-1789770803141",
-    "title": "Sabor a ti",
-    "category": "Mexicanas",
-    "ribbon": "GRAN ESTRENO",
-    "defaultSeason": 1,
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/1789770765036_sabor_a_ti_2026.webp",
-    "targetUrl": "sabor a ti",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "sabor a ti",
-        "hasAdOverride": false
-      }
-    ],
-    "isPremium": false,
-    "hasAd": false
-  },
-  {
     "id": "el_senor_de_los_cielos_t10",
     "title": "El Señor de los Cielos",
     "category": "Narco Novelas",
@@ -146,6 +127,25 @@
       }
     ],
     "isPremium": true,
+    "hasAd": false
+  },
+  {
+    "id": "novela-1789770803141",
+    "title": "Sabor a ti",
+    "category": "Mexicanas",
+    "ribbon": "GRAN ESTRENO",
+    "defaultSeason": 1,
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/1789770765036_sabor_a_ti_2026.webp",
+    "targetUrl": "sabor a ti",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "sabor a ti",
+        "hasAdOverride": false
+      }
+    ],
+    "isPremium": false,
     "hasAd": false
   },
   {
