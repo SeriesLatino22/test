@@ -1,10 +1,8 @@
 {
-  "catalogVersion": 1789770511047,
+  "catalogVersion": 1789770807089,
   "notifsVersion": 1788021034041,
-  "updatedNovelaIds": [
-    "el_renacer_de_luna"
-  ],
-  "isFullCatalogUpdate": false,
+  "updatedNovelaIds": [],
+  "isFullCatalogUpdate": true,
   "priorityNovelas": [],
   "emergencyFullFlush": 1788021034041
 }
