@@ -405,26 +405,28 @@
     {
       "numero": "Capítulo 81",
       "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/f9/s8/2/E/9/e/Z/E9eZA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1282492928-1282518133",
-      "titulo": "",
-      "rumbleUrl": "https://rumble.com/v7fofha-cerca-81.html"
+      "titulo": ""
     },
     {
       "numero": "Capítulo 82",
       "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/77/s8/2/I/_/e/Z/I_eZA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1267967488-1267992382",
-      "titulo": "",
-      "rumbleUrl": "https://rumble.com/v7fofky-cerca-82.html"
+      "titulo": ""
     },
     {
       "numero": "Capítulo 83",
       "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/77/s8/2/0/_/e/Z/0_eZA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1273996288-1274021280",
-      "titulo": "",
-      "rumbleUrl": "https://rumble.com/v7foflg-cerca-83.html"
+      "titulo": ""
     },
     {
       "numero": "Capítulo 84",
       "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/27/s8/2/c/a/f/Z/cafZA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1271587840-1271612826",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 85",
+      "urlOkru": "https://rumble.com/v7frk7k-cerca-85.html",
       "titulo": "",
-      "rumbleUrl": "https://rumble.com/v7foflu-cerca-84.html"
+      "rumbleUrl": "https://rumble.com/v7frk7k-cerca-85.html"
     }
   ]
 }
