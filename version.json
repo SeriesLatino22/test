@@ -1,8 +1,10 @@
 {
-  "catalogVersion": 1789770986500,
+  "catalogVersion": 1789953245860,
   "notifsVersion": 1788021034041,
-  "updatedNovelaIds": [],
-  "isFullCatalogUpdate": true,
+  "updatedNovelaIds": [
+    "el_senor_de_los_cielos_t10"
+  ],
+  "isFullCatalogUpdate": false,
   "priorityNovelas": [],
   "emergencyFullFlush": 1788021034041
 }
