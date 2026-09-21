@@ -246,6 +246,30 @@
         "name": "Temporada 1",
         "jsonUrl": "https://www3.dramasfree.com/es/detail/drama/MD91wIZKrqBRiplTPdv09-Lady-of-Steel-Season-1/1",
         "hasAdOverride": false
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Temporada 2",
+        "jsonUrl": "https://www3.dramasfree.com/es/detail/drama/uKSIyMT3wy4AOz1KBOYZs-Lady-of-Steel-Season-2",
+        "hasAdOverride": false
+      },
+      {
+        "seasonNumber": 3,
+        "name": "Temporada 3",
+        "jsonUrl": "https://www3.dramasfree.com/es/detail/drama/zu7qUS9oQ2afYHyDsn2aM-Lady-of-Steel-Season-3",
+        "hasAdOverride": false
+      },
+      {
+        "seasonNumber": 4,
+        "name": "Temporada 4",
+        "jsonUrl": "https://www3.dramasfree.com/es/detail/drama/JQdeDYlK3QnOgPCQvrGNB-Lady-of-Steel-Season-4",
+        "hasAdOverride": false
+      },
+      {
+        "seasonNumber": 5,
+        "name": "Temporada 5",
+        "jsonUrl": "https://www3.dramasfree.com/es/detail/drama/MhQxWFeOhygWZ3ytUQoNN-Lady-of-Steel-Season-5",
+        "hasAdOverride": false
       }
     ],
     "isPremium": false,
