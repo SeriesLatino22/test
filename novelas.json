@@ -233,6 +233,25 @@
     "hasAd": false
   },
   {
+    "id": "el_renacer_de_luna",
+    "title": "El renacer de Luna",
+    "category": "Recién agregadas",
+    "ribbon": "GRAN ESTRENO",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/renacerIMG.webp",
+    "isPremium": false,
+    "hasAd": false,
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/el_renacer_de_luna_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/el_renacer_de_luna_s1.json",
+        "episodesCount": 65
+      }
+    ],
+    "episodesCount": 38
+  },
+  {
     "id": "novela-1789954002458",
     "title": "Señora Acero",
     "category": "Narco Novelas",
@@ -274,25 +293,6 @@
     ],
     "isPremium": false,
     "hasAd": false
-  },
-  {
-    "id": "el_renacer_de_luna",
-    "title": "El renacer de Luna",
-    "category": "Recién agregadas",
-    "ribbon": "GRAN ESTRENO",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/renacerIMG.webp",
-    "isPremium": false,
-    "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/el_renacer_de_luna_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/el_renacer_de_luna_s1.json",
-        "episodesCount": 65
-      }
-    ],
-    "episodesCount": 38
   },
   {
     "id": "lejos_de_ti_t2",
