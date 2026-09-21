@@ -1,10 +1,8 @@
 {
-  "catalogVersion": 1789953742136,
+  "catalogVersion": 1789954006243,
   "notifsVersion": 1788021034041,
-  "updatedNovelaIds": [
-    "novela_1788636491872"
-  ],
-  "isFullCatalogUpdate": false,
+  "updatedNovelaIds": [],
+  "isFullCatalogUpdate": true,
   "priorityNovelas": [],
   "emergencyFullFlush": 1788021034041
 }
