@@ -284,24 +284,28 @@
     "ribbon": "REVIVE",
     "defaultSeason": 1,
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/el_capo.webp",
-    "targetUrl": "https://video.playspelis.com/es/detail/drama/3KIAoSuPrI0b4phk5VuJQ-El-Capo-Season-1[Audio%C2%A0Latino]",
+    "targetUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/1/novela_1789994221391_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://video.playspelis.com/es/detail/drama/3KIAoSuPrI0b4phk5VuJQ-El-Capo-Season-1[Audio%C2%A0Latino]",
-        "hasAdOverride": false
+        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/1/novela_1789994221391_s1.json",
+        "hasAdOverride": false,
+        "episodesCount": 90,
+        "sourceUrl": "https://video.playspelis.com/es/detail/drama/3KIAoSuPrI0b4phk5VuJQ-El-Capo-Season-1"
       },
       {
         "seasonNumber": 2,
         "name": "Temporada 2",
-        "jsonUrl": "https://video.playspelis.com/es/detail/drama/Ys7FTxsd8CW07O7mcu6CL-El-Capo-Season-2[Audio%C2%A0Latino]",
-        "hasAdOverride": false
+        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/1/novela_1789994221391_s2.json",
+        "hasAdOverride": false,
+        "episodesCount": 76,
+        "sourceUrl": "https://video.playspelis.com/es/detail/drama/Ys7FTxsd8CW07O7mcu6CL-El-Capo-Season-2"
       },
       {
         "seasonNumber": 3,
         "name": "Temporada 3",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/novela_1789994221391_s3.json",
+        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/novela_1789994221391_s3.json",
         "hasAdOverride": false,
         "episodesCount": 40,
         "sourceUrl": "https://video.playspelis.com/es/detail/drama/FBOlV8qCLyDu41Ek9GXeM-El-Capo-Season-3[Audio%C2%A0Latino]"
@@ -317,37 +321,46 @@
     "ribbon": "REVIVE",
     "defaultSeason": 1,
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/1789953897914_acerosenorqa.webp",
-    "targetUrl": "https://www3.dramasfree.com/es/detail/drama/MD91wIZKrqBRiplTPdv09-Lady-of-Steel-Season-1/1",
+    "targetUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/1/novela_1789954002458_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://www3.dramasfree.com/es/detail/drama/MD91wIZKrqBRiplTPdv09-Lady-of-Steel-Season-1/1",
-        "hasAdOverride": false
+        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/1/novela_1789954002458_s1.json",
+        "hasAdOverride": false,
+        "episodesCount": 73,
+        "sourceUrl": "https://www3.dramasfree.com/es/detail/drama/MD91wIZKrqBRiplTPdv09-Lady-of-Steel-Season-1/1"
       },
       {
         "seasonNumber": 2,
         "name": "Temporada 2",
-        "jsonUrl": "https://www3.dramasfree.com/es/detail/drama/uKSIyMT3wy4AOz1KBOYZs-Lady-of-Steel-Season-2",
-        "hasAdOverride": false
+        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/1/novela_1789954002458_s2.json",
+        "hasAdOverride": false,
+        "episodesCount": 75,
+        "sourceUrl": "https://www3.dramasfree.com/es/detail/drama/uKSIyMT3wy4AOz1KBOYZs-Lady-of-Steel-Season-2"
       },
       {
         "seasonNumber": 3,
         "name": "Temporada 3",
-        "jsonUrl": "https://www3.dramasfree.com/es/detail/drama/zu7qUS9oQ2afYHyDsn2aM-Lady-of-Steel-Season-3",
-        "hasAdOverride": false
+        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/1/novela_1789954002458_s3.json",
+        "hasAdOverride": false,
+        "episodesCount": 93,
+        "sourceUrl": "https://www3.dramasfree.com/es/detail/drama/zu7qUS9oQ2afYHyDsn2aM-Lady-of-Steel-Season-3"
       },
       {
         "seasonNumber": 4,
         "name": "Temporada 4",
-        "jsonUrl": "https://www3.dramasfree.com/es/detail/drama/JQdeDYlK3QnOgPCQvrGNB-Lady-of-Steel-Season-4",
-        "hasAdOverride": false
+        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/1/novela_1789954002458_s4.json",
+        "hasAdOverride": false,
+        "episodesCount": 77,
+        "sourceUrl": "https://www3.dramasfree.com/es/detail/drama/JQdeDYlK3QnOgPCQvrGNB-Lady-of-Steel-Season-4"
       },
       {
         "seasonNumber": 5,
         "name": "Temporada 5",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/novela_1789954002458_s5.json",
-        "hasAdOverride": false
+        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/novela_1789954002458_s5.json",
+        "hasAdOverride": false,
+        "episodesCount": 77
       }
     ],
     "isPremium": false,
@@ -17968,13 +17981,13 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/la_mujer_del_presidente.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/la_mujer_del_presidente_s1.json",
+    "targetUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/la_mujer_del_presidente_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/la_mujer_del_presidente_s1.json",
-        "episodesCount": 60
+        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/la_mujer_del_presidente_s1.json",
+        "episodesCount": 1
       }
     ],
     "episodesCount": 60
