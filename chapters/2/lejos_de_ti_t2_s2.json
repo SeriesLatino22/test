@@ -220,20 +220,23 @@
     {
       "numero": "Capítulo 44",
       "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/e7/s8/2/S/7/e/Z/S7eZA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=347430400-347456675",
-      "titulo": "",
-      "rumbleUrl": "https://rumble.com/v7fofe4-lejs-44.html"
+      "titulo": ""
     },
     {
       "numero": "Capítulo 45",
       "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/55/s8/2/-/7/e/Z/-7eZA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=342767616-342793480",
-      "titulo": "",
-      "rumbleUrl": "https://rumble.com/v7fofem-lejs-45.html"
+      "titulo": ""
     },
     {
       "numero": "Capítulo 46",
       "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/50/s8/2/q/8/e/Z/q8eZA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=342837248-342863106",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 47",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/96/s8/2/M/K/O/Z/MKOZA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=343961600-343987567",
       "titulo": "",
-      "rumbleUrl": "https://rumble.com/v7foff4-lejs-46.html"
+      "rumbleUrl": "https://rumble.com/v7frk12-lejs-47.html"
     }
   ]
 }
