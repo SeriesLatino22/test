@@ -320,8 +320,13 @@
     {
       "numero": "Capítulo 64",
       "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/5f/s8/2/o/9/e/Z/o9eZA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1420813312-1420841278",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 65",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/cd/s8/2/O/H/O/Z/OHOZA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=366062592-366090369",
       "titulo": "",
-      "rumbleUrl": "https://rumble.com/v7fofgu-rencr-64.html"
+      "rumbleUrl": "https://rumble.com/v7frjvs-renacer-65.html"
     }
   ]
 }
