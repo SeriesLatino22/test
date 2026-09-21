@@ -279,21 +279,21 @@
   {
     "id": "tan_cerca_de_ti_nace_el_amor",
     "title": "Tan cerca de ti, nace el amor",
-    "category": "Recién agregadas",
-    "ribbon": "GRAN ESTRENO",
+    "category": "Mexicanas",
+    "ribbon": "FINALIZADO",
+    "defaultSeason": 1,
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/cercatiN.webp",
-    "isPremium": false,
-    "hasAd": false,
     "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/tan_cerca_de_ti_nace_el_amor_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/tan_cerca_de_ti_nace_el_amor_s1.json",
-        "episodesCount": 85
+        "hasAdOverride": false
       }
     ],
-    "episodesCount": 58
+    "isPremium": false,
+    "hasAd": false
   },
   {
     "id": "guardian_de_mi_vida",
