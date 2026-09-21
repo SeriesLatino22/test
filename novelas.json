@@ -291,6 +291,18 @@
         "name": "Temporada 1",
         "jsonUrl": "https://video.playspelis.com/es/detail/drama/3KIAoSuPrI0b4phk5VuJQ-El-Capo-Season-1[Audio%C2%A0Latino]",
         "hasAdOverride": false
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Temporada 2",
+        "jsonUrl": "https://video.playspelis.com/es/detail/drama/Ys7FTxsd8CW07O7mcu6CL-El-Capo-Season-2[Audio%C2%A0Latino]",
+        "hasAdOverride": false
+      },
+      {
+        "seasonNumber": 3,
+        "name": "Temporada 3",
+        "jsonUrl": "https://video.playspelis.com/es/detail/drama/FBOlV8qCLyDu41Ek9GXeM-El-Capo-Season-3[Audio%C2%A0Latino]",
+        "hasAdOverride": false
       }
     ],
     "isPremium": false,
