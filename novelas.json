@@ -252,6 +252,32 @@
     "episodesCount": 38
   },
   {
+    "id": "lejos_de_ti_t2",
+    "title": "Lejos de ti T2",
+    "category": "Recién agregadas",
+    "ribbon": "GRAN ESTRENO",
+    "defaultSeason": 1,
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/lejosdeti2.webp",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/lejos_de_ti_t2_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/lejos_de_ti_t2_s1.json",
+        "hasAdOverride": false
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Temporada 2",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/lejos_de_ti_t2_s2.json",
+        "hasAdOverride": false,
+        "episodesCount": 47
+      }
+    ],
+    "isPremium": false,
+    "hasAd": false
+  },
+  {
     "id": "novela-1789954002458",
     "title": "Señora Acero",
     "category": "Narco Novelas",
@@ -289,32 +315,6 @@
         "name": "Temporada 5",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/novela_1789954002458_s5.json",
         "hasAdOverride": false
-      }
-    ],
-    "isPremium": false,
-    "hasAd": false
-  },
-  {
-    "id": "lejos_de_ti_t2",
-    "title": "Lejos de ti T2",
-    "category": "Recién agregadas",
-    "ribbon": "GRAN ESTRENO",
-    "defaultSeason": 1,
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/lejosdeti2.webp",
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/lejos_de_ti_t2_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/lejos_de_ti_t2_s1.json",
-        "hasAdOverride": false
-      },
-      {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/lejos_de_ti_t2_s2.json",
-        "hasAdOverride": false,
-        "episodesCount": 47
       }
     ],
     "isPremium": false,
@@ -14496,37 +14496,6 @@
       }
     ],
     "episodesCount": 90
-  },
-  {
-    "id": "el_capo",
-    "title": "El Capo",
-    "category": "Narco Novelas",
-    "ribbon": "NINGUNA",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/el_capo.webp",
-    "isPremium": false,
-    "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/el_capo_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/el_capo_s1.json",
-        "episodesCount": 90
-      },
-      {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/el_capo_s2.json",
-        "episodesCount": 76
-      },
-      {
-        "seasonNumber": 3,
-        "name": "Temporada 3",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/el_capo_s3.json",
-        "episodesCount": 60
-      }
-    ],
-    "episodesCount": 226
   },
   {
     "id": "el_chema",
