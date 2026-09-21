@@ -268,8 +268,9 @@
       {
         "seasonNumber": 5,
         "name": "Temporada 5",
-        "jsonUrl": "https://www3.dramasfree.com/es/detail/drama/MhQxWFeOhygWZ3ytUQoNN-Lady-of-Steel-Season-5",
-        "hasAdOverride": false
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/novela_1789954002458_s5.json",
+        "hasAdOverride": false,
+        "episodesCount": 77
       }
     ],
     "isPremium": false,
