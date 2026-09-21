@@ -1,24 +1,5 @@
 [
   {
-    "id": "novela-1789994221391",
-    "title": "El capo",
-    "category": "Colombianas",
-    "ribbon": "REVIVE",
-    "defaultSeason": 1,
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/el_capo.webp",
-    "targetUrl": "https://video.playspelis.com/es/detail/drama/3KIAoSuPrI0b4phk5VuJQ-El-Capo-Season-1[Audio%C2%A0Latino]",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://video.playspelis.com/es/detail/drama/3KIAoSuPrI0b4phk5VuJQ-El-Capo-Season-1[Audio%C2%A0Latino]",
-        "hasAdOverride": false
-      }
-    ],
-    "isPremium": false,
-    "hasAd": true
-  },
-  {
     "id": "el_senor_de_los_cielos_t10",
     "title": "El Señor de los Cielos",
     "category": "Narco Novelas",
@@ -295,6 +276,25 @@
     ],
     "isPremium": false,
     "hasAd": false
+  },
+  {
+    "id": "novela-1789994221391",
+    "title": "El capo",
+    "category": "Colombianas",
+    "ribbon": "REVIVE",
+    "defaultSeason": 1,
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/el_capo.webp",
+    "targetUrl": "https://video.playspelis.com/es/detail/drama/3KIAoSuPrI0b4phk5VuJQ-El-Capo-Season-1[Audio%C2%A0Latino]",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://video.playspelis.com/es/detail/drama/3KIAoSuPrI0b4phk5VuJQ-El-Capo-Season-1[Audio%C2%A0Latino]",
+        "hasAdOverride": false
+      }
+    ],
+    "isPremium": false,
+    "hasAd": true
   },
   {
     "id": "novela-1789954002458",
