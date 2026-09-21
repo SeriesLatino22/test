@@ -1,24 +1,5 @@
 [
   {
-    "id": "novela-1789954002458",
-    "title": "Señora Acero",
-    "category": "Narco Novelas",
-    "ribbon": "GRAN ESTRENO",
-    "defaultSeason": 1,
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/1789953897914_acerosenorqa.webp",
-    "targetUrl": "https://www3.dramasfree.com/es/detail/drama/MD91wIZKrqBRiplTPdv09-Lady-of-Steel-Season-1/1",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://www3.dramasfree.com/es/detail/drama/MD91wIZKrqBRiplTPdv09-Lady-of-Steel-Season-1/1",
-        "hasAdOverride": false
-      }
-    ],
-    "isPremium": false,
-    "hasAd": false
-  },
-  {
     "id": "el_senor_de_los_cielos_t10",
     "title": "El Señor de los Cielos",
     "category": "Narco Novelas",
@@ -246,6 +227,25 @@
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/pa_seguirte_queriendo_s1.json",
         "hasAdOverride": false,
         "episodesCount": 42
+      }
+    ],
+    "isPremium": false,
+    "hasAd": false
+  },
+  {
+    "id": "novela-1789954002458",
+    "title": "Señora Acero",
+    "category": "Narco Novelas",
+    "ribbon": "GRAN ESTRENO",
+    "defaultSeason": 1,
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/1789953897914_acerosenorqa.webp",
+    "targetUrl": "https://www3.dramasfree.com/es/detail/drama/MD91wIZKrqBRiplTPdv09-Lady-of-Steel-Season-1/1",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://www3.dramasfree.com/es/detail/drama/MD91wIZKrqBRiplTPdv09-Lady-of-Steel-Season-1/1",
+        "hasAdOverride": false
       }
     ],
     "isPremium": false,
