@@ -250,20 +250,23 @@
     {
       "numero": "Capítulo 50",
       "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/49/s8/2/o/3/e/Z/o3eZA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=755568640-755597002",
-      "titulo": "",
-      "rumbleUrl": "https://rumble.com/v7fof66-senor-50.html"
+      "titulo": ""
     },
     {
       "numero": "Capítulo 51",
       "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/a7/s8/2/K/3/e/Z/K3eZA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=692156416-692182274",
-      "titulo": "",
-      "rumbleUrl": "https://rumble.com/v7fof6s-senor-51.html"
+      "titulo": ""
     },
     {
       "numero": "Capítulo 52",
       "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/a5/s8/2/0/3/e/Z/03eZA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=694992896-695018952",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 53",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/f6/s8/2/K/G/O/Z/KGOZA.baa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=219145216-219170887",
       "titulo": "",
-      "rumbleUrl": "https://rumble.com/v7fof78-senor-52.html"
+      "rumbleUrl": "https://rumble.com/v7frjtw-senor-53.html"
     }
   ]
 }
