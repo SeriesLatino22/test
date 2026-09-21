@@ -301,8 +301,10 @@
       {
         "seasonNumber": 3,
         "name": "Temporada 3",
-        "jsonUrl": "https://video.playspelis.com/es/detail/drama/FBOlV8qCLyDu41Ek9GXeM-El-Capo-Season-3[Audio%C2%A0Latino]",
-        "hasAdOverride": false
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/novela_1789994221391_s3.json",
+        "hasAdOverride": false,
+        "episodesCount": 40,
+        "sourceUrl": "https://video.playspelis.com/es/detail/drama/FBOlV8qCLyDu41Ek9GXeM-El-Capo-Season-3[Audio%C2%A0Latino]"
       }
     ],
     "isPremium": false,
