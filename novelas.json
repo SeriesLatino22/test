@@ -71,7 +71,8 @@
       }
     ],
     "isPremium": true,
-    "hasAd": true
+    "hasAd": true,
+    "localPoster": "/posters/senoirrt10.webp"
   },
   {
     "id": "betty_la_fea_fans",
@@ -127,7 +128,8 @@
       }
     ],
     "isPremium": true,
-    "hasAd": false
+    "hasAd": false,
+    "localPoster": "/posters/betty.webp"
   },
   {
     "id": "novela-1789770803141",
@@ -147,7 +149,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": false
+    "hasAd": false,
+    "localPoster": "/posters/1789770765036_sabor_a_ti_2026.webp"
   },
   {
     "id": "novela-1788636491872",
@@ -167,7 +170,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": false
+    "hasAd": false,
+    "localPoster": "/posters/1788636447111_tierrad22.webp"
   },
   {
     "id": "rosario_tijeras_5_mexico",
@@ -210,7 +214,8 @@
       }
     ],
     "isPremium": true,
-    "hasAd": false
+    "hasAd": false,
+    "localPoster": "/posters/rosa5.webp"
   },
   {
     "id": "pa_seguirte_queriendo",
@@ -230,7 +235,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": false
+    "hasAd": false,
+    "localPoster": "/posters/queirnedo22im.webp"
   },
   {
     "id": "el_renacer_de_luna",
@@ -249,7 +255,8 @@
         "episodesCount": 65
       }
     ],
-    "episodesCount": 38
+    "episodesCount": 38,
+    "localPoster": "/posters/renacerIMG.webp"
   },
   {
     "id": "lejos_de_ti_t2",
@@ -275,7 +282,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": false
+    "hasAd": false,
+    "localPoster": "/posters/lejosdeti2.webp"
   },
   {
     "id": "novela-1789994221391",
@@ -312,7 +320,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": true
+    "hasAd": true,
+    "localPoster": "/posters/el_capo.webp"
   },
   {
     "id": "novela-1789954002458",
@@ -364,7 +373,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": false
+    "hasAd": false,
+    "localPoster": "/posters/1789953897914_acerosenorqa.webp"
   },
   {
     "id": "tan_cerca_de_ti_nace_el_amor",
@@ -383,7 +393,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": false
+    "hasAd": false,
+    "localPoster": "/posters/cercatiN.webp"
   },
   {
     "id": "guardian_de_mi_vida",
@@ -402,7 +413,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": false
+    "hasAd": false,
+    "localPoster": "/posters/guardiIMG2.webp"
   },
   {
     "id": "corazon_de_oro",
@@ -421,7 +433,8 @@
         "episodesCount": 80
       }
     ],
-    "episodesCount": 79
+    "episodesCount": 79,
+    "localPoster": "/posters/corazon2IMG.webp"
   },
   {
     "id": "lobo_morir_matando",
@@ -440,7 +453,8 @@
         "episodesCount": 70
       }
     ],
-    "episodesCount": 70
+    "episodesCount": 70,
+    "localPoster": "/posters/logoIMG.webp"
   },
   {
     "id": "la_reina_del_flow_3",
@@ -459,7 +473,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": true
+    "hasAd": true,
+    "localPoster": "/posters/retinaT33port.webp"
   },
   {
     "id": "los_encantos_del_sinverguenza",
@@ -478,7 +493,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": false
+    "hasAd": false,
+    "localPoster": "/posters/encantImg.webp"
   },
   {
     "id": "mi_rival",
@@ -497,7 +513,8 @@
         "episodesCount": 52
       }
     ],
-    "episodesCount": 52
+    "episodesCount": 52,
+    "localPoster": "/posters/mirival.webp"
   },
   {
     "id": "pasion_y_poder",
@@ -516,7 +533,8 @@
         "episodesCount": 61
       }
     ],
-    "episodesCount": 61
+    "episodesCount": 61,
+    "localPoster": "/posters/pasionny.webp"
   },
   {
     "id": "hermanas_un_amor_compartido",
@@ -535,7 +553,8 @@
         "episodesCount": 80
       }
     ],
-    "episodesCount": 80
+    "episodesCount": 80,
+    "localPoster": "/posters/hermanasT111.webp"
   },
   {
     "id": "las_de_siempre",
@@ -554,7 +573,8 @@
         "episodesCount": 90
       }
     ],
-    "episodesCount": 90
+    "episodesCount": 90,
+    "localPoster": "/posters/lasdeismpIMG.webp"
   },
   {
     "id": "mi_verdad_oculta",
@@ -573,7 +593,8 @@
         "episodesCount": 80
       }
     ],
-    "episodesCount": 80
+    "episodesCount": 80,
+    "localPoster": "/posters/verdadIMG.webp"
   },
   {
     "id": "avenida_brasil",
@@ -592,7 +613,8 @@
         "episodesCount": 64
       }
     ],
-    "episodesCount": 64
+    "episodesCount": 64,
+    "localPoster": "/posters/avenidabra.webp"
   },
   {
     "id": "dinastia_casillas",
@@ -611,7 +633,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": true
+    "hasAd": true,
+    "localPoster": "/posters/dinastiaIMG.webp"
   },
   {
     "id": "domenica_montero",
@@ -630,7 +653,8 @@
         "episodesCount": 49
       }
     ],
-    "episodesCount": 49
+    "episodesCount": 49,
+    "localPoster": "/posters/domenica.webp"
   },
   {
     "id": "papas_por_siempre",
@@ -649,7 +673,8 @@
         "episodesCount": 82
       }
     ],
-    "episodesCount": 82
+    "episodesCount": 82,
+    "localPoster": "/posters/papasImg.webp"
   },
   {
     "id": "la_encrucijada",
@@ -668,7 +693,8 @@
         "episodesCount": 59
       }
     ],
-    "episodesCount": 59
+    "episodesCount": 59,
+    "localPoster": "/posters/encruimg2.webp"
   },
   {
     "id": "la_influencer",
@@ -687,7 +713,8 @@
         "episodesCount": 60
       }
     ],
-    "episodesCount": 60
+    "episodesCount": 60,
+    "localPoster": "/posters/lainfluImg.webp"
   },
   {
     "id": "los_hilos_del_pasado",
@@ -706,7 +733,8 @@
         "episodesCount": 60
       }
     ],
-    "episodesCount": 60
+    "episodesCount": 60,
+    "localPoster": "/posters/hilosimg.webp"
   },
   {
     "id": "regalo_de_amor",
@@ -725,7 +753,8 @@
         "episodesCount": 100
       }
     ],
-    "episodesCount": 100
+    "episodesCount": 100,
+    "localPoster": "/posters/regaloamr2.webp"
   },
   {
     "id": "la_hija_del_mariachi_2025",
@@ -744,7 +773,8 @@
         "episodesCount": 91
       }
     ],
-    "episodesCount": 91
+    "episodesCount": 91,
+    "localPoster": "/posters/lahija2.webp"
   },
   {
     "id": "con_esa_misma_mirada",
@@ -775,7 +805,8 @@
         "episodesCount": 8
       }
     ],
-    "episodesCount": 24
+    "episodesCount": 24,
+    "localPoster": "/posters/mismamirImg.webp"
   },
   {
     "id": "pasion_de_gavilanes_t1_t2",
@@ -800,7 +831,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": true
+    "hasAd": true,
+    "localPoster": "/posters/pasionImg.webp"
   },
   {
     "id": "nuevos_amores_de_mercado",
@@ -819,7 +851,8 @@
         "episodesCount": 144
       }
     ],
-    "episodesCount": 144
+    "episodesCount": 144,
+    "localPoster": "/posters/mercado.webp"
   },
   {
     "id": "bahar_esencia_de_mujer",
@@ -838,7 +871,8 @@
         "episodesCount": 67
       }
     ],
-    "episodesCount": 67
+    "episodesCount": 67,
+    "localPoster": "/posters/baharImg.webp"
   },
   {
     "id": "amanecer",
@@ -857,7 +891,8 @@
         "episodesCount": 80
       }
     ],
-    "episodesCount": 80
+    "episodesCount": 80,
+    "localPoster": "/posters/amaneImg.webp"
   },
   {
     "id": "monteverde",
@@ -876,7 +911,8 @@
         "episodesCount": 87
       }
     ],
-    "episodesCount": 87
+    "episodesCount": 87,
+    "localPoster": "/posters/montevende3.webp"
   },
   {
     "id": "pablo_escobar_el_patron_del_mal",
@@ -895,7 +931,8 @@
         "episodesCount": 73
       }
     ],
-    "episodesCount": 73
+    "episodesCount": 73,
+    "localPoster": "/posters/pablo.webp"
   },
   {
     "id": "la_reina_del_sur",
@@ -922,7 +959,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": true
+    "hasAd": true,
+    "localPoster": "/posters/la_reina_del_sur.webp"
   },
   {
     "id": "sin_senos_si_hay_paraiso_t1",
@@ -956,7 +994,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": true
+    "hasAd": true,
+    "localPoster": "/posters/sinsenos.webp"
   },
   {
     "id": "velvet_el_nuevo_imperio",
@@ -975,7 +1014,8 @@
         "episodesCount": 91
       }
     ],
-    "episodesCount": 91
+    "episodesCount": 91,
+    "localPoster": "/posters/velvetImg.webp"
   },
   {
     "id": "cautiva_por_amor",
@@ -994,7 +1034,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": true
+    "hasAd": true,
+    "localPoster": "/posters/cautiva2.webp"
   },
   {
     "id": "sed_de_venganza",
@@ -1013,7 +1054,8 @@
         "episodesCount": 83
       }
     ],
-    "episodesCount": 83
+    "episodesCount": 83,
+    "localPoster": "/posters/sedvenganza.webp"
   },
   {
     "id": "la_jefa",
@@ -1032,7 +1074,8 @@
         "episodesCount": 94
       }
     ],
-    "episodesCount": 94
+    "episodesCount": 94,
+    "localPoster": "/posters/lajefa.webp"
   },
   {
     "id": "juegos_de_amor_y_poder",
@@ -1051,7 +1094,8 @@
         "episodesCount": 70
       }
     ],
-    "episodesCount": 70
+    "episodesCount": 70,
+    "localPoster": "/posters/juegosamor.webp"
   },
   {
     "id": "salvajes",
@@ -1076,7 +1120,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": true
+    "hasAd": true,
+    "localPoster": "/posters/salvajes2.webp"
   },
   {
     "id": "las_hijas_de_la_senora_garcia",
@@ -1095,7 +1140,8 @@
         "episodesCount": 82
       }
     ],
-    "episodesCount": 82
+    "episodesCount": 82,
+    "localPoster": "/posters/lashijas.webp"
   },
   {
     "id": "a_mar",
@@ -1114,7 +1160,8 @@
         "episodesCount": 74
       }
     ],
-    "episodesCount": 74
+    "episodesCount": 74,
+    "localPoster": "/posters/amar.webp"
   },
   {
     "id": "me_atrevo_a_amarte",
@@ -1133,7 +1180,8 @@
         "episodesCount": 87
       }
     ],
-    "episodesCount": 87
+    "episodesCount": 87,
+    "localPoster": "/posters/meatrevo.webp"
   },
   {
     "id": "100_anos_de_soledad",
@@ -1159,13 +1207,14 @@
       }
     ],
     "isPremium": false,
-    "hasAd": true
+    "hasAd": true,
+    "localPoster": "/posters/100.webp"
   },
   {
     "id": "desafio_del_siglo_xxi",
     "title": "Desafío del Siglo XXI",
     "category": "Recién agregadas",
-    "ribbon": "GRAN ESTRENO",
+    "ribbon": "FINALIZADO",
     "defaultSeason": 1,
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/defPort2.webp",
     "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/desafio_del_siglo_xxi_s1.json",
@@ -1197,7 +1246,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": true
+    "hasAd": true,
+    "localPoster": "/posters/eldesconocido.webp"
   },
   {
     "id": "ojos_sin_culpa",
@@ -1216,7 +1266,8 @@
         "episodesCount": 13
       }
     ],
-    "episodesCount": 13
+    "episodesCount": 13,
+    "localPoster": "/posters/ojos.webp"
   },
   {
     "id": "pedro_el_escamoso",
@@ -1241,7 +1292,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": false
+    "hasAd": false,
+    "localPoster": "/posters/pedro.webp"
   },
   {
     "id": "mujeres_asesinas",
@@ -1272,7 +1324,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": true
+    "hasAd": true,
+    "localPoster": "/posters/mujeres2.webp"
   },
   {
     "id": "chespirito_sin_querer_queriendo",
@@ -1291,7 +1344,8 @@
         "episodesCount": 8
       }
     ],
-    "episodesCount": 8
+    "episodesCount": 8,
+    "localPoster": "/posters/chavoimg.webp"
   },
   {
     "id": "los_casablanca",
@@ -1310,7 +1364,8 @@
         "episodesCount": 153
       }
     ],
-    "episodesCount": 153
+    "episodesCount": 153,
+    "localPoster": "/posters/loscasa.webp"
   },
   {
     "id": "tierra_indomable",
@@ -1329,7 +1384,8 @@
         "episodesCount": 40
       }
     ],
-    "episodesCount": 40
+    "episodesCount": 40,
+    "localPoster": "/posters/tierra.webp"
   },
   {
     "id": "las_vegas",
@@ -1348,7 +1404,8 @@
         "episodesCount": 90
       }
     ],
-    "episodesCount": 90
+    "episodesCount": 90,
+    "localPoster": "/posters/vegas.webp"
   },
   {
     "id": "fugitivas",
@@ -1367,7 +1424,8 @@
         "episodesCount": 80
       }
     ],
-    "episodesCount": 80
+    "episodesCount": 80,
+    "localPoster": "/posters/fugitivas.webp"
   },
   {
     "id": "la_venganza_de_analia_2",
@@ -1392,7 +1450,8 @@
         "episodesCount": 67
       }
     ],
-    "episodesCount": 120
+    "episodesCount": 120,
+    "localPoster": "/posters/analia22.webp"
   },
   {
     "id": "nuevo_rico_nuevo_pobre",
@@ -1411,7 +1470,8 @@
         "episodesCount": 194
       }
     ],
-    "episodesCount": 194
+    "episodesCount": 194,
+    "localPoster": "/posters/nuevoric.webp"
   },
   {
     "id": "papas_por_conveniencia",
@@ -1430,7 +1490,8 @@
         "episodesCount": 80
       }
     ],
-    "episodesCount": 80
+    "episodesCount": 80,
+    "localPoster": "/posters/papas.webp"
   },
   {
     "id": "papa_soltero",
@@ -1449,7 +1510,8 @@
         "episodesCount": 10
       }
     ],
-    "episodesCount": 10
+    "episodesCount": 10,
+    "localPoster": "/posters/papsolt.webp"
   },
   {
     "id": "el_jardin_de_olivia",
@@ -1468,7 +1530,8 @@
         "episodesCount": 100
       }
     ],
-    "episodesCount": 100
+    "episodesCount": 100,
+    "localPoster": "/posters/jardin.webp"
   },
   {
     "id": "lo_que_la_vida_me_robo",
@@ -1487,7 +1550,8 @@
         "episodesCount": 197
       }
     ],
-    "episodesCount": 197
+    "episodesCount": 197,
+    "localPoster": "/posters/vidamerobo.webp"
   },
   {
     "id": "devuelveme_la_vida",
@@ -1506,7 +1570,8 @@
         "episodesCount": 60
       }
     ],
-    "episodesCount": 60
+    "episodesCount": 60,
+    "localPoster": "/posters/devuelvemelavida.webp"
   },
   {
     "id": "vivir_a_destiempo",
@@ -1525,7 +1590,8 @@
         "episodesCount": 150
       }
     ],
-    "episodesCount": 150
+    "episodesCount": 150,
+    "localPoster": "/posters/vivirdestiempo.webp"
   },
   {
     "id": "escupire_sobre_sus_tumbas",
@@ -1544,7 +1610,8 @@
         "episodesCount": 60
       }
     ],
-    "episodesCount": 60
+    "episodesCount": 60,
+    "localPoster": "/posters/escupire.webp"
   },
   {
     "id": "el_bronx",
@@ -1563,7 +1630,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": true
+    "hasAd": true,
+    "localPoster": "/posters/elbronx.webp"
   },
   {
     "id": "lady_la_vendedora_de_rosas",
@@ -1583,7 +1651,8 @@
         "hasAdOverride": false
       }
     ],
-    "episodesCount": 75
+    "episodesCount": 75,
+    "localPoster": "/posters/lady_la_vendedora_de_rosas.webp"
   },
   {
     "id": "las_munecas_de_la_mafia_t1_t2",
@@ -1610,7 +1679,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": true
+    "hasAd": true,
+    "localPoster": "/posters/munecas.webp"
   },
   {
     "id": "a_mano_limpia",
@@ -1629,7 +1699,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": true
+    "hasAd": true,
+    "localPoster": "/posters/mano.webp"
   },
   {
     "id": "cafe_con_aroma_de_mujer",
@@ -1648,7 +1719,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": true
+    "hasAd": true,
+    "localPoster": "/posters/cafe_con_aroma_de_mujer.webp"
   },
   {
     "id": "rebelde",
@@ -1673,7 +1745,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": true
+    "hasAd": true,
+    "localPoster": "/posters/rebelde.webp"
   },
   {
     "id": "chica_vampiro",
@@ -1692,7 +1765,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": true
+    "hasAd": true,
+    "localPoster": "/posters/chica.webp"
   },
   {
     "id": "rosario_tijeras_colombia",
@@ -1711,7 +1785,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": true
+    "hasAd": true,
+    "localPoster": "/posters/rosario_tijeras_colombia.webp"
   },
   {
     "id": "el_cartel_de_los_sapos_t1_t2",
@@ -1737,7 +1812,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": true
+    "hasAd": true,
+    "localPoster": "/posters/cartel.webp"
   },
   {
     "id": "enemigo_intimo",
@@ -1764,7 +1840,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": true
+    "hasAd": true,
+    "localPoster": "/posters/enemigo_intimo.webp"
   },
   {
     "id": "la_viuda_negra",
@@ -1789,7 +1866,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": true
+    "hasAd": true,
+    "localPoster": "/posters/la_viuda_negra.webp"
   },
   {
     "id": "dejemonos_de_vargas",
@@ -1808,7 +1886,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": true
+    "hasAd": true,
+    "localPoster": "/posters/dejemonos.webp"
   },
   {
     "id": "la_dona",
@@ -1834,7 +1913,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": true
+    "hasAd": true,
+    "localPoster": "/posters/la_dona.webp"
   },
   {
     "id": "los_reyes",
@@ -1853,7 +1933,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": true
+    "hasAd": true,
+    "localPoster": "/posters/los_reyes.webp"
   },
   {
     "id": "que_pobres_tan_ricos",
@@ -1872,7 +1953,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": true
+    "hasAd": true,
+    "localPoster": "/posters/que_pobres_tan_ricos.webp"
   },
   {
     "id": "hasta_que_la_plata_nos_separe",
@@ -1891,7 +1973,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": true
+    "hasAd": true,
+    "localPoster": "/posters/hasta_que_la_plata_nos_separe.webp"
   },
   {
     "id": "el_clon",
@@ -1910,7 +1993,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": true
+    "hasAd": true,
+    "localPoster": "/posters/1788019913678_images.jpg"
   },
   {
     "id": "maria_la_del_barrio",
@@ -1930,7 +2014,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": true
+    "hasAd": true,
+    "localPoster": "/posters/maria_la_del_barrio.webp"
   },
   {
     "id": "violetta",
@@ -1964,7 +2049,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": true
+    "hasAd": true,
+    "localPoster": "/posters/1788929032925_violeta.webp"
   },
   {
     "id": "la_piloto",
@@ -1991,7 +2077,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": true
+    "hasAd": true,
+    "localPoster": "/posters/la_piloto.webp"
   },
   {
     "id": "mi_corazon_es_tuyo",
@@ -2011,7 +2098,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": true
+    "hasAd": true,
+    "localPoster": "/posters/mi_corazon_es_tuyo.webp"
   },
   {
     "id": "tres_gracias_carpisma",
@@ -2031,7 +2119,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": true
+    "hasAd": true,
+    "localPoster": "/posters/1788929079571_tres_gracias.webp"
   },
   {
     "id": "like_la_leyenda",
@@ -2051,7 +2140,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": true
+    "hasAd": true,
+    "localPoster": "/posters/1788929110937_like_la_leyenda.webp"
   },
   {
     "id": "arelys_henao",
@@ -2071,7 +2161,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": true
+    "hasAd": true,
+    "localPoster": "/posters/1788929165134_arelys_henao__1_.webp"
   },
   {
     "id": "el_zorro_la_espada_y_la_rosa",
@@ -2091,7 +2182,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": true
+    "hasAd": true,
+    "localPoster": "/posters/el_zorro_la_espada_y_la_rosa.webp"
   },
   {
     "id": "carrusel",
@@ -2111,7 +2203,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": true
+    "hasAd": true,
+    "localPoster": "/posters/carrusel.webp"
   },
   {
     "id": "reyes_reis",
@@ -2173,7 +2266,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": true
+    "hasAd": true,
+    "localPoster": "/posters/1788929200283_reyes.webp"
   },
   {
     "id": "abismo_de_pasion",
@@ -2193,7 +2287,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": true
+    "hasAd": true,
+    "localPoster": "/posters/abismo_de_pasion.webp"
   },
   {
     "id": "alla_te_espero",
@@ -2213,7 +2308,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": true
+    "hasAd": true,
+    "localPoster": "/posters/alla_te_espero.webp"
   },
   {
     "id": "patito_feo",
@@ -2240,7 +2336,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": true
+    "hasAd": true,
+    "localPoster": "/posters/patito_feo.webp"
   },
   {
     "id": "teresa",
@@ -2260,7 +2357,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": true
+    "hasAd": true,
+    "localPoster": "/posters/1788929248842_terssaa.webp"
   },
   {
     "id": "moises_y_los_diez_mandamientos",
@@ -2287,7 +2385,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": true
+    "hasAd": true,
+    "localPoster": "/posters/1788929301237_moises.webp"
   },
   {
     "id": "la_desalmada",
@@ -2307,7 +2406,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": true
+    "hasAd": true,
+    "localPoster": "/posters/la_desalmada.webp"
   },
   {
     "id": "la_usurpadora",
@@ -2327,7 +2427,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": true
+    "hasAd": true,
+    "localPoster": "/posters/la_usurpadora.webp"
   },
   {
     "id": "la_vecina",
@@ -2347,7 +2448,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": true
+    "hasAd": true,
+    "localPoster": "/posters/la_vecina.webp"
   },
   {
     "id": "isa_tkm",
@@ -2374,7 +2476,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": true
+    "hasAd": true,
+    "localPoster": "/posters/isa_tkm.webp"
   },
   {
     "id": "triunfo_del_amor",
@@ -2394,7 +2497,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": true
+    "hasAd": true,
+    "localPoster": "/posters/triunfo_del_amor.webp"
   },
   {
     "id": "amarte_es_mi_pecado",
@@ -2414,7 +2518,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": true
+    "hasAd": true,
+    "localPoster": "/posters/amarte_es_mi_pecado.webp"
   },
   {
     "id": "atrevete_a_sonar",
@@ -2434,7 +2539,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": true
+    "hasAd": true,
+    "localPoster": "/posters/atrevete_a_sonar.webp"
   },
   {
     "id": "el_man_es_german",
@@ -2468,7 +2574,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": true
+    "hasAd": true,
+    "localPoster": "/posters/el_man_es_german.webp"
   },
   {
     "id": "alias_jj",
@@ -2488,7 +2595,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": true
+    "hasAd": true,
+    "localPoster": "/posters/1788929329034_escobr.webp"
   },
   {
     "id": "la_seleccion",
@@ -2513,7 +2621,8 @@
         "episodesCount": 70
       }
     ],
-    "episodesCount": 146
+    "episodesCount": 146,
+    "localPoster": "/posters/la_seleccion.webp"
   },
   {
     "id": "caso_colmenares",
@@ -2532,7 +2641,8 @@
         "episodesCount": 8
       }
     ],
-    "episodesCount": 8
+    "episodesCount": 8,
+    "localPoster": "/posters/caso.webp"
   },
   {
     "id": "comando_elite",
@@ -2551,7 +2661,8 @@
         "episodesCount": 40
       }
     ],
-    "episodesCount": 40
+    "episodesCount": 40,
+    "localPoster": "/posters/comando.webp"
   },
   {
     "id": "vecinos",
@@ -2570,7 +2681,8 @@
         "episodesCount": 209
       }
     ],
-    "episodesCount": 209
+    "episodesCount": 209,
+    "localPoster": "/posters/vecinos.webp"
   },
   {
     "id": "fugitivos",
@@ -2589,7 +2701,8 @@
         "episodesCount": 40
       }
     ],
-    "episodesCount": 40
+    "episodesCount": 40,
+    "localPoster": "/posters/fugitivos.webp"
   },
   {
     "id": "la_teniente",
@@ -2608,7 +2721,8 @@
         "episodesCount": 24
       }
     ],
-    "episodesCount": 24
+    "episodesCount": 24,
+    "localPoster": "/posters/lateniente.webp"
   },
   {
     "id": "cuentos_de_los_hermanos_grimm",
@@ -2628,7 +2742,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": false
+    "hasAd": false,
+    "localPoster": "/posters/1788021210445_images__1_.jpg"
   },
   {
     "id": "el_encantador",
@@ -2647,7 +2762,8 @@
         "episodesCount": 43
       }
     ],
-    "episodesCount": 43
+    "episodesCount": 43,
+    "localPoster": "/posters/encantador.webp"
   },
   {
     "id": "rigo",
@@ -2666,7 +2782,8 @@
         "episodesCount": 99
       }
     ],
-    "episodesCount": 99
+    "episodesCount": 99,
+    "localPoster": "/posters/rigo.webp"
   },
   {
     "id": "manual_para_ninjas",
@@ -2685,7 +2802,8 @@
         "episodesCount": 60
       }
     ],
-    "episodesCount": 60
+    "episodesCount": 60,
+    "localPoster": "/posters/manual.webp"
   },
   {
     "id": "el_secretario",
@@ -2704,7 +2822,8 @@
         "episodesCount": 123
       }
     ],
-    "episodesCount": 123
+    "episodesCount": 123,
+    "localPoster": "/posters/secretario.webp"
   },
   {
     "id": "el_estilista",
@@ -2723,7 +2842,8 @@
         "episodesCount": 84
       }
     ],
-    "episodesCount": 84
+    "episodesCount": 84,
+    "localPoster": "/posters/estilista.webp"
   },
   {
     "id": "la_ronca_de_oro",
@@ -2742,7 +2862,8 @@
         "episodesCount": 62
       }
     ],
-    "episodesCount": 62
+    "episodesCount": 62,
+    "localPoster": "/posters/ronca.webp"
   },
   {
     "id": "tres_caines",
@@ -2761,7 +2882,8 @@
         "episodesCount": 79
       }
     ],
-    "episodesCount": 79
+    "episodesCount": 79,
+    "localPoster": "/posters/tres.webp"
   },
   {
     "id": "correo_inocentes",
@@ -2780,7 +2902,8 @@
         "episodesCount": 83
       }
     ],
-    "episodesCount": 83
+    "episodesCount": 83,
+    "localPoster": "/posters/correo.webp"
   },
   {
     "id": "esmeraldas",
@@ -2799,7 +2922,8 @@
         "episodesCount": 62
       }
     ],
-    "episodesCount": 62
+    "episodesCount": 62,
+    "localPoster": "/posters/esmeralda.webp"
   },
   {
     "id": "la_promesa",
@@ -2818,7 +2942,8 @@
         "episodesCount": 60
       }
     ],
-    "episodesCount": 60
+    "episodesCount": 60,
+    "localPoster": "/posters/promesa.webp"
   },
   {
     "id": "polvo_carnavalero",
@@ -2837,7 +2962,8 @@
         "episodesCount": 90
       }
     ],
-    "episodesCount": 90
+    "episodesCount": 90,
+    "localPoster": "/posters/polvo.webp"
   },
   {
     "id": "la_nieta_elegida",
@@ -2856,7 +2982,8 @@
         "episodesCount": 72
       }
     ],
-    "episodesCount": 72
+    "episodesCount": 72,
+    "localPoster": "/posters/nieta.webp"
   },
   {
     "id": "los_hombres_tambien_lloran",
@@ -2875,7 +3002,8 @@
         "episodesCount": 41
       }
     ],
-    "episodesCount": 41
+    "episodesCount": 41,
+    "localPoster": "/posters/los_hombres_tambien_lloran.webp"
   },
   {
     "id": "la_familia_de_mi_esposo_s1",
@@ -2896,7 +3024,8 @@
       }
     ],
     "episodesCount": 0,
-    "defaultSeason": 1
+    "defaultSeason": 1,
+    "localPoster": "https://pbs.twimg.com/media/GV6pR3aWkAAcbjQ?format=jpg&name=small"
   },
   {
     "id": "sinu_rio_de_pasiones_s1",
@@ -2917,7 +3046,8 @@
       }
     ],
     "episodesCount": 0,
-    "defaultSeason": 1
+    "defaultSeason": 1,
+    "localPoster": "https://pbs.twimg.com/media/GV6pYtZWkAAfd67?format=jpg&name=small"
   },
   {
     "id": "infieles",
@@ -2936,7 +3066,8 @@
         "episodesCount": 25
       }
     ],
-    "episodesCount": 25
+    "episodesCount": 25,
+    "localPoster": "/posters/infieles.webp"
   },
   {
     "id": "quien_mato_a_patricia_soler",
@@ -2955,7 +3086,8 @@
         "episodesCount": 101
       }
     ],
-    "episodesCount": 101
+    "episodesCount": 101,
+    "localPoster": "/posters/quien.webp"
   },
   {
     "id": "rafael_orozco_el_idolo",
@@ -2974,7 +3106,8 @@
         "episodesCount": 90
       }
     ],
-    "episodesCount": 90
+    "episodesCount": 90,
+    "localPoster": "/posters/rafael.webp"
   },
   {
     "id": "tiro_de_gracia",
@@ -2993,7 +3126,8 @@
         "episodesCount": 56
       }
     ],
-    "episodesCount": 56
+    "episodesCount": 56,
+    "localPoster": "/posters/tiro.webp"
   },
   {
     "id": "un_bandido_honrado",
@@ -3012,7 +3146,8 @@
         "episodesCount": 63
       }
     ],
-    "episodesCount": 63
+    "episodesCount": 63,
+    "localPoster": "/posters/bandido.webp"
   },
   {
     "id": "romina_poderosa",
@@ -3031,7 +3166,8 @@
         "episodesCount": 66
       }
     ],
-    "episodesCount": 66
+    "episodesCount": 66,
+    "localPoster": "/posters/romina.webp"
   },
   {
     "id": "la_que_no_podia_amar",
@@ -3050,7 +3186,8 @@
         "episodesCount": 162
       }
     ],
-    "episodesCount": 162
+    "episodesCount": 162,
+    "localPoster": "/posters/la_que_no_podia_amar.webp"
   },
   {
     "id": "la_querida_del_centauro",
@@ -3075,7 +3212,8 @@
         "episodesCount": 90
       }
     ],
-    "episodesCount": 141
+    "episodesCount": 141,
+    "localPoster": "/posters/la_querida_del_centauro.webp"
   },
   {
     "id": "la_quiero_a_morir",
@@ -3094,7 +3232,8 @@
         "episodesCount": 128
       }
     ],
-    "episodesCount": 128
+    "episodesCount": 128,
+    "localPoster": "/posters/la_quiero_a_morir.webp"
   },
   {
     "id": "la_reina_de_indias_y_el_conquistador",
@@ -3113,7 +3252,8 @@
         "episodesCount": 60
       }
     ],
-    "episodesCount": 60
+    "episodesCount": 60,
+    "localPoster": "/posters/la_reina_de_indias_y_el_conquistador.webp"
   },
   {
     "id": "la_revancha",
@@ -3132,7 +3272,8 @@
         "episodesCount": 150
       }
     ],
-    "episodesCount": 150
+    "episodesCount": 150,
+    "localPoster": "/posters/la_revancha.webp"
   },
   {
     "id": "la_ruta_blanca",
@@ -3151,7 +3292,8 @@
         "episodesCount": 84
       }
     ],
-    "episodesCount": 84
+    "episodesCount": 84,
+    "localPoster": "/posters/la_ruta_blanca.webp"
   },
   {
     "id": "la_saga_negocio_de_familia",
@@ -3170,7 +3312,8 @@
         "episodesCount": 188
       }
     ],
-    "episodesCount": 188
+    "episodesCount": 188,
+    "localPoster": "/posters/la_saga_negocio_de_familia.webp"
   },
   {
     "id": "la_serie_de_celia_cruz",
@@ -3189,7 +3332,8 @@
         "episodesCount": 80
       }
     ],
-    "episodesCount": 80
+    "episodesCount": 80,
+    "localPoster": "/posters/la_serie_de_celia_cruz.webp"
   },
   {
     "id": "la_sombra_del_otro",
@@ -3208,7 +3352,8 @@
         "episodesCount": 60
       }
     ],
-    "episodesCount": 60
+    "episodesCount": 60,
+    "localPoster": "/posters/la_sombra_del_otro.webp"
   },
   {
     "id": "la_sombra_del_deseo",
@@ -3227,7 +3372,8 @@
         "episodesCount": 220
       }
     ],
-    "episodesCount": 220
+    "episodesCount": 220,
+    "localPoster": "/posters/la_sombra_del_deseo.webp"
   },
   {
     "id": "la_sombra_del_pasado",
@@ -3246,7 +3392,8 @@
         "episodesCount": 134
       }
     ],
-    "episodesCount": 134
+    "episodesCount": 134,
+    "localPoster": "/posters/la_sombra_del_pasado.webp"
   },
   {
     "id": "la_suegra",
@@ -3265,7 +3412,8 @@
         "episodesCount": 124
       }
     ],
-    "episodesCount": 124
+    "episodesCount": 124,
+    "localPoster": "/posters/la_suegra.webp"
   },
   {
     "id": "la_suerte_de_loli",
@@ -3284,7 +3432,8 @@
         "episodesCount": 103
       }
     ],
-    "episodesCount": 103
+    "episodesCount": 103,
+    "localPoster": "/posters/la_suerte_de_loli.webp"
   },
   {
     "id": "la_teacher_de_ingles",
@@ -3303,7 +3452,8 @@
         "episodesCount": 106
       }
     ],
-    "episodesCount": 106
+    "episodesCount": 106,
+    "localPoster": "/posters/la_teacher_de_ingles.webp"
   },
   {
     "id": "la_traicion",
@@ -3322,7 +3472,8 @@
         "episodesCount": 107
       }
     ],
-    "episodesCount": 107
+    "episodesCount": 107,
+    "localPoster": "/posters/la_traicion.webp"
   },
   {
     "id": "la_traicionera",
@@ -3341,7 +3492,8 @@
         "episodesCount": 92
       }
     ],
-    "episodesCount": 92
+    "episodesCount": 92,
+    "localPoster": "/posters/la_traicionera.webp"
   },
   {
     "id": "la_usurpadora_2019",
@@ -3360,7 +3512,8 @@
         "episodesCount": 25
       }
     ],
-    "episodesCount": 25
+    "episodesCount": 25,
+    "localPoster": "/posters/la_usurpadora_2019.webp"
   },
   {
     "id": "la_venganza_telemundo",
@@ -3379,7 +3532,8 @@
         "episodesCount": 127
       }
     ],
-    "episodesCount": 127
+    "episodesCount": 127,
+    "localPoster": "/posters/la_venganza_telemundo.webp"
   },
   {
     "id": "la_venganza_de_analia",
@@ -3398,7 +3552,8 @@
         "episodesCount": 53
       }
     ],
-    "episodesCount": 53
+    "episodesCount": 53,
+    "localPoster": "/posters/la_venganza_de_analia.webp"
   },
   {
     "id": "la_virgen_de_la_calle",
@@ -3417,7 +3572,8 @@
         "episodesCount": 120
       }
     ],
-    "episodesCount": 120
+    "episodesCount": 120,
+    "localPoster": "/posters/la_virgen_de_la_calle.webp"
   },
   {
     "id": "la_viuda_de_blanco",
@@ -3436,7 +3592,8 @@
         "episodesCount": 158
       }
     ],
-    "episodesCount": 158
+    "episodesCount": 158,
+    "localPoster": "/posters/la_viuda_de_blanco.webp"
   },
   {
     "id": "la_viuda_joven",
@@ -3455,7 +3612,8 @@
         "episodesCount": 142
       }
     ],
-    "episodesCount": 142
+    "episodesCount": 142,
+    "localPoster": "/posters/la_viuda_joven.webp"
   },
   {
     "id": "laberintos_de_pasion",
@@ -3474,7 +3632,8 @@
         "episodesCount": 80
       }
     ],
-    "episodesCount": 80
+    "episodesCount": 80,
+    "localPoster": "/posters/laberintos_de_pasion.webp"
   },
   {
     "id": "ladron_de_corazones",
@@ -3493,7 +3652,8 @@
         "episodesCount": 141
       }
     ],
-    "episodesCount": 141
+    "episodesCount": 141,
+    "localPoster": "/posters/ladron_de_corazones.webp"
   },
   {
     "id": "lala_s_spa",
@@ -3512,7 +3672,8 @@
         "episodesCount": 80
       }
     ],
-    "episodesCount": 80
+    "episodesCount": 80,
+    "localPoster": "/posters/lalas_spa.webp"
   },
   {
     "id": "las_amazonas",
@@ -3531,7 +3692,8 @@
         "episodesCount": 63
       }
     ],
-    "episodesCount": 63
+    "episodesCount": 63,
+    "localPoster": "/posters/las_amazonas.webp"
   },
   {
     "id": "las_bandidas",
@@ -3550,7 +3712,8 @@
         "episodesCount": 120
       }
     ],
-    "episodesCount": 120
+    "episodesCount": 120,
+    "localPoster": "/posters/las_bandidas.webp"
   },
   {
     "id": "las_bravo",
@@ -3569,7 +3732,8 @@
         "episodesCount": 130
       }
     ],
-    "episodesCount": 130
+    "episodesCount": 130,
+    "localPoster": "/posters/las_bravo.webp"
   },
   {
     "id": "las_juanas_colombia",
@@ -3588,7 +3752,8 @@
         "episodesCount": 112
       }
     ],
-    "episodesCount": 112
+    "episodesCount": 112,
+    "localPoster": "/posters/las_juanas_colombia.webp"
   },
   {
     "id": "las_juanas_mexico",
@@ -3607,7 +3772,8 @@
         "episodesCount": 130
       }
     ],
-    "episodesCount": 130
+    "episodesCount": 130,
+    "localPoster": "/posters/las_juanas_mexico.webp"
   },
   {
     "id": "las_tontas_no_van_al_cielo",
@@ -3626,7 +3792,8 @@
         "episodesCount": 140
       }
     ],
-    "episodesCount": 140
+    "episodesCount": 140,
+    "localPoster": "/posters/las_tontas_no_van_al_cielo.webp"
   },
   {
     "id": "las_aguas_mansas",
@@ -3645,7 +3812,8 @@
         "episodesCount": 125
       }
     ],
-    "episodesCount": 125
+    "episodesCount": 125,
+    "localPoster": "/posters/las_aguas_mansas.webp"
   },
   {
     "id": "las_buchonas",
@@ -3664,7 +3832,8 @@
         "episodesCount": 81
       }
     ],
-    "episodesCount": 81
+    "episodesCount": 81,
+    "localPoster": "/posters/las_buchonas.webp"
   },
   {
     "id": "las_detectivas_y_el_victor",
@@ -3683,7 +3852,8 @@
         "episodesCount": 127
       }
     ],
-    "episodesCount": 127
+    "episodesCount": 127,
+    "localPoster": "/posters/las_detectivas_y_el_victor.webp"
   },
   {
     "id": "las_dos_caras_de_ana",
@@ -3702,7 +3872,8 @@
         "episodesCount": 120
       }
     ],
-    "episodesCount": 120
+    "episodesCount": 120,
+    "localPoster": "/posters/las_dos_caras_de_ana.webp"
   },
   {
     "id": "las_hermanitas_calle",
@@ -3721,7 +3892,8 @@
         "episodesCount": 94
       }
     ],
-    "episodesCount": 94
+    "episodesCount": 94,
+    "localPoster": "/posters/las_hermanitas_calle.webp"
   },
   {
     "id": "las_noches_de_luciana",
@@ -3740,7 +3912,8 @@
         "episodesCount": 141
       }
     ],
-    "episodesCount": 141
+    "episodesCount": 141,
+    "localPoster": "/posters/las_noches_de_luciana.webp"
   },
   {
     "id": "las_santisimas",
@@ -3759,7 +3932,8 @@
         "episodesCount": 120
       }
     ],
-    "episodesCount": 120
+    "episodesCount": 120,
+    "localPoster": "/posters/las_santisimas.webp"
   },
   {
     "id": "las_trampas_del_deseo",
@@ -3778,7 +3952,8 @@
         "episodesCount": 120
       }
     ],
-    "episodesCount": 120
+    "episodesCount": 120,
+    "localPoster": "/posters/las_trampas_del_deseo.webp"
   },
   {
     "id": "las_vias_del_amor",
@@ -3797,7 +3972,8 @@
         "episodesCount": 220
       }
     ],
-    "episodesCount": 220
+    "episodesCount": 220,
+    "localPoster": "/posters/las_vias_del_amor.webp"
   },
   {
     "id": "las_villamizar",
@@ -3816,7 +3992,8 @@
         "episodesCount": 72
       }
     ],
-    "episodesCount": 72
+    "episodesCount": 72,
+    "localPoster": "/posters/Logooo.webp"
   },
   {
     "id": "lazos_de_amor",
@@ -3835,7 +4012,8 @@
         "episodesCount": 100
       }
     ],
-    "episodesCount": 100
+    "episodesCount": 100,
+    "localPoster": "/posters/lazos_de_amor.webp"
   },
   {
     "id": "leandro_diaz",
@@ -3854,7 +4032,8 @@
         "episodesCount": 82
       }
     ],
-    "episodesCount": 82
+    "episodesCount": 82,
+    "localPoster": "/posters/leandro_diaz.webp"
   },
   {
     "id": "lejana_como_el_viento",
@@ -3873,7 +4052,8 @@
         "episodesCount": 109
       }
     ],
-    "episodesCount": 109
+    "episodesCount": 109,
+    "localPoster": "/posters/lejana_como_el_viento.webp"
   },
   {
     "id": "llena_de_amor",
@@ -3892,7 +4072,8 @@
         "episodesCount": 206
       }
     ],
-    "episodesCount": 206
+    "episodesCount": 206,
+    "localPoster": "/posters/llena_de_amor.webp"
   },
   {
     "id": "lo_imperdonable",
@@ -3911,7 +4092,8 @@
         "episodesCount": 120
       }
     ],
-    "episodesCount": 120
+    "episodesCount": 120,
+    "localPoster": "/posters/lo_imperdonable.webp"
   },
   {
     "id": "lobo",
@@ -3930,7 +4112,8 @@
         "episodesCount": 57
       }
     ],
-    "episodesCount": 57
+    "episodesCount": 57,
+    "localPoster": "/posters/lobo.webp"
   },
   {
     "id": "locura_de_amor",
@@ -3949,7 +4132,8 @@
         "episodesCount": 115
       }
     ],
-    "episodesCount": 115
+    "episodesCount": 115,
+    "localPoster": "/posters/locura_de_amor.webp"
   },
   {
     "id": "lola_erase_una_vez",
@@ -3968,7 +4152,8 @@
         "episodesCount": 225
       }
     ],
-    "episodesCount": 225
+    "episodesCount": 225,
+    "localPoster": "/posters/lola_erase_una_vez.webp"
   },
   {
     "id": "loquito_por_ti",
@@ -3987,7 +4172,8 @@
         "episodesCount": 80
       }
     ],
-    "episodesCount": 80
+    "episodesCount": 80,
+    "localPoster": "/posters/loquito_por_ti.webp"
   },
   {
     "id": "lorena",
@@ -4006,7 +4192,8 @@
         "episodesCount": 126
       }
     ],
-    "episodesCount": 126
+    "episodesCount": 126,
+    "localPoster": "/posters/lorena.webp"
   },
   {
     "id": "los_briceno",
@@ -4025,7 +4212,8 @@
         "episodesCount": 63
       }
     ],
-    "episodesCount": 63
+    "episodesCount": 63,
+    "localPoster": "/posters/los_briceno.webp"
   },
   {
     "id": "los_miserables",
@@ -4044,7 +4232,8 @@
         "episodesCount": 119
       }
     ],
-    "episodesCount": 119
+    "episodesCount": 119,
+    "localPoster": "/posters/los_miserables.webp"
   },
   {
     "id": "los_parientes_pobres",
@@ -4063,7 +4252,8 @@
         "episodesCount": 75
       }
     ],
-    "episodesCount": 75
+    "episodesCount": 75,
+    "localPoster": "/posters/los_parientes_pobres.webp"
   },
   {
     "id": "los_plateados",
@@ -4082,7 +4272,8 @@
         "episodesCount": 147
       }
     ],
-    "episodesCount": 147
+    "episodesCount": 147,
+    "localPoster": "/posters/los_plateados.webp"
   },
   {
     "id": "los_rey",
@@ -4101,7 +4292,8 @@
         "episodesCount": 126
       }
     ],
-    "episodesCount": 126
+    "episodesCount": 126,
+    "localPoster": "/posters/los_rey.webp"
   },
   {
     "id": "los_caballeros_las_prefieren_brutas",
@@ -4126,7 +4318,8 @@
         "episodesCount": 40
       }
     ],
-    "episodesCount": 62
+    "episodesCount": 62,
+    "localPoster": "/posters/los_caballeros_las_prefieren_brutas.webp"
   },
   {
     "id": "los_elegidos",
@@ -4145,7 +4338,8 @@
         "episodesCount": 70
       }
     ],
-    "episodesCount": 70
+    "episodesCount": 70,
+    "localPoster": "/posters/los_elegidos.webp"
   },
   {
     "id": "los_exitosos_perez",
@@ -4164,7 +4358,8 @@
         "episodesCount": 88
       }
     ],
-    "episodesCount": 88
+    "episodesCount": 88,
+    "localPoster": "/posters/los_exitosos_perez.webp"
   },
   {
     "id": "los_graduados",
@@ -4183,7 +4378,8 @@
         "episodesCount": 256
       }
     ],
-    "episodesCount": 256
+    "episodesCount": 256,
+    "localPoster": "/posters/los_graduados.webp"
   },
   {
     "id": "victoria",
@@ -4202,7 +4398,8 @@
         "episodesCount": 171
       }
     ],
-    "episodesCount": 171
+    "episodesCount": 171,
+    "localPoster": "/posters/victoria.webp"
   },
   {
     "id": "contra_el_tiempo",
@@ -4221,7 +4418,8 @@
         "episodesCount": 126
       }
     ],
-    "episodesCount": 126
+    "episodesCount": 126,
+    "localPoster": "/posters/tiempo.webp"
   },
   {
     "id": "los_protegidos",
@@ -4240,7 +4438,8 @@
         "episodesCount": 125
       }
     ],
-    "episodesCount": 125
+    "episodesCount": 125,
+    "localPoster": "/posters/los_protegidos.webp"
   },
   {
     "id": "los_ricos_no_piden_permiso",
@@ -4259,7 +4458,8 @@
         "episodesCount": 225
       }
     ],
-    "episodesCount": 225
+    "episodesCount": 225,
+    "localPoster": "/posters/los_ricos_no_piden_permiso.webp"
   },
   {
     "id": "los_ricos_tambien_lloran",
@@ -4278,7 +4478,8 @@
         "episodesCount": 248
       }
     ],
-    "episodesCount": 248
+    "episodesCount": 248,
+    "localPoster": "/posters/los_ricos_tambien_lloran.webp"
   },
   {
     "id": "los_secretos_de_lucia",
@@ -4297,7 +4498,8 @@
         "episodesCount": 75
       }
     ],
-    "episodesCount": 75
+    "episodesCount": 75,
+    "localPoster": "/posters/los_secretos_de_lucia.webp"
   },
   {
     "id": "luisana_mia",
@@ -4316,7 +4518,8 @@
         "episodesCount": 50
       }
     ],
-    "episodesCount": 50
+    "episodesCount": 50,
+    "localPoster": "/posters/luisana_mia.webp"
   },
   {
     "id": "luna_la_heredera",
@@ -4335,7 +4538,8 @@
         "episodesCount": 120
       }
     ],
-    "episodesCount": 120
+    "episodesCount": 120,
+    "localPoster": "/posters/luna_la_heredera.webp"
   },
   {
     "id": "luz_clarita",
@@ -4354,7 +4558,8 @@
         "episodesCount": 70
       }
     ],
-    "episodesCount": 70
+    "episodesCount": 70,
+    "localPoster": "/posters/luz_clarita.webp"
   },
   {
     "id": "luz_maria",
@@ -4373,7 +4578,8 @@
         "episodesCount": 174
       }
     ],
-    "episodesCount": 174
+    "episodesCount": 174,
+    "localPoster": "/posters/luz_maria.webp"
   },
   {
     "id": "luz_de_luna",
@@ -4398,7 +4604,8 @@
         "episodesCount": 125
       }
     ],
-    "episodesCount": 254
+    "episodesCount": 254,
+    "localPoster": "/posters/luz_de_luna.webp"
   },
   {
     "id": "machos",
@@ -4417,7 +4624,8 @@
         "episodesCount": 190
       }
     ],
-    "episodesCount": 190
+    "episodesCount": 190,
+    "localPoster": "/posters/machos.webp"
   },
   {
     "id": "made_in_cartagena",
@@ -4436,7 +4644,8 @@
         "episodesCount": 63
       }
     ],
-    "episodesCount": 63
+    "episodesCount": 63,
+    "localPoster": "/posters/made_in_cartagena.webp"
   },
   {
     "id": "madre_luna",
@@ -4455,7 +4664,8 @@
         "episodesCount": 141
       }
     ],
-    "episodesCount": 141
+    "episodesCount": 141,
+    "localPoster": "/posters/madre_luna.webp"
   },
   {
     "id": "madres_egoistas",
@@ -4474,7 +4684,8 @@
         "episodesCount": 84
       }
     ],
-    "episodesCount": 84
+    "episodesCount": 84,
+    "localPoster": "/posters/madres_egoistas.webp"
   },
   {
     "id": "magica_juventud",
@@ -4493,7 +4704,8 @@
         "episodesCount": 110
       }
     ],
-    "episodesCount": 110
+    "episodesCount": 110,
+    "localPoster": "/posters/magica_juventud.webp"
   },
   {
     "id": "malverde_el_santo_patron",
@@ -4512,7 +4724,8 @@
         "episodesCount": 80
       }
     ],
-    "episodesCount": 80
+    "episodesCount": 80,
+    "localPoster": "/posters/malverde_el_santo_patron.webp"
   },
   {
     "id": "manana_es_para_siempre",
@@ -4531,7 +4744,8 @@
         "episodesCount": 160
       }
     ],
-    "episodesCount": 160
+    "episodesCount": 160,
+    "localPoster": "/posters/manana_es_para_siempre.webp"
   },
   {
     "id": "manual_para_ser_feliz",
@@ -4550,7 +4764,8 @@
         "episodesCount": 44
       }
     ],
-    "episodesCount": 44
+    "episodesCount": 44,
+    "localPoster": "/posters/manual_para_ser_feliz.webp"
   },
   {
     "id": "mar_de_amor",
@@ -4569,7 +4784,8 @@
         "episodesCount": 164
       }
     ],
-    "episodesCount": 164
+    "episodesCount": 164,
+    "localPoster": "/posters/mar_de_amor.webp"
   },
   {
     "id": "maria_belen",
@@ -4588,7 +4804,8 @@
         "episodesCount": 90
       }
     ],
-    "episodesCount": 90
+    "episodesCount": 90,
+    "localPoster": "/posters/maria_belen.webp"
   },
   {
     "id": "maria_bonita",
@@ -4607,7 +4824,8 @@
         "episodesCount": 92
       }
     ],
-    "episodesCount": 92
+    "episodesCount": 92,
+    "localPoster": "/posters/maria_bonita.webp"
   },
   {
     "id": "maria_isabel",
@@ -4626,7 +4844,8 @@
         "episodesCount": 63
       }
     ],
-    "episodesCount": 63
+    "episodesCount": 63,
+    "localPoster": "/posters/maria_isabel.webp"
   },
   {
     "id": "maria_jose",
@@ -4645,7 +4864,8 @@
         "episodesCount": 69
       }
     ],
-    "episodesCount": 69
+    "episodesCount": 69,
+    "localPoster": "/posters/maria_jose.webp"
   },
   {
     "id": "maria_magdalena",
@@ -4664,7 +4884,8 @@
         "episodesCount": 60
       }
     ],
-    "episodesCount": 60
+    "episodesCount": 60,
+    "localPoster": "/posters/maria_magdalena.webp"
   },
   {
     "id": "maria_mercedes",
@@ -4683,7 +4904,8 @@
         "episodesCount": 82
       }
     ],
-    "episodesCount": 82
+    "episodesCount": 82,
+    "localPoster": "/posters/maria_mercedes.webp"
   },
   {
     "id": "mariana_de_la_noche",
@@ -4702,7 +4924,8 @@
         "episodesCount": 135
       }
     ],
-    "episodesCount": 135
+    "episodesCount": 135,
+    "localPoster": "/posters/mariana_de_la_noche.webp"
   },
   {
     "id": "marido_en_alquiler",
@@ -4721,7 +4944,8 @@
         "episodesCount": 125
       }
     ],
-    "episodesCount": 125
+    "episodesCount": 125,
+    "localPoster": "/posters/marido_en_alquiler.webp"
   },
   {
     "id": "marido_y_mujer",
@@ -4740,7 +4964,8 @@
         "episodesCount": 108
       }
     ],
-    "episodesCount": 108
+    "episodesCount": 108,
+    "localPoster": "/posters/marido_y_mujer.webp"
   },
   {
     "id": "marimar",
@@ -4759,7 +4984,8 @@
         "episodesCount": 149
       }
     ],
-    "episodesCount": 149
+    "episodesCount": 149,
+    "localPoster": "/posters/marimar.webp"
   },
   {
     "id": "marina",
@@ -4778,7 +5004,8 @@
         "episodesCount": 169
       }
     ],
-    "episodesCount": 169
+    "episodesCount": 169,
+    "localPoster": "/posters/marina.webp"
   },
   {
     "id": "mariposa_de_barrio",
@@ -4797,7 +5024,8 @@
         "episodesCount": 91
       }
     ],
-    "episodesCount": 91
+    "episodesCount": 91,
+    "localPoster": "/posters/mariposa_de_barrio.webp"
   },
   {
     "id": "marisol",
@@ -4816,7 +5044,8 @@
         "episodesCount": 145
       }
     ],
-    "episodesCount": 145
+    "episodesCount": 145,
+    "localPoster": "/posters/marisol.webp"
   },
   {
     "id": "mariu",
@@ -4835,7 +5064,8 @@
         "episodesCount": 113
       }
     ],
-    "episodesCount": 113
+    "episodesCount": 113,
+    "localPoster": "/posters/mariu.webp"
   },
   {
     "id": "mas_sabe_el_diablo",
@@ -4854,7 +5084,8 @@
         "episodesCount": 182
       }
     ],
-    "episodesCount": 182
+    "episodesCount": 182,
+    "localPoster": "/posters/mas_sabe_el_diablo.webp"
   },
   {
     "id": "maximo_corazon",
@@ -4873,7 +5104,8 @@
         "episodesCount": 139
       }
     ],
-    "episodesCount": 139
+    "episodesCount": 139,
+    "localPoster": "/posters/maximo_corazon.webp"
   },
   {
     "id": "me_amaras_bajo_la_lluvia",
@@ -4892,7 +5124,8 @@
         "episodesCount": 118
       }
     ],
-    "episodesCount": 118
+    "episodesCount": 118,
+    "localPoster": "/posters/me_amaras_bajo_la_lluvia.webp"
   },
   {
     "id": "me_declaro_culpable",
@@ -4911,7 +5144,8 @@
         "episodesCount": 62
       }
     ],
-    "episodesCount": 62
+    "episodesCount": 62,
+    "localPoster": "/posters/me_declaro_culpable.webp"
   },
   {
     "id": "me_llaman_lolita",
@@ -4930,7 +5164,8 @@
         "episodesCount": 98
       }
     ],
-    "episodesCount": 98
+    "episodesCount": 98,
+    "localPoster": "/posters/me_llaman_lolita.webp"
   },
   {
     "id": "medicos_linea_de_vida",
@@ -4949,7 +5184,8 @@
         "episodesCount": 86
       }
     ],
-    "episodesCount": 86
+    "episodesCount": 86,
+    "localPoster": "/posters/medicos_linea_de_vida.webp"
   },
   {
     "id": "mentir_para_vivir",
@@ -4968,7 +5204,8 @@
         "episodesCount": 102
       }
     ],
-    "episodesCount": 102
+    "episodesCount": 102,
+    "localPoster": "/posters/mentir_para_vivir.webp"
   },
   {
     "id": "mentiras_perfectas",
@@ -4987,7 +5224,8 @@
         "episodesCount": 60
       }
     ],
-    "episodesCount": 60
+    "episodesCount": 60,
+    "localPoster": "/posters/mentiras_perfectas.webp"
   },
   {
     "id": "merlina_mujer_divina",
@@ -5006,7 +5244,8 @@
         "episodesCount": 125
       }
     ],
-    "episodesCount": 125
+    "episodesCount": 125,
+    "localPoster": "/posters/merlina_mujer_divina.webp"
   },
   {
     "id": "mesa_para_tres",
@@ -5025,7 +5264,8 @@
         "episodesCount": 116
       }
     ],
-    "episodesCount": 116
+    "episodesCount": 116,
+    "localPoster": "/posters/mesa_para_tres.webp"
   },
   {
     "id": "mi_gorda_bella",
@@ -5044,7 +5284,8 @@
         "episodesCount": 179
       }
     ],
-    "episodesCount": 179
+    "episodesCount": 179,
+    "localPoster": "/posters/mi_gorda_bella.webp"
   },
   {
     "id": "mi_pecado",
@@ -5063,7 +5304,8 @@
         "episodesCount": 110
       }
     ],
-    "episodesCount": 110
+    "episodesCount": 110,
+    "localPoster": "/posters/mi_pecado.webp"
   },
   {
     "id": "mi_pequena_traviesa",
@@ -5082,7 +5324,8 @@
         "episodesCount": 100
       }
     ],
-    "episodesCount": 100
+    "episodesCount": 100,
+    "localPoster": "/posters/mi_pequena_traviesa.webp"
   },
   {
     "id": "mi_adorable_maldicion",
@@ -5101,7 +5344,8 @@
         "episodesCount": 122
       }
     ],
-    "episodesCount": 122
+    "episodesCount": 122,
+    "localPoster": "/posters/mi_adorable_maldicion.webp"
   },
   {
     "id": "mi_destino_eres_tu",
@@ -5120,7 +5364,8 @@
         "episodesCount": 90
       }
     ],
-    "episodesCount": 90
+    "episodesCount": 90,
+    "localPoster": "/posters/mi_destino_eres_tu.webp"
   },
   {
     "id": "mi_fortuna_es_amarte",
@@ -5139,7 +5384,8 @@
         "episodesCount": 95
       }
     ],
-    "episodesCount": 95
+    "episodesCount": 95,
+    "localPoster": "/posters/mi_fortuna_es_amarte.webp"
   },
   {
     "id": "mi_marido_tiene_mas_familia",
@@ -5164,7 +5410,8 @@
         "episodesCount": 155
       }
     ],
-    "episodesCount": 257
+    "episodesCount": 257,
+    "localPoster": "/posters/mi_marido_tiene_mas_familia.webp"
   },
   {
     "id": "mi_pequena_soledad",
@@ -5183,7 +5430,8 @@
         "episodesCount": 78
       }
     ],
-    "episodesCount": 78
+    "episodesCount": 78,
+    "localPoster": "/posters/mi_pequena_soledad.webp"
   },
   {
     "id": "mi_prima_ciela",
@@ -5202,7 +5450,8 @@
         "episodesCount": 157
       }
     ],
-    "episodesCount": 157
+    "episodesCount": 157,
+    "localPoster": "/posters/mi_prima_ciela.webp"
   },
   {
     "id": "mi_segunda_madre",
@@ -5221,7 +5470,8 @@
         "episodesCount": 100
       }
     ],
-    "episodesCount": 100
+    "episodesCount": 100,
+    "localPoster": "/posters/mi_segunda_madre.webp"
   },
   {
     "id": "mi_vida_eres_tu",
@@ -5240,7 +5490,8 @@
         "episodesCount": 116
       }
     ],
-    "episodesCount": 116
+    "episodesCount": 116,
+    "localPoster": "/posters/mi_vida_eres_tu.webp"
   },
   {
     "id": "mirada_de_mujer_el_regreso",
@@ -5265,7 +5516,8 @@
         "episodesCount": 119
       }
     ],
-    "episodesCount": 239
+    "episodesCount": 239,
+    "localPoster": "/posters/mirada_de_mujer_el_regreso.webp"
   },
   {
     "id": "mis_3_hermanas",
@@ -5284,7 +5536,8 @@
         "episodesCount": 150
       }
     ],
-    "episodesCount": 150
+    "episodesCount": 150,
+    "localPoster": "/posters/mis_3_hermanas.webp"
   },
   {
     "id": "mis_amigos_de_siempre",
@@ -5303,7 +5556,8 @@
         "episodesCount": 150
       }
     ],
-    "episodesCount": 150
+    "episodesCount": 150,
+    "localPoster": "/posters/mis_amigos_de_siempre.webp"
   },
   {
     "id": "mis_tres_marias",
@@ -5322,7 +5576,8 @@
         "episodesCount": 79
       }
     ],
-    "episodesCount": 79
+    "episodesCount": 79,
+    "localPoster": "/posters/mis_tres_marias.webp"
   },
   {
     "id": "mision_sos",
@@ -5341,7 +5596,8 @@
         "episodesCount": 125
       }
     ],
-    "episodesCount": 125
+    "episodesCount": 125,
+    "localPoster": "/posters/mision_sos.webp"
   },
   {
     "id": "miss_xv",
@@ -5360,7 +5616,8 @@
         "episodesCount": 120
       }
     ],
-    "episodesCount": 120
+    "episodesCount": 120,
+    "localPoster": "/posters/miss_xv.webp"
   },
   {
     "id": "monte_calvario",
@@ -5379,7 +5636,8 @@
         "episodesCount": 120
       }
     ],
-    "episodesCount": 120
+    "episodesCount": 120,
+    "localPoster": "/posters/monte_calvario.webp"
   },
   {
     "id": "montecristo_argentina",
@@ -5398,7 +5656,8 @@
         "episodesCount": 144
       }
     ],
-    "episodesCount": 144
+    "episodesCount": 144,
+    "localPoster": "/posters/montecristo_argentina.webp"
   },
   {
     "id": "montecristo_colombia",
@@ -5417,7 +5676,8 @@
         "episodesCount": 88
       }
     ],
-    "episodesCount": 88
+    "episodesCount": 88,
+    "localPoster": "/posters/montecristo_colombia.webp"
   },
   {
     "id": "montecristo_mexico",
@@ -5436,7 +5696,8 @@
         "episodesCount": 181
       }
     ],
-    "episodesCount": 181
+    "episodesCount": 181,
+    "localPoster": "/posters/montecristo_mexico.webp"
   },
   {
     "id": "morena_clara",
@@ -5455,7 +5716,8 @@
         "episodesCount": 137
       }
     ],
-    "episodesCount": 137
+    "episodesCount": 137,
+    "localPoster": "/posters/morena_clara.webp"
   },
   {
     "id": "morir_dos_veces",
@@ -5474,7 +5736,8 @@
         "episodesCount": 60
       }
     ],
-    "episodesCount": 60
+    "episodesCount": 60,
+    "localPoster": "/posters/morir_dos_veces.webp"
   },
   {
     "id": "muchacha_italiana_viene_a_casarse",
@@ -5493,7 +5756,8 @@
         "episodesCount": 172
       }
     ],
-    "episodesCount": 172
+    "episodesCount": 172,
+    "localPoster": "/posters/muchacha_italiana_viene_a_casarse.webp"
   },
   {
     "id": "muchachitas",
@@ -5512,7 +5776,8 @@
         "episodesCount": 200
       }
     ],
-    "episodesCount": 200
+    "episodesCount": 200,
+    "localPoster": "/posters/muchachitas.webp"
   },
   {
     "id": "muchachitas_como_tu",
@@ -5531,7 +5796,8 @@
         "episodesCount": 145
       }
     ],
-    "episodesCount": 145
+    "episodesCount": 145,
+    "localPoster": "/posters/muchachitas_como_tu.webp"
   },
   {
     "id": "donde_carajos_esta_umana",
@@ -5549,7 +5815,8 @@
         "jsonUrl": ""
       }
     ],
-    "episodesCount": 0
+    "episodesCount": 0,
+    "localPoster": "/posters/umana.webp"
   },
   {
     "id": "donde_esta_elisa",
@@ -5568,7 +5835,8 @@
         "episodesCount": 107
       }
     ],
-    "episodesCount": 107
+    "episodesCount": 107,
+    "localPoster": "/posters/elisa.webp"
   },
   {
     "id": "dulce_amor",
@@ -5587,7 +5855,8 @@
         "episodesCount": 114
       }
     ],
-    "episodesCount": 114
+    "episodesCount": 114,
+    "localPoster": "/posters/dulce.webp"
   },
   {
     "id": "el_baile_de_la_vida",
@@ -5606,7 +5875,8 @@
         "episodesCount": 125
       }
     ],
-    "episodesCount": 125
+    "episodesCount": 125,
+    "localPoster": "/posters/baile.webp"
   },
   {
     "id": "el_engano",
@@ -5625,7 +5895,8 @@
         "episodesCount": 22
       }
     ],
-    "episodesCount": 22
+    "episodesCount": 22,
+    "localPoster": "/posters/engano.webp"
   },
   {
     "id": "el_laberinto",
@@ -5644,7 +5915,8 @@
         "episodesCount": 41
       }
     ],
-    "episodesCount": 41
+    "episodesCount": 41,
+    "localPoster": "/posters/laberinto.webp"
   },
   {
     "id": "historias_clasificadas",
@@ -5663,7 +5935,8 @@
         "episodesCount": 60
       }
     ],
-    "episodesCount": 60
+    "episodesCount": 60,
+    "localPoster": "/posters/historias.webp"
   },
   {
     "id": "infiltrados",
@@ -5682,7 +5955,8 @@
         "episodesCount": 37
       }
     ],
-    "episodesCount": 37
+    "episodesCount": 37,
+    "localPoster": "/posters/infiltrados.webp"
   },
   {
     "id": "narcos",
@@ -5701,7 +5975,8 @@
         "episodesCount": 10
       }
     ],
-    "episodesCount": 10
+    "episodesCount": 10,
+    "localPoster": "/posters/narcos.webp"
   },
   {
     "id": "a_todo_dar",
@@ -5720,7 +5995,8 @@
         "episodesCount": 125
       }
     ],
-    "episodesCount": 125
+    "episodesCount": 125,
+    "localPoster": "/posters/nadiepodra.webp"
   },
   {
     "id": "cara_sucia",
@@ -5739,7 +6015,8 @@
         "episodesCount": 173
       }
     ],
-    "episodesCount": 173
+    "episodesCount": 173,
+    "localPoster": "/posters/carasucia.webp"
   },
   {
     "id": "el_joe_la_leyenda",
@@ -5758,7 +6035,8 @@
         "episodesCount": 119
       }
     ],
-    "episodesCount": 119
+    "episodesCount": 119,
+    "localPoster": "/posters/eljoe.webp"
   },
   {
     "id": "mujer_comprada",
@@ -5777,7 +6055,8 @@
         "episodesCount": 140
       }
     ],
-    "episodesCount": 140
+    "episodesCount": 140,
+    "localPoster": "/posters/mujer_comprada.webp"
   },
   {
     "id": "mujer_con_pantalones",
@@ -5796,7 +6075,8 @@
         "episodesCount": 130
       }
     ],
-    "episodesCount": 130
+    "episodesCount": 130,
+    "localPoster": "/posters/mujer_con_pantalones.webp"
   },
   {
     "id": "mujer_de_madera",
@@ -5815,7 +6095,8 @@
         "episodesCount": 205
       }
     ],
-    "episodesCount": 205
+    "episodesCount": 205,
+    "localPoster": "/posters/mujer_de_madera.webp"
   },
   {
     "id": "mujercitas",
@@ -5834,7 +6115,8 @@
         "episodesCount": 80
       }
     ],
-    "episodesCount": 80
+    "episodesCount": 80,
+    "localPoster": "/posters/mujercitas.webp"
   },
   {
     "id": "mujeres_de_negro",
@@ -5853,7 +6135,8 @@
         "episodesCount": 51
       }
     ],
-    "episodesCount": 51
+    "episodesCount": 51,
+    "localPoster": "/posters/mujeres_de_negro.webp"
   },
   {
     "id": "mujeres_enganadas",
@@ -5872,7 +6155,8 @@
         "episodesCount": 120
       }
     ],
-    "episodesCount": 120
+    "episodesCount": 120,
+    "localPoster": "/posters/mujeres_enganadas.webp"
   },
   {
     "id": "mundo_de_fieras",
@@ -5891,7 +6175,8 @@
         "episodesCount": 120
       }
     ],
-    "episodesCount": 120
+    "episodesCount": 120,
+    "localPoster": "/posters/mundo_de_fieras.webp"
   },
   {
     "id": "munoz_vale_x_2",
@@ -5910,7 +6195,8 @@
         "episodesCount": 45
       }
     ],
-    "episodesCount": 45
+    "episodesCount": 45,
+    "localPoster": "/posters/munoz_vale_x_2.webp"
   },
   {
     "id": "muy_padres",
@@ -5929,7 +6215,8 @@
         "episodesCount": 98
       }
     ],
-    "episodesCount": 98
+    "episodesCount": 98,
+    "localPoster": "/posters/muy_padres.webp"
   },
   {
     "id": "musica_maestro",
@@ -5948,7 +6235,8 @@
         "episodesCount": 114
       }
     ],
-    "episodesCount": 114
+    "episodesCount": 114,
+    "localPoster": "/posters/musicamaestro.webp"
   },
   {
     "id": "nada_personal",
@@ -5967,7 +6255,8 @@
         "episodesCount": 77
       }
     ],
-    "episodesCount": 77
+    "episodesCount": 77,
+    "localPoster": "/posters/nada_personal.webp"
   },
   {
     "id": "nadie_es_eterno_en_el_mundo",
@@ -5986,7 +6275,8 @@
         "episodesCount": 149
       }
     ],
-    "episodesCount": 149
+    "episodesCount": 149,
+    "localPoster": "/posters/nadie_es_eterno_en_el_mundo.webp"
   },
   {
     "id": "nano",
@@ -6005,7 +6295,8 @@
         "episodesCount": 195
       }
     ],
-    "episodesCount": 195
+    "episodesCount": 195,
+    "localPoster": "/posters/nano.webp"
   },
   {
     "id": "natalia_del_mar",
@@ -6024,7 +6315,8 @@
         "episodesCount": 184
       }
     ],
-    "episodesCount": 184
+    "episodesCount": 184,
+    "localPoster": "/posters/nataliamar.webp"
   },
   {
     "id": "navidad_sin_fin",
@@ -6043,7 +6335,8 @@
         "episodesCount": 16
       }
     ],
-    "episodesCount": 16
+    "episodesCount": 16,
+    "localPoster": "/posters/navidad_sin_fin.webp"
   },
   {
     "id": "ni_contigo_ni_sin_ti",
@@ -6062,7 +6355,8 @@
         "episodesCount": 130
       }
     ],
-    "episodesCount": 130
+    "episodesCount": 130,
+    "localPoster": "/posters/ni_contigo_ni_sin_ti.webp"
   },
   {
     "id": "nina_amada_mia",
@@ -6081,7 +6375,8 @@
         "episodesCount": 109
       }
     ],
-    "episodesCount": 109
+    "episodesCount": 109,
+    "localPoster": "/posters/nina_amada_mia.webp"
   },
   {
     "id": "nina_de_mi_corazon",
@@ -6100,7 +6395,8 @@
         "episodesCount": 80
       }
     ],
-    "episodesCount": 80
+    "episodesCount": 80,
+    "localPoster": "/posters/nina_de_mi_corazon.webp"
   },
   {
     "id": "ninos_ricos_pobres_padre",
@@ -6119,7 +6415,8 @@
         "episodesCount": 131
       }
     ],
-    "episodesCount": 131
+    "episodesCount": 131,
+    "localPoster": "/posters/ninos_ricos_pobres_padre.webp"
   },
   {
     "id": "nina_bonita",
@@ -6138,7 +6435,8 @@
         "episodesCount": 198
       }
     ],
-    "episodesCount": 198
+    "episodesCount": 198,
+    "localPoster": "/posters/nina_bonita.webp"
   },
   {
     "id": "no_tengo_madre",
@@ -6157,7 +6455,8 @@
         "episodesCount": 40
       }
     ],
-    "episodesCount": 40
+    "episodesCount": 40,
+    "localPoster": "/posters/no_tengo_madre.webp"
   },
   {
     "id": "novia_para_dos",
@@ -6176,7 +6475,8 @@
         "episodesCount": 68
       }
     ],
-    "episodesCount": 68
+    "episodesCount": 68,
+    "localPoster": "/posters/novia_para_dos.webp"
   },
   {
     "id": "nuevo_rico_nuevo_pobre",
@@ -6195,7 +6495,8 @@
         "episodesCount": 194
       }
     ],
-    "episodesCount": 194
+    "episodesCount": 194,
+    "localPoster": "/posters/nuevoric.webp"
   },
   {
     "id": "nunca_te_olvidare",
@@ -6214,7 +6515,8 @@
         "episodesCount": 94
       }
     ],
-    "episodesCount": 94
+    "episodesCount": 94,
+    "localPoster": "/posters/nunca_te_olvidare.webp"
   },
   {
     "id": "obsesion",
@@ -6233,7 +6535,8 @@
         "episodesCount": 167
       }
     ],
-    "episodesCount": 167
+    "episodesCount": 167,
+    "localPoster": "/posters/obsesion.webp"
   },
   {
     "id": "ojitos_hechiceros",
@@ -6258,7 +6561,8 @@
         "episodesCount": 86
       }
     ],
-    "episodesCount": 190
+    "episodesCount": 190,
+    "localPoster": "/posters/ojitoshechi.webp"
   },
   {
     "id": "ojo_por_ojo",
@@ -6277,7 +6581,8 @@
         "episodesCount": 98
       }
     ],
-    "episodesCount": 98
+    "episodesCount": 98,
+    "localPoster": "/posters/ojo_por_ojo.webp"
   },
   {
     "id": "olvidarte_jamas",
@@ -6296,7 +6601,8 @@
         "episodesCount": 118
       }
     ],
-    "episodesCount": 118
+    "episodesCount": 118,
+    "localPoster": "/posters/olvidarte_jamas.webp"
   },
   {
     "id": "oye_bonita",
@@ -6315,7 +6621,8 @@
         "episodesCount": 170
       }
     ],
-    "episodesCount": 170
+    "episodesCount": 170,
+    "localPoster": "/posters/oyebonita.webp"
   },
   {
     "id": "pa_quererte",
@@ -6340,7 +6647,8 @@
         "episodesCount": 83
       }
     ],
-    "episodesCount": 139
+    "episodesCount": 139,
+    "localPoster": "/posters/pa_quererte.webp"
   },
   {
     "id": "pablo_y_andrea",
@@ -6359,7 +6667,8 @@
         "episodesCount": 100
       }
     ],
-    "episodesCount": 100
+    "episodesCount": 100,
+    "localPoster": "/posters/pablo_y_andrea.webp"
   },
   {
     "id": "padre_coraje",
@@ -6378,7 +6687,8 @@
         "episodesCount": 189
       }
     ],
-    "episodesCount": 189
+    "episodesCount": 189,
+    "localPoster": "/posters/padre_coraje.webp"
   },
   {
     "id": "palabra_de_mujer",
@@ -6397,7 +6707,8 @@
         "episodesCount": 145
       }
     ],
-    "episodesCount": 145
+    "episodesCount": 145,
+    "localPoster": "/posters/palabra_de_mujer.webp"
   },
   {
     "id": "pambele",
@@ -6416,7 +6727,8 @@
         "episodesCount": 76
       }
     ],
-    "episodesCount": 76
+    "episodesCount": 76,
+    "localPoster": "/posters/pambele.webp"
   },
   {
     "id": "papa_a_toda_madre",
@@ -6435,7 +6747,8 @@
         "episodesCount": 104
       }
     ],
-    "episodesCount": 104
+    "episodesCount": 104,
+    "localPoster": "/posters/papa_a_toda_madre.webp"
   },
   {
     "id": "paquita_la_del_barrio",
@@ -6454,7 +6767,8 @@
         "episodesCount": 74
       }
     ],
-    "episodesCount": 74
+    "episodesCount": 74,
+    "localPoster": "/posters/paquita_la_del_barrio.webp"
   },
   {
     "id": "para_verte_mejor",
@@ -6473,7 +6787,8 @@
         "episodesCount": 93
       }
     ],
-    "episodesCount": 93
+    "episodesCount": 93,
+    "localPoster": "/posters/para_verte_mejor.webp"
   },
   {
     "id": "para_volver_amar",
@@ -6492,7 +6807,8 @@
         "episodesCount": 146
       }
     ],
-    "episodesCount": 146
+    "episodesCount": 146,
+    "localPoster": "/posters/para_volver_amar.webp"
   },
   {
     "id": "paraiso_travel",
@@ -6511,7 +6827,8 @@
         "episodesCount": 72
       }
     ],
-    "episodesCount": 72
+    "episodesCount": 72,
+    "localPoster": "/posters/paraiso_travel.webp"
   },
   {
     "id": "paraiso_blanco",
@@ -6536,7 +6853,8 @@
         "episodesCount": 15
       }
     ],
-    "episodesCount": 30
+    "episodesCount": 30,
+    "localPoster": "/posters/paraiso_blanco.webp"
   },
   {
     "id": "parientes_a_la_fuerza",
@@ -6555,7 +6873,8 @@
         "episodesCount": 100
       }
     ],
-    "episodesCount": 100
+    "episodesCount": 100,
+    "localPoster": "/posters/parientes_a_la_fuerza.webp"
   },
   {
     "id": "pasion",
@@ -6574,7 +6893,8 @@
         "episodesCount": 95
       }
     ],
-    "episodesCount": 95
+    "episodesCount": 95,
+    "localPoster": "/posters/pasion.webp"
   },
   {
     "id": "pasion_prohibida",
@@ -6593,7 +6913,8 @@
         "episodesCount": 107
       }
     ],
-    "episodesCount": 107
+    "episodesCount": 107,
+    "localPoster": "/posters/pasion_prohibida.webp"
   },
   {
     "id": "pasion_y_poder_1988",
@@ -6612,7 +6933,8 @@
         "episodesCount": 80
       }
     ],
-    "episodesCount": 80
+    "episodesCount": 80,
+    "localPoster": "/posters/pasion_y_poder_1988.webp"
   },
   {
     "id": "pasiones_secretas",
@@ -6631,7 +6953,8 @@
         "episodesCount": 106
       }
     ],
-    "episodesCount": 106
+    "episodesCount": 106,
+    "localPoster": "/posters/pasiones_secretas.webp"
   },
   {
     "id": "pecadora",
@@ -6650,7 +6973,8 @@
         "episodesCount": 145
       }
     ],
-    "episodesCount": 145
+    "episodesCount": 145,
+    "localPoster": "/posters/pecadora.webp"
   },
   {
     "id": "pecados_ajenos",
@@ -6669,7 +6993,8 @@
         "episodesCount": 167
       }
     ],
-    "episodesCount": 167
+    "episodesCount": 167,
+    "localPoster": "/posters/pecados_ajenos.webp"
   },
   {
     "id": "pecados_capitales",
@@ -6688,7 +7013,8 @@
         "episodesCount": 162
       }
     ],
-    "episodesCount": 162
+    "episodesCount": 162,
+    "localPoster": "/posters/pecados_capitales.webp"
   },
   {
     "id": "pelusita",
@@ -6707,7 +7033,8 @@
         "episodesCount": 20
       }
     ],
-    "episodesCount": 20
+    "episodesCount": 20,
+    "localPoster": "/posters/pelusita.webp"
   },
   {
     "id": "pequena_victoria",
@@ -6726,7 +7053,8 @@
         "episodesCount": 52
       }
     ],
-    "episodesCount": 52
+    "episodesCount": 52,
+    "localPoster": "/posters/pequenavic.webp"
   },
   {
     "id": "peregrina",
@@ -6745,7 +7073,8 @@
         "episodesCount": 100
       }
     ],
-    "episodesCount": 100
+    "episodesCount": 100,
+    "localPoster": "/posters/peregrina.webp"
   },
   {
     "id": "perro_amor",
@@ -6764,7 +7093,8 @@
         "episodesCount": 129
       }
     ],
-    "episodesCount": 129
+    "episodesCount": 129,
+    "localPoster": "/posters/perro_amor.webp"
   },
   {
     "id": "piel_de_otono",
@@ -6783,7 +7113,8 @@
         "episodesCount": 90
       }
     ],
-    "episodesCount": 90
+    "episodesCount": 90,
+    "localPoster": "/posters/piel_de_otono.webp"
   },
   {
     "id": "piel_salvaje",
@@ -6802,7 +7133,8 @@
         "episodesCount": 120
       }
     ],
-    "episodesCount": 120
+    "episodesCount": 120,
+    "localPoster": "/posters/piel_salvaje.webp"
   },
   {
     "id": "pituca_sin_lucas",
@@ -6821,7 +7153,8 @@
         "episodesCount": 153
       }
     ],
-    "episodesCount": 153
+    "episodesCount": 153,
+    "localPoster": "/posters/pituca_sin_lucas.webp"
   },
   {
     "id": "pobre_diabla",
@@ -6840,7 +7173,8 @@
         "episodesCount": 180
       }
     ],
-    "episodesCount": 180
+    "episodesCount": 180,
+    "localPoster": "/posters/pobre_diabla.webp"
   },
   {
     "id": "pobre_novio",
@@ -6859,7 +7193,8 @@
         "episodesCount": 172
       }
     ],
-    "episodesCount": 172
+    "episodesCount": 172,
+    "localPoster": "/posters/pobre_novio.webp"
   },
   {
     "id": "pobre_gallo",
@@ -6878,7 +7213,8 @@
         "episodesCount": 100
       }
     ],
-    "episodesCount": 100
+    "episodesCount": 100,
+    "localPoster": "/posters/pobre_gallo.webp"
   },
   {
     "id": "pobre_nina_rica",
@@ -6897,7 +7233,8 @@
         "episodesCount": 65
       }
     ],
-    "episodesCount": 65
+    "episodesCount": 65,
+    "localPoster": "/posters/pobre_nina_rica.webp"
   },
   {
     "id": "pobre_rico",
@@ -6916,7 +7253,8 @@
         "episodesCount": 57
       }
     ],
-    "episodesCount": 57
+    "episodesCount": 57,
+    "localPoster": "/posters/pobre_rico.webp"
   },
   {
     "id": "pocholo",
@@ -6935,7 +7273,8 @@
         "episodesCount": 120
       }
     ],
-    "episodesCount": 120
+    "episodesCount": 120,
+    "localPoster": "/posters/pocholo.webp"
   },
   {
     "id": "por_amar_sin_ley",
@@ -6960,7 +7299,8 @@
         "episodesCount": 90
       }
     ],
-    "episodesCount": 177
+    "episodesCount": 177,
+    "localPoster": "/posters/por_amar_sin_ley.webp"
   },
   {
     "id": "por_amarte_asi",
@@ -6979,7 +7319,8 @@
         "episodesCount": 60
       }
     ],
-    "episodesCount": 60
+    "episodesCount": 60,
+    "localPoster": "/posters/por_amarte_asi.webp"
   },
   {
     "id": "ellas_aman_ellos_mienten",
@@ -6998,7 +7339,8 @@
         "episodesCount": 60
       }
     ],
-    "episodesCount": 60
+    "episodesCount": 60,
+    "localPoster": "/posters/ellasaman.webp"
   },
   {
     "id": "la_mala_hierba",
@@ -7017,7 +7359,8 @@
         "episodesCount": 61
       }
     ],
-    "episodesCount": 61
+    "episodesCount": 61,
+    "localPoster": "/posters/malahierba.webp"
   },
   {
     "id": "laberinto_de_pasion",
@@ -7036,7 +7379,8 @@
         "episodesCount": 80
       }
     ],
-    "episodesCount": 80
+    "episodesCount": 80,
+    "localPoster": "/posters/laberinto.webp"
   },
   {
     "id": "los_briseno",
@@ -7055,7 +7399,8 @@
         "episodesCount": 63
       }
     ],
-    "episodesCount": 63
+    "episodesCount": 63,
+    "localPoster": "/posters/losbrise.webp"
   },
   {
     "id": "retrato_de_mujer",
@@ -7074,7 +7419,8 @@
         "episodesCount": 114
       }
     ],
-    "episodesCount": 114
+    "episodesCount": 114,
+    "localPoster": "/posters/retrato.webp"
   },
   {
     "id": "sobreviviendo_a_mi_familia",
@@ -7093,7 +7439,8 @@
         "episodesCount": 80
       }
     ],
-    "episodesCount": 80
+    "episodesCount": 80,
+    "localPoster": "/posters/sobreviviendo.webp"
   },
   {
     "id": "alejo_la_busqueda_del_amor",
@@ -7112,7 +7459,8 @@
         "episodesCount": 102
       }
     ],
-    "episodesCount": 102
+    "episodesCount": 102,
+    "localPoster": "/posters/alejo.webp"
   },
   {
     "id": "floricienta",
@@ -7131,7 +7479,8 @@
         "episodesCount": 175
       }
     ],
-    "episodesCount": 175
+    "episodesCount": 175,
+    "localPoster": "/posters/floricienta.webp"
   },
   {
     "id": "la_fiera",
@@ -7150,7 +7499,8 @@
         "episodesCount": 88
       }
     ],
-    "episodesCount": 88
+    "episodesCount": 88,
+    "localPoster": "/posters/lafiera.webp"
   },
   {
     "id": "por_amor_a_gloria",
@@ -7169,7 +7519,8 @@
         "episodesCount": 109
       }
     ],
-    "episodesCount": 109
+    "episodesCount": 109,
+    "localPoster": "/posters/por_amor_a_gloria.webp"
   },
   {
     "id": "por_ella_soy_eva",
@@ -7188,7 +7539,8 @@
         "episodesCount": 167
       }
     ],
-    "episodesCount": 167
+    "episodesCount": 167,
+    "localPoster": "/posters/por_ella_soy_eva.webp"
   },
   {
     "id": "por_que_diablo",
@@ -7207,7 +7559,8 @@
         "episodesCount": 126
       }
     ],
-    "episodesCount": 126
+    "episodesCount": 126,
+    "localPoster": "/posters/porquediablos.webp"
   },
   {
     "id": "por_siempre_mi_amor",
@@ -7226,7 +7579,8 @@
         "episodesCount": 152
       }
     ],
-    "episodesCount": 152
+    "episodesCount": 152,
+    "localPoster": "/posters/por_siempre_mi_amor.webp"
   },
   {
     "id": "por_todo_lo_alto",
@@ -7245,7 +7599,8 @@
         "episodesCount": 118
       }
     ],
-    "episodesCount": 118
+    "episodesCount": 118,
+    "localPoster": "/posters/por_todo_lo_alto.webp"
   },
   {
     "id": "por_tu_amor",
@@ -7264,7 +7619,8 @@
         "episodesCount": 90
       }
     ],
-    "episodesCount": 90
+    "episodesCount": 90,
+    "localPoster": "/posters/por_tu_amor.webp"
   },
   {
     "id": "por_un_beso",
@@ -7283,7 +7639,8 @@
         "episodesCount": 99
       }
     ],
-    "episodesCount": 99
+    "episodesCount": 99,
+    "localPoster": "/posters/por_un_beso.webp"
   },
   {
     "id": "porque_el_amor_manda",
@@ -7302,7 +7659,8 @@
         "episodesCount": 182
       }
     ],
-    "episodesCount": 182
+    "episodesCount": 182,
+    "localPoster": "/posters/porque_el_amor_manda.webp"
   },
   {
     "id": "preciosa",
@@ -7321,7 +7679,8 @@
         "episodesCount": 90
       }
     ],
-    "episodesCount": 90
+    "episodesCount": 90,
+    "localPoster": "/posters/preciosa.webp"
   },
   {
     "id": "primer_amor_a_mil_por_hora",
@@ -7340,7 +7699,8 @@
         "episodesCount": 100
       }
     ],
-    "episodesCount": 100
+    "episodesCount": 100,
+    "localPoster": "/posters/primer_amor_a_mil_por_hora.webp"
   },
   {
     "id": "primera_dama_chile",
@@ -7359,7 +7719,8 @@
         "episodesCount": 127
       }
     ],
-    "episodesCount": 127
+    "episodesCount": 127,
+    "localPoster": "/posters/primera_dama_chile.webp"
   },
   {
     "id": "primera_dama_colombia",
@@ -7378,7 +7739,8 @@
         "episodesCount": 95
       }
     ],
-    "episodesCount": 95
+    "episodesCount": 95,
+    "localPoster": "/posters/primera_dama_colombia.webp"
   },
   {
     "id": "primicias",
@@ -7397,7 +7759,8 @@
         "episodesCount": 214
       }
     ],
-    "episodesCount": 214
+    "episodesCount": 214,
+    "localPoster": "/posters/primicias.webp"
   },
   {
     "id": "princesa",
@@ -7416,7 +7779,8 @@
         "episodesCount": 61
       }
     ],
-    "episodesCount": 61
+    "episodesCount": 61,
+    "localPoster": "/posters/princesa.webp"
   },
   {
     "id": "prisionera",
@@ -7435,7 +7799,8 @@
         "episodesCount": 213
       }
     ],
-    "episodesCount": 213
+    "episodesCount": 213,
+    "localPoster": "/posters/prisionera.webp"
   },
   {
     "id": "profugas_del_destino",
@@ -7454,7 +7819,8 @@
         "episodesCount": 139
       }
     ],
-    "episodesCount": 139
+    "episodesCount": 139,
+    "localPoster": "/posters/fugasdestino.webp"
   },
   {
     "id": "punto_de_giro",
@@ -7473,7 +7839,8 @@
         "episodesCount": 49
       }
     ],
-    "episodesCount": 49
+    "episodesCount": 49,
+    "localPoster": "/posters/punto_de_giro.webp"
   },
   {
     "id": "pura_sangre",
@@ -7492,7 +7859,8 @@
         "episodesCount": 104
       }
     ],
-    "episodesCount": 104
+    "episodesCount": 104,
+    "localPoster": "/posters/pura_sangre.webp"
   },
   {
     "id": "que_bonito_amor",
@@ -7511,7 +7879,8 @@
         "episodesCount": 162
       }
     ],
-    "episodesCount": 162
+    "episodesCount": 162,
+    "localPoster": "/posters/que_bonito_amor.webp"
   },
   {
     "id": "que_le_pasa_a_mi_familia",
@@ -7530,7 +7899,8 @@
         "episodesCount": 102
       }
     ],
-    "episodesCount": 102
+    "episodesCount": 102,
+    "localPoster": "/posters/que_le_pasa_a_mi_familia.webp"
   },
   {
     "id": "que_te_perdone_dios",
@@ -7549,7 +7919,8 @@
         "episodesCount": 123
       }
     ],
-    "episodesCount": 123
+    "episodesCount": 123,
+    "localPoster": "/posters/que_te_perdone_dios.webp"
   },
   {
     "id": "quererlo_todo",
@@ -7568,7 +7939,8 @@
         "episodesCount": 121
       }
     ],
-    "episodesCount": 121
+    "episodesCount": 121,
+    "localPoster": "/posters/quererlo_todo.webp"
   },
   {
     "id": "querida_enemiga",
@@ -7587,7 +7959,8 @@
         "episodesCount": 110
       }
     ],
-    "episodesCount": 110
+    "episodesCount": 110,
+    "localPoster": "/posters/querida_enemiga.webp"
   },
   {
     "id": "quien_eres_tu",
@@ -7606,7 +7979,8 @@
         "episodesCount": 116
       }
     ],
-    "episodesCount": 116
+    "episodesCount": 116,
+    "localPoster": "/posters/quien_eres_tu.webp"
   },
   {
     "id": "quien_es_quien",
@@ -7625,7 +7999,8 @@
         "episodesCount": 120
       }
     ],
-    "episodesCount": 120
+    "episodesCount": 120,
+    "localPoster": "/posters/quien_es_quien.webp"
   },
   {
     "id": "quien_mato_a_patricia_soler",
@@ -7644,7 +8019,8 @@
         "episodesCount": 101
       }
     ],
-    "episodesCount": 101
+    "episodesCount": 101,
+    "localPoster": "/posters/quien.webp"
   },
   {
     "id": "quien_mato_a_sara",
@@ -7669,7 +8045,8 @@
         "episodesCount": 8
       }
     ],
-    "episodesCount": 18
+    "episodesCount": 18,
+    "localPoster": "/posters/quien_mato_a_sara.webp"
   },
   {
     "id": "quiero_amarte",
@@ -7688,7 +8065,8 @@
         "episodesCount": 162
       }
     ],
-    "episodesCount": 162
+    "episodesCount": 162,
+    "localPoster": "/posters/quiero_amarte.webp"
   },
   {
     "id": "quieta_margarita",
@@ -7707,7 +8085,8 @@
         "episodesCount": 180
       }
     ],
-    "episodesCount": 180
+    "episodesCount": 180,
+    "localPoster": "/posters/quieta_margarita.webp"
   },
   {
     "id": "quinceanera",
@@ -7726,7 +8105,8 @@
         "episodesCount": 91
       }
     ],
-    "episodesCount": 91
+    "episodesCount": 91,
+    "localPoster": "/posters/quinceanera.webp"
   },
   {
     "id": "rafael_orozco_el_idolo",
@@ -7745,7 +8125,8 @@
         "episodesCount": 90
       }
     ],
-    "episodesCount": 90
+    "episodesCount": 90,
+    "localPoster": "/posters/rafael.webp"
   },
   {
     "id": "ramona",
@@ -7764,7 +8145,8 @@
         "episodesCount": 69
       }
     ],
-    "episodesCount": 69
+    "episodesCount": 69,
+    "localPoster": "/posters/ramona.webp"
   },
   {
     "id": "rayito_de_luz",
@@ -7783,7 +8165,8 @@
         "episodesCount": 20
       }
     ],
-    "episodesCount": 20
+    "episodesCount": 20,
+    "localPoster": "/posters/rayito_de_luz.webp"
   },
   {
     "id": "rebeca",
@@ -7802,7 +8185,8 @@
         "episodesCount": 150
       }
     ],
-    "episodesCount": 150
+    "episodesCount": 150,
+    "localPoster": "/posters/rebeca.webp"
   },
   {
     "id": "rebelde_way",
@@ -7827,7 +8211,8 @@
         "episodesCount": 179
       }
     ],
-    "episodesCount": 318
+    "episodesCount": 318,
+    "localPoster": "/posters/rebelde_way.webp"
   },
   {
     "id": "regreso_a_la_guaca",
@@ -7846,7 +8231,8 @@
         "episodesCount": 27
       }
     ],
-    "episodesCount": 27
+    "episodesCount": 27,
+    "localPoster": "/posters/regreso_a_la_guaca.webp"
   },
   {
     "id": "reina_de_corazones",
@@ -7865,7 +8251,8 @@
         "episodesCount": 140
       }
     ],
-    "episodesCount": 140
+    "episodesCount": 140,
+    "localPoster": "/posters/reina_de_corazones.webp"
   },
   {
     "id": "relaciones_peligrosas",
@@ -7884,7 +8271,8 @@
         "episodesCount": 108
       }
     ],
-    "episodesCount": 108
+    "episodesCount": 108,
+    "localPoster": "/posters/relaciones_peligrosas.webp"
   },
   {
     "id": "rencor_apasionado",
@@ -7903,7 +8291,8 @@
         "episodesCount": 60
       }
     ],
-    "episodesCount": 60
+    "episodesCount": 60,
+    "localPoster": "/posters/rencor_apasionado.webp"
   },
   {
     "id": "resistire",
@@ -7922,7 +8311,8 @@
         "episodesCount": 220
       }
     ],
-    "episodesCount": 220
+    "episodesCount": 220,
+    "localPoster": "/posters/resistire.webp"
   },
   {
     "id": "retrato_de_familia",
@@ -7941,7 +8331,8 @@
         "episodesCount": 60
       }
     ],
-    "episodesCount": 60
+    "episodesCount": 60,
+    "localPoster": "/posters/retrato_de_familia.webp"
   },
   {
     "id": "retrato_de_una_mujer",
@@ -7960,7 +8351,8 @@
         "episodesCount": 114
       }
     ],
-    "episodesCount": 114
+    "episodesCount": 114,
+    "localPoster": "/posters/retrato_de_una_mujer.webp"
   },
   {
     "id": "ricos_y_famosos",
@@ -7979,7 +8371,8 @@
         "episodesCount": 260
       }
     ],
-    "episodesCount": 260
+    "episodesCount": 260,
+    "localPoster": "/posters/ricos_y_famosos.webp"
   },
   {
     "id": "rincon_de_luz",
@@ -7998,7 +8391,8 @@
         "episodesCount": 199
       }
     ],
-    "episodesCount": 199
+    "episodesCount": 199,
+    "localPoster": "/posters/rincon_de_luz.webp"
   },
   {
     "id": "ringo",
@@ -8017,7 +8411,8 @@
         "episodesCount": 82
       }
     ],
-    "episodesCount": 82
+    "episodesCount": 82,
+    "localPoster": "/posters/ringo.webp"
   },
   {
     "id": "romane_amor_gitano",
@@ -8036,7 +8431,8 @@
         "episodesCount": 115
       }
     ],
-    "episodesCount": 115
+    "episodesCount": 115,
+    "localPoster": "/posters/romane_amor_gitano.webp"
   },
   {
     "id": "rosa_salvaje",
@@ -8055,7 +8451,8 @@
         "episodesCount": 199
       }
     ],
-    "episodesCount": 199
+    "episodesCount": 199,
+    "localPoster": "/posters/rosa_salvaje.webp"
   },
   {
     "id": "rosa_diamante",
@@ -8074,7 +8471,8 @@
         "episodesCount": 124
       }
     ],
-    "episodesCount": 124
+    "episodesCount": 124,
+    "localPoster": "/posters/rosa_diamante.webp"
   },
   {
     "id": "rosalinda",
@@ -8093,7 +8491,8 @@
         "episodesCount": 80
       }
     ],
-    "episodesCount": 80
+    "episodesCount": 80,
+    "localPoster": "/posters/rosalinda.webp"
   },
   {
     "id": "rosario",
@@ -8112,7 +8511,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": false
+    "hasAd": false,
+    "localPoster": "/posters/rosario.webp"
   },
   {
     "id": "rubi",
@@ -8131,7 +8531,8 @@
         "episodesCount": 115
       }
     ],
-    "episodesCount": 115
+    "episodesCount": 115,
+    "localPoster": "/posters/rubi.webp"
   },
   {
     "id": "rubi_2020",
@@ -8150,7 +8551,8 @@
         "episodesCount": 26
       }
     ],
-    "episodesCount": 26
+    "episodesCount": 26,
+    "localPoster": "/posters/rubi_2020.webp"
   },
   {
     "id": "sabor_a_ti",
@@ -8169,7 +8571,8 @@
         "episodesCount": 153
       }
     ],
-    "episodesCount": 153
+    "episodesCount": 153,
+    "localPoster": "/posters/sabor_a_ti.webp"
   },
   {
     "id": "sacrificio_de_mujer",
@@ -8188,7 +8591,8 @@
         "episodesCount": 101
       }
     ],
-    "episodesCount": 101
+    "episodesCount": 101,
+    "localPoster": "/posters/sacrificio_de_mujer.webp"
   },
   {
     "id": "salome",
@@ -8207,7 +8611,8 @@
         "episodesCount": 150
       }
     ],
-    "episodesCount": 150
+    "episodesCount": 150,
+    "localPoster": "/posters/salome.webp"
   },
   {
     "id": "salud_dinero_y_amor",
@@ -8226,7 +8631,8 @@
         "episodesCount": 92
       }
     ],
-    "episodesCount": 92
+    "episodesCount": 92,
+    "localPoster": "/posters/salud_dinero_y_amor.webp"
   },
   {
     "id": "salvador_de_mujeres",
@@ -8245,7 +8651,8 @@
         "episodesCount": 120
       }
     ],
-    "episodesCount": 120
+    "episodesCount": 120,
+    "localPoster": "/posters/salvador_de_mujeres.webp"
   },
   {
     "id": "samantha",
@@ -8264,7 +8671,8 @@
         "episodesCount": 120
       }
     ],
-    "episodesCount": 120
+    "episodesCount": 120,
+    "localPoster": "/posters/samantha.webp"
   },
   {
     "id": "sangre_de_mi_tierra",
@@ -8283,7 +8691,8 @@
         "episodesCount": 59
       }
     ],
-    "episodesCount": 59
+    "episodesCount": 59,
+    "localPoster": "/posters/sangre_de_mi_tierra.webp"
   },
   {
     "id": "santa_diabla",
@@ -8302,7 +8711,8 @@
         "episodesCount": 136
       }
     ],
-    "episodesCount": 136
+    "episodesCount": 136,
+    "localPoster": "/posters/santa_diabla.webp"
   },
   {
     "id": "santo_ladron",
@@ -8321,7 +8731,8 @@
         "episodesCount": 93
       }
     ],
-    "episodesCount": 93
+    "episodesCount": 93,
+    "localPoster": "/posters/santo_ladron.webp"
   },
   {
     "id": "secreto_de_amor",
@@ -8340,7 +8751,8 @@
         "episodesCount": 151
       }
     ],
-    "episodesCount": 151
+    "episodesCount": 151,
+    "localPoster": "/posters/secreto_de_amor.webp"
   },
   {
     "id": "secretos_de_familia",
@@ -8359,7 +8771,8 @@
         "episodesCount": 66
       }
     ],
-    "episodesCount": 66
+    "episodesCount": 66,
+    "localPoster": "/posters/secretos_de_familia.webp"
   },
   {
     "id": "secretos_del_alma",
@@ -8378,7 +8791,8 @@
         "episodesCount": 26
       }
     ],
-    "episodesCount": 26
+    "episodesCount": 26,
+    "localPoster": "/posters/secretos_del_alma.webp"
   },
   {
     "id": "el_elegido",
@@ -8397,7 +8811,8 @@
         "episodesCount": 154
       }
     ],
-    "episodesCount": 154
+    "episodesCount": 154,
+    "localPoster": "/posters/elegido.webp"
   },
   {
     "id": "son_de_fierro",
@@ -8416,7 +8831,8 @@
         "episodesCount": 251
       }
     ],
-    "episodesCount": 251
+    "episodesCount": 251,
+    "localPoster": "/posters/sondefierr.webp"
   },
   {
     "id": "yago",
@@ -8435,7 +8851,8 @@
         "episodesCount": 65
       }
     ],
-    "episodesCount": 65
+    "episodesCount": 65,
+    "localPoster": "/posters/yago.webp"
   },
   {
     "id": "yo_no_creo_en_los_hombres",
@@ -8454,7 +8871,8 @@
         "episodesCount": 81
       }
     ],
-    "episodesCount": 81
+    "episodesCount": 81,
+    "localPoster": "/posters/yonocreo.webp"
   },
   {
     "id": "don_juan_y_su_bella_dama",
@@ -8473,7 +8891,8 @@
         "episodesCount": 173
       }
     ],
-    "episodesCount": 173
+    "episodesCount": 173,
+    "localPoster": "/posters/juan.webp"
   },
   {
     "id": "el_amor_las_vuelve_locas",
@@ -8492,7 +8911,8 @@
         "episodesCount": 137
       }
     ],
-    "episodesCount": 137
+    "episodesCount": 137,
+    "localPoster": "/posters/amorlocas.webp"
   },
   {
     "id": "el_senor_de_los_cielos_sus_comienzos",
@@ -8511,7 +8931,8 @@
         "episodesCount": 5
       }
     ],
-    "episodesCount": 5
+    "episodesCount": 5,
+    "localPoster": "/posters/cieloscomienzo.webp"
   },
   {
     "id": "el_vuelo_de_la_victoria",
@@ -8530,7 +8951,8 @@
         "episodesCount": 90
       }
     ],
-    "episodesCount": 90
+    "episodesCount": 90,
+    "localPoster": "/posters/vuelovictoria.webp"
   },
   {
     "id": "la_potra_zaira",
@@ -8549,7 +8971,8 @@
         "episodesCount": 124
       }
     ],
-    "episodesCount": 124
+    "episodesCount": 124,
+    "localPoster": "/posters/potra.webp"
   },
   {
     "id": "secretos_del_paraiso",
@@ -8568,7 +8991,8 @@
         "episodesCount": 121
       }
     ],
-    "episodesCount": 121
+    "episodesCount": 121,
+    "localPoster": "/posters/secretos_del_paraiso.webp"
   },
   {
     "id": "secretos_en_el_jardin",
@@ -8587,7 +9011,8 @@
         "episodesCount": 101
       }
     ],
-    "episodesCount": 101
+    "episodesCount": 101,
+    "localPoster": "/posters/secretos_en_el_jardin.webp"
   },
   {
     "id": "senda_de_gloria",
@@ -8606,7 +9031,8 @@
         "episodesCount": 58
       }
     ],
-    "episodesCount": 58
+    "episodesCount": 58,
+    "localPoster": "/posters/senda_de_gloria.webp"
   },
   {
     "id": "senora",
@@ -8625,7 +9051,8 @@
         "episodesCount": 229
       }
     ],
-    "episodesCount": 229
+    "episodesCount": 229,
+    "localPoster": "/posters/senora.webp"
   },
   {
     "id": "senorita_polvora",
@@ -8644,7 +9071,8 @@
         "episodesCount": 70
       }
     ],
-    "episodesCount": 70
+    "episodesCount": 70,
+    "localPoster": "/posters/senorita_polvora.webp"
   },
   {
     "id": "sentimientos_ajenos",
@@ -8663,7 +9091,8 @@
         "episodesCount": 60
       }
     ],
-    "episodesCount": 60
+    "episodesCount": 60,
+    "localPoster": "/posters/sentimientos_ajenos.webp"
   },
   {
     "id": "separados",
@@ -8682,7 +9111,8 @@
         "episodesCount": 123
       }
     ],
-    "episodesCount": 123
+    "episodesCount": 123,
+    "localPoster": "/posters/separados.webp"
   },
   {
     "id": "si_dios_me_quita_la_vida",
@@ -8701,7 +9131,8 @@
         "episodesCount": 60
       }
     ],
-    "episodesCount": 60
+    "episodesCount": 60,
+    "localPoster": "/posters/si_dios_me_quita_la_vida.webp"
   },
   {
     "id": "si_nos_dejan",
@@ -8720,7 +9151,8 @@
         "episodesCount": 83
       }
     ],
-    "episodesCount": 83
+    "episodesCount": 83,
+    "localPoster": "/posters/si_nos_dejan.webp"
   },
   {
     "id": "siempre_te_amare",
@@ -8739,7 +9171,8 @@
         "episodesCount": 135
       }
     ],
-    "episodesCount": 135
+    "episodesCount": 135,
+    "localPoster": "/posters/siempre_te_amare.webp"
   },
   {
     "id": "siempre_tuya_acapulco",
@@ -8758,7 +9191,8 @@
         "episodesCount": 136
       }
     ],
-    "episodesCount": 136
+    "episodesCount": 136,
+    "localPoster": "/posters/siempre_tuya_acapulco.webp"
   },
   {
     "id": "siete_veces_amada",
@@ -8777,7 +9211,8 @@
         "episodesCount": 100
       }
     ],
-    "episodesCount": 100
+    "episodesCount": 100,
+    "localPoster": "/posters/7veces.webp"
   },
   {
     "id": "silvana_sin_lana",
@@ -8796,7 +9231,8 @@
         "episodesCount": 121
       }
     ],
-    "episodesCount": 121
+    "episodesCount": 121,
+    "localPoster": "/posters/silvana_sin_lana.webp"
   },
   {
     "id": "simona",
@@ -8815,7 +9251,8 @@
         "episodesCount": 154
       }
     ],
-    "episodesCount": 154
+    "episodesCount": 154,
+    "localPoster": "/posters/simona.webp"
   },
   {
     "id": "simplemente_maria",
@@ -8834,7 +9271,8 @@
         "episodesCount": 150
       }
     ],
-    "episodesCount": 150
+    "episodesCount": 150,
+    "localPoster": "/posters/simplemente_maria.webp"
   },
   {
     "id": "sin_tu_mirada",
@@ -8853,7 +9291,8 @@
         "episodesCount": 112
       }
     ],
-    "episodesCount": 112
+    "episodesCount": 112,
+    "localPoster": "/posters/sin_tu_mirada.webp"
   },
   {
     "id": "sin_pecado_concebido",
@@ -8872,7 +9311,8 @@
         "episodesCount": 90
       }
     ],
-    "episodesCount": 90
+    "episodesCount": 90,
+    "localPoster": "/posters/sin_pecado_concebido.webp"
   },
   {
     "id": "sin_tetas_no_hay_paraiso",
@@ -8903,7 +9343,8 @@
         "episodesCount": 15
       }
     ],
-    "episodesCount": 44
+    "episodesCount": 44,
+    "localPoster": "/posters/sin_tetas_no_hay_paraiso.webp"
   },
   {
     "id": "sobregiro_de_amor",
@@ -8922,7 +9363,8 @@
         "episodesCount": 78
       }
     ],
-    "episodesCount": 78
+    "episodesCount": 78,
+    "localPoster": "/posters/sobregiro_de_amor.webp"
   },
   {
     "id": "solamente_julia",
@@ -8941,7 +9383,8 @@
         "episodesCount": 150
       }
     ],
-    "episodesCount": 150
+    "episodesCount": 150,
+    "localPoster": "/posters/solamente_julia.webp"
   },
   {
     "id": "soledad",
@@ -8960,7 +9403,8 @@
         "episodesCount": 100
       }
     ],
-    "episodesCount": 100
+    "episodesCount": 100,
+    "localPoster": "/posters/soledad.webp"
   },
   {
     "id": "soltero_con_hijas",
@@ -8979,7 +9423,8 @@
         "episodesCount": 86
       }
     ],
-    "episodesCount": 86
+    "episodesCount": 86,
+    "localPoster": "/posters/soltero_con_hijas.webp"
   },
   {
     "id": "somos_familia",
@@ -8998,7 +9443,8 @@
         "episodesCount": 186
       }
     ],
-    "episodesCount": 186
+    "episodesCount": 186,
+    "localPoster": "/posters/somos_familia.webp"
   },
   {
     "id": "sortilegio",
@@ -9017,7 +9463,8 @@
         "episodesCount": 90
       }
     ],
-    "episodesCount": 90
+    "episodesCount": 90,
+    "localPoster": "/posters/sortilegio.webp"
   },
   {
     "id": "sos_mi_hombre",
@@ -9036,7 +9483,8 @@
         "episodesCount": 240
       }
     ],
-    "episodesCount": 240
+    "episodesCount": 240,
+    "localPoster": "/posters/sos_mi_hombre.webp"
   },
   {
     "id": "soy_tu_duena",
@@ -9055,7 +9503,8 @@
         "episodesCount": 142
       }
     ],
-    "episodesCount": 142
+    "episodesCount": 142,
+    "localPoster": "/posters/soy_tu_duena.webp"
   },
   {
     "id": "subete_a_mi_moto",
@@ -9074,7 +9523,8 @@
         "episodesCount": 21
       }
     ],
-    "episodesCount": 21
+    "episodesCount": 21,
+    "localPoster": "/posters/subete_a_mi_moto.webp"
   },
   {
     "id": "sueno_de_amor",
@@ -9093,7 +9543,8 @@
         "episodesCount": 132
       }
     ],
-    "episodesCount": 132
+    "episodesCount": 132,
+    "localPoster": "/posters/sueno_de_amor.webp"
   },
   {
     "id": "suenos_y_caramelos",
@@ -9112,7 +9563,8 @@
         "episodesCount": 135
       }
     ],
-    "episodesCount": 135
+    "episodesCount": 135,
+    "localPoster": "/posters/suenos_y_caramelos.webp"
   },
   {
     "id": "tanto_amor",
@@ -9131,7 +9583,8 @@
         "episodesCount": 120
       }
     ],
-    "episodesCount": 120
+    "episodesCount": 120,
+    "localPoster": "/posters/tanto_amor.webp"
   },
   {
     "id": "te_sigo_amando",
@@ -9150,7 +9603,8 @@
         "episodesCount": 97
       }
     ],
-    "episodesCount": 97
+    "episodesCount": 97,
+    "localPoster": "/posters/te_sigo_amando.webp"
   },
   {
     "id": "te_acuerdas_de_mi",
@@ -9169,7 +9623,8 @@
         "episodesCount": 86
       }
     ],
-    "episodesCount": 86
+    "episodesCount": 86,
+    "localPoster": "/posters/te_acuerdas_de_mi.webp"
   },
   {
     "id": "te_doy_la_vida",
@@ -9188,7 +9643,8 @@
         "episodesCount": 82
       }
     ],
-    "episodesCount": 82
+    "episodesCount": 82,
+    "localPoster": "/posters/te_doy_la_vida.webp"
   },
   {
     "id": "te_quiero_pecas",
@@ -9207,7 +9663,8 @@
         "episodesCount": 89
       }
     ],
-    "episodesCount": 89
+    "episodesCount": 89,
+    "localPoster": "/posters/te_quiero_pecas.webp"
   },
   {
     "id": "te_voy_a_ensenar_a_querer",
@@ -9226,7 +9683,8 @@
         "episodesCount": 129
       }
     ],
-    "episodesCount": 129
+    "episodesCount": 129,
+    "localPoster": "/posters/te_voy_a_ensenar_a_querer.webp"
   },
   {
     "id": "tenias_que_ser_tu",
@@ -9245,7 +9703,8 @@
         "episodesCount": 87
       }
     ],
-    "episodesCount": 87
+    "episodesCount": 87,
+    "localPoster": "/posters/tenias_que_ser_tu.webp"
   },
   {
     "id": "tia_alison",
@@ -9264,7 +9723,8 @@
         "episodesCount": 62
       }
     ],
-    "episodesCount": 62
+    "episodesCount": 62,
+    "localPoster": "/posters/tia_alison.webp"
   },
   {
     "id": "tierra_de_reyes",
@@ -9283,7 +9743,8 @@
         "episodesCount": 160
       }
     ],
-    "episodesCount": 160
+    "episodesCount": 160,
+    "localPoster": "/posters/tierra_de_reyes.webp"
   },
   {
     "id": "toda_una_dama",
@@ -9302,7 +9763,8 @@
         "episodesCount": 148
       }
     ],
-    "episodesCount": 148
+    "episodesCount": 148,
+    "localPoster": "/posters/toda_una_dama.webp"
   },
   {
     "id": "todas_odian_a_bermudez",
@@ -9321,7 +9783,8 @@
         "episodesCount": 79
       }
     ],
-    "episodesCount": 79
+    "episodesCount": 79,
+    "localPoster": "/posters/todas_odian_a_bermudez.webp"
   },
   {
     "id": "todos_quieren_con_marilyn",
@@ -9340,7 +9803,8 @@
         "episodesCount": 142
       }
     ],
-    "episodesCount": 142
+    "episodesCount": 142,
+    "localPoster": "/posters/todos_quieren_con_marilyn.webp"
   },
   {
     "id": "topacio",
@@ -9359,7 +9823,8 @@
         "episodesCount": 187
       }
     ],
-    "episodesCount": 187
+    "episodesCount": 187,
+    "localPoster": "/posters/topacio.webp"
   },
   {
     "id": "tormenta_de_amor",
@@ -9378,7 +9843,8 @@
         "episodesCount": 76
       }
     ],
-    "episodesCount": 76
+    "episodesCount": 76,
+    "localPoster": "/posters/tormenta_de_amor.webp"
   },
   {
     "id": "tormenta_en_el_paraiso",
@@ -9397,7 +9863,8 @@
         "episodesCount": 185
       }
     ],
-    "episodesCount": 185
+    "episodesCount": 185,
+    "localPoster": "/posters/tormenta_en_el_paraiso.webp"
   },
   {
     "id": "torrente_un_torbellino_de_pasiones",
@@ -9416,7 +9883,8 @@
         "episodesCount": 130
       }
     ],
-    "episodesCount": 130
+    "episodesCount": 130,
+    "localPoster": "/posters/torrente_un_torbellino_de_pasiones.webp"
   },
   {
     "id": "traga_maluca",
@@ -9435,7 +9903,8 @@
         "episodesCount": 102
       }
     ],
-    "episodesCount": 102
+    "episodesCount": 102,
+    "localPoster": "/posters/traga_maluca.webp"
   },
   {
     "id": "tranquilo_papa",
@@ -9454,7 +9923,8 @@
         "episodesCount": 111
       }
     ],
-    "episodesCount": 111
+    "episodesCount": 111,
+    "localPoster": "/posters/tranquilo_papa.webp"
   },
   {
     "id": "tres_milagros",
@@ -9473,7 +9943,8 @@
         "episodesCount": 55
       }
     ],
-    "episodesCount": 55
+    "episodesCount": 55,
+    "localPoster": "/posters/tres_milagros.webp"
   },
   {
     "id": "tres_mujeres",
@@ -9492,7 +9963,8 @@
         "episodesCount": 275
       }
     ],
-    "episodesCount": 275
+    "episodesCount": 275,
+    "localPoster": "/posters/tres_mujeres.webp"
   },
   {
     "id": "tu_o_nadie",
@@ -9511,7 +9983,8 @@
         "episodesCount": 60
       }
     ],
-    "episodesCount": 60
+    "episodesCount": 60,
+    "localPoster": "/posters/tu_o_nadie.webp"
   },
   {
     "id": "tu_y_yo",
@@ -9530,7 +10003,8 @@
         "episodesCount": 137
       }
     ],
-    "episodesCount": 137
+    "episodesCount": 137,
+    "localPoster": "/posters/tu_y_yo.webp"
   },
   {
     "id": "un_refugio_para_el_amor",
@@ -9549,7 +10023,8 @@
         "episodesCount": 165
       }
     ],
-    "episodesCount": 165
+    "episodesCount": 165,
+    "localPoster": "/posters/un_refugio_para_el_amor.webp"
   },
   {
     "id": "un_camino_hacia_el_destino",
@@ -9568,7 +10043,8 @@
         "episodesCount": 126
       }
     ],
-    "episodesCount": 126
+    "episodesCount": 126,
+    "localPoster": "/posters/un_camino_hacia_el_destino.webp"
   },
   {
     "id": "un_gancho_al_corazon",
@@ -9587,7 +10063,8 @@
         "episodesCount": 220
       }
     ],
-    "episodesCount": 220
+    "episodesCount": 220,
+    "localPoster": "/posters/un_gancho_al_corazon.webp"
   },
   {
     "id": "un_poquito_tuyo",
@@ -9606,7 +10083,8 @@
         "episodesCount": 79
       }
     ],
-    "episodesCount": 79
+    "episodesCount": 79,
+    "localPoster": "/posters/un_poquito_tuyo.webp"
   },
   {
     "id": "una_familia_con_suerte",
@@ -9625,7 +10103,8 @@
         "episodesCount": 264
       }
     ],
-    "episodesCount": 264
+    "episodesCount": 264,
+    "localPoster": "/posters/una_familia_con_suerte.webp"
   },
   {
     "id": "una_luz_en_el_camino",
@@ -9644,7 +10123,8 @@
         "episodesCount": 82
       }
     ],
-    "episodesCount": 82
+    "episodesCount": 82,
+    "localPoster": "/posters/una_luz_en_el_camino.webp"
   },
   {
     "id": "valentina",
@@ -9663,7 +10143,8 @@
         "episodesCount": 78
       }
     ],
-    "episodesCount": 78
+    "episodesCount": 78,
+    "localPoster": "/posters/valentina.webp"
   },
   {
     "id": "valeria",
@@ -9682,7 +10163,8 @@
         "episodesCount": 155
       }
     ],
-    "episodesCount": 155
+    "episodesCount": 155,
+    "localPoster": "/posters/valeria.webp"
   },
   {
     "id": "maldita_tentacion",
@@ -9701,7 +10183,8 @@
         "episodesCount": 45
       }
     ],
-    "episodesCount": 45
+    "episodesCount": 45,
+    "localPoster": "/posters/maldita.webp"
   },
   {
     "id": "que_el_cielo_me_explique",
@@ -9720,7 +10203,8 @@
         "episodesCount": 66
       }
     ],
-    "episodesCount": 66
+    "episodesCount": 66,
+    "localPoster": "/posters/cielo.webp"
   },
   {
     "id": "torrente",
@@ -9739,7 +10223,8 @@
         "episodesCount": 130
       }
     ],
-    "episodesCount": 130
+    "episodesCount": 130,
+    "localPoster": "/posters/torrente.webp"
   },
   {
     "id": "valientes",
@@ -9758,7 +10243,8 @@
         "episodesCount": 216
       }
     ],
-    "episodesCount": 216
+    "episodesCount": 216,
+    "localPoster": "/posters/valientes.webp"
   },
   {
     "id": "amor_en_silencio",
@@ -9777,7 +10263,8 @@
         "episodesCount": 115
       }
     ],
-    "episodesCount": 115
+    "episodesCount": 115,
+    "localPoster": "/posters/silencioamr.webp"
   },
   {
     "id": "valgame_dios",
@@ -9796,7 +10283,8 @@
         "episodesCount": 144
       }
     ],
-    "episodesCount": 144
+    "episodesCount": 144,
+    "localPoster": "/posters/valgame_dios.webp"
   },
   {
     "id": "valiente_amor",
@@ -9815,7 +10303,8 @@
         "episodesCount": 81
       }
     ],
-    "episodesCount": 81
+    "episodesCount": 81,
+    "localPoster": "/posters/valiente_amor.webp"
   },
   {
     "id": "valio_la_pena",
@@ -9834,7 +10323,8 @@
         "episodesCount": 73
       }
     ],
-    "episodesCount": 73
+    "episodesCount": 73,
+    "localPoster": "/posters/valio_la_pena.webp"
   },
   {
     "id": "velo_de_novia",
@@ -9853,7 +10343,8 @@
         "episodesCount": 135
       }
     ],
-    "episodesCount": 135
+    "episodesCount": 135,
+    "localPoster": "/posters/velo_de_novia.webp"
   },
   {
     "id": "vencer_el_pasado",
@@ -9872,7 +10363,8 @@
         "episodesCount": 85
       }
     ],
-    "episodesCount": 85
+    "episodesCount": 85,
+    "localPoster": "/posters/vencer_el_pasado.webp"
   },
   {
     "id": "vencer_el_desamor",
@@ -9891,7 +10383,8 @@
         "episodesCount": 95
       }
     ],
-    "episodesCount": 95
+    "episodesCount": 95,
+    "localPoster": "/posters/VencerDesamor.webp"
   },
   {
     "id": "vencer_el_miedo",
@@ -9910,7 +10403,8 @@
         "episodesCount": 47
       }
     ],
-    "episodesCount": 47
+    "episodesCount": 47,
+    "localPoster": "/posters/vencer_el_miedo.webp"
   },
   {
     "id": "venganza",
@@ -9929,7 +10423,8 @@
         "episodesCount": 124
       }
     ],
-    "episodesCount": 124
+    "episodesCount": 124,
+    "localPoster": "/posters/venganza.webp"
   },
   {
     "id": "ventino",
@@ -9948,7 +10443,8 @@
         "episodesCount": 60
       }
     ],
-    "episodesCount": 60
+    "episodesCount": 60,
+    "localPoster": "/posters/ventino.webp"
   },
   {
     "id": "verano_de_amor",
@@ -9967,7 +10463,8 @@
         "episodesCount": 120
       }
     ],
-    "episodesCount": 120
+    "episodesCount": 120,
+    "localPoster": "/posters/verano_de_amor.webp"
   },
   {
     "id": "versus",
@@ -9986,7 +10483,8 @@
         "episodesCount": 90
       }
     ],
-    "episodesCount": 90
+    "episodesCount": 90,
+    "localPoster": "/posters/versus.webp"
   },
   {
     "id": "victorinos",
@@ -10005,7 +10503,8 @@
         "episodesCount": 154
       }
     ],
-    "episodesCount": 154
+    "episodesCount": 154,
+    "localPoster": "/posters/victorinos.webp"
   },
   {
     "id": "vieja_yo",
@@ -10024,7 +10523,8 @@
         "episodesCount": 122
       }
     ],
-    "episodesCount": 122
+    "episodesCount": 122,
+    "localPoster": "/posters/vieja_yo.webp"
   },
   {
     "id": "vino_el_amor",
@@ -10043,7 +10543,8 @@
         "episodesCount": 142
       }
     ],
-    "episodesCount": 142
+    "episodesCount": 142,
+    "localPoster": "/posters/vino_el_amor.webp"
   },
   {
     "id": "vivan_los_ninos",
@@ -10062,7 +10563,8 @@
         "episodesCount": 155
       }
     ],
-    "episodesCount": 155
+    "episodesCount": 155,
+    "localPoster": "/posters/vivan_los_ninos.webp"
   },
   {
     "id": "viviana",
@@ -10081,7 +10583,8 @@
         "episodesCount": 97
       }
     ],
-    "episodesCount": 97
+    "episodesCount": 97,
+    "localPoster": "/posters/viviana.webp"
   },
   {
     "id": "vivir_un_poco",
@@ -10100,7 +10603,8 @@
         "episodesCount": 59
       }
     ],
-    "episodesCount": 59
+    "episodesCount": 59,
+    "localPoster": "/posters/vivir_un_poco.webp"
   },
   {
     "id": "vivo_por_elena",
@@ -10119,7 +10623,8 @@
         "episodesCount": 114
       }
     ],
-    "episodesCount": 114
+    "episodesCount": 114,
+    "localPoster": "/posters/vivo_por_elena.webp"
   },
   {
     "id": "voltea_pa_que_te_enamores",
@@ -10138,7 +10643,8 @@
         "episodesCount": 123
       }
     ],
-    "episodesCount": 123
+    "episodesCount": 123,
+    "localPoster": "/posters/voltea_pa_que_te_enamores.webp"
   },
   {
     "id": "volver_a_empezar",
@@ -10157,7 +10663,8 @@
         "episodesCount": 145
       }
     ],
-    "episodesCount": 145
+    "episodesCount": 145,
+    "localPoster": "/posters/volver_a_empezar.webp"
   },
   {
     "id": "vuelo_1503",
@@ -10176,7 +10683,8 @@
         "episodesCount": 79
       }
     ],
-    "episodesCount": 79
+    "episodesCount": 79,
+    "localPoster": "/posters/vuelo_1503.webp"
   },
   {
     "id": "vuelve_temprano",
@@ -10195,7 +10703,8 @@
         "episodesCount": 86
       }
     ],
-    "episodesCount": 86
+    "episodesCount": 86,
+    "localPoster": "/posters/vuelve_temprano.webp"
   },
   {
     "id": "y_manana_sera_otro_dia_mejor",
@@ -10214,7 +10723,8 @@
         "episodesCount": 76
       }
     ],
-    "episodesCount": 76
+    "episodesCount": 76,
+    "localPoster": "/posters/y_manana_sera_otro_dia_mejor.webp"
   },
   {
     "id": "yara",
@@ -10233,7 +10743,8 @@
         "episodesCount": 75
       }
     ],
-    "episodesCount": 75
+    "episodesCount": 75,
+    "localPoster": "/posters/yara.webp"
   },
   {
     "id": "yesenia",
@@ -10252,7 +10763,8 @@
         "episodesCount": 25
       }
     ],
-    "episodesCount": 25
+    "episodesCount": 25,
+    "localPoster": "/posters/yesenia.webp"
   },
   {
     "id": "yo_amo_a_juan_querendon",
@@ -10271,7 +10783,8 @@
         "episodesCount": 260
       }
     ],
-    "episodesCount": 260
+    "episodesCount": 260,
+    "localPoster": "/posters/yo_amo_a_juan_querendon.webp"
   },
   {
     "id": "yo_compro_esa_mujer",
@@ -10290,7 +10803,8 @@
         "episodesCount": 150
       }
     ],
-    "episodesCount": 150
+    "episodesCount": 150,
+    "localPoster": "/posters/yo_compro_esa_mujer.webp"
   },
   {
     "id": "zacatillo_un_lugar_en_tu_corazon",
@@ -10309,7 +10823,8 @@
         "episodesCount": 130
       }
     ],
-    "episodesCount": 130
+    "episodesCount": 130,
+    "localPoster": "/posters/zacatillo_un_lugar_en_tu_corazon.webp"
   },
   {
     "id": "la_otra_cara_del_alma",
@@ -10328,7 +10843,8 @@
         "episodesCount": 130
       }
     ],
-    "episodesCount": 130
+    "episodesCount": 130,
+    "localPoster": "/posters/la_otra_cara_del_alma.webp"
   },
   {
     "id": "aguila_roja",
@@ -10395,7 +10911,8 @@
         "episodesCount": 13
       }
     ],
-    "episodesCount": 116
+    "episodesCount": 116,
+    "localPoster": "/posters/aguilaRoja.webp"
   },
   {
     "id": "angel_de_la_guarda_mi_dulce_compania",
@@ -10414,7 +10931,8 @@
         "episodesCount": 116
       }
     ],
-    "episodesCount": 116
+    "episodesCount": 116,
+    "localPoster": "/posters/Angeldemiguarda.webp"
   },
   {
     "id": "angel_rebelde",
@@ -10433,7 +10951,8 @@
         "episodesCount": 217
       }
     ],
-    "episodesCount": 217
+    "episodesCount": 217,
+    "localPoster": "/posters/AngelRebelde.webp"
   },
   {
     "id": "caballo_viejo",
@@ -10452,7 +10971,8 @@
         "episodesCount": 141
       }
     ],
-    "episodesCount": 141
+    "episodesCount": 141,
+    "localPoster": "/posters/caballo.webp"
   },
   {
     "id": "carita_pintada",
@@ -10471,7 +10991,8 @@
         "episodesCount": 126
       }
     ],
-    "episodesCount": 126
+    "episodesCount": 126,
+    "localPoster": "/posters/carita.webp"
   },
   {
     "id": "cuento_de_navidad",
@@ -10490,7 +11011,8 @@
         "episodesCount": 15
       }
     ],
-    "episodesCount": 15
+    "episodesCount": 15,
+    "localPoster": "/posters/cuentos.webp"
   },
   {
     "id": "el_pasado_no_perdona",
@@ -10509,7 +11031,8 @@
         "episodesCount": 117
       }
     ],
-    "episodesCount": 117
+    "episodesCount": 117,
+    "localPoster": "/posters/pasado.webp"
   },
   {
     "id": "enamorada",
@@ -10528,7 +11051,8 @@
         "episodesCount": 100
       }
     ],
-    "episodesCount": 100
+    "episodesCount": 100,
+    "localPoster": "/posters/enamorada.webp"
   },
   {
     "id": "vecinos_vs_colombia",
@@ -10547,7 +11071,8 @@
         "episodesCount": 209
       }
     ],
-    "episodesCount": 209
+    "episodesCount": 209,
+    "localPoster": "/posters/vecinos_vs_colombia.webp"
   },
   {
     "id": "los_canarios",
@@ -10566,7 +11091,8 @@
         "episodesCount": 119
       }
     ],
-    "episodesCount": 119
+    "episodesCount": 119,
+    "localPoster": "/posters/loscanarios.webp"
   },
   {
     "id": "la_seleccion_t1_t2",
@@ -10591,7 +11117,8 @@
         "episodesCount": 70
       }
     ],
-    "episodesCount": 146
+    "episodesCount": 146,
+    "localPoster": "/posters/laseleccion.webp"
   },
   {
     "id": "tarde_lo_conoci",
@@ -10609,7 +11136,8 @@
         "jsonUrl": ""
       }
     ],
-    "episodesCount": 0
+    "episodesCount": 0,
+    "localPoster": "/posters/tarde.webp"
   },
   {
     "id": "cuando_vivas_conmigo",
@@ -10627,7 +11155,8 @@
         "jsonUrl": ""
       }
     ],
-    "episodesCount": 0
+    "episodesCount": 0,
+    "localPoster": "/posters/cuandovivas.webp"
   },
   {
     "id": "eva_luna",
@@ -10646,7 +11175,8 @@
         "episodesCount": 114
       }
     ],
-    "episodesCount": 114
+    "episodesCount": 114,
+    "localPoster": "/posters/evaluna.webp"
   },
   {
     "id": "el_rey_vicente_fernandez",
@@ -10664,7 +11194,8 @@
         "jsonUrl": ""
       }
     ],
-    "episodesCount": 0
+    "episodesCount": 0,
+    "localPoster": "/posters/vicente.webp"
   },
   {
     "id": "amor_en_custodia",
@@ -10683,7 +11214,8 @@
         "episodesCount": 142
       }
     ],
-    "episodesCount": 142
+    "episodesCount": 142,
+    "localPoster": "/posters/amor.webp"
   },
   {
     "id": "anonima",
@@ -10702,7 +11234,8 @@
         "episodesCount": 72
       }
     ],
-    "episodesCount": 72
+    "episodesCount": 72,
+    "localPoster": "/posters/anonima.webp"
   },
   {
     "id": "bazurto",
@@ -10721,7 +11254,8 @@
         "episodesCount": 63
       }
     ],
-    "episodesCount": 63
+    "episodesCount": 63,
+    "localPoster": "/posters/bazurto.webp"
   },
   {
     "id": "bermudez",
@@ -10740,7 +11274,8 @@
         "episodesCount": 78
       }
     ],
-    "episodesCount": 78
+    "episodesCount": 78,
+    "localPoster": "/posters/bermudez.webp"
   },
   {
     "id": "bloque_de_busqueda",
@@ -10759,7 +11294,8 @@
         "episodesCount": 62
       }
     ],
-    "episodesCount": 62
+    "episodesCount": 62,
+    "localPoster": "/posters/bloque.webp"
   },
   {
     "id": "bolivar",
@@ -10778,7 +11314,8 @@
         "episodesCount": 60
       }
     ],
-    "episodesCount": 60
+    "episodesCount": 60,
+    "localPoster": "/posters/bolivar.webp"
   },
   {
     "id": "chepe_fortuna",
@@ -10797,7 +11334,8 @@
         "episodesCount": 151
       }
     ],
-    "episodesCount": 151
+    "episodesCount": 151,
+    "localPoster": "/posters/chepe.webp"
   },
   {
     "id": "juegos_prohibidos",
@@ -10816,7 +11354,8 @@
         "episodesCount": 99
       }
     ],
-    "episodesCount": 99
+    "episodesCount": 99,
+    "localPoster": "/posters/juegos.webp"
   },
   {
     "id": "100_dias_para_enamorarnos",
@@ -10841,7 +11380,8 @@
         "episodesCount": 35
       }
     ],
-    "episodesCount": 92
+    "episodesCount": 92,
+    "localPoster": "/posters/100_dias_para_enamorarnos.webp"
   },
   {
     "id": "1000_millones",
@@ -10860,7 +11400,8 @@
         "episodesCount": 119
       }
     ],
-    "episodesCount": 119
+    "episodesCount": 119,
+    "localPoster": "/posters/1000_millones.webp"
   },
   {
     "id": "40_y_20",
@@ -10909,7 +11450,8 @@
         "episodesCount": 12
       }
     ],
-    "episodesCount": 76
+    "episodesCount": 76,
+    "localPoster": "/posters/40_y_20.webp"
   },
   {
     "id": "5_viudas_sueltas",
@@ -10928,7 +11470,8 @@
         "episodesCount": 124
       }
     ],
-    "episodesCount": 124
+    "episodesCount": 124,
+    "localPoster": "/posters/5_viudas_sueltas.webp"
   },
   {
     "id": "a_corazon_abierto",
@@ -10947,7 +11490,8 @@
         "episodesCount": 169
       }
     ],
-    "episodesCount": 169
+    "episodesCount": 169,
+    "localPoster": "/posters/a_corazon_abierto.webp"
   },
   {
     "id": "a_que_no_me_dejas",
@@ -10966,7 +11510,8 @@
         "episodesCount": 142
       }
     ],
-    "episodesCount": 142
+    "episodesCount": 142,
+    "localPoster": "/posters/a_que_no_me_dejas.webp"
   },
   {
     "id": "abrazame_muy_fuerte_amor",
@@ -10985,7 +11530,8 @@
         "episodesCount": 135
       }
     ],
-    "episodesCount": 135
+    "episodesCount": 135,
+    "localPoster": "/posters/abrazame_muy_fuerte_amor.webp"
   },
   {
     "id": "acapulco_cuerpo_y_alma",
@@ -11004,7 +11550,8 @@
         "episodesCount": 80
       }
     ],
-    "episodesCount": 80
+    "episodesCount": 80,
+    "localPoster": "/posters/acapulco_cuerpo_y_alma.webp"
   },
   {
     "id": "acorralada",
@@ -11023,7 +11570,8 @@
         "episodesCount": 187
       }
     ],
-    "episodesCount": 187
+    "episodesCount": 187,
+    "localPoster": "/posters/acorralada.webp"
   },
   {
     "id": "agujetas_de_color_de_rosa",
@@ -11042,7 +11590,8 @@
         "episodesCount": 300
       }
     ],
-    "episodesCount": 300
+    "episodesCount": 300,
+    "localPoster": "/posters/agujetas_de_color_de_rosa.webp"
   },
   {
     "id": "al_diablo_con_los_guapos",
@@ -11061,7 +11610,8 @@
         "episodesCount": 176
       }
     ],
-    "episodesCount": 176
+    "episodesCount": 176,
+    "localPoster": "/posters/al_diablo_con_los_guapos.webp"
   },
   {
     "id": "al_otro_lado_del_muro",
@@ -11080,7 +11630,8 @@
         "episodesCount": 78
       }
     ],
-    "episodesCount": 78
+    "episodesCount": 78,
+    "localPoster": "/posters/al_otro_lado_del_muro.webp"
   },
   {
     "id": "alborada",
@@ -11099,7 +11650,8 @@
         "episodesCount": 90
       }
     ],
-    "episodesCount": 90
+    "episodesCount": 90,
+    "localPoster": "/posters/alborada.webp"
   },
   {
     "id": "alcanzar_una_estrella",
@@ -11124,7 +11676,8 @@
         "episodesCount": 99
       }
     ],
-    "episodesCount": 179
+    "episodesCount": 179,
+    "localPoster": "/posters/alcanzar_una_estrella.webp"
   },
   {
     "id": "alegrijes_y_rebujos",
@@ -11143,7 +11696,8 @@
         "episodesCount": 135
       }
     ],
-    "episodesCount": 135
+    "episodesCount": 135,
+    "localPoster": "/posters/alegrijes_y_rebujos.webp"
   },
   {
     "id": "algo_esta_cambiando",
@@ -11162,7 +11716,8 @@
         "episodesCount": 80
       }
     ],
-    "episodesCount": 80
+    "episodesCount": 80,
+    "localPoster": "/posters/algo_esta_cambiando.webp"
   },
   {
     "id": "alguien_te_mira",
@@ -11181,7 +11736,8 @@
         "episodesCount": 116
       }
     ],
-    "episodesCount": 116
+    "episodesCount": 116,
+    "localPoster": "/posters/alguien_te_mira.webp"
   },
   {
     "id": "alguna_vez_tendremos_alas",
@@ -11200,7 +11756,8 @@
         "episodesCount": 130
       }
     ],
-    "episodesCount": 130
+    "episodesCount": 130,
+    "localPoster": "/posters/alguna_vez_tendremos_alas.webp"
   },
   {
     "id": "alias_el_mexicano",
@@ -11219,7 +11776,8 @@
         "episodesCount": 78
       }
     ],
-    "episodesCount": 78
+    "episodesCount": 78,
+    "localPoster": "/posters/alias_el_mexicano.webp"
   },
   {
     "id": "alma_indomable",
@@ -11238,7 +11796,8 @@
         "episodesCount": 151
       }
     ],
-    "episodesCount": 151
+    "episodesCount": 151,
+    "localPoster": "/posters/alma_indomable.webp"
   },
   {
     "id": "alma_de_hierro",
@@ -11257,7 +11816,8 @@
         "episodesCount": 393
       }
     ],
-    "episodesCount": 393
+    "episodesCount": 393,
+    "localPoster": "/posters/alma_de_hierro.webp"
   },
   {
     "id": "alma_pirata",
@@ -11276,7 +11836,8 @@
         "episodesCount": 138
       }
     ],
-    "episodesCount": 138
+    "episodesCount": 138,
+    "localPoster": "/posters/alma_pirata.webp"
   },
   {
     "id": "alma_rebelde",
@@ -11295,7 +11856,8 @@
         "episodesCount": 90
       }
     ],
-    "episodesCount": 90
+    "episodesCount": 90,
+    "localPoster": "/posters/alma_rebelde.webp"
   },
   {
     "id": "alondra",
@@ -11314,7 +11876,8 @@
         "episodesCount": 40
       }
     ],
-    "episodesCount": 40
+    "episodesCount": 40,
+    "localPoster": "/posters/alondra.webp"
   },
   {
     "id": "amanda",
@@ -11333,7 +11896,8 @@
         "episodesCount": 170
       }
     ],
-    "episodesCount": 170
+    "episodesCount": 170,
+    "localPoster": "/posters/amanda.webp"
   },
   {
     "id": "amanda_sabater",
@@ -11352,7 +11916,8 @@
         "episodesCount": 167
       }
     ],
-    "episodesCount": 167
+    "episodesCount": 167,
+    "localPoster": "/posters/amanda_sabater.webp"
   },
   {
     "id": "amantes",
@@ -11371,7 +11936,8 @@
         "episodesCount": 122
       }
     ],
-    "episodesCount": 122
+    "episodesCount": 122,
+    "localPoster": "/posters/amantes.webp"
   },
   {
     "id": "amantes_de_luna_llena",
@@ -11390,7 +11956,8 @@
         "episodesCount": 171
       }
     ],
-    "episodesCount": 171
+    "episodesCount": 171,
+    "localPoster": "/posters/amantes_de_luna_llena.webp"
   },
   {
     "id": "amantes_del_desierto",
@@ -11409,7 +11976,8 @@
         "episodesCount": 120
       }
     ],
-    "episodesCount": 120
+    "episodesCount": 120,
+    "localPoster": "/posters/Logooo.webp"
   },
   {
     "id": "amar_sin_limites",
@@ -11428,7 +11996,8 @@
         "episodesCount": 125
       }
     ],
-    "episodesCount": 125
+    "episodesCount": 125,
+    "localPoster": "/posters/amar_sin_limites.webp"
   },
   {
     "id": "amar_a_muerte",
@@ -11447,7 +12016,8 @@
         "episodesCount": 87
       }
     ],
-    "episodesCount": 87
+    "episodesCount": 87,
+    "localPoster": "/posters/amar_a_muerte.webp"
   },
   {
     "id": "amar_otra_vez",
@@ -11466,7 +12036,8 @@
         "episodesCount": 110
       }
     ],
-    "episodesCount": 110
+    "episodesCount": 110,
+    "localPoster": "/posters/amar_otra_vez.webp"
   },
   {
     "id": "amar_y_temer",
@@ -11485,7 +12056,8 @@
         "episodesCount": 90
       }
     ],
-    "episodesCount": 90
+    "episodesCount": 90,
+    "localPoster": "/posters/amar_y_temer.webp"
   },
   {
     "id": "amar_y_vivir",
@@ -11504,7 +12076,8 @@
         "episodesCount": 63
       }
     ],
-    "episodesCount": 63
+    "episodesCount": 63,
+    "localPoster": "/posters/amar_y_vivir.webp"
   },
   {
     "id": "amarte_asi_frijolito",
@@ -11523,7 +12096,8 @@
         "episodesCount": 119
       }
     ],
-    "episodesCount": 119
+    "episodesCount": 119,
+    "localPoster": "/posters/amarte_asi_frijolito.webp"
   },
   {
     "id": "amigas_y_rivales",
@@ -11542,7 +12116,8 @@
         "episodesCount": 185
       }
     ],
-    "episodesCount": 185
+    "episodesCount": 185,
+    "localPoster": "/posters/amigas_y_rivales.webp"
   },
   {
     "id": "amigos_por_siempre",
@@ -11561,7 +12136,8 @@
         "episodesCount": 115
       }
     ],
-    "episodesCount": 115
+    "episodesCount": 115,
+    "localPoster": "/posters/amigos_por_siempre.webp"
   },
   {
     "id": "amo_despertar_contigo",
@@ -11580,7 +12156,8 @@
         "episodesCount": 121
       }
     ],
-    "episodesCount": 121
+    "episodesCount": 121,
+    "localPoster": "/posters/amo_despertar_contigo.webp"
   },
   {
     "id": "amor_bravio",
@@ -11599,7 +12176,8 @@
         "episodesCount": 162
       }
     ],
-    "episodesCount": 162
+    "episodesCount": 162,
+    "localPoster": "/posters/amor_bravio.webp"
   },
   {
     "id": "amor_infiel_los_declaro_marido_y_mujer",
@@ -11618,7 +12196,8 @@
         "episodesCount": 116
       }
     ],
-    "episodesCount": 116
+    "episodesCount": 116,
+    "localPoster": "/posters/amor_infiel_los_declaro_marido_y_mujer.webp"
   },
   {
     "id": "amor_real",
@@ -11637,7 +12216,8 @@
         "episodesCount": 95
       }
     ],
-    "episodesCount": 95
+    "episodesCount": 95,
+    "localPoster": "/posters/amor_real.webp"
   },
   {
     "id": "amor_sincero",
@@ -11656,7 +12236,8 @@
         "episodesCount": 81
       }
     ],
-    "episodesCount": 81
+    "episodesCount": 81,
+    "localPoster": "/posters/amor_sincero.webp"
   },
   {
     "id": "amor_a_domicilio",
@@ -11675,7 +12256,8 @@
         "episodesCount": 102
       }
     ],
-    "episodesCount": 102
+    "episodesCount": 102,
+    "localPoster": "/posters/amor_a_domicilio.webp"
   },
   {
     "id": "amor_a_mil",
@@ -11694,7 +12276,8 @@
         "episodesCount": 121
       }
     ],
-    "episodesCount": 121
+    "episodesCount": 121,
+    "localPoster": "/posters/Logooo.webp"
   },
   {
     "id": "amor_a_palos",
@@ -11713,7 +12296,8 @@
         "episodesCount": 124
       }
     ],
-    "episodesCount": 124
+    "episodesCount": 124,
+    "localPoster": "/posters/amor_a_palos.webp"
   },
   {
     "id": "amor_cautivo",
@@ -11732,7 +12316,8 @@
         "episodesCount": 120
       }
     ],
-    "episodesCount": 120
+    "episodesCount": 120,
+    "localPoster": "/posters/amor_cautivo.webp"
   },
   {
     "id": "amor_comprado",
@@ -11751,7 +12336,8 @@
         "episodesCount": 123
       }
     ],
-    "episodesCount": 123
+    "episodesCount": 123,
+    "localPoster": "/posters/amor_comprado.webp"
   },
   {
     "id": "amor_de_mis_amores",
@@ -11770,7 +12356,8 @@
         "episodesCount": 170
       }
     ],
-    "episodesCount": 170
+    "episodesCount": 170,
+    "localPoster": "/posters/amor_de_mis_amores.webp"
   },
   {
     "id": "amor_de_nadie",
@@ -11789,7 +12376,8 @@
         "episodesCount": 150
       }
     ],
-    "episodesCount": 150
+    "episodesCount": 150,
+    "localPoster": "/posters/amor_de_nadie.webp"
   },
   {
     "id": "amor_en_custodia_colombia",
@@ -11808,7 +12396,8 @@
         "episodesCount": 142
       }
     ],
-    "episodesCount": 142
+    "episodesCount": 142,
+    "localPoster": "/posters/amor_en_custodia_colombia.webp"
   },
   {
     "id": "amor_en_custodia_mexico",
@@ -11827,7 +12416,8 @@
         "episodesCount": 204
       }
     ],
-    "episodesCount": 204
+    "episodesCount": 204,
+    "localPoster": "/posters/amor_en_custodia_mexico.webp"
   },
   {
     "id": "amor_gitano",
@@ -11846,7 +12436,8 @@
         "episodesCount": 55
       }
     ],
-    "episodesCount": 55
+    "episodesCount": 55,
+    "localPoster": "/posters/amor_gitano.webp"
   },
   {
     "id": "amor_secreto",
@@ -11865,7 +12456,8 @@
         "episodesCount": 151
       }
     ],
-    "episodesCount": 151
+    "episodesCount": 151,
+    "localPoster": "/posters/amor_secreto.webp"
   },
   {
     "id": "amor_sin_maquillaje",
@@ -11884,7 +12476,8 @@
         "episodesCount": 25
       }
     ],
-    "episodesCount": 25
+    "episodesCount": 25,
+    "localPoster": "/posters/amor_sin_maquillaje.webp"
   },
   {
     "id": "amorcito_corazon",
@@ -11903,7 +12496,8 @@
         "episodesCount": 207
       }
     ],
-    "episodesCount": 207
+    "episodesCount": 207,
+    "localPoster": "/posters/amorcito_corazon.webp"
   },
   {
     "id": "amores_con_trampa",
@@ -11922,7 +12516,8 @@
         "episodesCount": 125
       }
     ],
-    "episodesCount": 125
+    "episodesCount": 125,
+    "localPoster": "/posters/amores_con_trampa.webp"
   },
   {
     "id": "amores_de_fin_de_siglo",
@@ -11941,7 +12536,8 @@
         "episodesCount": 133
       }
     ],
-    "episodesCount": 133
+    "episodesCount": 133,
+    "localPoster": "/posters/Logooo.webp"
   },
   {
     "id": "amores_de_mercado",
@@ -11960,7 +12556,8 @@
         "episodesCount": 123
       }
     ],
-    "episodesCount": 123
+    "episodesCount": 123,
+    "localPoster": "/posters/amores_de_mercado.webp"
   },
   {
     "id": "amores_verdaderos",
@@ -11979,7 +12576,8 @@
         "episodesCount": 183
       }
     ],
-    "episodesCount": 183
+    "episodesCount": 183,
+    "localPoster": "/posters/amores_verdaderos.webp"
   },
   {
     "id": "amy_la_nina_de_la_mochila_azul",
@@ -11998,7 +12596,8 @@
         "episodesCount": 115
       }
     ],
-    "episodesCount": 115
+    "episodesCount": 115,
+    "localPoster": "/posters/amy_la_nina_de_la_mochila_azul.webp"
   },
   {
     "id": "ana_cristina",
@@ -12017,7 +12616,8 @@
         "episodesCount": 141
       }
     ],
-    "episodesCount": 141
+    "episodesCount": 141,
+    "localPoster": "/posters/ana_cristina.webp"
   },
   {
     "id": "ana_de_nadie",
@@ -12036,7 +12636,8 @@
         "episodesCount": 94
       }
     ],
-    "episodesCount": 94
+    "episodesCount": 94,
+    "localPoster": "/posters/ana_de_nadie.webp"
   },
   {
     "id": "andrea_celeste",
@@ -12055,7 +12656,8 @@
         "episodesCount": 175
       }
     ],
-    "episodesCount": 175
+    "episodesCount": 175,
+    "localPoster": "/posters/andrea_celeste.webp"
   },
   {
     "id": "clase_ejecutiva",
@@ -12074,7 +12676,8 @@
         "episodesCount": 20
       }
     ],
-    "episodesCount": 20
+    "episodesCount": 20,
+    "localPoster": "/posters/clase.webp"
   },
   {
     "id": "angela",
@@ -12093,7 +12696,8 @@
         "episodesCount": 78
       }
     ],
-    "episodesCount": 78
+    "episodesCount": 78,
+    "localPoster": "/posters/angela.webp"
   },
   {
     "id": "angeles_sin_paraiso",
@@ -12112,7 +12716,8 @@
         "episodesCount": 60
       }
     ],
-    "episodesCount": 60
+    "episodesCount": 60,
+    "localPoster": "/posters/angeles_sin_paraiso.webp"
   },
   {
     "id": "angelica_pecado",
@@ -12131,7 +12736,8 @@
         "episodesCount": 150
       }
     ],
-    "episodesCount": 150
+    "episodesCount": 150,
+    "localPoster": "/posters/angelica_pecado.webp"
   },
   {
     "id": "anita_no_te_rajes",
@@ -12150,7 +12756,8 @@
         "episodesCount": 139
       }
     ],
-    "episodesCount": 139
+    "episodesCount": 139,
+    "localPoster": "/posters/anita_no_te_rajes.webp"
   },
   {
     "id": "anonima",
@@ -12169,7 +12776,8 @@
         "episodesCount": 72
       }
     ],
-    "episodesCount": 72
+    "episodesCount": 72,
+    "localPoster": "/posters/anonima.webp"
   },
   {
     "id": "antes_muerta_que_lichita",
@@ -12188,7 +12796,8 @@
         "episodesCount": 133
       }
     ],
-    "episodesCount": 133
+    "episodesCount": 133,
+    "localPoster": "/posters/antes_muerta_que_lichita.webp"
   },
   {
     "id": "apuesta_por_amor",
@@ -12207,7 +12816,8 @@
         "episodesCount": 130
       }
     ],
-    "episodesCount": 130
+    "episodesCount": 130,
+    "localPoster": "/posters/apuesta_por_amor.webp"
   },
   {
     "id": "arroz_con_leche",
@@ -12226,7 +12836,8 @@
         "episodesCount": 115
       }
     ],
-    "episodesCount": 115
+    "episodesCount": 115,
+    "localPoster": "/posters/arroz_con_leche.webp"
   },
   {
     "id": "asi_en_el_barrio_como_en_el_cielo",
@@ -12245,7 +12856,8 @@
         "episodesCount": 118
       }
     ],
-    "episodesCount": 118
+    "episodesCount": 118,
+    "localPoster": "/posters/asi_en_el_barrio_como_en_el_cielo.webp"
   },
   {
     "id": "atrapada",
@@ -12264,7 +12876,8 @@
         "episodesCount": 60
       }
     ],
-    "episodesCount": 60
+    "episodesCount": 60,
+    "localPoster": "/posters/atrapada.webp"
   },
   {
     "id": "atrevete_a_olvidarme",
@@ -12283,7 +12896,8 @@
         "episodesCount": 25
       }
     ],
-    "episodesCount": 25
+    "episodesCount": 25,
+    "localPoster": "/posters/atrevete_a_olvidarme.webp"
   },
   {
     "id": "aunque_me_cueste_la_vida",
@@ -12302,7 +12916,8 @@
         "episodesCount": 126
       }
     ],
-    "episodesCount": 126
+    "episodesCount": 126,
+    "localPoster": "/posters/aunque_me_cueste_la_vida.webp"
   },
   {
     "id": "aurora",
@@ -12321,7 +12936,8 @@
         "episodesCount": 135
       }
     ],
-    "episodesCount": 135
+    "episodesCount": 135,
+    "localPoster": "/posters/aurora.webp"
   },
   {
     "id": "aventuras_en_el_tiempo",
@@ -12340,7 +12956,8 @@
         "episodesCount": 105
       }
     ],
-    "episodesCount": 105
+    "episodesCount": 105,
+    "localPoster": "/posters/aventuras_en_el_tiempo.webp"
   },
   {
     "id": "azucar",
@@ -12359,7 +12976,8 @@
         "episodesCount": 80
       }
     ],
-    "episodesCount": 80
+    "episodesCount": 80,
+    "localPoster": "/posters/azucar.webp"
   },
   {
     "id": "azul",
@@ -12378,7 +12996,8 @@
         "episodesCount": 55
       }
     ],
-    "episodesCount": 55
+    "episodesCount": 55,
+    "localPoster": "/posters/azul.webp"
   },
   {
     "id": "bajo_la_misma_piel",
@@ -12397,7 +13016,8 @@
         "episodesCount": 95
       }
     ],
-    "episodesCount": 95
+    "episodesCount": 95,
+    "localPoster": "/posters/bajo_la_misma_piel.webp"
   },
   {
     "id": "bajo_las_riendas_del_amor",
@@ -12416,7 +13036,8 @@
         "episodesCount": 150
       }
     ],
-    "episodesCount": 150
+    "episodesCount": 150,
+    "localPoster": "/posters/bajo_las_riendas_del_amor.webp"
   },
   {
     "id": "bajo_un_mismo_rostro",
@@ -12435,7 +13056,8 @@
         "episodesCount": 99
       }
     ],
-    "episodesCount": 99
+    "episodesCount": 99,
+    "localPoster": "/posters/bajo_un_mismo_rostro.webp"
   },
   {
     "id": "barrera_de_amor",
@@ -12454,7 +13076,8 @@
         "episodesCount": 135
       }
     ],
-    "episodesCount": 135
+    "episodesCount": 135,
+    "localPoster": "/posters/barrera_de_amor.webp"
   },
   {
     "id": "bella_calamidades",
@@ -12473,7 +13096,8 @@
         "episodesCount": 140
       }
     ],
-    "episodesCount": 140
+    "episodesCount": 140,
+    "localPoster": "/posters/bella_calamidades.webp"
   },
   {
     "id": "bellezas_indomables",
@@ -12492,7 +13116,8 @@
         "episodesCount": 150
       }
     ],
-    "episodesCount": 150
+    "episodesCount": 150,
+    "localPoster": "/posters/bellezas_indomables.webp"
   },
   {
     "id": "bendita_mentira",
@@ -12511,7 +13136,8 @@
         "episodesCount": 89
       }
     ],
-    "episodesCount": 89
+    "episodesCount": 89,
+    "localPoster": "/posters/bendita_mentira.webp"
   },
   {
     "id": "besos_robados",
@@ -12530,7 +13156,8 @@
         "episodesCount": 103
       }
     ],
-    "episodesCount": 103
+    "episodesCount": 103,
+    "localPoster": "/posters/besos_robados.webp"
   },
   {
     "id": "bloque_de_busqueda",
@@ -12549,7 +13176,8 @@
         "episodesCount": 62
       }
     ],
-    "episodesCount": 62
+    "episodesCount": 62,
+    "localPoster": "/posters/bloque.webp"
   },
   {
     "id": "blue_demon",
@@ -12568,7 +13196,8 @@
         "episodesCount": 65
       }
     ],
-    "episodesCount": 65
+    "episodesCount": 65,
+    "localPoster": "/posters/blue_demon.webp"
   },
   {
     "id": "bodas_de_odio",
@@ -12587,7 +13216,8 @@
         "episodesCount": 75
       }
     ],
-    "episodesCount": 75
+    "episodesCount": 75,
+    "localPoster": "/posters/bodas_de_odio.webp"
   },
   {
     "id": "buscando_a_frida",
@@ -12606,7 +13236,8 @@
         "episodesCount": 84
       }
     ],
-    "episodesCount": 84
+    "episodesCount": 84,
+    "localPoster": "/posters/buscando_a_frida.webp"
   },
   {
     "id": "buscando_a_maria",
@@ -12625,7 +13256,8 @@
         "episodesCount": 67
       }
     ],
-    "episodesCount": 67
+    "episodesCount": 67,
+    "localPoster": "/posters/buscando_a_maria.webp"
   },
   {
     "id": "cachito_cielo",
@@ -12644,7 +13276,8 @@
         "episodesCount": 108
       }
     ],
-    "episodesCount": 108
+    "episodesCount": 108,
+    "localPoster": "/posters/cachito_cielo.webp"
   },
   {
     "id": "cadenas_de_amargura",
@@ -12663,7 +13296,8 @@
         "episodesCount": 80
       }
     ],
-    "episodesCount": 80
+    "episodesCount": 80,
+    "localPoster": "/posters/cadenas_de_amargura.webp"
   },
   {
     "id": "caer_en_tentacion",
@@ -12682,7 +13316,8 @@
         "episodesCount": 103
       }
     ],
-    "episodesCount": 103
+    "episodesCount": 103,
+    "localPoster": "/posters/caer_en_tentacion.webp"
   },
   {
     "id": "cafe_con_aroma_de_mujer_2021",
@@ -12701,7 +13336,8 @@
         "episodesCount": 92
       }
     ],
-    "episodesCount": 92
+    "episodesCount": 92,
+    "localPoster": "/posters/cafe_con_aroma_de_mujer_2021.webp"
   },
   {
     "id": "camaleona",
@@ -12720,7 +13356,8 @@
         "episodesCount": 116
       }
     ],
-    "episodesCount": 116
+    "episodesCount": 116,
+    "localPoster": "/posters/camaleona.webp"
   },
   {
     "id": "camaleones",
@@ -12739,7 +13376,8 @@
         "episodesCount": 135
       }
     ],
-    "episodesCount": 135
+    "episodesCount": 135,
+    "localPoster": "/posters/camaleones.webp"
   },
   {
     "id": "camelia_la_texana",
@@ -12758,7 +13396,8 @@
         "episodesCount": 60
       }
     ],
-    "episodesCount": 60
+    "episodesCount": 60,
+    "localPoster": "/posters/camelia_la_texana.webp"
   },
   {
     "id": "camila",
@@ -12777,7 +13416,8 @@
         "episodesCount": 90
       }
     ],
-    "episodesCount": 90
+    "episodesCount": 90,
+    "localPoster": "/posters/camila.webp"
   },
   {
     "id": "caminos_cruzados",
@@ -12796,7 +13436,8 @@
         "episodesCount": 68
       }
     ],
-    "episodesCount": 68
+    "episodesCount": 68,
+    "localPoster": "/posters/caminos_cruzados.webp"
   },
   {
     "id": "caminos_de_guanajuato",
@@ -12815,7 +13456,8 @@
         "episodesCount": 90
       }
     ],
-    "episodesCount": 90
+    "episodesCount": 90,
+    "localPoster": "/posters/caminos_de_guanajuato.webp"
   },
   {
     "id": "canaveral_de_pasiones",
@@ -12834,7 +13476,8 @@
         "episodesCount": 92
       }
     ],
-    "episodesCount": 92
+    "episodesCount": 92,
+    "localPoster": "/posters/canaveral_de_pasiones.webp"
   },
   {
     "id": "caribe",
@@ -12853,7 +13496,8 @@
         "episodesCount": 186
       }
     ],
-    "episodesCount": 186
+    "episodesCount": 186,
+    "localPoster": "/posters/caribe.webp"
   },
   {
     "id": "carissima",
@@ -12872,7 +13516,8 @@
         "episodesCount": 103
       }
     ],
-    "episodesCount": 103
+    "episodesCount": 103,
+    "localPoster": "/posters/carissima.webp"
   },
   {
     "id": "carita_de_angel",
@@ -12891,7 +13536,8 @@
         "episodesCount": 175
       }
     ],
-    "episodesCount": 175
+    "episodesCount": 175,
+    "localPoster": "/posters/Logooo.webp"
   },
   {
     "id": "carolina_barrantes",
@@ -12910,7 +13556,8 @@
         "episodesCount": 83
       }
     ],
-    "episodesCount": 83
+    "episodesCount": 83,
+    "localPoster": "/posters/carolina_barrantes.webp"
   },
   {
     "id": "casa_de_munecos",
@@ -12929,7 +13576,8 @@
         "episodesCount": 128
       }
     ],
-    "episodesCount": 128
+    "episodesCount": 128,
+    "localPoster": "/posters/casa_de_munecos.webp"
   },
   {
     "id": "casa_de_reinas",
@@ -12948,7 +13596,8 @@
         "episodesCount": 50
       }
     ],
-    "episodesCount": 50
+    "episodesCount": 50,
+    "localPoster": "/posters/casa_de_reinas.webp"
   },
   {
     "id": "cerro_alegre",
@@ -12967,7 +13616,8 @@
         "episodesCount": 143
       }
     ],
-    "episodesCount": 143
+    "episodesCount": 143,
+    "localPoster": "/posters/cerro_alegre.webp"
   },
   {
     "id": "chispita",
@@ -12986,7 +13636,8 @@
         "episodesCount": 125
       }
     ],
-    "episodesCount": 125
+    "episodesCount": 125,
+    "localPoster": "/posters/chispita.webp"
   },
   {
     "id": "cielo_rojo",
@@ -13005,7 +13656,8 @@
         "episodesCount": 165
       }
     ],
-    "episodesCount": 165
+    "episodesCount": 165,
+    "localPoster": "/posters/cielo_rojo.webp"
   },
   {
     "id": "cita_a_ciega",
@@ -13024,7 +13676,8 @@
         "episodesCount": 70
       }
     ],
-    "episodesCount": 70
+    "episodesCount": 70,
+    "localPoster": "/posters/cita_a_ciega.webp"
   },
   {
     "id": "ciudad_bendita",
@@ -13043,7 +13696,8 @@
         "episodesCount": 214
       }
     ],
-    "episodesCount": 214
+    "episodesCount": 214,
+    "localPoster": "/posters/ciudad_bendita.webp"
   },
   {
     "id": "clap_el_lugar_de_tus_suenos",
@@ -13062,7 +13716,8 @@
         "episodesCount": 95
       }
     ],
-    "episodesCount": 95
+    "episodesCount": 95,
+    "localPoster": "/posters/clap_el_lugar_de_tus_suenos.webp"
   },
   {
     "id": "clase_406",
@@ -13099,7 +13754,8 @@
         "episodesCount": 50
       }
     ],
-    "episodesCount": 349
+    "episodesCount": 349,
+    "localPoster": "/posters/clase_406.webp"
   },
   {
     "id": "colorina",
@@ -13118,7 +13774,8 @@
         "episodesCount": 250
       }
     ],
-    "episodesCount": 250
+    "episodesCount": 250,
+    "localPoster": "/posters/colorina.webp"
   },
   {
     "id": "como_en_el_cine",
@@ -13137,7 +13794,8 @@
         "episodesCount": 242
       }
     ],
-    "episodesCount": 242
+    "episodesCount": 242,
+    "localPoster": "/posters/como_en_el_cine.webp"
   },
   {
     "id": "como_tu_no_hay_dos",
@@ -13156,7 +13814,8 @@
         "episodesCount": 75
       }
     ],
-    "episodesCount": 75
+    "episodesCount": 75,
+    "localPoster": "/posters/como_tu_no_hay_dos.webp"
   },
   {
     "id": "complices_al_rescate",
@@ -13175,7 +13834,8 @@
         "episodesCount": 132
       }
     ],
-    "episodesCount": 132
+    "episodesCount": 132,
+    "localPoster": "/posters/complices_al_rescate.webp"
   },
   {
     "id": "confidente_de_secundaria",
@@ -13194,7 +13854,8 @@
         "episodesCount": 115
       }
     ],
-    "episodesCount": 115
+    "episodesCount": 115,
+    "localPoster": "/posters/confidente_de_secundaria.webp"
   },
   {
     "id": "contigo_si",
@@ -13213,7 +13874,8 @@
         "episodesCount": 120
       }
     ],
-    "episodesCount": 120
+    "episodesCount": 120,
+    "localPoster": "/posters/contigo_si.webp"
   },
   {
     "id": "contra_viento_y_marea",
@@ -13232,7 +13894,8 @@
         "episodesCount": 130
       }
     ],
-    "episodesCount": 130
+    "episodesCount": 130,
+    "localPoster": "/posters/contra_viento_y_marea.webp"
   },
   {
     "id": "la_pola",
@@ -13251,7 +13914,8 @@
         "episodesCount": 98
       }
     ],
-    "episodesCount": 98
+    "episodesCount": 98,
+    "localPoster": "/posters/lapola.webp"
   },
   {
     "id": "alias_mexicano",
@@ -13270,7 +13934,8 @@
         "episodesCount": 78
       }
     ],
-    "episodesCount": 78
+    "episodesCount": 78,
+    "localPoster": "/posters/mexicano.webp"
   },
   {
     "id": "hermanitas_calle",
@@ -13289,7 +13954,8 @@
         "episodesCount": 94
       }
     ],
-    "episodesCount": 94
+    "episodesCount": 94,
+    "localPoster": "/posters/hermanitas.webp"
   },
   {
     "id": "metastasis",
@@ -13308,7 +13974,8 @@
         "episodesCount": 62
       }
     ],
-    "episodesCount": 62
+    "episodesCount": 62,
+    "localPoster": "/posters/metastasis.webp"
   },
   {
     "id": "sin_tetas_no_hay_paraiso_2006",
@@ -13326,7 +13993,8 @@
         "jsonUrl": ""
       }
     ],
-    "episodesCount": 0
+    "episodesCount": 0,
+    "localPoster": "/posters/sintetas.webp"
   },
   {
     "id": "la_playita",
@@ -13345,7 +14013,8 @@
         "episodesCount": 147
       }
     ],
-    "episodesCount": 147
+    "episodesCount": 147,
+    "localPoster": "/posters/playita.webp"
   },
   {
     "id": "la_reina_del_flow",
@@ -13364,7 +14033,8 @@
         "episodesCount": 82
       }
     ],
-    "episodesCount": 82
+    "episodesCount": 82,
+    "localPoster": "/posters/reina.webp"
   },
   {
     "id": "la_nina",
@@ -13383,7 +14053,8 @@
         "episodesCount": 86
       }
     ],
-    "episodesCount": 86
+    "episodesCount": 86,
+    "localPoster": "/posters/nina.webp"
   },
   {
     "id": "el_fantasma_del_gran_hotel",
@@ -13401,7 +14072,8 @@
         "jsonUrl": ""
       }
     ],
-    "episodesCount": 0
+    "episodesCount": 0,
+    "localPoster": "/posters/fantasma.webp"
   },
   {
     "id": "el_laberinto_de_alicia",
@@ -13420,7 +14092,8 @@
         "episodesCount": 92
       }
     ],
-    "episodesCount": 92
+    "episodesCount": 92,
+    "localPoster": "/posters/alicia.webp"
   },
   {
     "id": "el_tesoro",
@@ -13439,7 +14112,8 @@
         "episodesCount": 78
       }
     ],
-    "episodesCount": 78
+    "episodesCount": 78,
+    "localPoster": "/posters/tesoro.webp"
   },
   {
     "id": "el_ultimo_matrimonio_feliz",
@@ -13458,7 +14132,8 @@
         "episodesCount": 149
       }
     ],
-    "episodesCount": 149
+    "episodesCount": 149,
+    "localPoster": "/posters/matrimonio.webp"
   },
   {
     "id": "en_la_boca_del_lobo",
@@ -13477,7 +14152,8 @@
         "episodesCount": 80
       }
     ],
-    "episodesCount": 80
+    "episodesCount": 80,
+    "localPoster": "/posters/lobo.webp"
   },
   {
     "id": "gabriela_giros_del_destino",
@@ -13496,7 +14172,8 @@
         "episodesCount": 120
       }
     ],
-    "episodesCount": 120
+    "episodesCount": 120,
+    "localPoster": "/posters/gabriela.webp"
   },
   {
     "id": "tierra_de_cantores",
@@ -13515,7 +14192,8 @@
         "episodesCount": 43
       }
     ],
-    "episodesCount": 43
+    "episodesCount": 43,
+    "localPoster": "/posters/tierra.webp"
   },
   {
     "id": "contra_las_cuerdas",
@@ -13534,7 +14212,8 @@
         "episodesCount": 58
       }
     ],
-    "episodesCount": 58
+    "episodesCount": 58,
+    "localPoster": "/posters/contra_las_cuerdas.webp"
   },
   {
     "id": "corazon_partido",
@@ -13553,7 +14232,8 @@
         "episodesCount": 82
       }
     ],
-    "episodesCount": 82
+    "episodesCount": 82,
+    "localPoster": "/posters/corazon_partido.webp"
   },
   {
     "id": "corazon_salvaje_1993",
@@ -13572,7 +14252,8 @@
         "episodesCount": 80
       }
     ],
-    "episodesCount": 80
+    "episodesCount": 80,
+    "localPoster": "/posters/corazon_salvaje_1993.webp"
   },
   {
     "id": "corazon_apasionado",
@@ -13591,7 +14272,8 @@
         "episodesCount": 111
       }
     ],
-    "episodesCount": 111
+    "episodesCount": 111,
+    "localPoster": "/posters/corazon_apasionado.webp"
   },
   {
     "id": "corazon_de_fuego",
@@ -13610,7 +14292,8 @@
         "episodesCount": 141
       }
     ],
-    "episodesCount": 141
+    "episodesCount": 141,
+    "localPoster": "/posters/corazon_de_fuego.webp"
   },
   {
     "id": "corazon_guerrero",
@@ -13629,7 +14312,8 @@
         "episodesCount": 120
       }
     ],
-    "episodesCount": 120
+    "episodesCount": 120,
+    "localPoster": "/posters/corazon_guerrero.webp"
   },
   {
     "id": "corazon_indomable",
@@ -13648,7 +14332,8 @@
         "episodesCount": 162
       }
     ],
-    "episodesCount": 162
+    "episodesCount": 162,
+    "localPoster": "/posters/corazon_indomable.webp"
   },
   {
     "id": "corazon_que_miente",
@@ -13667,7 +14352,8 @@
         "episodesCount": 71
       }
     ],
-    "episodesCount": 71
+    "episodesCount": 71,
+    "localPoster": "/posters/corazon_que_miente.webp"
   },
   {
     "id": "corazon_traicionado",
@@ -13686,7 +14372,8 @@
         "episodesCount": 120
       }
     ],
-    "episodesCount": 120
+    "episodesCount": 120,
+    "localPoster": "/posters/corazon_traicionado.webp"
   },
   {
     "id": "corazon_valiente",
@@ -13705,7 +14392,8 @@
         "episodesCount": 206
       }
     ],
-    "episodesCount": 206
+    "episodesCount": 206,
+    "localPoster": "/posters/corazon_valiente.webp"
   },
   {
     "id": "corazones_al_limite",
@@ -13724,7 +14412,8 @@
         "episodesCount": 145
       }
     ],
-    "episodesCount": 145
+    "episodesCount": 145,
+    "localPoster": "/posters/corazones_al_limite.webp"
   },
   {
     "id": "corazones_blindados",
@@ -13743,7 +14432,8 @@
         "episodesCount": 85
       }
     ],
-    "episodesCount": 85
+    "episodesCount": 85,
+    "localPoster": "/posters/corazones_blindados.webp"
   },
   {
     "id": "corazon_de_maria",
@@ -13762,7 +14452,8 @@
         "episodesCount": 122
       }
     ],
-    "episodesCount": 122
+    "episodesCount": 122,
+    "localPoster": "/posters/corazon_de_maria.webp"
   },
   {
     "id": "corona_de_lagrimas",
@@ -13781,7 +14472,8 @@
         "episodesCount": 112
       }
     ],
-    "episodesCount": 112
+    "episodesCount": 112,
+    "localPoster": "/posters/corona_de_lagrimas.webp"
   },
   {
     "id": "correo_de_inocentes",
@@ -13800,7 +14492,8 @@
         "episodesCount": 83
       }
     ],
-    "episodesCount": 83
+    "episodesCount": 83,
+    "localPoster": "/posters/correo_de_inocentes.webp"
   },
   {
     "id": "cosas_del_amor",
@@ -13819,7 +14512,8 @@
         "episodesCount": 150
       }
     ],
-    "episodesCount": 150
+    "episodesCount": 150,
+    "localPoster": "/posters/cosas_del_amor.webp"
   },
   {
     "id": "cosita_linda",
@@ -13838,7 +14532,8 @@
         "episodesCount": 146
       }
     ],
-    "episodesCount": 146
+    "episodesCount": 146,
+    "localPoster": "/posters/cosita_linda.webp"
   },
   {
     "id": "cuando_llega_el_amor",
@@ -13857,7 +14552,8 @@
         "episodesCount": 100
       }
     ],
-    "episodesCount": 100
+    "episodesCount": 100,
+    "localPoster": "/posters/cuando_llega_el_amor.webp"
   },
   {
     "id": "cuando_me_enamoro",
@@ -13876,7 +14572,8 @@
         "episodesCount": 182
       }
     ],
-    "episodesCount": 182
+    "episodesCount": 182,
+    "localPoster": "/posters/cuando_me_enamoro.webp"
   },
   {
     "id": "cuando_seas_mia",
@@ -13895,7 +14592,8 @@
         "episodesCount": 187
       }
     ],
-    "episodesCount": 187
+    "episodesCount": 187,
+    "localPoster": "/posters/cuando_seas_mia.webp"
   },
   {
     "id": "cuidado_con_el_angel",
@@ -13914,7 +14612,8 @@
         "episodesCount": 194
       }
     ],
-    "episodesCount": 194
+    "episodesCount": 194,
+    "localPoster": "/posters/Logooo.webp"
   },
   {
     "id": "cuna_de_lobos_1986",
@@ -13933,7 +14632,8 @@
         "episodesCount": 85
       }
     ],
-    "episodesCount": 85
+    "episodesCount": 85,
+    "localPoster": "/posters/cuna_de_lobos_1986.webp"
   },
   {
     "id": "cuna_de_lobos_2019",
@@ -13952,7 +14652,8 @@
         "episodesCount": 25
       }
     ],
-    "episodesCount": 25
+    "episodesCount": 25,
+    "localPoster": "/posters/cuna_de_lobos_2019.webp"
   },
   {
     "id": "dama_y_obrero",
@@ -13971,7 +14672,8 @@
         "episodesCount": 81
       }
     ],
-    "episodesCount": 81
+    "episodesCount": 81,
+    "localPoster": "/posters/dama_y_obrero.webp"
   },
   {
     "id": "dama_y_obrero_chile",
@@ -13990,7 +14692,8 @@
         "episodesCount": 189
       }
     ],
-    "episodesCount": 189
+    "episodesCount": 189,
+    "localPoster": "/posters/dama_y_obrero_chile.webp"
   },
   {
     "id": "dame_chocolate",
@@ -14009,7 +14712,8 @@
         "episodesCount": 150
       }
     ],
-    "episodesCount": 150
+    "episodesCount": 150,
+    "localPoster": "/posters/dame_chocolate.webp"
   },
   {
     "id": "dario_gomez_el_rey_del_despecho",
@@ -14028,7 +14732,8 @@
         "episodesCount": 50
       }
     ],
-    "episodesCount": 50
+    "episodesCount": 50,
+    "localPoster": "/posters/dario_gomez_el_rey_del_despecho.webp"
   },
   {
     "id": "de_pocas_pocas_pulgas",
@@ -14047,7 +14752,8 @@
         "episodesCount": 100
       }
     ],
-    "episodesCount": 100
+    "episodesCount": 100,
+    "localPoster": "/posters/de_pocas_pocas_pulgas.webp"
   },
   {
     "id": "de_que_tamano_es_tu_amor",
@@ -14066,7 +14772,8 @@
         "episodesCount": 123
       }
     ],
-    "episodesCount": 123
+    "episodesCount": 123,
+    "localPoster": "/posters/Logooo.webp"
   },
   {
     "id": "de_que_te_quiero_te_quiero",
@@ -14085,7 +14792,8 @@
         "episodesCount": 187
       }
     ],
-    "episodesCount": 187
+    "episodesCount": 187,
+    "localPoster": "/posters/de_que_te_quiero_te_quiero.webp"
   },
   {
     "id": "desaparecida",
@@ -14104,7 +14812,8 @@
         "episodesCount": 79
       }
     ],
-    "episodesCount": 79
+    "episodesCount": 79,
+    "localPoster": "/posters/desaparecida.webp"
   },
   {
     "id": "desencuentro",
@@ -14123,7 +14832,8 @@
         "episodesCount": 75
       }
     ],
-    "episodesCount": 75
+    "episodesCount": 75,
+    "localPoster": "/posters/desencuentro.webp"
   },
   {
     "id": "destilando_amor",
@@ -14142,7 +14852,8 @@
         "episodesCount": 170
       }
     ],
-    "episodesCount": 170
+    "episodesCount": 170,
+    "localPoster": "/posters/destilando_amor.webp"
   },
   {
     "id": "destino",
@@ -14161,7 +14872,8 @@
         "episodesCount": 105
       }
     ],
-    "episodesCount": 105
+    "episodesCount": 105,
+    "localPoster": "/posters/destino.webp"
   },
   {
     "id": "diomedes_el_cacique_de_la_junta",
@@ -14180,7 +14892,8 @@
         "episodesCount": 195
       }
     ],
-    "episodesCount": 195
+    "episodesCount": 195,
+    "localPoster": "/posters/diomedes_el_cacique_de_la_junta.webp"
   },
   {
     "id": "disenando_tu_amor",
@@ -14199,7 +14912,8 @@
         "episodesCount": 120
       }
     ],
-    "episodesCount": 120
+    "episodesCount": 120,
+    "localPoster": "/posters/disenando_tu_amor.webp"
   },
   {
     "id": "divina_esta_en_tu_corazon",
@@ -14218,7 +14932,8 @@
         "episodesCount": 60
       }
     ],
-    "episodesCount": 60
+    "episodesCount": 60,
+    "localPoster": "/posters/divina_esta_en_tu_corazon.webp"
   },
   {
     "id": "dona_bella",
@@ -14237,7 +14952,8 @@
         "episodesCount": 84
       }
     ],
-    "episodesCount": 84
+    "episodesCount": 84,
+    "localPoster": "/posters/dona_bella.webp"
   },
   {
     "id": "dona_flor_y_sus_dos_maridos",
@@ -14256,7 +14972,8 @@
         "episodesCount": 65
       }
     ],
-    "episodesCount": 65
+    "episodesCount": 65,
+    "localPoster": "/posters/dona_flor_y_sus_dos_maridos.webp"
   },
   {
     "id": "donde_esta_elisa",
@@ -14275,7 +14992,8 @@
         "episodesCount": 107
       }
     ],
-    "episodesCount": 107
+    "episodesCount": 107,
+    "localPoster": "/posters/elisa.webp"
   },
   {
     "id": "dos_hermana",
@@ -14294,7 +15012,8 @@
         "episodesCount": 93
       }
     ],
-    "episodesCount": 93
+    "episodesCount": 93,
+    "localPoster": "/posters/dos_hermana.webp"
   },
   {
     "id": "dos_mujeres_un_camino",
@@ -14313,7 +15032,8 @@
         "episodesCount": 229
       }
     ],
-    "episodesCount": 229
+    "episodesCount": 229,
+    "localPoster": "/posters/dos_mujeres_un_camino.webp"
   },
   {
     "id": "dos_hogares",
@@ -14332,7 +15052,8 @@
         "episodesCount": 150
       }
     ],
-    "episodesCount": 150
+    "episodesCount": 150,
+    "localPoster": "/posters/dos_hogares.webp"
   },
   {
     "id": "dona_barbara",
@@ -14351,7 +15072,8 @@
         "episodesCount": 190
       }
     ],
-    "episodesCount": 190
+    "episodesCount": 190,
+    "localPoster": "/posters/dona_barbara.webp"
   },
   {
     "id": "dr_mata",
@@ -14370,7 +15092,8 @@
         "episodesCount": 58
       }
     ],
-    "episodesCount": 58
+    "episodesCount": 58,
+    "localPoster": "/posters/dr_mata.webp"
   },
   {
     "id": "dra_lucia",
@@ -14389,7 +15112,8 @@
         "episodesCount": 50
       }
     ],
-    "episodesCount": 50
+    "episodesCount": 50,
+    "localPoster": "/posters/dra_lucia.webp"
   },
   {
     "id": "duelo_de_pasiones",
@@ -14408,7 +15132,8 @@
         "episodesCount": 125
       }
     ],
-    "episodesCount": 125
+    "episodesCount": 125,
+    "localPoster": "/posters/duelo_de_pasiones.webp"
   },
   {
     "id": "dulce_amargo",
@@ -14427,7 +15152,8 @@
         "episodesCount": 120
       }
     ],
-    "episodesCount": 120
+    "episodesCount": 120,
+    "localPoster": "/posters/dulce_amargo.webp"
   },
   {
     "id": "dulce_desafio",
@@ -14446,7 +15172,8 @@
         "episodesCount": 100
       }
     ],
-    "episodesCount": 100
+    "episodesCount": 100,
+    "localPoster": "/posters/dulce_desafio.webp"
   },
   {
     "id": "dias_sin_luna",
@@ -14465,7 +15192,8 @@
         "episodesCount": 80
       }
     ],
-    "episodesCount": 80
+    "episodesCount": 80,
+    "localPoster": "/posters/dias_sin_luna.webp"
   },
   {
     "id": "educando_a_nina",
@@ -14484,7 +15212,8 @@
         "episodesCount": 105
       }
     ],
-    "episodesCount": 105
+    "episodesCount": 105,
+    "localPoster": "/posters/educando_a_nina.webp"
   },
   {
     "id": "el_baron",
@@ -14503,7 +15232,8 @@
         "episodesCount": 59
       }
     ],
-    "episodesCount": 59
+    "episodesCount": 59,
+    "localPoster": "/posters/el_baron.webp"
   },
   {
     "id": "el_bienamado",
@@ -14522,7 +15252,8 @@
         "episodesCount": 97
       }
     ],
-    "episodesCount": 97
+    "episodesCount": 97,
+    "localPoster": "/posters/el_bienamado.webp"
   },
   {
     "id": "el_candidato",
@@ -14541,7 +15272,8 @@
         "episodesCount": 90
       }
     ],
-    "episodesCount": 90
+    "episodesCount": 90,
+    "localPoster": "/posters/el_candidato.webp"
   },
   {
     "id": "el_chema",
@@ -14560,7 +15292,8 @@
         "episodesCount": 85
       }
     ],
-    "episodesCount": 85
+    "episodesCount": 85,
+    "localPoster": "/posters/el_chema.webp"
   },
   {
     "id": "el_chivo",
@@ -14579,7 +15312,8 @@
         "episodesCount": 70
       }
     ],
-    "episodesCount": 70
+    "episodesCount": 70,
+    "localPoster": "/posters/el_chivo.webp"
   },
   {
     "id": "el_hogar_que_yo_robe",
@@ -14598,7 +15332,8 @@
         "episodesCount": 91
       }
     ],
-    "episodesCount": 91
+    "episodesCount": 91,
+    "localPoster": "/posters/el_hogar_que_yo_robe.webp"
   },
   {
     "id": "el_joe_la_leyenda",
@@ -14617,7 +15352,8 @@
         "episodesCount": 119
       }
     ],
-    "episodesCount": 119
+    "episodesCount": 119,
+    "localPoster": "/posters/eljoe.webp"
   },
   {
     "id": "el_juego_de_la_vida",
@@ -14636,7 +15372,8 @@
         "episodesCount": 165
       }
     ],
-    "episodesCount": 165
+    "episodesCount": 165,
+    "localPoster": "/posters/el_juego_de_la_vida.webp"
   },
   {
     "id": "el_manantial",
@@ -14655,7 +15392,8 @@
         "episodesCount": 95
       }
     ],
-    "episodesCount": 95
+    "episodesCount": 95,
+    "localPoster": "/posters/el_manantial.webp"
   },
   {
     "id": "el_mariachi",
@@ -14674,7 +15412,8 @@
         "episodesCount": 71
       }
     ],
-    "episodesCount": 71
+    "episodesCount": 71,
+    "localPoster": "/posters/el_mariachi.webp"
   },
   {
     "id": "el_noveno_mandamiento",
@@ -14693,7 +15432,8 @@
         "episodesCount": 80
       }
     ],
-    "episodesCount": 80
+    "episodesCount": 80,
+    "localPoster": "/posters/el_noveno_mandamiento.webp"
   },
   {
     "id": "hermanos_y_hermanas",
@@ -14712,7 +15452,8 @@
         "episodesCount": 82
       }
     ],
-    "episodesCount": 82
+    "episodesCount": 82,
+    "localPoster": "/posters/hermanos.webp"
   },
   {
     "id": "hilos_de_amor",
@@ -14731,7 +15472,8 @@
         "episodesCount": 112
       }
     ],
-    "episodesCount": 112
+    "episodesCount": 112,
+    "localPoster": "/posters/hilos.webp"
   },
   {
     "id": "la_dama_de_troya",
@@ -14750,7 +15492,8 @@
         "episodesCount": 88
       }
     ],
-    "episodesCount": 88
+    "episodesCount": 88,
+    "localPoster": "/posters/troya.webp"
   },
   {
     "id": "la_bella_ceci_y_el_imprudente",
@@ -14769,7 +15512,8 @@
         "episodesCount": 126
       }
     ],
-    "episodesCount": 126
+    "episodesCount": 126,
+    "localPoster": "/posters/bellaceci.webp"
   },
   {
     "id": "la_bruja",
@@ -14788,7 +15532,8 @@
         "episodesCount": 29
       }
     ],
-    "episodesCount": 29
+    "episodesCount": 29,
+    "localPoster": "/posters/bruja.webp"
   },
   {
     "id": "el_pais_de_las_mujeres",
@@ -14807,7 +15552,8 @@
         "episodesCount": 187
       }
     ],
-    "episodesCount": 187
+    "episodesCount": 187,
+    "localPoster": "/posters/el_pais_de_las_mujeres.webp"
   },
   {
     "id": "el_precio_de_tu_amor",
@@ -14826,7 +15572,8 @@
         "episodesCount": 95
       }
     ],
-    "episodesCount": 95
+    "episodesCount": 95,
+    "localPoster": "/posters/el_precio_de_tu_amor.webp"
   },
   {
     "id": "el_senor_de_los_cielos_sus_comienzos",
@@ -14845,7 +15592,8 @@
         "episodesCount": 5
       }
     ],
-    "episodesCount": 5
+    "episodesCount": 5,
+    "localPoster": "/posters/cieloscomienzo.webp"
   },
   {
     "id": "el_abuelo_y_yo",
@@ -14864,7 +15612,8 @@
         "episodesCount": 90
       }
     ],
-    "episodesCount": 90
+    "episodesCount": 90,
+    "localPoster": "/posters/el_abuelo_y_yo.webp"
   },
   {
     "id": "el_amor_es_mas_fuerte",
@@ -14883,7 +15632,8 @@
         "episodesCount": 87
       }
     ],
-    "episodesCount": 87
+    "episodesCount": 87,
+    "localPoster": "/posters/el_amor_es_mas_fuerte.webp"
   },
   {
     "id": "el_amor_no_tiene_precio",
@@ -14902,7 +15652,8 @@
         "episodesCount": 280
       }
     ],
-    "episodesCount": 280
+    "episodesCount": 280,
+    "localPoster": "/posters/el_amor_no_tiene_precio.webp"
   },
   {
     "id": "el_autentico_rodrigo_leal",
@@ -14921,7 +15672,8 @@
         "episodesCount": 101
       }
     ],
-    "episodesCount": 101
+    "episodesCount": 101,
+    "localPoster": "/posters/el_autentico_rodrigo_leal.webp"
   },
   {
     "id": "el_camino_secreto",
@@ -14940,7 +15692,8 @@
         "episodesCount": 15
       }
     ],
-    "episodesCount": 15
+    "episodesCount": 15,
+    "localPoster": "/posters/el_camino_secreto.webp"
   },
   {
     "id": "el_cartel_de_los_sapos_el_origen",
@@ -14959,7 +15712,8 @@
         "episodesCount": 60
       }
     ],
-    "episodesCount": 60
+    "episodesCount": 60,
+    "localPoster": "/posters/el_cartel_de_los_sapos_el_origen.webp"
   },
   {
     "id": "el_color_de_la_pasion",
@@ -14978,7 +15732,8 @@
         "episodesCount": 122
       }
     ],
-    "episodesCount": 122
+    "episodesCount": 122,
+    "localPoster": "/posters/el_color_de_la_pasion.webp"
   },
   {
     "id": "el_derecho_de_nacer",
@@ -14997,7 +15752,8 @@
         "episodesCount": 80
       }
     ],
-    "episodesCount": 80
+    "episodesCount": 80,
+    "localPoster": "/posters/el_derecho_de_nacer.webp"
   },
   {
     "id": "el_diario_de_daniela",
@@ -15016,7 +15772,8 @@
         "episodesCount": 100
       }
     ],
-    "episodesCount": 100
+    "episodesCount": 100,
+    "localPoster": "/posters/el_diario_de_daniela.webp"
   },
   {
     "id": "el_engano",
@@ -15035,7 +15792,8 @@
         "episodesCount": 22
       }
     ],
-    "episodesCount": 22
+    "episodesCount": 22,
+    "localPoster": "/posters/engano.webp"
   },
   {
     "id": "el_extrano_retorno_de_diana_salazar",
@@ -15054,7 +15812,8 @@
         "episodesCount": 24
       }
     ],
-    "episodesCount": 24
+    "episodesCount": 24,
+    "localPoster": "/posters/el_extrano_retorno_de_diana_salazar.webp"
   },
   {
     "id": "el_fantasma_de_elena",
@@ -15073,7 +15832,8 @@
         "episodesCount": 117
       }
     ],
-    "episodesCount": 117
+    "episodesCount": 117,
+    "localPoster": "/posters/el_fantasma_de_elena.webp"
   },
   {
     "id": "el_hijo_del_cacique",
@@ -15092,7 +15852,8 @@
         "episodesCount": 75
       }
     ],
-    "episodesCount": 75
+    "episodesCount": 75,
+    "localPoster": "/posters/el_hijo_del_cacique.webp"
   },
   {
     "id": "el_hotel_de_los_secretos",
@@ -15111,7 +15872,8 @@
         "episodesCount": 81
       }
     ],
-    "episodesCount": 81
+    "episodesCount": 81,
+    "localPoster": "/posters/el_hotel_de_los_secretos.webp"
   },
   {
     "id": "el_inutil",
@@ -15130,7 +15892,8 @@
         "episodesCount": 123
       }
     ],
-    "episodesCount": 123
+    "episodesCount": 123,
+    "localPoster": "/posters/Logooo.webp"
   },
   {
     "id": "el_juramento",
@@ -15149,7 +15912,8 @@
         "episodesCount": 106
       }
     ],
-    "episodesCount": 106
+    "episodesCount": 106,
+    "localPoster": "/posters/el_juramento.webp"
   },
   {
     "id": "el_maleficio",
@@ -15168,7 +15932,8 @@
         "episodesCount": 160
       }
     ],
-    "episodesCount": 160
+    "episodesCount": 160,
+    "localPoster": "/posters/el_maleficio.webp"
   },
   {
     "id": "el_nino_que_vino_del_mar",
@@ -15187,7 +15952,8 @@
         "episodesCount": 95
       }
     ],
-    "episodesCount": 95
+    "episodesCount": 95,
+    "localPoster": "/posters/el_nino_que_vino_del_mar.webp"
   },
   {
     "id": "el_pecado_de_oyuki",
@@ -15206,7 +15972,8 @@
         "episodesCount": 123
       }
     ],
-    "episodesCount": 123
+    "episodesCount": 123,
+    "localPoster": "/posters/el_pecado_de_oyuki.webp"
   },
   {
     "id": "el_penultimo_beso",
@@ -15225,7 +15992,8 @@
         "episodesCount": 70
       }
     ],
-    "episodesCount": 70
+    "episodesCount": 70,
+    "localPoster": "/posters/el_penultimo_beso.webp"
   },
   {
     "id": "el_premio_mayor",
@@ -15244,7 +16012,8 @@
         "episodesCount": 190
       }
     ],
-    "episodesCount": 190
+    "episodesCount": 190,
+    "localPoster": "/posters/el_premio_mayor.webp"
   },
   {
     "id": "el_primero_de_nosotros",
@@ -15263,7 +16032,8 @@
         "episodesCount": 59
       }
     ],
-    "episodesCount": 59
+    "episodesCount": 59,
+    "localPoster": "/posters/el_primero_de_nosotros.webp"
   },
   {
     "id": "el_privilegio_de_amar",
@@ -15282,7 +16052,8 @@
         "episodesCount": 155
       }
     ],
-    "episodesCount": 155
+    "episodesCount": 155,
+    "localPoster": "/posters/el_privilegio_de_amar.webp"
   },
   {
     "id": "el_regreso",
@@ -15301,7 +16072,8 @@
         "episodesCount": 140
       }
     ],
-    "episodesCount": 140
+    "episodesCount": 140,
+    "localPoster": "/posters/el_regreso.webp"
   },
   {
     "id": "el_rostro_de_analia",
@@ -15320,7 +16092,8 @@
         "episodesCount": 146
       }
     ],
-    "episodesCount": 146
+    "episodesCount": 146,
+    "localPoster": "/posters/el_rostro_de_analia.webp"
   },
   {
     "id": "el_rostro_de_la_venganza",
@@ -15339,7 +16112,8 @@
         "episodesCount": 115
       }
     ],
-    "episodesCount": 115
+    "episodesCount": 115,
+    "localPoster": "/posters/el_rostro_de_la_venganza.webp"
   },
   {
     "id": "el_talisman",
@@ -15358,7 +16132,8 @@
         "episodesCount": 101
       }
     ],
-    "episodesCount": 101
+    "episodesCount": 101,
+    "localPoster": "/posters/el_talisman.webp"
   },
   {
     "id": "el_ultimo_matrimonio_feliz",
@@ -15377,7 +16152,8 @@
         "episodesCount": 149
       }
     ],
-    "episodesCount": 149
+    "episodesCount": 149,
+    "localPoster": "/posters/matrimonio.webp"
   },
   {
     "id": "ellas_aman_ellos_mienten",
@@ -15396,7 +16172,8 @@
         "episodesCount": 60
       }
     ],
-    "episodesCount": 60
+    "episodesCount": 60,
+    "localPoster": "/posters/ellasaman.webp"
   },
   {
     "id": "emperatriz",
@@ -15415,7 +16192,8 @@
         "episodesCount": 155
       }
     ],
-    "episodesCount": 155
+    "episodesCount": 155,
+    "localPoster": "/posters/emperatriz.webp"
   },
   {
     "id": "en_los_tacones_de_eva",
@@ -15434,7 +16212,8 @@
         "episodesCount": 158
       }
     ],
-    "episodesCount": 158
+    "episodesCount": 158,
+    "localPoster": "/posters/en_los_tacones_de_eva.webp"
   },
   {
     "id": "en_nombre_del_amor",
@@ -15453,7 +16232,8 @@
         "episodesCount": 170
       }
     ],
-    "episodesCount": 170
+    "episodesCount": 170,
+    "localPoster": "/posters/en_nombre_del_amor.webp"
   },
   {
     "id": "en_otra_piel",
@@ -15472,7 +16252,8 @@
         "episodesCount": 154
       }
     ],
-    "episodesCount": 154
+    "episodesCount": 154,
+    "localPoster": "/posters/en_otra_piel.webp"
   },
   {
     "id": "en_la_piel_de_alicia",
@@ -15491,7 +16272,8 @@
         "episodesCount": 81
       }
     ],
-    "episodesCount": 81
+    "episodesCount": 81,
+    "localPoster": "/posters/en_la_piel_de_alicia.webp"
   },
   {
     "id": "en_tierras_salvajes",
@@ -15510,7 +16292,8 @@
         "episodesCount": 70
       }
     ],
-    "episodesCount": 70
+    "episodesCount": 70,
+    "localPoster": "/posters/en_tierras_salvajes.webp"
   },
   {
     "id": "enamorandome_de_ramon",
@@ -15529,7 +16312,8 @@
         "episodesCount": 117
       }
     ],
-    "episodesCount": 117
+    "episodesCount": 117,
+    "localPoster": "/posters/enamorandome_de_ramon.webp"
   },
   {
     "id": "encadenados",
@@ -15548,7 +16332,8 @@
         "episodesCount": 176
       }
     ],
-    "episodesCount": 176
+    "episodesCount": 176,
+    "localPoster": "/posters/encadenados.webp"
   },
   {
     "id": "enfermeras",
@@ -15567,7 +16352,8 @@
         "episodesCount": 100
       }
     ],
-    "episodesCount": 100
+    "episodesCount": 100,
+    "localPoster": "/posters/enfermeras.webp"
   },
   {
     "id": "entre_el_amor_y_el_odio",
@@ -15586,7 +16372,8 @@
         "episodesCount": 124
       }
     ],
-    "episodesCount": 124
+    "episodesCount": 124,
+    "localPoster": "/posters/entre_el_amor_y_el_odio.webp"
   },
   {
     "id": "entre_la_vida_y_la_muerte",
@@ -15605,7 +16392,8 @@
         "episodesCount": 89
       }
     ],
-    "episodesCount": 89
+    "episodesCount": 89,
+    "localPoster": "/posters/entre_la_vida_y_la_muerte.webp"
   },
   {
     "id": "entre_sombras",
@@ -15624,7 +16412,8 @@
         "episodesCount": 60
       }
     ],
-    "episodesCount": 60
+    "episodesCount": 60,
+    "localPoster": "/posters/entre_sombras.webp"
   },
   {
     "id": "entre_tu_amor_y_mi_amor",
@@ -15643,7 +16432,8 @@
         "episodesCount": 111
       }
     ],
-    "episodesCount": 111
+    "episodesCount": 111,
+    "localPoster": "/posters/entre_tu_amor_y_mi_amor.webp"
   },
   {
     "id": "eres_mi_tesoro",
@@ -15662,7 +16452,8 @@
         "episodesCount": 171
       }
     ],
-    "episodesCount": 171
+    "episodesCount": 171,
+    "localPoster": "/posters/eres_mi_tesoro.webp"
   },
   {
     "id": "esa_mujer",
@@ -15681,7 +16472,8 @@
         "episodesCount": 120
       }
     ],
-    "episodesCount": 120
+    "episodesCount": 120,
+    "localPoster": "/posters/esa_mujer.webp"
   },
   {
     "id": "escalona",
@@ -15700,7 +16492,8 @@
         "episodesCount": 33
       }
     ],
-    "episodesCount": 33
+    "episodesCount": 33,
+    "localPoster": "/posters/escalona.webp"
   },
   {
     "id": "esperanza_del_destino",
@@ -15719,7 +16512,8 @@
         "episodesCount": 106
       }
     ],
-    "episodesCount": 106
+    "episodesCount": 106,
+    "localPoster": "/posters/esperanza_del_destino.webp"
   },
   {
     "id": "esperanza_del_corazon",
@@ -15738,7 +16532,8 @@
         "episodesCount": 145
       }
     ],
-    "episodesCount": 145
+    "episodesCount": 145,
+    "localPoster": "/posters/esperanza_del_corazon.webp"
   },
   {
     "id": "esperanza_mia",
@@ -15757,7 +16552,8 @@
         "episodesCount": 192
       }
     ],
-    "episodesCount": 192
+    "episodesCount": 192,
+    "localPoster": "/posters/esperanza_mia.webp"
   },
   {
     "id": "estrellita_mia",
@@ -15776,7 +16572,8 @@
         "episodesCount": 159
       }
     ],
-    "episodesCount": 159
+    "episodesCount": 159,
+    "localPoster": "/posters/estrellita_mia.webp"
   },
   {
     "id": "la_esquina_del_diablo",
@@ -15795,7 +16592,8 @@
         "episodesCount": 70
       }
     ],
-    "episodesCount": 70
+    "episodesCount": 70,
+    "localPoster": "/posters/esquina.webp"
   },
   {
     "id": "la_hipocondriaca",
@@ -15814,7 +16612,8 @@
         "episodesCount": 116
       }
     ],
-    "episodesCount": 116
+    "episodesCount": 116,
+    "localPoster": "/posters/hipocondriaca.webp"
   },
   {
     "id": "la_nocturna_t1_t2",
@@ -15833,7 +16632,8 @@
         "episodesCount": 105
       }
     ],
-    "episodesCount": 105
+    "episodesCount": 105,
+    "localPoster": "/posters/nocturna.webp"
   },
   {
     "id": "la_esclava_blanca",
@@ -15852,7 +16652,8 @@
         "episodesCount": 62
       }
     ],
-    "episodesCount": 62
+    "episodesCount": 62,
+    "localPoster": "/posters/esclava.webp"
   },
   {
     "id": "diomedes_el_cacique_de_la_junta",
@@ -15871,7 +16672,8 @@
         "episodesCount": 195
       }
     ],
-    "episodesCount": 195
+    "episodesCount": 195,
+    "localPoster": "/posters/diomedes_el_cacique_de_la_junta.webp"
   },
   {
     "id": "historias_de_la_cripta",
@@ -15889,7 +16691,8 @@
         "jsonUrl": ""
       }
     ],
-    "episodesCount": 0
+    "episodesCount": 0,
+    "localPoster": "/posters/historias.webp"
   },
   {
     "id": "eternamente_manuela",
@@ -15908,7 +16711,8 @@
         "episodesCount": 101
       }
     ],
-    "episodesCount": 101
+    "episodesCount": 101,
+    "localPoster": "/posters/eternamente_manuela.webp"
   },
   {
     "id": "eva_la_trailera",
@@ -15927,7 +16731,8 @@
         "episodesCount": 118
       }
     ],
-    "episodesCount": 118
+    "episodesCount": 118,
+    "localPoster": "/posters/eva_la_trailera.webp"
   },
   {
     "id": "falsa_identidad",
@@ -15952,7 +16757,8 @@
         "episodesCount": 78
       }
     ],
-    "episodesCount": 169
+    "episodesCount": 169,
+    "localPoster": "/posters/falsa_identidad.webp"
   },
   {
     "id": "felina",
@@ -15971,7 +16777,8 @@
         "episodesCount": 56
       }
     ],
-    "episodesCount": 56
+    "episodesCount": 56,
+    "localPoster": "/posters/felina.webp"
   },
   {
     "id": "feroz",
@@ -15990,7 +16797,8 @@
         "episodesCount": 96
       }
     ],
-    "episodesCount": 96
+    "episodesCount": 96,
+    "localPoster": "/posters/feroz.webp"
   },
   {
     "id": "flor_salvaje",
@@ -16009,7 +16817,8 @@
         "episodesCount": 150
       }
     ],
-    "episodesCount": 150
+    "episodesCount": 150,
+    "localPoster": "/posters/flor_salvaje.webp"
   },
   {
     "id": "fuego_en_la_sangre",
@@ -16028,7 +16837,8 @@
         "episodesCount": 200
       }
     ],
-    "episodesCount": 200
+    "episodesCount": 200,
+    "localPoster": "/posters/fuego_en_la_sangre.webp"
   },
   {
     "id": "fuego_ardiente",
@@ -16047,7 +16857,8 @@
         "episodesCount": 85
       }
     ],
-    "episodesCount": 85
+    "episodesCount": 85,
+    "localPoster": "/posters/fuego_ardiente.webp"
   },
   {
     "id": "gabriel_y_gabriela",
@@ -16066,7 +16877,8 @@
         "episodesCount": 71
       }
     ],
-    "episodesCount": 71
+    "episodesCount": 71,
+    "localPoster": "/posters/gabriel_y_gabriela.webp"
   },
   {
     "id": "gabriela_giros_del_destino",
@@ -16085,7 +16897,8 @@
         "episodesCount": 120
       }
     ],
-    "episodesCount": 120
+    "episodesCount": 120,
+    "localPoster": "/posters/gabriela.webp"
   },
   {
     "id": "gata_salvaje",
@@ -16104,7 +16917,8 @@
         "episodesCount": 252
       }
     ],
-    "episodesCount": 252
+    "episodesCount": 252,
+    "localPoster": "/posters/gata_salvaje.webp"
   },
   {
     "id": "gitanas",
@@ -16123,7 +16937,8 @@
         "episodesCount": 162
       }
     ],
-    "episodesCount": 162
+    "episodesCount": 162,
+    "localPoster": "/posters/gitanas.webp"
   },
   {
     "id": "golpe_al_corazon",
@@ -16142,7 +16957,8 @@
         "episodesCount": 105
       }
     ],
-    "episodesCount": 105
+    "episodesCount": 105,
+    "localPoster": "/posters/golpe_al_corazon.webp"
   },
   {
     "id": "gotita_de_amor",
@@ -16161,7 +16977,8 @@
         "episodesCount": 79
       }
     ],
-    "episodesCount": 79
+    "episodesCount": 79,
+    "localPoster": "/posters/gotita_de_amor.webp"
   },
   {
     "id": "grachi",
@@ -16186,7 +17003,8 @@
         "episodesCount": 50
       }
     ],
-    "episodesCount": 131
+    "episodesCount": 131,
+    "localPoster": "/posters/grachi.webp"
   },
   {
     "id": "guadalupe",
@@ -16205,7 +17023,8 @@
         "episodesCount": 210
       }
     ],
-    "episodesCount": 210
+    "episodesCount": 210,
+    "localPoster": "/posters/guadalupe.webp"
   },
   {
     "id": "guajira",
@@ -16224,7 +17043,8 @@
         "episodesCount": 100
       }
     ],
-    "episodesCount": 100
+    "episodesCount": 100,
+    "localPoster": "/posters/guajira.webp"
   },
   {
     "id": "guerra_de_mujeres",
@@ -16243,7 +17063,8 @@
         "episodesCount": 141
       }
     ],
-    "episodesCount": 141
+    "episodesCount": 141,
+    "localPoster": "/posters/guerra_de_mujeres.webp"
   },
   {
     "id": "gutierritos",
@@ -16262,7 +17083,8 @@
         "episodesCount": 25
       }
     ],
-    "episodesCount": 25
+    "episodesCount": 25,
+    "localPoster": "/posters/gutierritos.webp"
   },
   {
     "id": "hasta_el_fin_del_mundo",
@@ -16281,7 +17103,8 @@
         "episodesCount": 191
       }
     ],
-    "episodesCount": 191
+    "episodesCount": 191,
+    "localPoster": "/posters/hasta_el_fin_del_mundo.webp"
   },
   {
     "id": "hasta_encontrarte",
@@ -16300,7 +17123,8 @@
         "episodesCount": 98
       }
     ],
-    "episodesCount": 98
+    "episodesCount": 98,
+    "localPoster": "/posters/hasta_encontrarte.webp"
   },
   {
     "id": "hasta_que_el_dinero_nos_separe",
@@ -16319,7 +17143,8 @@
         "episodesCount": 227
       }
     ],
-    "episodesCount": 227
+    "episodesCount": 227,
+    "localPoster": "/posters/hasta_que_el_dinero_nos_separe.webp"
   },
   {
     "id": "hay_amores_que_matan",
@@ -16338,7 +17163,8 @@
         "episodesCount": 120
       }
     ],
-    "episodesCount": 120
+    "episodesCount": 120,
+    "localPoster": "/posters/hay_amores_que_matan.webp"
   },
   {
     "id": "herederos_de_una_venganza",
@@ -16357,7 +17183,8 @@
         "episodesCount": 194
       }
     ],
-    "episodesCount": 194
+    "episodesCount": 194,
+    "localPoster": "/posters/herederos_de_una_venganza.webp"
   },
   {
     "id": "heridas_de_amor",
@@ -16376,7 +17203,8 @@
         "episodesCount": 130
       }
     ],
-    "episodesCount": 130
+    "episodesCount": 130,
+    "localPoster": "/posters/heridas_de_amor.webp"
   },
   {
     "id": "hijas_de_luna",
@@ -16395,7 +17223,8 @@
         "episodesCount": 82
       }
     ],
-    "episodesCount": 82
+    "episodesCount": 82,
+    "localPoster": "/posters/hijas_de_luna.webp"
   },
   {
     "id": "hijos_del_desierto",
@@ -16414,7 +17243,8 @@
         "episodesCount": 163
       }
     ],
-    "episodesCount": 163
+    "episodesCount": 163,
+    "localPoster": "/posters/hijos_del_desierto.webp"
   },
   {
     "id": "hilos_de_sangre_azul",
@@ -16433,7 +17263,8 @@
         "episodesCount": 126
       }
     ],
-    "episodesCount": 126
+    "episodesCount": 126,
+    "localPoster": "/posters/hilos_de_sangre_azul.webp"
   },
   {
     "id": "hombre_tenias_que_ser",
@@ -16452,7 +17283,8 @@
         "episodesCount": 105
       }
     ],
-    "episodesCount": 105
+    "episodesCount": 105,
+    "localPoster": "/posters/hombre_tenias_que_ser.webp"
   },
   {
     "id": "hombres_de_honor",
@@ -16471,7 +17303,8 @@
         "episodesCount": 151
       }
     ],
-    "episodesCount": 151
+    "episodesCount": 151,
+    "localPoster": "/posters/hombres_de_honor.webp"
   },
   {
     "id": "huracan",
@@ -16490,7 +17323,8 @@
         "episodesCount": 80
       }
     ],
-    "episodesCount": 80
+    "episodesCount": 80,
+    "localPoster": "/posters/huracan.webp"
   },
   {
     "id": "ilusiones",
@@ -16509,7 +17343,8 @@
         "episodesCount": 138
       }
     ],
-    "episodesCount": 138
+    "episodesCount": 138,
+    "localPoster": "/posters/ilusiones.webp"
   },
   {
     "id": "imperio_de_mentiras",
@@ -16528,7 +17363,8 @@
         "episodesCount": 91
       }
     ],
-    "episodesCount": 91
+    "episodesCount": 91,
+    "localPoster": "/posters/imperio_de_mentiras.webp"
   },
   {
     "id": "imperio_de_cristal",
@@ -16547,7 +17383,8 @@
         "episodesCount": 60
       }
     ],
-    "episodesCount": 60
+    "episodesCount": 60,
+    "localPoster": "/posters/imperio_de_cristal.webp"
   },
   {
     "id": "ines_duarte_secretaria",
@@ -16566,7 +17403,8 @@
         "episodesCount": 238
       }
     ],
-    "episodesCount": 238
+    "episodesCount": 238,
+    "localPoster": "/posters/ines_duarte_secretaria.webp"
   },
   {
     "id": "infierno_en_el_paraiso",
@@ -16585,7 +17423,8 @@
         "episodesCount": 90
       }
     ],
-    "episodesCount": 90
+    "episodesCount": 90,
+    "localPoster": "/posters/infierno_en_el_paraiso.webp"
   },
   {
     "id": "infiltradas",
@@ -16604,7 +17443,8 @@
         "episodesCount": 77
       }
     ],
-    "episodesCount": 77
+    "episodesCount": 77,
+    "localPoster": "/posters/infiltradas.webp"
   },
   {
     "id": "inocente_de_ti",
@@ -16623,7 +17463,8 @@
         "episodesCount": 130
       }
     ],
-    "episodesCount": 130
+    "episodesCount": 130,
+    "localPoster": "/posters/inocente_de_ti.webp"
   },
   {
     "id": "juana_iris",
@@ -16642,7 +17483,8 @@
         "episodesCount": 95
       }
     ],
-    "episodesCount": 95
+    "episodesCount": 95,
+    "localPoster": "/posters/juana_iris.webp"
   },
   {
     "id": "juana_la_virgen",
@@ -16661,7 +17503,8 @@
         "episodesCount": 153
       }
     ],
-    "episodesCount": 153
+    "episodesCount": 153,
+    "localPoster": "/posters/juana_la_virgen.webp"
   },
   {
     "id": "juego_de_mentiras",
@@ -16680,7 +17523,8 @@
         "episodesCount": 76
       }
     ],
-    "episodesCount": 76
+    "episodesCount": 76,
+    "localPoster": "/posters/juego_de_mentiras.webp"
   },
   {
     "id": "juro_que_te_amo",
@@ -16699,7 +17543,8 @@
         "episodesCount": 140
       }
     ],
-    "episodesCount": 140
+    "episodesCount": 140,
+    "localPoster": "/posters/juro_que_te_amo.webp"
   },
   {
     "id": "ka_ina",
@@ -16718,7 +17563,8 @@
         "episodesCount": 164
       }
     ],
-    "episodesCount": 164
+    "episodesCount": 164,
+    "localPoster": "/posters/ka_ina.webp"
   },
   {
     "id": "kdabra",
@@ -16743,7 +17589,8 @@
         "episodesCount": 10
       }
     ],
-    "episodesCount": 22
+    "episodesCount": 22,
+    "localPoster": "/posters/kdabra.webp"
   },
   {
     "id": "klass_95",
@@ -16762,7 +17609,8 @@
         "episodesCount": 45
       }
     ],
-    "episodesCount": 45
+    "episodesCount": 45,
+    "localPoster": "/posters/klass_95.webp"
   },
   {
     "id": "la_baby_sister",
@@ -16781,7 +17629,8 @@
         "episodesCount": 161
       }
     ],
-    "episodesCount": 161
+    "episodesCount": 161,
+    "localPoster": "/posters/la_baby_sister.webp"
   },
   {
     "id": "la_bruja_chilena",
@@ -16800,7 +17649,8 @@
         "episodesCount": 135
       }
     ],
-    "episodesCount": 135
+    "episodesCount": 135,
+    "localPoster": "/posters/la_bruja_chilena.webp"
   },
   {
     "id": "la_bruja_colombiana",
@@ -16819,7 +17669,8 @@
         "episodesCount": 29
       }
     ],
-    "episodesCount": 29
+    "episodesCount": 29,
+    "localPoster": "/posters/la_bruja_colombiana.webp"
   },
   {
     "id": "la_cq",
@@ -16838,7 +17689,8 @@
         "episodesCount": 100
       }
     ],
-    "episodesCount": 100
+    "episodesCount": 100,
+    "localPoster": "/posters/la_cq.webp"
   },
   {
     "id": "la_candidata",
@@ -16857,7 +17709,8 @@
         "episodesCount": 62
       }
     ],
-    "episodesCount": 62
+    "episodesCount": 62,
+    "localPoster": "/posters/la_candidata.webp"
   },
   {
     "id": "la_caponera",
@@ -16876,7 +17729,8 @@
         "episodesCount": 146
       }
     ],
-    "episodesCount": 146
+    "episodesCount": 146,
+    "localPoster": "/posters/la_caponera.webp"
   },
   {
     "id": "la_chucara_chile",
@@ -16895,7 +17749,8 @@
         "episodesCount": 194
       }
     ],
-    "episodesCount": 194
+    "episodesCount": 194,
+    "localPoster": "/posters/la_chucara_chile.webp"
   },
   {
     "id": "la_chucara_peru",
@@ -16914,7 +17769,8 @@
         "episodesCount": 118
       }
     ],
-    "episodesCount": 118
+    "episodesCount": 118,
+    "localPoster": "/posters/la_chucara_peru.webp"
   },
   {
     "id": "la_duena",
@@ -16933,7 +17789,8 @@
         "episodesCount": 95
       }
     ],
-    "episodesCount": 95
+    "episodesCount": 95,
+    "localPoster": "/posters/la_duena.webp"
   },
   {
     "id": "la_fea_mas_bella",
@@ -16952,7 +17809,8 @@
         "episodesCount": 300
       }
     ],
-    "episodesCount": 300
+    "episodesCount": 300,
+    "localPoster": "/posters/la_fea_mas_bella.webp"
   },
   {
     "id": "la_fuerza_del_destino",
@@ -16971,7 +17829,8 @@
         "episodesCount": 102
       }
     ],
-    "episodesCount": 102
+    "episodesCount": 102,
+    "localPoster": "/posters/la_fuerza_del_destino.webp"
   },
   {
     "id": "la_gata",
@@ -16990,7 +17849,8 @@
         "episodesCount": 122
       }
     ],
-    "episodesCount": 122
+    "episodesCount": 122,
+    "localPoster": "/posters/la_gata.webp"
   },
   {
     "id": "la_guerra_de_las_rosas",
@@ -17009,7 +17869,8 @@
         "episodesCount": 154
       }
     ],
-    "episodesCount": 154
+    "episodesCount": 154,
+    "localPoster": "/posters/la_guerra_de_las_rosas.webp"
   },
   {
     "id": "la_guzman",
@@ -17028,7 +17889,8 @@
         "episodesCount": 59
       }
     ],
-    "episodesCount": 59
+    "episodesCount": 59,
+    "localPoster": "/posters/la_guzman.webp"
   },
   {
     "id": "la_indomable",
@@ -17047,7 +17909,8 @@
         "episodesCount": 114
       }
     ],
-    "episodesCount": 114
+    "episodesCount": 114,
+    "localPoster": "/posters/la_indomable.webp"
   },
   {
     "id": "la_cacica",
@@ -17066,7 +17929,8 @@
         "episodesCount": 39
       }
     ],
-    "episodesCount": 39
+    "episodesCount": 39,
+    "localPoster": "/posters/cacica.webp"
   },
   {
     "id": "la_costena_y_el_cachaco",
@@ -17085,7 +17949,8 @@
         "episodesCount": 140
       }
     ],
-    "episodesCount": 140
+    "episodesCount": 140,
+    "localPoster": "/posters/costena.webp"
   },
   {
     "id": "la_ex",
@@ -17104,7 +17969,8 @@
         "episodesCount": 157
       }
     ],
-    "episodesCount": 157
+    "episodesCount": 157,
+    "localPoster": "/posters/laex.webp"
   },
   {
     "id": "la_hija_del_mariachi",
@@ -17123,7 +17989,8 @@
         "episodesCount": 147
       }
     ],
-    "episodesCount": 147
+    "episodesCount": 147,
+    "localPoster": "/posters/lahija.webp"
   },
   {
     "id": "la_prepago",
@@ -17142,7 +18009,8 @@
         "episodesCount": 61
       }
     ],
-    "episodesCount": 61
+    "episodesCount": 61,
+    "localPoster": "/posters/laprepago.webp"
   },
   {
     "id": "las_juanas",
@@ -17161,7 +18029,8 @@
         "episodesCount": 112
       }
     ],
-    "episodesCount": 112
+    "episodesCount": 112,
+    "localPoster": "/posters/juanas.webp"
   },
   {
     "id": "la_invasora",
@@ -17180,7 +18049,8 @@
         "episodesCount": 150
       }
     ],
-    "episodesCount": 150
+    "episodesCount": 150,
+    "localPoster": "/posters/la_invasora.webp"
   },
   {
     "id": "la_madrastra",
@@ -17199,7 +18069,8 @@
         "episodesCount": 120
       }
     ],
-    "episodesCount": 120
+    "episodesCount": 120,
+    "localPoster": "/posters/la_madrastra.webp"
   },
   {
     "id": "la_malquerida",
@@ -17218,7 +18089,8 @@
         "episodesCount": 117
       }
     ],
-    "episodesCount": 117
+    "episodesCount": 117,
+    "localPoster": "/posters/la_malquerida.webp"
   },
   {
     "id": "la_mentira",
@@ -17237,7 +18109,8 @@
         "episodesCount": 100
       }
     ],
-    "episodesCount": 100
+    "episodesCount": 100,
+    "localPoster": "/posters/la_mentira.webp"
   },
   {
     "id": "la_mi_corazon_insiste_en_lola_volcan",
@@ -17256,7 +18129,8 @@
         "episodesCount": 133
       }
     ],
-    "episodesCount": 133
+    "episodesCount": 133,
+    "localPoster": "/posters/la_mi_corazon_insiste_en_lola_volcan.webp"
   },
   {
     "id": "la_mujer_del_vendaval",
@@ -17275,7 +18149,8 @@
         "episodesCount": 168
       }
     ],
-    "episodesCount": 168
+    "episodesCount": 168,
+    "localPoster": "/posters/la_mujer_del_vendaval.webp"
   },
   {
     "id": "la_mujer_de_mi_vida",
@@ -17294,7 +18169,8 @@
         "episodesCount": 150
       }
     ],
-    "episodesCount": 150
+    "episodesCount": 150,
+    "localPoster": "/posters/la_mujer_de_mi_vida.webp"
   },
   {
     "id": "la_nocturna",
@@ -17319,7 +18195,8 @@
         "episodesCount": 70
       }
     ],
-    "episodesCount": 175
+    "episodesCount": 175,
+    "localPoster": "/posters/la_nocturna.webp"
   },
   {
     "id": "la_perricholi",
@@ -17338,7 +18215,8 @@
         "episodesCount": 73
       }
     ],
-    "episodesCount": 73
+    "episodesCount": 73,
+    "localPoster": "/posters/la_perricholi.webp"
   },
   {
     "id": "la_reina_soy_yo",
@@ -17357,7 +18235,8 @@
         "episodesCount": 82
       }
     ],
-    "episodesCount": 82
+    "episodesCount": 82,
+    "localPoster": "/posters/la_reina_soy_yo.webp"
   },
   {
     "id": "la_tempestad",
@@ -17376,7 +18255,8 @@
         "episodesCount": 122
       }
     ],
-    "episodesCount": 122
+    "episodesCount": 122,
+    "localPoster": "/posters/la_tempestad.webp"
   },
   {
     "id": "la_tormenta",
@@ -17395,7 +18275,8 @@
         "episodesCount": 216
       }
     ],
-    "episodesCount": 216
+    "episodesCount": 216,
+    "localPoster": "/posters/la_tormenta.webp"
   },
   {
     "id": "la_verdad_oculta",
@@ -17414,7 +18295,8 @@
         "episodesCount": 120
       }
     ],
-    "episodesCount": 120
+    "episodesCount": 120,
+    "localPoster": "/posters/la_verdad_oculta.webp"
   },
   {
     "id": "la_vida_en_el_espejo",
@@ -17433,7 +18315,8 @@
         "episodesCount": 99
       }
     ],
-    "episodesCount": 99
+    "episodesCount": 99,
+    "localPoster": "/posters/la_vida_en_el_espejo.webp"
   },
   {
     "id": "la_bandida",
@@ -17452,7 +18335,8 @@
         "episodesCount": 62
       }
     ],
-    "episodesCount": 62
+    "episodesCount": 62,
+    "localPoster": "/posters/la_bandida.webp"
   },
   {
     "id": "la_bella_y_las_bestias",
@@ -17471,7 +18355,8 @@
         "episodesCount": 82
       }
     ],
-    "episodesCount": 82
+    "episodesCount": 82,
+    "localPoster": "/posters/la_bella_y_las_bestias.webp"
   },
   {
     "id": "la_casa_de_al_lado",
@@ -17490,7 +18375,8 @@
         "episodesCount": 165
       }
     ],
-    "episodesCount": 165
+    "episodesCount": 165,
+    "localPoster": "/posters/la_casa_de_al_lado.webp"
   },
   {
     "id": "la_costena_y_el_cachaco",
@@ -17509,7 +18395,8 @@
         "episodesCount": 140
       }
     ],
-    "episodesCount": 140
+    "episodesCount": 140,
+    "localPoster": "/posters/costena.webp"
   },
   {
     "id": "la_culpa",
@@ -17528,7 +18415,8 @@
         "episodesCount": 45
       }
     ],
-    "episodesCount": 45
+    "episodesCount": 45,
+    "localPoster": "/posters/la_culpa.webp"
   },
   {
     "id": "la_doble_vida_de_estela_carrillo",
@@ -17547,7 +18435,8 @@
         "episodesCount": 72
       }
     ],
-    "episodesCount": 72
+    "episodesCount": 72,
+    "localPoster": "/posters/la_doble_vida_de_estela_carrillo.webp"
   },
   {
     "id": "la_esposa_virgen",
@@ -17566,7 +18455,8 @@
         "episodesCount": 65
       }
     ],
-    "episodesCount": 65
+    "episodesCount": 65,
+    "localPoster": "/posters/la_esposa_virgen.webp"
   },
   {
     "id": "la_fan",
@@ -17585,7 +18475,8 @@
         "episodesCount": 54
       }
     ],
-    "episodesCount": 54
+    "episodesCount": 54,
+    "localPoster": "/posters/la_fan.webp"
   },
   {
     "id": "la_fiscal_de_hierro",
@@ -17604,7 +18495,8 @@
         "episodesCount": 80
       }
     ],
-    "episodesCount": 80
+    "episodesCount": 80,
+    "localPoster": "/posters/la_fiscal_de_hierro.webp"
   },
   {
     "id": "la_gloria_de_lucho",
@@ -17623,7 +18515,8 @@
         "episodesCount": 80
       }
     ],
-    "episodesCount": 80
+    "episodesCount": 80,
+    "localPoster": "/posters/la_gloria_de_lucho.webp"
   },
   {
     "id": "la_heredera",
@@ -17642,7 +18535,8 @@
         "episodesCount": 200
       }
     ],
-    "episodesCount": 200
+    "episodesCount": 200,
+    "localPoster": "/posters/la_heredera.webp"
   },
   {
     "id": "la_hija_del_jardinero",
@@ -17661,7 +18555,8 @@
         "episodesCount": 180
       }
     ],
-    "episodesCount": 180
+    "episodesCount": 180,
+    "localPoster": "/posters/la_hija_del_jardinero.webp"
   },
   {
     "id": "la_hija_prodiga",
@@ -17680,7 +18575,8 @@
         "episodesCount": 66
       }
     ],
-    "episodesCount": 66
+    "episodesCount": 66,
+    "localPoster": "/posters/la_hija_prodiga.webp"
   },
   {
     "id": "la_impostora",
@@ -17699,7 +18595,8 @@
         "episodesCount": 120
       }
     ],
-    "episodesCount": 120
+    "episodesCount": 120,
+    "localPoster": "/posters/la_impostora.webp"
   },
   {
     "id": "la_intrusa",
@@ -17718,7 +18615,8 @@
         "episodesCount": 135
       }
     ],
-    "episodesCount": 135
+    "episodesCount": 135,
+    "localPoster": "/posters/la_intrusa.webp"
   },
   {
     "id": "la_jaula_de_oro",
@@ -17737,7 +18635,8 @@
         "episodesCount": 65
       }
     ],
-    "episodesCount": 65
+    "episodesCount": 65,
+    "localPoster": "/posters/la_jaula_de_oro.webp"
   },
   {
     "id": "la_jefa_del_campeon",
@@ -17756,7 +18655,8 @@
         "episodesCount": 63
       }
     ],
-    "episodesCount": 63
+    "episodesCount": 63,
+    "localPoster": "/posters/la_jefa_del_campeon.webp"
   },
   {
     "id": "la_ley_de_baltazar",
@@ -17775,7 +18675,8 @@
         "episodesCount": 222
       }
     ],
-    "episodesCount": 222
+    "episodesCount": 222,
+    "localPoster": "/posters/la_ley_de_baltazar.webp"
   },
   {
     "id": "la_ley_del_amor",
@@ -17794,7 +18695,8 @@
         "episodesCount": 187
       }
     ],
-    "episodesCount": 187
+    "episodesCount": 187,
+    "localPoster": "/posters/la_ley_del_amor.webp"
   },
   {
     "id": "la_ley_del_corazon",
@@ -17819,7 +18721,8 @@
         "episodesCount": 146
       }
     ],
-    "episodesCount": 277
+    "episodesCount": 277,
+    "localPoster": "/posters/la_ley_del_corazon.webp"
   },
   {
     "id": "la_ley_secreta",
@@ -17838,7 +18741,8 @@
         "episodesCount": 60
       }
     ],
-    "episodesCount": 60
+    "episodesCount": 60,
+    "localPoster": "/posters/la_ley_secreta.webp"
   },
   {
     "id": "la_loba",
@@ -17857,7 +18761,8 @@
         "episodesCount": 168
       }
     ],
-    "episodesCount": 168
+    "episodesCount": 168,
+    "localPoster": "/posters/la_loba.webp"
   },
   {
     "id": "la_luz_de_mis_ojos",
@@ -17876,7 +18781,8 @@
         "episodesCount": 78
       }
     ],
-    "episodesCount": 78
+    "episodesCount": 78,
+    "localPoster": "/posters/la_luz_de_mis_ojos.webp"
   },
   {
     "id": "la_madre",
@@ -17895,7 +18801,8 @@
         "episodesCount": 115
       }
     ],
-    "episodesCount": 115
+    "episodesCount": 115,
+    "localPoster": "/posters/la_madre.webp"
   },
   {
     "id": "la_marca_del_deseo",
@@ -17914,7 +18821,8 @@
         "episodesCount": 123
       }
     ],
-    "episodesCount": 123
+    "episodesCount": 123,
+    "localPoster": "/posters/la_marca_del_deseo.webp"
   },
   {
     "id": "la_mexicana_y_el_guero",
@@ -17933,7 +18841,8 @@
         "episodesCount": 128
       }
     ],
-    "episodesCount": 128
+    "episodesCount": 128,
+    "localPoster": "/posters/la_mexicana_y_el_guero.webp"
   },
   {
     "id": "la_mujer_de_judas_mexicana",
@@ -17952,7 +18861,8 @@
         "episodesCount": 165
       }
     ],
-    "episodesCount": 165
+    "episodesCount": 165,
+    "localPoster": "/posters/la_mujer_de_judas_mexicana.webp"
   },
   {
     "id": "la_mujer_de_judas_venezolana",
@@ -17971,7 +18881,8 @@
         "episodesCount": 126
       }
     ],
-    "episodesCount": 126
+    "episodesCount": 126,
+    "localPoster": "/posters/la_mujer_de_judas_venezolana.webp"
   },
   {
     "id": "la_mujer_del_presidente",
@@ -17990,7 +18901,8 @@
         "episodesCount": 1
       }
     ],
-    "episodesCount": 60
+    "episodesCount": 60,
+    "localPoster": "/posters/la_mujer_del_presidente.webp"
   },
   {
     "id": "la_mujer_en_el_espejo",
@@ -18009,7 +18921,8 @@
         "episodesCount": 151
       }
     ],
-    "episodesCount": 151
+    "episodesCount": 151,
+    "localPoster": "/posters/la_mujer_en_el_espejo.webp"
   },
   {
     "id": "la_otra",
@@ -18028,7 +18941,8 @@
         "episodesCount": 89
       }
     ],
-    "episodesCount": 89
+    "episodesCount": 89,
+    "localPoster": "/posters/la_otra.webp"
   },
   {
     "id": "la_paloma",
@@ -18047,7 +18961,8 @@
         "episodesCount": 120
       }
     ],
-    "episodesCount": 120
+    "episodesCount": 120,
+    "localPoster": "/posters/la_paloma.webp"
   },
   {
     "id": "la_pasion_de_isabela",
@@ -18066,7 +18981,8 @@
         "episodesCount": 220
       }
     ],
-    "episodesCount": 220
+    "episodesCount": 220,
+    "localPoster": "/posters/la_pasion_de_isabela.webp"
   },
   {
     "id": "la_patrona",
@@ -18085,7 +19001,8 @@
         "episodesCount": 128
       }
     ],
-    "episodesCount": 128
+    "episodesCount": 128,
+    "localPoster": "/posters/la_patrona.webp"
   },
   {
     "id": "la_potra_zaina",
@@ -18104,7 +19021,8 @@
         "episodesCount": 124
       }
     ],
-    "episodesCount": 124
+    "episodesCount": 124,
+    "localPoster": "/posters/la_potra_zaina.webp"
   },
   {
     "id": "la_picara_sonadora",
@@ -18123,7 +19041,8 @@
         "episodesCount": 80
       }
     ],
-    "episodesCount": 80
+    "episodesCount": 80,
+    "localPoster": "/posters/la_picara_sonadora.webp"
   },
   {
     "id": "la_venganza_de_las_juanas",
@@ -18141,7 +19060,8 @@
         "jsonUrl": ""
       }
     ],
-    "episodesCount": 0
+    "episodesCount": 0,
+    "localPoster": "/posters/juanasven.webp"
   },
   {
     "id": "operacion_pacifico",
@@ -18160,7 +19080,8 @@
         "episodesCount": 60
       }
     ],
-    "episodesCount": 60
+    "episodesCount": 60,
+    "localPoster": "/posters/operacion.webp"
   },
   {
     "id": "yo_no_te_pido_la_luna",
@@ -18178,7 +19099,8 @@
         "jsonUrl": ""
       }
     ],
-    "episodesCount": 0
+    "episodesCount": 0,
+    "localPoster": "/posters/luna.webp"
   },
   {
     "id": "primera_dama",
@@ -18197,7 +19119,8 @@
         "episodesCount": 95
       }
     ],
-    "episodesCount": 95
+    "episodesCount": 95,
+    "localPoster": "/posters/primera.webp"
   },
   {
     "id": "los_hombres_tambien_lloran_s1",
@@ -18217,6 +19140,7 @@
       }
     ],
     "isPremium": false,
-    "hasAd": true
+    "hasAd": true,
+    "localPoster": "https://pbs.twimg.com/media/GV6pR3bWwAAYaaS?format=jpg&name=small"
   }
 ]
