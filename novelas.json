@@ -65,9 +65,9 @@
       {
         "seasonNumber": 10,
         "name": "Temporada 10",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/el_senor_de_los_cielos_t10_s10.json",
+        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/el_senor_de_los_cielos_t10_s10.json",
         "hasAdOverride": false,
-        "episodesCount": 53
+        "episodesCount": 54
       }
     ],
     "isPremium": true,
@@ -224,14 +224,14 @@
     "ribbon": "GRAN ESTRENO",
     "defaultSeason": 1,
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/queirnedo22im.webp",
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/pa_seguirte_queriendo_s1.json",
+    "targetUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/pa_seguirte_queriendo_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/pa_seguirte_queriendo_s1.json",
+        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/pa_seguirte_queriendo_s1.json",
         "hasAdOverride": false,
-        "episodesCount": 42
+        "episodesCount": 43
       }
     ],
     "isPremium": false,
@@ -246,13 +246,13 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/renacerIMG.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/el_renacer_de_luna_s1.json",
+    "targetUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/el_renacer_de_luna_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/el_renacer_de_luna_s1.json",
-        "episodesCount": 65
+        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/el_renacer_de_luna_s1.json",
+        "episodesCount": 66
       }
     ],
     "episodesCount": 38,
@@ -276,9 +276,9 @@
       {
         "seasonNumber": 2,
         "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/lejos_de_ti_t2_s2.json",
+        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/lejos_de_ti_t2_s2.json",
         "hasAdOverride": false,
-        "episodesCount": 47
+        "episodesCount": 48
       }
     ],
     "isPremium": false,
