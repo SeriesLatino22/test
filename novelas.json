@@ -230,7 +230,7 @@
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/pa_seguirte_queriendo_s1.json",
         "hasAdOverride": false,
-        "episodesCount": 44
+        "episodesCount": 45
       }
     ],
     "isPremium": false,
@@ -251,7 +251,7 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/el_renacer_de_luna_s1.json",
-        "episodesCount": 67
+        "episodesCount": 68
       }
     ],
     "episodesCount": 38,
@@ -277,7 +277,7 @@
         "name": "Temporada 2",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/lejos_de_ti_t2_s2.json",
         "hasAdOverride": false,
-        "episodesCount": 48
+        "episodesCount": 50
       }
     ],
     "isPremium": false,
