@@ -245,14 +245,18 @@
     {
       "numero": "Capítulo 49",
       "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/e5/s8/2/U/L/N/0/ULN0A.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=343731712-343757688",
-      "titulo": "",
-      "rumbleUrl": "https://rumble.com/v7fx372-lejs-49.html"
+      "titulo": ""
     },
     {
       "numero": "Capítulo 50",
       "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/3a/s8/2/Y/L/N/0/YLN0A.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=343901184-343927160",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 51",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/b4/s8/2/m/U/f/1/mUf1A.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=344584704-344610767",
       "titulo": "",
-      "rumbleUrl": "https://rumble.com/v7fx376-lejs-50.html"
+      "rumbleUrl": "https://rumble.com/v7fzqfg-lejs-51.html"
     }
   ]
 }

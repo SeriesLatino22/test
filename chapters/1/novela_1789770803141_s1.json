@@ -15,8 +15,13 @@
     {
       "numero": "Capítulo 3",
       "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/b7/s8/2/I/O/N/0/ION0A.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1361571328-1361598168",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 4",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/53/s8/2/u/H/f/1/uHf1A.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1365848064-1365874900",
       "titulo": "",
-      "rumbleUrl": "https://rumble.com/v7fx3c2-sabor-3.html"
+      "rumbleUrl": "https://rumble.com/v7fzpsk-sabor-4.html"
     }
   ]
 }
