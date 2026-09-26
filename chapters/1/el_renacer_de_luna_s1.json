@@ -345,8 +345,13 @@
     {
       "numero": "Capítulo 69",
       "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/30/s8/2/i/V/f/1/iVf1A.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=741989376-742017236",
+      "titulo": ""
+    },
+    {
+      "numero": "Capítulo 70",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/27/s8/2/A/t/w/1/Atw1A.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=739461120-739488969",
       "titulo": "",
-      "rumbleUrl": "https://rumble.com/v7fzqh4-rencr-69.html"
+      "rumbleUrl": "https://rumble.com/v7g16u2-rencr-70.html"
     }
   ]
 }
