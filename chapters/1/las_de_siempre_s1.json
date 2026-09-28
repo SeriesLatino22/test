@@ -13,21 +13,21 @@
     },
     {
       "numero": "Capítulo 2",
-      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/b2/s8/2/g/z/w/j/gzwjA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1342903296-1342929731",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/b2/s8/2/g/z/w/j/gzwjA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=344126464-344134711",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 2",
       "rumbleUrl": "https://rumble.com/v795z5y-siempre-2.html"
     },
     {
       "numero": "Capítulo 3",
-      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/44/s8/2/k/z/w/j/kzwjA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1342709760-1342736167",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/44/s8/2/k/z/w/j/kzwjA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=344049664-344057888",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 3",
       "rumbleUrl": "https://rumble.com/v795z62-siempre-3.html"
     },
     {
       "numero": "Capítulo 4",
-      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/f8/s8/2/E/z/w/j/EzwjA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1342012416-1342038814",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/f8/s8/2/E/z/w/j/EzwjA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=344098304-344106539",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 4",
       "rumbleUrl": "https://rumble.com/v795z6m-siempre-4.html"
@@ -48,7 +48,7 @@
     },
     {
       "numero": "Capítulo 7",
-      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/3/dcd74ee3fcdcf9326475bc471b698459.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/73/s8/2/I/s/n/T/IsnTz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=339674112-339682250",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 7"
     },
@@ -68,91 +68,91 @@
     },
     {
       "numero": "Capítulo 10",
-      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/2/6d19b2b6f019474acb7ae210092d5bcf.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/9e/s8/2/C/E/Z/U/CEZUz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=346925568-346933855",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 10"
     },
     {
       "numero": "Capítulo 11",
-      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/2/4bfb2ea574fa26d0d045ca82aaebcac6.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/f1/s8/2/W/E/Z/U/WEZUz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=349160448-349168772",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 11"
     },
     {
       "numero": "Capítulo 12",
-      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/3/cad3e6db6ada1619d8a71c558aa132bb.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/36/s8/2/y/I/J/W/yIJWz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=350386176-350394531",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 12"
     },
     {
       "numero": "Capítulo 13",
-      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/3/c34eae9c0f244cbc6a4d1ce3cf48046c.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/33/s8/2/E/O/N/V/EONVz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=351096832-351105188",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 13"
     },
     {
       "numero": "Capítulo 14",
-      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/2/8dff2b17a256bc978d2fbcc968f06e61.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/2d/s8/2/6/P/N/V/6PNVz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=357414912-357423455",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 14"
     },
     {
       "numero": "Capítulo 15",
-      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/2/539b653272f6b975bda042d4b5b65dc8.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/25/s8/2/C/N/J/W/CNJWz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=357372928-357381433",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 15"
     },
     {
       "numero": "Capítulo 16",
-      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/3/a6c03c33ed9ec965cb3cbc6bfb1bbf58.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/25/s8/2/E/N/J/W/ENJWz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=349676544-349684876",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 16"
     },
     {
       "numero": "Capítulo 17",
-      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/3/9f87f63efe4d7427dfbf5a3ca071d65a.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/dd/s8/2/e/p/Z/W/epZWz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=341751296-341759467",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 17"
     },
     {
       "numero": "Capítulo 18",
-      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/1/2b1bcf150c40cd6571ef7dcd30e1bf3c.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/76/s8/2/c/4/i/X/c4iXz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=340535296-340543417",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 18"
     },
     {
       "numero": "Capítulo 19",
-      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/3/a045ff1dc7c16ab1f12601bb95a31ecf.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/45/s8/2/i/T/L/Y/iTLYz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=340957696-340965833",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 19"
     },
     {
       "numero": "Capítulo 20",
-      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/2/804bc3fa6d3c6820c21ee01043ef8f67.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/1f/s8/2/y/W/L/Y/yWLYz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=339876352-339884449",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 20"
     },
     {
       "numero": "Capítulo 21",
-      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/2/527538845b32ea9178d74b0134a570a8.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/c0/s8/2/Q/W/L/Y/QWLYz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=340278784-340286918",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 21"
     },
     {
       "numero": "Capítulo 22",
-      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/1/0d7f867dc029aab32b54071876993e37.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/13/s8/2/c/u/o/Z/cuoZz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=341240320-341248455",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 22"
     },
     {
       "numero": "Capítulo 23",
-      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/3/cc031ef0f499c118383ed92abab337bd.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/58/s8/2/o/K/x/0/oKx0z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=340034048-340042187",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 23"
     },
     {
       "numero": "Capítulo 24",
-      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/1/1572dd0947e42cb0172c65ea196821c6.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/7c/s8/2/K/L/x/0/KLx0z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=339717632-339725741",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 24"
     },
@@ -214,7 +214,7 @@
     },
     {
       "numero": "Capítulo 33",
-      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/1/0396dc90da53c268d51683d3b69b01b6.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/60/s8/2/W/c/V/3/WcV3z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=344007680-344015882",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 33"
     },
@@ -234,7 +234,7 @@
     },
     {
       "numero": "Capítulo 36",
-      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/19/s8/2/o/P/h/d/oPhdA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1338167808-1338194131",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/19/s8/2/o/P/h/d/oPhdA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=342651392-342659609",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 36",
       "rumbleUrl": "https://rumble.com/v786yxa-siempre-36.html"
@@ -262,7 +262,7 @@
     },
     {
       "numero": "Capítulo 40",
-      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/2/58f7c67b34b1717956b2de740308bb64.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/9d/s8/2/u/v/O/7/uvO7z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=340391424-340399561",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 40"
     },
@@ -282,125 +282,125 @@
     },
     {
       "numero": "Capítulo 43",
-      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/33/s8/2/Y/Y/8/8/YY88z.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=694775808-694801874",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/33/s8/2/Y/Y/8/8/YY88z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=341389824-341398035",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 43",
       "rumbleUrl": "https://rumble.com/v778b02-siempre-43.html"
     },
     {
       "numero": "Capítulo 44",
-      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/97/s8/2/a/4/8/8/a488z.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1333983744-1334009968",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/97/s8/2/a/4/8/8/a488z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=344010240-344018433",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 44",
       "rumbleUrl": "https://rumble.com/v778b9c-siempre-44.html"
     },
     {
       "numero": "Capítulo 45",
-      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/23/s8/2/o/-/9/-/o-9-z.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1333929472-1333955783",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/23/s8/2/o/-/9/-/o-9-z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=343152640-343160847",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 45",
       "rumbleUrl": "https://rumble.com/v77jn9q-siempre-45.html"
     },
     {
       "numero": "Capítulo 46",
-      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/14/s8/2/y/-/9/-/y-9-z.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1338707968-1338734278",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/14/s8/2/y/-/9/-/y-9-z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=343021568-343029785",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 46",
       "rumbleUrl": "https://rumble.com/v77jna0-siempre-46.html"
     },
     {
       "numero": "Capítulo 47",
-      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/e1/s8/2/c/k/-/-/ck--z.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1335546368-1335572678",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/e1/s8/2/c/k/-/-/ck--z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=342168064-342176268",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 47",
       "rumbleUrl": "https://rumble.com/v77jnuq-siemre-47.html"
     },
     {
       "numero": "Capítulo 48",
-      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/e6/s8/2/u/k/-/-/uk--z.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1339311104-1339337414",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/e6/s8/2/u/k/-/-/uk--z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=343165440-343173651",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 48",
       "rumbleUrl": "https://rumble.com/v77jnv8-siempre-48.html"
     },
     {
       "numero": "Capítulo 49",
-      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/ff/s8/2/w/d/I/_/wdI_z.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1336962560-1336988885",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/ff/s8/2/w/d/I/_/wdI_z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=342796800-342805008",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 49",
       "rumbleUrl": "https://rumble.com/v77mtau-siempre-49.html"
     },
     {
       "numero": "Capítulo 50",
-      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/76/s8/2/8/e/I/_/8eI_z.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1339520512-1339546816",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/76/s8/2/8/e/I/_/8eI_z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=343068672-343076878",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 50",
       "rumbleUrl": "https://rumble.com/v77mtdo-siempre-50.html"
     },
     {
       "numero": "Capítulo 51",
-      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/0a/s8/2/U/n/O/_/UnO_z.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1338925056-1338951373",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/0a/s8/2/U/n/O/_/UnO_z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=343110144-343118350",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 51",
       "rumbleUrl": "https://rumble.com/v77ncry-siempre-51.html"
     },
     {
       "numero": "Capítulo 52",
-      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/93/s8/2/S/-/o/a/S-oaA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1339040256-1339066587",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/93/s8/2/S/-/o/a/S-oaA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=343051264-343059483",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 52",
       "rumbleUrl": "https://rumble.com/v77qrak-siemre-52.html"
     },
     {
       "numero": "Capítulo 53",
-      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/d0/s8/2/G/h/S/b/GhSbA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1338392064-1338418394",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/d0/s8/2/G/h/S/b/GhSbA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=342783488-342791709",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 53",
       "rumbleUrl": "https://rumble.com/v77yxnk-siempre-53.html"
     },
     {
       "numero": "Capítulo 54",
-      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/f9/s8/2/M/i/S/b/MiSbA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1336139776-1336166094",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/f9/s8/2/M/i/S/b/MiSbA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=341442048-341450257",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 54",
       "rumbleUrl": "https://rumble.com/v77yxpi-siempre-54.html"
     },
     {
       "numero": "Capítulo 55",
-      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/a4/s8/2/k/m/q/c/kmqcA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1338023936-1338050171",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/a4/s8/2/k/m/q/c/kmqcA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=343790080-343798272",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 55",
       "rumbleUrl": "https://rumble.com/v7823nu-siempre-55.html"
     },
     {
       "numero": "Capítulo 56",
-      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/4/f48df6565413310019a12862e3109378.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/19/s8/2/o/P/h/d/oPhdA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=342651392-342659609",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 56"
     },
     {
       "numero": "Capítulo 57",
-      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/8b/s8/2/w/m/D/d/wmDdA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1338440704-1338467007",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/8b/s8/2/w/m/D/d/wmDdA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=343027200-343035416",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 57",
       "rumbleUrl": "https://rumble.com/v788v12-siempre-57.html"
     },
     {
       "numero": "Capítulo 58",
-      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/70/s8/2/E/o/_/d/Eo_dA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1339677184-1339703593",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/70/s8/2/E/o/_/d/Eo_dA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=342963200-342971428",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 58",
       "rumbleUrl": "https://rumble.com/v78bula-siempre-58.html"
     },
     {
       "numero": "Capítulo 59",
-      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/d5/s8/2/K/o/_/d/Ko_dA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1341935616-1341962025",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/d5/s8/2/K/o/_/d/Ko_dA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=343971840-343980056",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 59",
       "rumbleUrl": "https://rumble.com/v78bulg-siempre-59.html"
     },
     {
       "numero": "Capítulo 60",
-      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/3/9b0308dd7c6192ecb4fd93fae1a38c21.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/ab/s8/2/C/P/8/e/CP8eA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=344087552-344095787",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 60"
     },
@@ -413,186 +413,186 @@
     },
     {
       "numero": "Capítulo 62",
-      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/e0/s8/2/S/p/6/g/Sp6gA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1341318144-1341344571",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/e0/s8/2/S/p/6/g/Sp6gA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=343503360-343511570",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 62",
       "rumbleUrl": "https://rumble.com/v78s9nw-siempre-62.html"
     },
     {
       "numero": "Capítulo 63",
-      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/f4/s8/2/6/p/6/g/6p6gA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1340618240-1340644643",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/f4/s8/2/6/p/6/g/6p6gA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=343484928-343493164",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 63",
       "rumbleUrl": "https://rumble.com/v78s9oa-siempre-63.html"
     },
     {
       "numero": "Capítulo 64",
-      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/52/s8/2/S/p/y/h/SpyhA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1340658176-1340684586",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/52/s8/2/S/p/y/h/SpyhA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=342960128-342968355",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 64",
       "rumbleUrl": "https://rumble.com/v78uwh8-siempre-64.html"
     },
     {
       "numero": "Capítulo 65",
-      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/f2/s8/2/I/p/y/h/IpyhA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1341643776-1341670186",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/f2/s8/2/I/p/y/h/IpyhA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=343793152-343801398",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 65",
       "rumbleUrl": "https://rumble.com/v78uwgy-siempre-65.html"
     },
     {
       "numero": "Capítulo 66",
-      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/1/00d0fcf929a31f4e33bbfbc1508a2717.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/50/s8/2/S/E/4/h/SE4hA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=343454208-343462453",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 66"
     },
     {
       "numero": "Capítulo 67",
-      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/2/59c37b987b5f457156de2efcbc2a424d.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/1f/s8/2/4/E/4/h/4E4hA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=343393792-343402021",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 67"
     },
     {
       "numero": "Capítulo 68",
-      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/3/cf4632f622eb31f9569634fc75c64aaf.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/b2/s8/2/g/z/w/j/gzwjA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=344126464-344134711",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 68"
     },
     {
       "numero": "Capítulo 69",
-      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/3/adcfcd9bc7b6637c9b0e807c1044eaed.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/44/s8/2/k/z/w/j/kzwjA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=344049664-344057888",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 69"
     },
     {
       "numero": "Capítulo 70",
-      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/1/088eba509d3c017acfd1d5a4cf128053.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/f8/s8/2/E/z/w/j/EzwjA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=344098304-344106539",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 70"
     },
     {
       "numero": "Capítulo 71",
-      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/0b/s8/2/e/x/a/k/exakA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1342649856-1342676270",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/0b/s8/2/e/x/a/k/exakA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=343980032-343988272",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 71",
       "rumbleUrl": "https://rumble.com/v799nt0-siempre-71.html"
     },
     {
       "numero": "Capítulo 72",
-      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/bf/s8/2/E/w/b/m/EwbmA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1342012928-1342039352",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/bf/s8/2/E/w/b/m/EwbmA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=343965184-343973420",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 72",
       "rumbleUrl": "https://rumble.com/v79kzha-siempre-72.html"
     },
     {
       "numero": "Capítulo 73",
-      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/94/s8/2/Q/w/b/m/QwbmA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1337653248-1337679645",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/94/s8/2/Q/w/b/m/QwbmA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=342857728-342865958",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 73",
       "rumbleUrl": "https://rumble.com/v79kzhm-siempre-73.html"
     },
     {
       "numero": "Capítulo 74",
-      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/e2/s8/2/6/w/b/m/6wbmA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1341858304-1341884716",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/e2/s8/2/6/w/b/m/6wbmA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=343732736-343740965",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 74",
       "rumbleUrl": "https://rumble.com/v79kzi2-siempre-74.html"
     },
     {
       "numero": "Capítulo 75",
-      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/97/s8/2/M/y/b/m/MybmA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1341340160-1341366568",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/97/s8/2/M/y/b/m/MybmA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=343803904-343812149",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 75",
       "rumbleUrl": "https://rumble.com/v79kzl2-siempre-75.html"
     },
     {
       "numero": "Capítulo 76",
-      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/09/s8/2/G/O/g/n/GOgnA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1341165056-1341191454",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/09/s8/2/G/O/g/n/GOgnA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=343442944-343451173",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 76",
       "rumbleUrl": "https://rumble.com/v79r2g0-siempre-76.html"
     },
     {
       "numero": "Capítulo 77",
-      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/d6/s8/2/2/O/g/n/2OgnA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1342177792-1342204197",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/d6/s8/2/2/O/g/n/2OgnA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=343980544-343988778",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 77",
       "rumbleUrl": "https://rumble.com/v79r2gm-siempre-77.html"
     },
     {
       "numero": "Capítulo 78",
-      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/3/deb85b9f1761afdc97f60338bf3b6d9f.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/86/s8/2/M/O/g/n/MOgnA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=343052800-343061029",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 78"
     },
     {
       "numero": "Capítulo 79",
-      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/2/7471dd3b44ce4908441e4e73e30b1778.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/96/s8/2/w/F/A/p/wFApA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=344250880-344259124",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 79"
     },
     {
       "numero": "Capítulo 80",
-      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/4/e0488a6300be157ed4d5652578a3cb48.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/86/s8/2/G/F/A/p/GFApA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=340148224-340156358",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 80"
     },
     {
       "numero": "Capítulo 81",
-      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/1/024324da0caa17d614109090b5a76feb.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/36/s8/2/M/F/A/p/MFApA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=339507200-339515341",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 81"
     },
     {
       "numero": "Capítulo 82",
-      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/3/ab241086a9914d64bbe33b3e72b52849.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/88/s8/2/Q/F/A/p/QFApA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=340480512-340488649",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 82"
     },
     {
       "numero": "Capítulo 83",
-      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/3/b3bb846c33d1c589ba8038b031974348.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/83/s8/2/4/Q/j/q/4QjqA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=339023872-339031977",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 83"
     },
     {
       "numero": "Capítulo 84",
-      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/3/a2d49c5e3e02143e4890c30dda03ddc3.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/38/s8/2/C/R/j/q/CRjqA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=339460608-339468714",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 84"
     },
     {
       "numero": "Capítulo 85",
-      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/1/04c214e27b093e6f5cb5c03632c64596.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/0a/s8/2/O/R/j/q/ORjqA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=339908608-339916726",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 85"
     },
     {
       "numero": "Capítulo 86",
-      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/2/79792b7502e3c3c62d789884d6545af4.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/f4/s8/2/c/R/u/r/cRurA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=339247616-339255753",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 86"
     },
     {
       "numero": "Capítulo 87",
-      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/2/635bbebead87c4e6f239af1cb9632e24.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/02/s8/2/i/S/u/r/iSurA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=339899392-339907570",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 87"
     },
     {
       "numero": "Capítulo 88",
-      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/1/22985a6b1ae70d66ff9b2f521de448d3.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/65/s8/2/k/p/a/s/kpasA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=341648896-341657057",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 88"
     },
     {
       "numero": "Capítulo 89",
-      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/2/5bc1dfb3ed1e68c8c7d41539d28ff56b.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/1e/s8/2/a/n/A/t/anAtA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=343680512-343688711",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 89"
     },
     {
       "numero": "Capítulo 90",
-      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/1/12f5c87dcdfe6effc927c098b34a04e5.m3u8",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/84/s8/2/m/n/A/t/mnAtA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=344949248-344957483",
       "titulo": "Las de siempre",
       "subtitulo": "Capítulo 90"
     }
