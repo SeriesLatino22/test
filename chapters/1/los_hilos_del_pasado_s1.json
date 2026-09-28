@@ -6,14 +6,14 @@
   "capitulos": [
     {
       "numero": "Capítulo 1",
-      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/e0/s8/2/6/H/a/y/6HayA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1544727552-1544757967",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/e0/s8/2/6/H/a/y/6HayA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=395001344-395031429",
       "titulo": "Los hilos del pasado",
       "rumbleUrl": "https://rumble.com/v7bgc56-hilos-1.html",
       "subtitulo": "Los hilos del pasado"
     },
     {
       "numero": "Capítulo 2",
-      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/88/s8/2/2/H/a/y/2HayA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1383070208-1383097469",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/88/s8/2/2/H/a/y/2HayA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=353818624-353845603",
       "titulo": "Los hilos del pasado",
       "rumbleUrl": "https://rumble.com/v7bgc52-hilos-2.html",
       "subtitulo": "Los hilos del pasado"
@@ -244,7 +244,7 @@
     },
     {
       "numero": "Capítulo 35",
-      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/5f/s8/2/m/J/a/y/mJayA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1277231104-1277256202",
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/5f/s8/2/m/J/a/y/mJayA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=326928384-326953260",
       "titulo": "Los hilos del pasado",
       "rumbleUrl": "https://rumble.com/v7bgc7g-hilos-35.html",
       "subtitulo": "Los hilos del pasado"
