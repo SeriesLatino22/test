@@ -1,0 +1,782 @@
+{
+  "id": "la_cuaima_s1",
+  "titulo": "La Cuaima",
+  "subtitulo": "La Cuaima: Temporada 1",
+  "portada": "/posters/la_cuaima.webp",
+  "capitulos": [
+    {
+      "numero": "Capítulo 1",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTA1MjFf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 2",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTA1MTlf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 3",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTA1MThf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 4",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTA1MTRf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 5",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTA1MjBf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 6",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTEyNjBf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 7",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTEzMzVf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 8",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTE0NjNf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 9",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTE1MzBf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 10",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTE2Nzhf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 11",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTE5ODFf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 12",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTIwODZf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 13",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTIxMjZf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 14",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTIyMTBf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 15",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTIyMTRf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 16",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTIzOTZf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 17",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcxODEwODdf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 18",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcxODExNzdf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 19",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTI1OTNf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 20",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTI2NDZf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 21",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTI3MThf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 22",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTI3NTBf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 23",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTI3ODVf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 24",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTI4Nzlf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 25",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTMwNTBf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 26",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTMxMzNf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 27",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTMyMTlf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 28",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTMzMTFf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 29",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTM0MTFf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 30",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTM1ODRf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 31",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTM2NTdf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 32",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTM3MTlf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 33",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTM4NDBf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 34",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTM5MjRf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 35",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTQxMjVf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 36",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTQyMzBf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 37",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTQzMTBf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 38",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTQzODNf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 39",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTQ0ODBf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 40",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTQ2NzVf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 41",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTQ3ODRf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 42",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTQ4NjJf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 43",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTQ5NDBf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 44",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTUwNzlf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 45",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTUzNjBf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 46",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTUzODVf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 47",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTU0OTBf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 48",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTU1OTdf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 49",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTU2MDFf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 50",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTU5NTRf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 51",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTU5NTdf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 52",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTYwODFf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 53",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTYxNDlf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 54",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTYxNTJf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 55",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTY1MzFf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 56",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcxODEwMjVf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 57",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTY3MTNf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 58",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTY3NDVf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 59",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTY4MzFf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 60",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTcxMTVf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 61",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTcyNTlf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 62",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTczMDNf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 63",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTczMDZf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 64",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTc0NDFf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 65",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTc3MjFf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 66",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTc4ODdf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 67",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTc5MDRf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 68",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTc5NTBf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 69",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTc5OTZf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 70",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTgyNjRf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 71",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTg0MjRf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 72",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTg0OTJf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 73",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTg1NDlf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 74",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTg2NzBf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 75",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTg4NjNf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 76",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTkwMDJf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 77",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTkxMDhf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 78",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTkxMTBf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 79",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTkyOTRf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 80",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTk1OTdf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 81",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTk2MDlf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 82",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTk3MjVf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 83",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTk3ODFf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 84",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMTk4OThf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 85",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMjAxNjVf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 86",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMjAxOTBf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 87",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMjAyODhf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 88",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMjA0OTZf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 89",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMjA1MzVf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 90",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMjA3NDZf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 91",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMjA5MTRf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 92",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMjA5ODNf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 93",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMjExOTBf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 94",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMjEyMzZf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 95",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMjE0Mjhf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 96",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMjE0NTNf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 97",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMjE1NzNf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 98",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMjE3ODJf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 99",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMjE4NzNf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 100",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMjIwNDNf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 101",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMjIxNDhf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 102",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMjIyMzBf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 103",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMjI0MTdf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 104",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMjI0NzRf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 105",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMjI2ODJf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 106",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMjI3ODFf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 107",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMjI4NTRf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 108",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMjMwNTdf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 109",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMjMxMjZf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 110",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMjMzNzlf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 111",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMjM0MTlf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 112",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMjM0NTVf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 113",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMjM2Mjlf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 114",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMjM3MTRf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 115",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMjQwMjhf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 116",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMjQwNTFf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 117",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMjQwNThf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 118",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMjQyMDVf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 119",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMjQzMzdf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 120",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMjQ1Nzhf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 121",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMjQ2NzFf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 122",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMjQ2ODZf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 123",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMjQ4MTdf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 124",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMjQ4Mzlf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 125",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMjUxMzNf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 126",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMjUyMjVf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 127",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMjUyMjdf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 128",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMjU0MDVf?inline=1",
+      "rumbleUrl": ""
+    },
+    {
+      "numero": "Capítulo 129",
+      "titulo": "",
+      "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/MzZfOTcwMjU0NTVf?inline=1",
+      "rumbleUrl": ""
+    }
+  ]
+}
