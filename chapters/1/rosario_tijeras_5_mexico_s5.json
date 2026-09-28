@@ -1,206 +1,208 @@
 {
+  "id": "rosario_tijeras_5_mexico_s5",
   "titulo": "Rosario Tijeras 5 [México]",
-  "source_url": "",
+  "subtitulo": "Rosario Tijeras 5 [México]: Temporada 5",
+  "portada": "https://jsonoline-2ao.pages.dev/cdn/posters/rosa5.webp",
   "capitulos": [
     {
       "numero": "Capítulo 1",
-      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/85/s8/2/y/i/z/w/yizwA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=723527168-723554333",
-      "titulo": ""
+      "urlOkru": "https://app.latino7.com/playlist.php?video=https%3A%2F%2Fhugh.cdn.rumble.cloud%2Fvideo%2Ffwe2%2F85%2Fs8%2F2%2Fy%2Fi%2Fz%2Fw%2FyizwA.caa.tar",
+      "titulo": "Rosario Tijeras 5 [México]"
     },
     {
       "numero": "Capítulo 2",
-      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/0a/s8/2/I/i/z/w/IizwA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=731046912-731074367",
-      "titulo": ""
+      "urlOkru": "https://app.latino7.com/playlist.php?video=https%3A%2F%2Fhugh.cdn.rumble.cloud%2Fvideo%2Ffww1%2F0a%2Fs8%2F2%2FI%2Fi%2Fz%2Fw%2FIizwA.caa.tar",
+      "titulo": "Rosario Tijeras 5 [México]"
     },
     {
       "numero": "Capítulo 3",
-      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/60/s8/2/S/i/z/w/SizwA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=670807040-670832178",
-      "titulo": ""
+      "urlOkru": "https://app.latino7.com/playlist.php?video=https%3A%2F%2Fhugh.cdn.rumble.cloud%2Fvideo%2Ffww1%2F60%2Fs8%2F2%2FS%2Fi%2Fz%2Fw%2FSizwA.caa.tar",
+      "titulo": "Rosario Tijeras 5 [México]"
     },
     {
       "numero": "Capítulo 4",
-      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/54/s8/2/U/i/z/w/UizwA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=700914176-700940521",
-      "titulo": ""
+      "urlOkru": "https://app.latino7.com/playlist.php?video=https%3A%2F%2Fhugh.cdn.rumble.cloud%2Fvideo%2Ffwe2%2F54%2Fs8%2F2%2FU%2Fi%2Fz%2Fw%2FUizwA.caa.tar",
+      "titulo": "Rosario Tijeras 5 [México]"
     },
     {
       "numero": "Capítulo 5",
-      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/b7/s8/2/2/i/z/w/2izwA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=740599296-740627160",
-      "titulo": ""
+      "urlOkru": "https://app.latino7.com/playlist.php?video=https%3A%2F%2Fhugh.cdn.rumble.cloud%2Fvideo%2Ffww1%2Fb7%2Fs8%2F2%2F2%2Fi%2Fz%2Fw%2F2izwA.caa.tar",
+      "titulo": "Rosario Tijeras 5 [México]"
     },
     {
       "numero": "Capítulo 6",
-      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/6f/s8/2/y/k/z/w/ykzwA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=724873216-724900476",
-      "titulo": ""
+      "urlOkru": "https://app.latino7.com/playlist.php?video=https%3A%2F%2Fhugh.cdn.rumble.cloud%2Fvideo%2Ffwe2%2F6f%2Fs8%2F2%2Fy%2Fk%2Fz%2Fw%2FykzwA.caa.tar",
+      "titulo": "Rosario Tijeras 5 [México]"
     },
     {
       "numero": "Capítulo 7",
-      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/56/s8/2/S/k/z/w/SkzwA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=734857728-734885263",
-      "titulo": ""
+      "urlOkru": "https://app.latino7.com/playlist.php?video=https%3A%2F%2Fhugh.cdn.rumble.cloud%2Fvideo%2Ffwe2%2F56%2Fs8%2F2%2FS%2Fk%2Fz%2Fw%2FSkzwA.caa.tar",
+      "titulo": "Rosario Tijeras 5 [México]"
     },
     {
       "numero": "Capítulo 8",
-      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/e9/s8/2/8/t/z/w/8tzwA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=723658752-723685915",
-      "titulo": ""
+      "urlOkru": "https://app.latino7.com/playlist.php?video=https%3A%2F%2Fhugh.cdn.rumble.cloud%2Fvideo%2Ffww1%2Fe9%2Fs8%2F2%2F8%2Ft%2Fz%2Fw%2F8tzwA.caa.tar",
+      "titulo": "Rosario Tijeras 5 [México]"
     },
     {
       "numero": "Capítulo 9",
-      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/8b/s8/2/Y/u/z/w/YuzwA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=719787008-719814065",
-      "titulo": ""
+      "urlOkru": "https://app.latino7.com/playlist.php?video=https%3A%2F%2Fhugh.cdn.rumble.cloud%2Fvideo%2Ffwe2%2F8b%2Fs8%2F2%2FY%2Fu%2Fz%2Fw%2FYuzwA.caa.tar",
+      "titulo": "Rosario Tijeras 5 [México]"
     },
     {
       "numero": "Capítulo 10",
-      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/b6/s8/2/c/v/z/w/cvzwA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=750985216-751013370",
-      "titulo": ""
+      "urlOkru": "https://app.latino7.com/playlist.php?video=https%3A%2F%2Fhugh.cdn.rumble.cloud%2Fvideo%2Ffwe2%2Fb6%2Fs8%2F2%2Fc%2Fv%2Fz%2Fw%2FcvzwA.caa.tar",
+      "titulo": "Rosario Tijeras 5 [México]"
     },
     {
       "numero": "Capítulo 11",
-      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/b1/s8/2/o/l/z/w/olzwA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=744495104-744523047",
-      "titulo": ""
+      "urlOkru": "https://app.latino7.com/playlist.php?video=https%3A%2F%2Fhugh.cdn.rumble.cloud%2Fvideo%2Ffwe2%2Fb1%2Fs8%2F2%2Fo%2Fl%2Fz%2Fw%2FolzwA.caa.tar",
+      "titulo": "Rosario Tijeras 5 [México]"
     },
     {
       "numero": "Capítulo 12",
-      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/a9/s8/2/o/o/z/w/oozwA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=722114560-722141720",
-      "titulo": ""
+      "urlOkru": "https://app.latino7.com/playlist.php?video=https%3A%2F%2Fhugh.cdn.rumble.cloud%2Fvideo%2Ffww1%2Fa9%2Fs8%2F2%2Fo%2Fo%2Fz%2Fw%2FoozwA.caa.tar",
+      "titulo": "Rosario Tijeras 5 [México]"
     },
     {
       "numero": "Capítulo 13",
-      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/5a/s8/2/i/p/z/w/ipzwA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=723456512-723483667",
-      "titulo": ""
+      "urlOkru": "https://app.latino7.com/playlist.php?video=https%3A%2F%2Fhugh.cdn.rumble.cloud%2Fvideo%2Ffwe2%2F5a%2Fs8%2F2%2Fi%2Fp%2Fz%2Fw%2FipzwA.caa.tar",
+      "titulo": "Rosario Tijeras 5 [México]"
     },
     {
       "numero": "Capítulo 14",
-      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/32/s8/2/o/p/z/w/opzwA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=724062208-724089361",
-      "titulo": ""
+      "urlOkru": "https://app.latino7.com/playlist.php?video=https%3A%2F%2Fhugh.cdn.rumble.cloud%2Fvideo%2Ffwe2%2F32%2Fs8%2F2%2Fo%2Fp%2Fz%2Fw%2FopzwA.caa.tar",
+      "titulo": "Rosario Tijeras 5 [México]"
     },
     {
       "numero": "Capítulo 15",
-      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/97/s8/2/Y/p/z/w/YpzwA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=724372480-724399724",
-      "titulo": ""
+      "urlOkru": "https://app.latino7.com/playlist.php?video=https%3A%2F%2Fhugh.cdn.rumble.cloud%2Fvideo%2Ffwe2%2F97%2Fs8%2F2%2FY%2Fp%2Fz%2Fw%2FYpzwA.caa.tar",
+      "titulo": "Rosario Tijeras 5 [México]"
     },
     {
       "numero": "Capítulo 16",
-      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/58/s8/2/C/z/Y/z/CzYzA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=726611968-726639219",
-      "titulo": ""
+      "urlOkru": "https://app.latino7.com/playlist.php?video=https%3A%2F%2Fhugh.cdn.rumble.cloud%2Fvideo%2Ffww1%2F58%2Fs8%2F2%2FC%2Fz%2FY%2Fz%2FCzYzA.caa.tar",
+      "titulo": "Rosario Tijeras 5 [México]"
     },
     {
       "numero": "Capítulo 17",
-      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/c4/s8/2/Y/z/Y/z/YzYzA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=730573312-730600773",
-      "titulo": ""
+      "urlOkru": "https://app.latino7.com/playlist.php?video=https%3A%2F%2Fhugh.cdn.rumble.cloud%2Fvideo%2Ffwe2%2Fc4%2Fs8%2F2%2FY%2Fz%2FY%2Fz%2FYzYzA.caa.tar",
+      "titulo": "Rosario Tijeras 5 [México]"
     },
     {
       "numero": "Capítulo 18",
-      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/e9/s8/2/0/z/Y/z/0zYzA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=723048960-723076197",
-      "titulo": ""
+      "urlOkru": "https://app.latino7.com/playlist.php?video=https%3A%2F%2Fhugh.cdn.rumble.cloud%2Fvideo%2Ffwe2%2Fe9%2Fs8%2F2%2F0%2Fz%2FY%2Fz%2F0zYzA.caa.tar",
+      "titulo": "Rosario Tijeras 5 [México]"
     },
     {
       "numero": "Capítulo 19",
-      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/43/s8/2/6/z/Y/z/6zYzA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=726371840-726399183",
-      "titulo": ""
+      "urlOkru": "https://app.latino7.com/playlist.php?video=https%3A%2F%2Fhugh.cdn.rumble.cloud%2Fvideo%2Ffwe2%2F43%2Fs8%2F2%2F6%2Fz%2FY%2Fz%2F6zYzA.caa.tar",
+      "titulo": "Rosario Tijeras 5 [México]"
     },
     {
       "numero": "Capítulo 20",
-      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/d2/s8/2/8/z/Y/z/8zYzA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=719919104-719946145",
-      "titulo": ""
+      "urlOkru": "https://app.latino7.com/playlist.php?video=https%3A%2F%2Fhugh.cdn.rumble.cloud%2Fvideo%2Ffwe2%2Fd2%2Fs8%2F2%2F8%2Fz%2FY%2Fz%2F8zYzA.caa.tar",
+      "titulo": "Rosario Tijeras 5 [México]"
     },
     {
       "numero": "Capítulo 21",
-      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/aa/s8/2/m/F/Y/z/mFYzA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=723546624-723573775",
-      "titulo": ""
+      "urlOkru": "https://app.latino7.com/playlist.php?video=https%3A%2F%2Fhugh.cdn.rumble.cloud%2Fvideo%2Ffww1%2Faa%2Fs8%2F2%2Fm%2FF%2FY%2Fz%2FmFYzA.caa.tar",
+      "titulo": "Rosario Tijeras 5 [México]"
     },
     {
       "numero": "Capítulo 22",
-      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/e6/s8/2/e/G/Y/z/eGYzA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=724619776-724647039",
-      "titulo": ""
+      "urlOkru": "https://app.latino7.com/playlist.php?video=https%3A%2F%2Fhugh.cdn.rumble.cloud%2Fvideo%2Ffwe2%2Fe6%2Fs8%2F2%2Fe%2FG%2FY%2Fz%2FeGYzA.caa.tar",
+      "titulo": "Rosario Tijeras 5 [México]"
     },
     {
       "numero": "Capítulo 23",
-      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/36/s8/2/i/G/Y/z/iGYzA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=724801536-724828786",
-      "titulo": ""
+      "urlOkru": "https://app.latino7.com/playlist.php?video=https%3A%2F%2Fhugh.cdn.rumble.cloud%2Fvideo%2Ffww1%2F36%2Fs8%2F2%2Fi%2FG%2FY%2Fz%2FiGYzA.caa.tar",
+      "titulo": "Rosario Tijeras 5 [México]"
     },
     {
       "numero": "Capítulo 24",
-      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/45/s8/2/o/G/Y/z/oGYzA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=731628544-731656111",
-      "titulo": ""
+      "urlOkru": "https://app.latino7.com/playlist.php?video=https%3A%2F%2Fhugh.cdn.rumble.cloud%2Fvideo%2Ffwe2%2F45%2Fs8%2F2%2Fo%2FG%2FY%2Fz%2FoGYzA.caa.tar",
+      "titulo": "Rosario Tijeras 5 [México]"
     },
     {
       "numero": "Capítulo 25",
-      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/e9/s8/2/q/G/Y/z/qGYzA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=724964864-724992127",
-      "titulo": ""
+      "urlOkru": "https://app.latino7.com/playlist.php?video=https%3A%2F%2Fhugh.cdn.rumble.cloud%2Fvideo%2Ffww1%2Fe9%2Fs8%2F2%2Fq%2FG%2FY%2Fz%2FqGYzA.caa.tar",
+      "titulo": "Rosario Tijeras 5 [México]"
     },
     {
       "numero": "Capítulo 26",
-      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/a4/s8/2/u/L/Y/z/uLYzA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=735834112-735861781",
-      "titulo": ""
+      "urlOkru": "https://app.latino7.com/playlist.php?video=https%3A%2F%2Fhugh.cdn.rumble.cloud%2Fvideo%2Ffwe2%2Fa4%2Fs8%2F2%2Fu%2FL%2FY%2Fz%2FuLYzA.caa.tar",
+      "titulo": "Rosario Tijeras 5 [México]"
     },
     {
       "numero": "Capítulo 27",
-      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/2c/s8/2/G/L/Y/z/GLYzA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=747056128-747084191",
-      "titulo": ""
+      "urlOkru": "https://app.latino7.com/playlist.php?video=https%3A%2F%2Fhugh.cdn.rumble.cloud%2Fvideo%2Ffwe2%2F2c%2Fs8%2F2%2FG%2FL%2FY%2Fz%2FGLYzA.caa.tar",
+      "titulo": "Rosario Tijeras 5 [México]"
     },
     {
       "numero": "Capítulo 28",
-      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/1c/s8/2/A/L/Y/z/ALYzA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=728461312-728488677",
-      "titulo": ""
+      "urlOkru": "https://app.latino7.com/playlist.php?video=https%3A%2F%2Fhugh.cdn.rumble.cloud%2Fvideo%2Ffwe2%2F1c%2Fs8%2F2%2FA%2FL%2FY%2Fz%2FALYzA.caa.tar",
+      "titulo": "Rosario Tijeras 5 [México]"
     },
     {
       "numero": "Capítulo 29",
-      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/de/s8/2/C/L/Y/z/CLYzA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=721951232-721978390",
-      "titulo": ""
+      "urlOkru": "https://app.latino7.com/playlist.php?video=https%3A%2F%2Fhugh.cdn.rumble.cloud%2Fvideo%2Ffww1%2Fde%2Fs8%2F2%2FC%2FL%2FY%2Fz%2FCLYzA.caa.tar",
+      "titulo": "Rosario Tijeras 5 [México]"
     },
     {
       "numero": "Capítulo 30",
-      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/9f/s8/2/I/L/Y/z/ILYzA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=736360448-736388096",
-      "titulo": ""
+      "urlOkru": "https://app.latino7.com/playlist.php?video=https%3A%2F%2Fhugh.cdn.rumble.cloud%2Fvideo%2Ffww1%2F9f%2Fs8%2F2%2FI%2FL%2FY%2Fz%2FILYzA.caa.tar",
+      "titulo": "Rosario Tijeras 5 [México]"
     },
     {
       "numero": "Capítulo 31",
-      "urlOkru": "https://1a-1791.com/video/fww1/45/s8/2/-/W/0/B/-W0BA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=740516352-740544104",
-      "titulo": ""
+      "urlOkru": "https://app.latino7.com/playlist.php?video=https%3A%2F%2F1a-1791.com%2Fvideo%2Ffww1%2F45%2Fs8%2F2%2F-%2FW%2F0%2FB%2F-W0BA.caa.tar",
+      "titulo": "Rosario Tijeras 5 [México]"
     },
     {
       "numero": "Capítulo 32",
-      "urlOkru": "https://1a-1791.com/video/fww1/58/s8/2/u/X/0/B/uX0BA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=728948224-728975675",
-      "titulo": ""
+      "urlOkru": "https://app.latino7.com/playlist.php?video=https%3A%2F%2F1a-1791.com%2Fvideo%2Ffww1%2F58%2Fs8%2F2%2Fu%2FX%2F0%2FB%2FuX0BA.caa.tar",
+      "titulo": "Rosario Tijeras 5 [México]"
     },
     {
       "numero": "Capítulo 33",
-      "urlOkru": "https://1a-1791.com/video/fwe2/d7/s8/2/Y/X/0/B/YX0BA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=725895168-725922409",
-      "titulo": ""
+      "urlOkru": "https://app.latino7.com/playlist.php?video=https%3A%2F%2F1a-1791.com%2Fvideo%2Ffwe2%2Fd7%2Fs8%2F2%2FY%2FX%2F0%2FB%2FYX0BA.caa.tar",
+      "titulo": "Rosario Tijeras 5 [México]"
     },
     {
       "numero": "Capítulo 34",
-      "urlOkru": "https://1a-1791.com/video/fww1/41/s8/2/a/Y/0/B/aY0BA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=746824704-746852867",
-      "titulo": ""
+      "urlOkru": "https://app.latino7.com/playlist.php?video=https%3A%2F%2F1a-1791.com%2Fvideo%2Ffww1%2F41%2Fs8%2F2%2Fa%2FY%2F0%2FB%2FaY0BA.caa.tar",
+      "titulo": "Rosario Tijeras 5 [México]"
     },
     {
       "numero": "Capítulo 35",
-      "urlOkru": "https://1a-1791.com/video/fwe2/d4/s8/2/g/Y/0/B/gY0BA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=740706816-740734672",
-      "titulo": ""
+      "urlOkru": "https://app.latino7.com/playlist.php?video=https%3A%2F%2F1a-1791.com%2Fvideo%2Ffwe2%2Fd4%2Fs8%2F2%2Fg%2FY%2F0%2FB%2FgY0BA.caa.tar",
+      "titulo": "Rosario Tijeras 5 [México]"
     },
     {
       "numero": "Capítulo 36",
-      "urlOkru": "https://1a-1791.com/video/fwe2/32/s8/2/o/Y/0/B/oY0BA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=748566016-748594188",
-      "titulo": ""
+      "urlOkru": "https://app.latino7.com/playlist.php?video=https%3A%2F%2F1a-1791.com%2Fvideo%2Ffwe2%2F32%2Fs8%2F2%2Fo%2FY%2F0%2FB%2FoY0BA.caa.tar",
+      "titulo": "Rosario Tijeras 5 [México]"
     },
     {
       "numero": "Capítulo 37",
-      "urlOkru": "https://1a-1791.com/video/fwe2/ad/s8/2/-/Y/0/B/-Y0BA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=727330304-727357660",
-      "titulo": ""
+      "urlOkru": "https://app.latino7.com/playlist.php?video=https%3A%2F%2F1a-1791.com%2Fvideo%2Ffwe2%2Fad%2Fs8%2F2%2F-%2FY%2F0%2FB%2F-Y0BA.caa.tar",
+      "titulo": "Rosario Tijeras 5 [México]"
     },
     {
       "numero": "Capítulo 38",
-      "urlOkru": "https://1a-1791.com/video/fwe2/26/s8/2/y/Z/0/B/yZ0BA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=718452736-718479694",
-      "titulo": ""
+      "urlOkru": "https://app.latino7.com/playlist.php?video=https%3A%2F%2F1a-1791.com%2Fvideo%2Ffwe2%2F26%2Fs8%2F2%2Fy%2FZ%2F0%2FB%2FyZ0BA.caa.tar",
+      "titulo": "Rosario Tijeras 5 [México]"
     },
     {
       "numero": "Capítulo 39",
-      "urlOkru": "https://1a-1791.com/video/fww1/67/s8/2/c/1/0/B/c10BA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=362597888-362625444",
-      "titulo": ""
+      "urlOkru": "https://app.latino7.com/playlist.php?video=https%3A%2F%2F1a-1791.com%2Fvideo%2Ffww1%2F67%2Fs8%2F2%2Fc%2F1%2F0%2FB%2Fc10BA.caa.tar",
+      "titulo": "Rosario Tijeras 5 [México]"
     },
     {
       "numero": "Capítulo 40 Final",
-      "urlOkru": "https://1a-1791.com/video/fwe2/91/s8/2/m/1/0/B/m10BA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=357780992-357808167",
-      "titulo": ""
+      "urlOkru": "https://app.latino7.com/playlist.php?video=https%3A%2F%2F1a-1791.com%2Fvideo%2Ffwe2%2F91%2Fs8%2F2%2Fm%2F1%2F0%2FB%2Fm10BA.caa.tar",
+      "titulo": "Rosario Tijeras 5 [México]"
     }
   ]
 }
