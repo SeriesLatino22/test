@@ -7,52 +7,62 @@
     {
       "numero": "Capítulo 1",
       "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/ODNfMzU3MjI1ODNf?inline=1",
-      "titulo": ""
+      "titulo": "",
+      "subtitulo": "Capítulo 1"
     },
     {
       "numero": "Capítulo 2",
       "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/ODNfMzU3MjI1MDNf?inline=1",
-      "titulo": ""
+      "titulo": "",
+      "subtitulo": "Capítulo 2"
     },
     {
       "numero": "Capítulo 3",
       "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/ODNfMzU3MjI1ODRf?inline=1",
-      "titulo": ""
+      "titulo": "",
+      "subtitulo": "Capítulo 3"
     },
     {
       "numero": "Capítulo 4",
       "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/ODNfMzU3MjI1ODVf?inline=1",
-      "titulo": ""
+      "titulo": "",
+      "subtitulo": "Capítulo 4"
     },
     {
       "numero": "Capítulo 5",
       "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/ODNfMzU3MjI1MDVf?inline=1",
-      "titulo": ""
+      "titulo": "",
+      "subtitulo": "Capítulo 5"
     },
     {
       "numero": "Capítulo 6",
       "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/ODNfMzU3MjI1MDRf?inline=1",
-      "titulo": ""
+      "titulo": "",
+      "subtitulo": "Capítulo 6"
     },
     {
       "numero": "Capítulo 7",
       "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/ODNfMzU3MjI1ODdf?inline=1",
-      "titulo": ""
+      "titulo": "",
+      "subtitulo": "Capítulo 7"
     },
     {
       "numero": "Capítulo 8",
       "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/ODNfMzU3MjI1ODlf?inline=1",
-      "titulo": ""
+      "titulo": "",
+      "subtitulo": "Capítulo 8"
     },
     {
       "numero": "Capítulo 9",
       "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/ODNfMzU3MjI1ODhf?inline=1",
-      "titulo": ""
+      "titulo": "",
+      "subtitulo": "Capítulo 9"
     },
     {
       "numero": "Capítulo 10",
       "urlOkru": "https://web.opendrive.com/api/v1/download/file.json/ODNfMzU3MjI1ODZf?inline=1",
-      "titulo": ""
+      "titulo": "",
+      "subtitulo": "Capítulo 10"
     }
   ]
 }

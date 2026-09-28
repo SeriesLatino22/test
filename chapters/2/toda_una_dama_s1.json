@@ -3,737 +3,884 @@
     {
       "numero": "Capítulo 1",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-la-visita-s1-ep1",
-      "titulo": "La Visita"
+      "titulo": "La Visita",
+      "subtitulo": "Capítulo 1"
     },
     {
       "numero": "Capítulo 2",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-hospital-s1-ep2",
-      "titulo": "Hospital"
+      "titulo": "Hospital",
+      "subtitulo": "Capítulo 2"
     },
     {
       "numero": "Capítulo 3",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-ceguera-s1-ep3",
-      "titulo": "Ceguera"
+      "titulo": "Ceguera",
+      "subtitulo": "Capítulo 3"
     },
     {
       "numero": "Capítulo 4",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-hija-s1-ep4",
-      "titulo": "¿Hija?"
+      "titulo": "¿Hija?",
+      "subtitulo": "Capítulo 4"
     },
     {
       "numero": "Capítulo 5",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-les-robaron-s1-ep5",
-      "titulo": "Les Robaron"
+      "titulo": "Les Robaron",
+      "subtitulo": "Capítulo 5"
     },
     {
       "numero": "Capítulo 6",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-el-hombre-que-odia-s1-ep6",
-      "titulo": "El Hombre Que Odia"
+      "titulo": "El Hombre Que Odia",
+      "subtitulo": "Capítulo 6"
     },
     {
       "numero": "Capítulo 7",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-engano-s1-ep7",
-      "titulo": "Engaño"
+      "titulo": "Engaño",
+      "subtitulo": "Capítulo 7"
     },
     {
       "numero": "Capítulo 8",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-la-carta-s1-ep8",
-      "titulo": "La Carta"
+      "titulo": "La Carta",
+      "subtitulo": "Capítulo 8"
     },
     {
       "numero": "Capítulo 9",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-amenaza-s1-ep9",
-      "titulo": "Amenaza"
+      "titulo": "Amenaza",
+      "subtitulo": "Capítulo 9"
     },
     {
       "numero": "Capítulo 10",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-el-beso-s1-ep10",
-      "titulo": "El Beso"
+      "titulo": "El Beso",
+      "subtitulo": "Capítulo 10"
     },
     {
       "numero": "Capítulo 11",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-madre-s1-ep11",
-      "titulo": "Madre"
+      "titulo": "Madre",
+      "subtitulo": "Capítulo 11"
     },
     {
       "numero": "Capítulo 12",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-choque-s1-ep12",
-      "titulo": "Choque"
+      "titulo": "Choque",
+      "subtitulo": "Capítulo 12"
     },
     {
       "numero": "Capítulo 13",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-atropello-s1-ep13",
-      "titulo": "Atropello"
+      "titulo": "Atropello",
+      "subtitulo": "Capítulo 13"
     },
     {
       "numero": "Capítulo 14",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-juro-venganza-s1-ep14",
-      "titulo": "Juro Venganza"
+      "titulo": "Juro Venganza",
+      "subtitulo": "Capítulo 14"
     },
     {
       "numero": "Capítulo 15",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-a-su-lado-s1-ep15",
-      "titulo": "A Su Lado"
+      "titulo": "A Su Lado",
+      "subtitulo": "Capítulo 15"
     },
     {
       "numero": "Capítulo 16",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-ignacio-s1-ep16",
-      "titulo": "Ignacio"
+      "titulo": "Ignacio",
+      "subtitulo": "Capítulo 16"
     },
     {
       "numero": "Capítulo 17",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-visita-sorpresa-s1-ep17",
-      "titulo": "Visita Sorpresa"
+      "titulo": "Visita Sorpresa",
+      "subtitulo": "Capítulo 17"
     },
     {
       "numero": "Capítulo 18",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-astrologo-s1-ep18",
-      "titulo": "Astrólogo"
+      "titulo": "Astrólogo",
+      "subtitulo": "Capítulo 18"
     },
     {
       "numero": "Capítulo 19",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-investigacion-s1-ep19",
-      "titulo": "Investigación"
+      "titulo": "Investigación",
+      "subtitulo": "Capítulo 19"
     },
     {
       "numero": "Capítulo 20",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-ana-lucia-torres-s1-ep20",
-      "titulo": "Ana Lucía Torres"
+      "titulo": "Ana Lucía Torres",
+      "subtitulo": "Capítulo 20"
     },
     {
       "numero": "Capítulo 21",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-razon-de-vivir-s1-ep21",
-      "titulo": "Razón de Vivir"
+      "titulo": "Razón de Vivir",
+      "subtitulo": "Capítulo 21"
     },
     {
       "numero": "Capítulo 22",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-el-papel-s1-ep22",
-      "titulo": "El Papel"
+      "titulo": "El Papel",
+      "subtitulo": "Capítulo 22"
     },
     {
       "numero": "Capítulo 23",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-relaciones-comerciales-s1-ep23",
-      "titulo": "Relaciones Comerciales"
+      "titulo": "Relaciones Comerciales",
+      "subtitulo": "Capítulo 23"
     },
     {
       "numero": "Capítulo 24",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-zona-peligrosa-s1-ep24",
-      "titulo": "Zona Peligrosa"
+      "titulo": "Zona Peligrosa",
+      "subtitulo": "Capítulo 24"
     },
     {
       "numero": "Capítulo 25",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-el-vestido-s1-ep25",
-      "titulo": "El Vestido"
+      "titulo": "El Vestido",
+      "subtitulo": "Capítulo 25"
     },
     {
       "numero": "Capítulo 26",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-venganza-planificada-s1-ep26",
-      "titulo": "Venganza Planificada"
+      "titulo": "Venganza Planificada",
+      "subtitulo": "Capítulo 26"
     },
     {
       "numero": "Capítulo 27",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-divorcio-s1-ep27",
-      "titulo": "Divorcio"
+      "titulo": "Divorcio",
+      "subtitulo": "Capítulo 27"
     },
     {
       "numero": "Capítulo 28",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-olvidar-s1-ep28",
-      "titulo": "Olvidar"
+      "titulo": "Olvidar",
+      "subtitulo": "Capítulo 28"
     },
     {
       "numero": "Capítulo 29",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-la-sirvienta-s1-ep29",
-      "titulo": "La Sirvienta"
+      "titulo": "La Sirvienta",
+      "subtitulo": "Capítulo 29"
     },
     {
       "numero": "Capítulo 30",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-preocupado-s1-ep30",
-      "titulo": "Preocupado"
+      "titulo": "Preocupado",
+      "subtitulo": "Capítulo 30"
     },
     {
       "numero": "Capítulo 31",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-el-broche-s1-ep31",
-      "titulo": "El Broche"
+      "titulo": "El Broche",
+      "subtitulo": "Capítulo 31"
     },
     {
       "numero": "Capítulo 32",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-la-piscina-s1-ep32",
-      "titulo": "La Piscina"
+      "titulo": "La Piscina",
+      "subtitulo": "Capítulo 32"
     },
     {
       "numero": "Capítulo 33",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-radiante-s1-ep33",
-      "titulo": "Radiante"
+      "titulo": "Radiante",
+      "subtitulo": "Capítulo 33"
     },
     {
       "numero": "Capítulo 34",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-ana-y-miguel-s1-ep34",
-      "titulo": "Ana Y Miguel"
+      "titulo": "Ana Y Miguel",
+      "subtitulo": "Capítulo 34"
     },
     {
       "numero": "Capítulo 35",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-imperio-y-miguel-s1-ep35",
-      "titulo": "Imperio Y Miguel"
+      "titulo": "Imperio Y Miguel",
+      "subtitulo": "Capítulo 35"
     },
     {
       "numero": "Capítulo 36",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-matrimonio-s1-ep36",
-      "titulo": "Matrimonio"
+      "titulo": "Matrimonio",
+      "subtitulo": "Capítulo 36"
     },
     {
       "numero": "Capítulo 37",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-abogado-s1-ep37",
-      "titulo": "Abogado"
+      "titulo": "Abogado",
+      "subtitulo": "Capítulo 37"
     },
     {
       "numero": "Capítulo 38",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-ramo-de-flores-s1-ep38",
-      "titulo": "Ramo de Flores"
+      "titulo": "Ramo de Flores",
+      "subtitulo": "Capítulo 38"
     },
     {
       "numero": "Capítulo 39",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-pistas-s1-ep39",
-      "titulo": "Pistas"
+      "titulo": "Pistas",
+      "subtitulo": "Capítulo 39"
     },
     {
       "numero": "Capítulo 40",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-miranda-s1-ep40",
-      "titulo": "Miranda"
+      "titulo": "Miranda",
+      "subtitulo": "Capítulo 40"
     },
     {
       "numero": "Capítulo 41",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-asma-s1-ep41",
-      "titulo": "Asma"
+      "titulo": "Asma",
+      "subtitulo": "Capítulo 41"
     },
     {
       "numero": "Capítulo 42",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-detencion-s1-ep42",
-      "titulo": "Detención"
+      "titulo": "Detención",
+      "subtitulo": "Capítulo 42"
     },
     {
       "numero": "Capítulo 43",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-el-trato-s1-ep43",
-      "titulo": "El Trato"
+      "titulo": "El Trato",
+      "subtitulo": "Capítulo 43"
     },
     {
       "numero": "Capítulo 44",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-la-verdad-s1-ep44",
-      "titulo": "La Verdad"
+      "titulo": "La Verdad",
+      "subtitulo": "Capítulo 44"
     },
     {
       "numero": "Capítulo 45",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-visita-s1-ep45",
-      "titulo": "Visita"
+      "titulo": "Visita",
+      "subtitulo": "Capítulo 45"
     },
     {
       "numero": "Capítulo 46",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-atando-cabos-s1-ep46",
-      "titulo": "Atando Cabos"
+      "titulo": "Atando Cabos",
+      "subtitulo": "Capítulo 46"
     },
     {
       "numero": "Capítulo 47",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-miguel-e-imperio-s1-ep47",
-      "titulo": "Miguel E Imperio"
+      "titulo": "Miguel E Imperio",
+      "subtitulo": "Capítulo 47"
     },
     {
       "numero": "Capítulo 48",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-culpable-s1-ep48",
-      "titulo": "Culpable"
+      "titulo": "Culpable",
+      "subtitulo": "Capítulo 48"
     },
     {
       "numero": "Capítulo 49",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-descubierta-s1-ep49",
-      "titulo": "Descubierta"
+      "titulo": "Descubierta",
+      "subtitulo": "Capítulo 49"
     },
     {
       "numero": "Capítulo 50",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-cementerio-s1-ep50",
-      "titulo": "Cementerio"
+      "titulo": "Cementerio",
+      "subtitulo": "Capítulo 50"
     },
     {
       "numero": "Capítulo 51",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-adicora-s1-ep51",
-      "titulo": "Adícora"
+      "titulo": "Adícora",
+      "subtitulo": "Capítulo 51"
     },
     {
       "numero": "Capítulo 52",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-soborno-s1-ep52",
-      "titulo": "Soborno"
+      "titulo": "Soborno",
+      "subtitulo": "Capítulo 52"
     },
     {
       "numero": "Capítulo 53",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-secreto-s1-ep53",
-      "titulo": "Secreto"
+      "titulo": "Secreto",
+      "subtitulo": "Capítulo 53"
     },
     {
       "numero": "Capítulo 54",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-ayuda-s1-ep54",
-      "titulo": "Ayuda"
+      "titulo": "Ayuda",
+      "subtitulo": "Capítulo 54"
     },
     {
       "numero": "Capítulo 55",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-hermanas-s1-ep55",
-      "titulo": "¿Hermanas?"
+      "titulo": "¿Hermanas?",
+      "subtitulo": "Capítulo 55"
     },
     {
       "numero": "Capítulo 56",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-odio-s1-ep56",
-      "titulo": "Odio"
+      "titulo": "Odio",
+      "subtitulo": "Capítulo 56"
     },
     {
       "numero": "Capítulo 57",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-hijo-s1-ep57",
-      "titulo": "Hijo"
+      "titulo": "Hijo",
+      "subtitulo": "Capítulo 57"
     },
     {
       "numero": "Capítulo 58",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-una-oportunidad-s1-ep58",
-      "titulo": "Una Oportunidad"
+      "titulo": "Una Oportunidad",
+      "subtitulo": "Capítulo 58"
     },
     {
       "numero": "Capítulo 59",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-interrogatorio-s1-ep59",
-      "titulo": "Interrogatorio"
+      "titulo": "Interrogatorio",
+      "subtitulo": "Capítulo 59"
     },
     {
       "numero": "Capítulo 60",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-retenida-s1-ep60",
-      "titulo": "Retenida"
+      "titulo": "Retenida",
+      "subtitulo": "Capítulo 60"
     },
     {
       "numero": "Capítulo 61",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-siempre-juntas-s1-ep61",
-      "titulo": "Siempre Juntas"
+      "titulo": "Siempre Juntas",
+      "subtitulo": "Capítulo 61"
     },
     {
       "numero": "Capítulo 62",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-carino-de-madre-s1-ep62",
-      "titulo": "Cariño de Madre"
+      "titulo": "Cariño de Madre",
+      "subtitulo": "Capítulo 62"
     },
     {
       "numero": "Capítulo 63",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-abandono-s1-ep63",
-      "titulo": "Abandono"
+      "titulo": "Abandono",
+      "subtitulo": "Capítulo 63"
     },
     {
       "numero": "Capítulo 64",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-esta-muerta-s1-ep64",
-      "titulo": "¿Está Muerta?"
+      "titulo": "¿Está Muerta?",
+      "subtitulo": "Capítulo 64"
     },
     {
       "numero": "Capítulo 65",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-la-ambulancia-s1-ep65",
-      "titulo": "La Ambulancia"
+      "titulo": "La Ambulancia",
+      "subtitulo": "Capítulo 65"
     },
     {
       "numero": "Capítulo 66",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-el-cuerpo-s1-ep66",
-      "titulo": "El Cuerpo"
+      "titulo": "El Cuerpo",
+      "subtitulo": "Capítulo 66"
     },
     {
       "numero": "Capítulo 67",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-malas-noticias-s1-ep67",
-      "titulo": "Malas Noticias"
+      "titulo": "Malas Noticias",
+      "subtitulo": "Capítulo 67"
     },
     {
       "numero": "Capítulo 68",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-grave-s1-ep68",
-      "titulo": "Grave"
+      "titulo": "Grave",
+      "subtitulo": "Capítulo 68"
     },
     {
       "numero": "Capítulo 69",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-daniel-s1-ep69",
-      "titulo": "Daniel"
+      "titulo": "Daniel",
+      "subtitulo": "Capítulo 69"
     },
     {
       "numero": "Capítulo 70",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-la-leona-s1-ep70",
-      "titulo": "La Leona"
+      "titulo": "La Leona",
+      "subtitulo": "Capítulo 70"
     },
     {
       "numero": "Capítulo 71",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-en-defensa-s1-ep71",
-      "titulo": "En Defensa"
+      "titulo": "En Defensa",
+      "subtitulo": "Capítulo 71"
     },
     {
       "numero": "Capítulo 72",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-alejandra-s1-ep72",
-      "titulo": "Alejandra"
+      "titulo": "Alejandra",
+      "subtitulo": "Capítulo 72"
     },
     {
       "numero": "Capítulo 73",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-viaje-s1-ep73",
-      "titulo": "Viaje"
+      "titulo": "Viaje",
+      "subtitulo": "Capítulo 73"
     },
     {
       "numero": "Capítulo 74",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-dolor-de-cabeza-s1-ep74",
-      "titulo": "Dolor de Cabeza"
+      "titulo": "Dolor de Cabeza",
+      "subtitulo": "Capítulo 74"
     },
     {
       "numero": "Capítulo 75",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-proyectos-ambiciosos-s1-ep75",
-      "titulo": "Proyectos Ambiciosos"
+      "titulo": "Proyectos Ambiciosos",
+      "subtitulo": "Capítulo 75"
     },
     {
       "numero": "Capítulo 76",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-la-tia-de-eloy-s1-ep76",
-      "titulo": "La Tía de Eloy"
+      "titulo": "La Tía de Eloy",
+      "subtitulo": "Capítulo 76"
     },
     {
       "numero": "Capítulo 77",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-habitacion-de-hotel-s1-ep77",
-      "titulo": "Habitación de Hotel"
+      "titulo": "Habitación de Hotel",
+      "subtitulo": "Capítulo 77"
     },
     {
       "numero": "Capítulo 78",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-traslado-s1-ep78",
-      "titulo": "Traslado"
+      "titulo": "Traslado",
+      "subtitulo": "Capítulo 78"
     },
     {
       "numero": "Capítulo 79",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-averiguacion-s1-ep79",
-      "titulo": "Averiguación"
+      "titulo": "Averiguación",
+      "subtitulo": "Capítulo 79"
     },
     {
       "numero": "Capítulo 80",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-caso-omiso-s1-ep80",
-      "titulo": "Caso Omiso"
+      "titulo": "Caso Omiso",
+      "subtitulo": "Capítulo 80"
     },
     {
       "numero": "Capítulo 81",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-toda-una-dama-s1-ep81",
-      "titulo": "Toda Una Dama"
+      "titulo": "Toda Una Dama",
+      "subtitulo": "Capítulo 81"
     },
     {
       "numero": "Capítulo 82",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-acepto-s1-ep82",
-      "titulo": "Acepto"
+      "titulo": "Acepto",
+      "subtitulo": "Capítulo 82"
     },
     {
       "numero": "Capítulo 83",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-trujillo-s1-ep83",
-      "titulo": "Trujillo"
+      "titulo": "Trujillo",
+      "subtitulo": "Capítulo 83"
     },
     {
       "numero": "Capítulo 84",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-habra-boda-s1-ep84",
-      "titulo": "¿Habrá Boda?"
+      "titulo": "¿Habrá Boda?",
+      "subtitulo": "Capítulo 84"
     },
     {
       "numero": "Capítulo 85",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-mentirosas-s1-ep85",
-      "titulo": "Mentirosas"
+      "titulo": "Mentirosas",
+      "subtitulo": "Capítulo 85"
     },
     {
       "numero": "Capítulo 86",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-la-grabadora-s1-ep86",
-      "titulo": "La Grabadora"
+      "titulo": "La Grabadora",
+      "subtitulo": "Capítulo 86"
     },
     {
       "numero": "Capítulo 87",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-encarnacion-s1-ep87",
-      "titulo": "Encarnación"
+      "titulo": "Encarnación",
+      "subtitulo": "Capítulo 87"
     },
     {
       "numero": "Capítulo 88",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-reclamo-s1-ep88",
-      "titulo": "Reclamo"
+      "titulo": "Reclamo",
+      "subtitulo": "Capítulo 88"
     },
     {
       "numero": "Capítulo 89",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-estas-dudando-s1-ep89",
-      "titulo": "¿Estas Dudando?"
+      "titulo": "¿Estas Dudando?",
+      "subtitulo": "Capítulo 89"
     },
     {
       "numero": "Capítulo 90",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-irreversible-s1-ep90",
-      "titulo": "Irreversible"
+      "titulo": "Irreversible",
+      "subtitulo": "Capítulo 90"
     },
     {
       "numero": "Capítulo 91",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-disculpa-s1-ep91",
-      "titulo": "Disculpa"
+      "titulo": "Disculpa",
+      "subtitulo": "Capítulo 91"
     },
     {
       "numero": "Capítulo 92",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-helena-y-guillermo-s1-ep92",
-      "titulo": "Helena Y Guillermo"
+      "titulo": "Helena Y Guillermo",
+      "subtitulo": "Capítulo 92"
     },
     {
       "numero": "Capítulo 93",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-el-arma-s1-ep93",
-      "titulo": "El Arma"
+      "titulo": "El Arma",
+      "subtitulo": "Capítulo 93"
     },
     {
       "numero": "Capítulo 94",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-labor-de-parto-s1-ep94",
-      "titulo": "Labor de Parto"
+      "titulo": "Labor de Parto",
+      "subtitulo": "Capítulo 94"
     },
     {
       "numero": "Capítulo 95",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-eugenia-s1-ep95",
-      "titulo": "Eugenia"
+      "titulo": "Eugenia",
+      "subtitulo": "Capítulo 95"
     },
     {
       "numero": "Capítulo 96",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-arresto-s1-ep96",
-      "titulo": "Arresto"
+      "titulo": "Arresto",
+      "subtitulo": "Capítulo 96"
     },
     {
       "numero": "Capítulo 97",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-suicidio-s1-ep97",
-      "titulo": "Suicidio"
+      "titulo": "Suicidio",
+      "subtitulo": "Capítulo 97"
     },
     {
       "numero": "Capítulo 98",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-sospecha-s1-ep98",
-      "titulo": "Sospecha"
+      "titulo": "Sospecha",
+      "subtitulo": "Capítulo 98"
     },
     {
       "numero": "Capítulo 99",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-veredicto-s1-ep99",
-      "titulo": "Veredicto"
+      "titulo": "Veredicto",
+      "subtitulo": "Capítulo 99"
     },
     {
       "numero": "Capítulo 100",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-apoyo-s1-ep100",
-      "titulo": "Apoyo"
+      "titulo": "Apoyo",
+      "subtitulo": "Capítulo 100"
     },
     {
       "numero": "Capítulo 101",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-el-carro-s1-ep101",
-      "titulo": "El Carro"
+      "titulo": "El Carro",
+      "subtitulo": "Capítulo 101"
     },
     {
       "numero": "Capítulo 102",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-la-pizzeria-s1-ep102",
-      "titulo": "La pizzería"
+      "titulo": "La pizzería",
+      "subtitulo": "Capítulo 102"
     },
     {
       "numero": "Capítulo 103",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-marilyn-s1-ep103",
-      "titulo": "Marilyn"
+      "titulo": "Marilyn",
+      "subtitulo": "Capítulo 103"
     },
     {
       "numero": "Capítulo 104",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-celos-s1-ep104",
-      "titulo": "Celos"
+      "titulo": "Celos",
+      "subtitulo": "Capítulo 104"
     },
     {
       "numero": "Capítulo 105",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-aferrada-s1-ep105",
-      "titulo": "Aferrada"
+      "titulo": "Aferrada",
+      "subtitulo": "Capítulo 105"
     },
     {
       "numero": "Capítulo 106",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-guillermo-y-helena-s1-ep106",
-      "titulo": "Guillermo Y Helena"
+      "titulo": "Guillermo Y Helena",
+      "subtitulo": "Capítulo 106"
     },
     {
       "numero": "Capítulo 107",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-custodia-s1-ep107",
-      "titulo": "Custodia"
+      "titulo": "Custodia",
+      "subtitulo": "Capítulo 107"
     },
     {
       "numero": "Capítulo 108",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-confia-s1-ep108",
-      "titulo": "Confía"
+      "titulo": "Confía",
+      "subtitulo": "Capítulo 108"
     },
     {
       "numero": "Capítulo 109",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-ultimos-dias-s1-ep109",
-      "titulo": "Últimos Días"
+      "titulo": "Últimos Días",
+      "subtitulo": "Capítulo 109"
     },
     {
       "numero": "Capítulo 110",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-clinica-misteriosa-s1-ep110",
-      "titulo": "Clínica Misteriosa"
+      "titulo": "Clínica Misteriosa",
+      "subtitulo": "Capítulo 110"
     },
     {
       "numero": "Capítulo 111",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-carta-de-miguel-s1-ep111",
-      "titulo": "Carta de Miguel"
+      "titulo": "Carta de Miguel",
+      "subtitulo": "Capítulo 111"
     },
     {
       "numero": "Capítulo 112",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-el-sobre-s1-ep112",
-      "titulo": "El Sobre"
+      "titulo": "El Sobre",
+      "subtitulo": "Capítulo 112"
     },
     {
       "numero": "Capítulo 113",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-lagrimas-de-sangre-s1-ep113",
-      "titulo": "Lágrimas de Sangre"
+      "titulo": "Lágrimas de Sangre",
+      "subtitulo": "Capítulo 113"
     },
     {
       "numero": "Capítulo 114",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-valeria-e-imperio-s1-ep114",
-      "titulo": "Valeria e Imperio"
+      "titulo": "Valeria e Imperio",
+      "subtitulo": "Capítulo 114"
     },
     {
       "numero": "Capítulo 115",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-intento-de-homicidio-s1-ep115",
-      "titulo": "Intento de Homicidio"
+      "titulo": "Intento de Homicidio",
+      "subtitulo": "Capítulo 115"
     },
     {
       "numero": "Capítulo 116",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-confesion-s1-ep116",
-      "titulo": "Confesión"
+      "titulo": "Confesión",
+      "subtitulo": "Capítulo 116"
     },
     {
       "numero": "Capítulo 117",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-la-tumba-s1-ep117",
-      "titulo": "La Tumba"
+      "titulo": "La Tumba",
+      "subtitulo": "Capítulo 117"
     },
     {
       "numero": "Capítulo 118",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-lennin-s1-ep118",
-      "titulo": "Lennin"
+      "titulo": "Lennin",
+      "subtitulo": "Capítulo 118"
     },
     {
       "numero": "Capítulo 119",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-abuelo-s1-ep119",
-      "titulo": "Abuelo"
+      "titulo": "Abuelo",
+      "subtitulo": "Capítulo 119"
     },
     {
       "numero": "Capítulo 120",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-operacion-s1-ep120",
-      "titulo": "Operación"
+      "titulo": "Operación",
+      "subtitulo": "Capítulo 120"
     },
     {
       "numero": "Capítulo 121",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-ultima-conversacion-s1-ep121",
-      "titulo": "Última Conversación"
+      "titulo": "Última Conversación",
+      "subtitulo": "Capítulo 121"
     },
     {
       "numero": "Capítulo 122",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-odio-a-valeria-s1-ep122",
-      "titulo": "Odio a Valeria"
+      "titulo": "Odio a Valeria",
+      "subtitulo": "Capítulo 122"
     },
     {
       "numero": "Capítulo 123",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-helena-s1-ep123",
-      "titulo": "Helena"
+      "titulo": "Helena",
+      "subtitulo": "Capítulo 123"
     },
     {
       "numero": "Capítulo 124",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-aun-la-ama-s1-ep124",
-      "titulo": "¿Aún la Ama?"
+      "titulo": "¿Aún la Ama?",
+      "subtitulo": "Capítulo 124"
     },
     {
       "numero": "Capítulo 125",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-eloy-castro-s1-ep125",
-      "titulo": "Eloy Castro"
+      "titulo": "Eloy Castro",
+      "subtitulo": "Capítulo 125"
     },
     {
       "numero": "Capítulo 126",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-fuerte-abrazo-s1-ep126",
-      "titulo": "Fuerte Abrazo"
+      "titulo": "Fuerte Abrazo",
+      "subtitulo": "Capítulo 126"
     },
     {
       "numero": "Capítulo 127",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-deyanira-s1-ep127",
-      "titulo": "Deyanira"
+      "titulo": "Deyanira",
+      "subtitulo": "Capítulo 127"
     },
     {
       "numero": "Capítulo 128",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-eloy-s1-ep128",
-      "titulo": "Eloy"
+      "titulo": "Eloy",
+      "subtitulo": "Capítulo 128"
     },
     {
       "numero": "Capítulo 129",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-alejate-s1-ep129",
-      "titulo": "Aléjate"
+      "titulo": "Aléjate",
+      "subtitulo": "Capítulo 129"
     },
     {
       "numero": "Capítulo 130",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-acorralada-s1-ep130",
-      "titulo": "Acorralada"
+      "titulo": "Acorralada",
+      "subtitulo": "Capítulo 130"
     },
     {
       "numero": "Capítulo 131",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-liberame-s1-ep131",
-      "titulo": "Libérame"
+      "titulo": "Libérame",
+      "subtitulo": "Capítulo 131"
     },
     {
       "numero": "Capítulo 132",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-separacion-s1-ep132",
-      "titulo": "Separación"
+      "titulo": "Separación",
+      "subtitulo": "Capítulo 132"
     },
     {
       "numero": "Capítulo 133",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-maria-s1-ep133",
-      "titulo": "María"
+      "titulo": "María",
+      "subtitulo": "Capítulo 133"
     },
     {
       "numero": "Capítulo 134",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-ahogado-s1-ep134",
-      "titulo": "Ahogado"
+      "titulo": "Ahogado",
+      "subtitulo": "Capítulo 134"
     },
     {
       "numero": "Capítulo 135",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-adn-s1-ep135",
-      "titulo": "ADN"
+      "titulo": "ADN",
+      "subtitulo": "Capítulo 135"
     },
     {
       "numero": "Capítulo 136",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-certeza-s1-ep136",
-      "titulo": "Certeza"
+      "titulo": "Certeza",
+      "subtitulo": "Capítulo 136"
     },
     {
       "numero": "Capítulo 137",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-marbella-s1-ep137",
-      "titulo": "Marbella"
+      "titulo": "Marbella",
+      "subtitulo": "Capítulo 137"
     },
     {
       "numero": "Capítulo 138",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-cumbamba-s1-ep138",
-      "titulo": "Cumbamba"
+      "titulo": "Cumbamba",
+      "subtitulo": "Capítulo 138"
     },
     {
       "numero": "Capítulo 139",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-vivir-atado-s1-ep139",
-      "titulo": "Vivir Atado"
+      "titulo": "Vivir Atado",
+      "subtitulo": "Capítulo 139"
     },
     {
       "numero": "Capítulo 140",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-luchara-por-su-amor-s1-ep140",
-      "titulo": "Luchará por Su Amor"
+      "titulo": "Luchará por Su Amor",
+      "subtitulo": "Capítulo 140"
     },
     {
       "numero": "Capítulo 141",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-recuperar-el-matrimonio-s1-ep141",
-      "titulo": "Recuperar el Matrimonio"
+      "titulo": "Recuperar el Matrimonio",
+      "subtitulo": "Capítulo 141"
     },
     {
       "numero": "Capítulo 142",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-declarado-muerto-s1-ep142",
-      "titulo": "Declarado Muerto"
+      "titulo": "Declarado Muerto",
+      "subtitulo": "Capítulo 142"
     },
     {
       "numero": "Capítulo 143",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-obsequio-s1-ep143",
-      "titulo": "Obsequio"
+      "titulo": "Obsequio",
+      "subtitulo": "Capítulo 143"
     },
     {
       "numero": "Capítulo 144",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-coromoto-s1-ep144",
-      "titulo": "Coromoto"
+      "titulo": "Coromoto",
+      "subtitulo": "Capítulo 144"
     },
     {
       "numero": "Capítulo 145",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-traicion-s1-ep145",
-      "titulo": "Traición"
+      "titulo": "Traición",
+      "subtitulo": "Capítulo 145"
     },
     {
       "numero": "Capítulo 146",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-renuncia-a-el-s1-ep146",
-      "titulo": "Renuncia a Él"
+      "titulo": "Renuncia a Él",
+      "subtitulo": "Capítulo 146"
     },
     {
       "numero": "Capítulo 147",
       "urlOkru": "https://app.latino7.com/canelaplayer.php?url=https%3A//canela.tv/player/tvepisode/toda-una-dama-intentarlo-de-nuevo-s1-ep147",
-      "titulo": "Intentarlo de Nuevo"
+      "titulo": "Intentarlo de Nuevo",
+      "subtitulo": "Capítulo 147"
     }
   ]
 }

@@ -6,413 +6,549 @@
   "capitulos": [
     {
       "numero": "Capítulo 1",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/521b91477284add7988940ff70824228.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/70/s8/2/O/g/6/m/Og6mz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=363418112-363445798",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 1",
+      "rumbleUrl": "https://rumble.com/v6zqdgo-paps-1.html"
     },
     {
       "numero": "Capítulo 2",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/de263ab2690519e2b6c03c22a71e07fd.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/6d/s8/2/0/g/6/m/0g6mz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=352917504-352944382",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 2",
+      "rumbleUrl": "https://rumble.com/v6zqdh0-paps-2.html"
     },
     {
       "numero": "Capítulo 3",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/4/e6a36ab8b1151f534ffdd2f1e1d72120.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/61/s8/2/-/g/6/m/-g6mz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=352821248-352848128",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 3",
+      "rumbleUrl": "https://rumble.com/v6zqdha-papas-3.html"
     },
     {
       "numero": "Capítulo 4",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/80d37cfa25b81da7bb6f89883630ba32.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/1a/s8/2/k/h/6/m/kh6mz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=353004032-353030894",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 4",
+      "rumbleUrl": "https://rumble.com/v6zqdhm-paps-4.html"
     },
     {
       "numero": "Capítulo 5",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/c140bc9316aacc04bb4b9e78a2dffe2d.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/75/s8/2/o/h/6/m/oh6mz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=322370048-322394629",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 5",
+      "rumbleUrl": "https://rumble.com/v6zqdhq-paps-5.html"
     },
     {
       "numero": "Capítulo 6",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/4819ee39f9324eca92ef2f3ef245ec05.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/c6/s8/2/q/h/6/m/qh6mz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=322791424-322815987",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 6",
+      "rumbleUrl": "https://rumble.com/v6zqdhs-papss-6.html"
     },
     {
       "numero": "Capítulo 7",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/0af5b9d2a2d1ff234f76d3f5ab7c3c59.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/ea/s8/2/O/h/6/m/Oh6mz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=323559936-323584601",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 7",
+      "rumbleUrl": "https://rumble.com/v6zqdig-paps-7.html"
     },
     {
       "numero": "Capítulo 8",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/81874c5d28bbf05e53de980f8f5f3654.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/2/81874c5d28bbf05e53de980f8f5f3654.m3u8",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 8"
     },
     {
       "numero": "Capítulo 9",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/a021339aac1405a9af8d74bbe445158d.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/75/s8/2/c/j/6/m/cj6mz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=323848192-323872856",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 9",
+      "rumbleUrl": "https://rumble.com/v6zqdky-ppas-9.html"
     },
     {
       "numero": "Capítulo 10",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/4/fa554a0a78376b9211275f48e5181843.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/69/s8/2/g/j/6/m/gj6mz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=322331648-322356205",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 10",
+      "rumbleUrl": "https://rumble.com/v6zqdl2-ppas-10.html"
     },
     {
       "numero": "Capítulo 11",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/4/f47fed9fef4ee67497c98be04144ec9a.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/f2/s8/2/Q/S/1/n/QS1nz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=322522624-322547202",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 11",
+      "rumbleUrl": "https://rumble.com/v6zvlt6-pap-11.html"
     },
     {
       "numero": "Capítulo 12",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/c273f2e4e2007142090d9511a4206a5d.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/56/s8/2/a/T/1/n/aT1nz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=323555328-323579879",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 12",
+      "rumbleUrl": "https://rumble.com/v6zvlts-ppas-12.html"
     },
     {
       "numero": "Capítulo 13",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/caeaa3c4084b5938cbc75c27d2f04858.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/74/s8/2/e/T/1/n/eT1nz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=323181568-323206131",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 13",
+      "rumbleUrl": "https://rumble.com/v6zvltw-ppas-13.html"
     },
     {
       "numero": "Capítulo 14",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/b1c5a20e1a3b7a5b5c86b2e8617ca157.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/33/s8/2/g/T/1/n/gT1nz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=323641344-323665897",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 14",
+      "rumbleUrl": "https://rumble.com/v6zvlty-ppaas-14.html"
     },
     {
       "numero": "Capítulo 15",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/a46abd1f25c323f729276fa871872336.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/c6/s8/2/E/R/1/n/ER1nz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=321698816-321723273",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 15",
+      "rumbleUrl": "https://rumble.com/v6zvlr2-ppas-15.html"
     },
     {
       "numero": "Capítulo 16",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/1217794c50149a05396e783a504f8f52.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/85/s8/2/M/B/c/p/MBcpz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=323246592-323271148",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 16",
+      "rumbleUrl": "https://rumble.com/v702cbq-papas-16.html"
     },
     {
       "numero": "Capítulo 17",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/ca059e10825a7b06b25b7773bc1cda2b.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/23/s8/2/e/C/c/p/eCcpz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=323287040-323311608",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 17",
+      "rumbleUrl": "https://rumble.com/v702cck-paps-17.html"
     },
     {
       "numero": "Capítulo 18",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/81fbc461c5213bba2551be42409d35cd.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/97/s8/2/A/E/c/p/AEcpz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=323411968-323436539",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 18",
+      "rumbleUrl": "https://rumble.com/v702cgq-papas-18.html"
     },
     {
       "numero": "Capítulo 19",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/6b977ba65e2ba5da73269be57e3d9b1e.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/42/s8/2/S/l/C/p/SlCpz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=322902016-322926580",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 19",
+      "rumbleUrl": "https://rumble.com/v704lpo-papas-19.html"
     },
     {
       "numero": "Capítulo 20",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/ceec8adf585abdc713261fc2fc57a617.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/92/s8/2/g/j/T/q/gjTqz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=322569216-322593787",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 20",
+      "rumbleUrl": "https://rumble.com/v70bpl2-papas-20.html"
     },
     {
       "numero": "Capítulo 21",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/3345e0bdc10e8cff9b7f94c8048d0fe6.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/d8/s8/2/i/j/T/q/ijTqz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=323170816-323195486",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 21",
+      "rumbleUrl": "https://rumble.com/v70bpl4-paps-21.html"
     },
     {
       "numero": "Capítulo 22",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/1ddab8c487fc48437704d36507effe81.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/e2/s8/2/c/9/B/r/c9Brz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=324058624-324083289",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 22",
+      "rumbleUrl": "https://rumble.com/v70ftj6-papas-22.html"
     },
     {
       "numero": "Capítulo 23",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/493c265de603fca4c565b99ba5699cbc.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/33/s8/2/e/9/B/r/e9Brz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=324452352-324476992",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 23",
+      "rumbleUrl": "https://rumble.com/v70ftj8-paps-23.html"
     },
     {
       "numero": "Capítulo 24",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/58427938b9d6c95efbafec5bfb08993e.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/9c/s8/2/S/Z/Q/r/SZQrz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=324443648-324468277",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 24",
+      "rumbleUrl": "https://rumble.com/v70h4h8-ppas-24.html"
     },
     {
       "numero": "Capítulo 25",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/4/ef71b7c1a944036eec2b81b2d4fbecc7.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/4/ef71b7c1a944036eec2b81b2d4fbecc7.m3u8",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 25"
     },
     {
       "numero": "Capítulo 26",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/40fd1bff36d8a25c5685f77633bd187f.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/1/40fd1bff36d8a25c5685f77633bd187f.m3u8",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 26"
     },
     {
       "numero": "Capítulo 27",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/5bac8ed608377efaba6890f6c3810a6d.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/2/5bac8ed608377efaba6890f6c3810a6d.m3u8",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 27"
     },
     {
       "numero": "Capítulo 28",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/4/e5a313a3331321f884c646ebe0fcc715.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/4/e5a313a3331321f884c646ebe0fcc715.m3u8",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 28"
     },
     {
       "numero": "Capítulo 29",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/2f86b2a8da0d67fa4c1b8c20623a4a25.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/1/2f86b2a8da0d67fa4c1b8c20623a4a25.m3u8",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 29"
     },
     {
       "numero": "Capítulo 30",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/dd373fc5a83f3138b0e43c3c0755838f.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/91/s8/2/a/t/G/w/atGwz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=322464256-322488715",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 30",
+      "rumbleUrl": "https://rumble.com/v718am8-papas-30.html"
     },
     {
       "numero": "Capítulo 31",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/0b004684f7af529a3040bcb95e1d0cc4.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/e9/s8/2/o/t/G/w/otGwz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=321207808-321232288",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 31",
+      "rumbleUrl": "https://rumble.com/v718amm-paps-31.html"
     },
     {
       "numero": "Capítulo 32",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/84d2068b60e84c336ecaec6577e028db.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/59/s8/2/K/t/G/w/KtGwz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=321660928-321685409",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 32",
+      "rumbleUrl": "https://rumble.com/v718an8-papas-32.html"
     },
     {
       "numero": "Capítulo 33",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/4/f9a4f9d9a986e693f69b2fe5244bed0e.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/8b/s8/2/u/t/G/w/utGwz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=322196480-322220936",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 33",
+      "rumbleUrl": "https://rumble.com/v718ams-papas-33.html"
     },
     {
       "numero": "Capítulo 34",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/4e7a4434fcba10f1d3d00875065d9ee4.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/0f/s8/2/I/t/G/w/ItGwz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=321390592-321415074",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 34",
+      "rumbleUrl": "https://rumble.com/v718an6-papas-34.html"
     },
     {
       "numero": "Capítulo 35",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/98ae4ca548bf55cda186c7718b3356fd.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/4a/s8/2/-/t/G/w/-tGwz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=322486272-322510748",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 35",
+      "rumbleUrl": "https://rumble.com/v718any-pps-35.html"
     },
     {
       "numero": "Capítulo 36",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/054ebf8081554d64bae593af07543002.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/2f/s8/2/G/Q/2/D/GQ2Dz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=320797696-320822153",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 36",
+      "rumbleUrl": "https://rumble.com/v72dl7k-papas-36.html"
     },
     {
       "numero": "Capítulo 37",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/a21aa71abd5d4b8d850cc44a996d0a1a.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/8a/s8/2/6/Q/2/D/6Q2Dz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=321359360-321383830",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 37",
+      "rumbleUrl": "https://rumble.com/v72dl8a-papas-37.html"
     },
     {
       "numero": "Capítulo 38",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/4dcfe9ddaca43636ffc606a617fb65c9.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/9e/s8/2/w/R/2/D/wR2Dz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=321419776-321444223",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 38",
+      "rumbleUrl": "https://rumble.com/v72dl92-papas-38.html"
     },
     {
       "numero": "Capítulo 39",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/72d8655cfda6ebebfa03443cdcd4d60f.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/56/s8/2/S/R/2/D/SR2Dz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=321472512-321496983",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 39",
+      "rumbleUrl": "https://rumble.com/v72dl9o-papas-39.html"
     },
     {
       "numero": "Capítulo 40",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/4328cc49b7d140951f48d609da34b799.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/2d/s8/2/Y/R/2/D/YR2Dz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=321504256-321528720",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 40",
+      "rumbleUrl": "https://rumble.com/v72dl9u-papas-40.html"
     },
     {
       "numero": "Capítulo 41",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/4/ffd53cb2f9df17c5094b02e28c8ecdd9.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/ef/s8/2/a/S/2/D/aS2Dz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=319567872-319592226",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 41",
+      "rumbleUrl": "https://rumble.com/v72dla8-papas-41-.html"
     },
     {
       "numero": "Capítulo 42",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/d42b6b634b772166a47c23b784ba1f60.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/f2/s8/2/y/S/2/D/yS2Dz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=320034304-320058660",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 42",
+      "rumbleUrl": "https://rumble.com/v72dlaw-papas-42-.html"
     },
     {
       "numero": "Capítulo 43",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/4/f2d6418888acedaa2812c7963973d4d2.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/1f/s8/2/K/S/2/D/KS2Dz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=322284032-322308500",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 43",
+      "rumbleUrl": "https://rumble.com/v72dlb8-papas-43-.html"
     },
     {
       "numero": "Capítulo 44",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/37bf2938379af0302cf79a44710e9d65.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/4d/s8/2/4/S/2/D/4S2Dz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=321342976-321367419",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 44",
+      "rumbleUrl": "https://rumble.com/v72dlbs-papas-44-.html"
     },
     {
       "numero": "Capítulo 45",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/4e6f0aa16233610104ca0a0f36fdfc50.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/04/s8/2/k/T/2/D/kT2Dz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=321336320-321360784",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 45",
+      "rumbleUrl": "https://rumble.com/v72dlca-papas-45-.html"
     },
     {
       "numero": "Capítulo 46",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/423af31513b511f2454caae1377e2f2d.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/a3/s8/2/E/T/2/D/ET2Dz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=321188864-321213333",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 46",
+      "rumbleUrl": "https://rumble.com/v72dlcu-papas-46.html"
     },
     {
       "numero": "Capítulo 47",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/00d3353746fbfa1282e332b00263b7e6.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/08/s8/2/U/T/2/D/UT2Dz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=321286656-321311114",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 47",
+      "rumbleUrl": "https://rumble.com/v72dlda-papas-47.html"
     },
     {
       "numero": "Capítulo 48",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/26279d0d871d543cd09eb4d9b96af2a3.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/15/s8/2/8/T/2/D/8T2Dz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=320088576-320112942",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 48",
+      "rumbleUrl": "https://rumble.com/v72dldo-papas-48.html"
     },
     {
       "numero": "Capítulo 49",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/a1122b985efca6aeaaae6b9c5018a456.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/4f/s8/2/m/U/2/D/mU2Dz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=320233984-320258343",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 49",
+      "rumbleUrl": "https://rumble.com/v72dle4-papas-49.html"
     },
     {
       "numero": "Capítulo 50",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/4/f3fbad0d61a3e0734bbe7d17b2d73e12.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/5c/s8/2/G/U/2/D/GU2Dz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=321225728-321250184",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 50",
+      "rumbleUrl": "https://rumble.com/v72dleo-papas-50.html"
     },
     {
       "numero": "Capítulo 51",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/794e51620e4a2f1f6974df4ea41df858.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/2/794e51620e4a2f1f6974df4ea41df858.m3u8",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 51"
     },
     {
       "numero": "Capítulo 52",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/42404c17e2ef5a93e5757314bcf38066.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/1/42404c17e2ef5a93e5757314bcf38066.m3u8",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 52"
     },
     {
       "numero": "Capítulo 53",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/5ec6a7c05c26e95843f7b9a6b419d3bc.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/2/5ec6a7c05c26e95843f7b9a6b419d3bc.m3u8",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 53"
     },
     {
       "numero": "Capítulo 54",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/11948932aefe28b38494460a01d04ec7.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/1/11948932aefe28b38494460a01d04ec7.m3u8",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 54"
     },
     {
       "numero": "Capítulo 55",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/cd88a0a6306569a56783318064eeb1f0.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/3/cd88a0a6306569a56783318064eeb1f0.m3u8",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 55"
     },
     {
       "numero": "Capítulo 56",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/2472da8d1fda6aa26497a75234f12a2a.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/1/2472da8d1fda6aa26497a75234f12a2a.m3u8",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 56"
     },
     {
       "numero": "Capítulo 57",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/d5dac49c058b0b34cbe270c0a9152088.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/3/d5dac49c058b0b34cbe270c0a9152088.m3u8",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 57"
     },
     {
       "numero": "Capítulo 58",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/c2c22f1c09e4729f3adc65a496236282.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/3/c2c22f1c09e4729f3adc65a496236282.m3u8",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 58"
     },
     {
       "numero": "Capítulo 59",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/075fe5d77a4e1a4b7856939e6f6ef5c3.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/1/075fe5d77a4e1a4b7856939e6f6ef5c3.m3u8",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 59"
     },
     {
       "numero": "Capítulo 60",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/05e9c856b943adec464c1d5faf96a109.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/1/05e9c856b943adec464c1d5faf96a109.m3u8",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 60"
     },
     {
       "numero": "Capítulo 61",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/35d88da317f8ae0376e6193812d0cfc8.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/1/35d88da317f8ae0376e6193812d0cfc8.m3u8",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 61"
     },
     {
       "numero": "Capítulo 62",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/4/e3cb554b02e85c011c93e4f8a1733130.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/4/e3cb554b02e85c011c93e4f8a1733130.m3u8",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 62"
     },
     {
       "numero": "Capítulo 63",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/da6bfaafbeb390b7e6c49cd7b45ca550.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/3/da6bfaafbeb390b7e6c49cd7b45ca550.m3u8",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 63"
     },
     {
       "numero": "Capítulo 64",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/176896a3f8a3976fde23449d1be276ef.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/1/176896a3f8a3976fde23449d1be276ef.m3u8",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 64"
     },
     {
       "numero": "Capítulo 65",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/9c12470703f24c531068cd15b1cf5d10.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/3/9c12470703f24c531068cd15b1cf5d10.m3u8",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 65"
     },
     {
       "numero": "Capítulo 66",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/78a12e8246aa4df25e2f925e3d48d49c.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/c6/s8/2/k/h/e/N/kheNz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=321488384-321512852",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 66",
+      "rumbleUrl": "https://rumble.com/v73tc5m-papas-66.html"
     },
     {
       "numero": "Capítulo 67",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/2e4458e38808ee029efdb6402f8ee630.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/9d/s8/2/y/h/e/N/yheNz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=320440320-320464795",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 67",
+      "rumbleUrl": "https://rumble.com/v73tc60-paps-67.html"
     },
     {
       "numero": "Capítulo 68",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/4/ec606dd1134042b15cb97e0fedc5926f.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/a6/s8/2/C/h/e/N/CheNz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=320540160-320564532",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 68",
+      "rumbleUrl": "https://rumble.com/v73tc64-papas-68.html"
     },
     {
       "numero": "Capítulo 69",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/8b2e3c4df76a98f6903ebb50654a432c.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/9d/s8/2/G/h/e/N/GheNz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=321499136-321523594",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 69",
+      "rumbleUrl": "https://rumble.com/v73tc68-papas-69.html"
     },
     {
       "numero": "Capítulo 70",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/4/efc7a5abfdcf5904c9f3ee847280520e.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/6c/s8/2/o/i/e/N/oieNz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=320951296-320975672",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 70",
+      "rumbleUrl": "https://rumble.com/v73tc7i-paps-70.html"
     },
     {
       "numero": "Capítulo 71",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/5840626def6904af30557c7455651d1d.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/bd/s8/2/w/i/e/N/wieNz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=320428544-320452903",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 71",
+      "rumbleUrl": "https://rumble.com/v73tc7q-paps-71.html"
     },
     {
       "numero": "Capítulo 72",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/c698c87090b9ed421a9abd5ed6ae8cb5.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/57/s8/2/C/i/e/N/CieNz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=320658944-320683405",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 72",
+      "rumbleUrl": "https://rumble.com/v73tc7w-papas-72.html"
     },
     {
       "numero": "Capítulo 73",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/b3c242927758a0bea8f131aa5d343aad.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/81/s8/2/Q/i/e/N/QieNz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=321395712-321420180",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 73",
+      "rumbleUrl": "https://rumble.com/v73tc8a-papss-73.html"
     },
     {
       "numero": "Capítulo 74",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/7baad8fcd5f421783ee73ab3a016366b.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/60/s8/2/g/j/e/N/gjeNz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=321125888-321150253",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 74",
+      "rumbleUrl": "https://rumble.com/v73tc92-papas-74.html"
     },
     {
       "numero": "Capítulo 75",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/4/f3332bed1148d95f26f4d1458d4e36c7.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/43/s8/2/s/j/e/N/sjeNz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=321409024-321433480",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 75",
+      "rumbleUrl": "https://rumble.com/v73tc9e-paps-75.html"
     },
     {
       "numero": "Capítulo 76",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/4/f2c3f56d2a5f8dd27e058959709a6f97.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/4/f2c3f56d2a5f8dd27e058959709a6f97.m3u8",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 76"
     },
     {
       "numero": "Capítulo 77",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/0a20e95b0399deafa102c54d1ef6539d.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/1/0a20e95b0399deafa102c54d1ef6539d.m3u8",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 77"
     },
     {
       "numero": "Capítulo 78",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/23457b72d06f3b1bded8db91201715d9.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/1/23457b72d06f3b1bded8db91201715d9.m3u8",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 78"
     },
     {
       "numero": "Capítulo 79",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/8161c235d40987b157de0f59cca72300.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/2/8161c235d40987b157de0f59cca72300.m3u8",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 79"
     },
     {
       "numero": "Capítulo 80",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/4/e1867b2177ba81d8f1d77ededef2e4aa.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/4/e1867b2177ba81d8f1d77ededef2e4aa.m3u8",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 80"
     },
     {
       "numero": "Capítulo 81",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/575d3d273eb7133ae3a1a9d061e95ac8.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/2/575d3d273eb7133ae3a1a9d061e95ac8.m3u8",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 81"
     },
     {
       "numero": "Capítulo 82",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/8cb1e38bb8ec8d051d0126e08389b422.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/2/8cb1e38bb8ec8d051d0126e08389b422.m3u8",
+      "titulo": "Papás por siempre",
+      "subtitulo": "Capítulo 82"
     }
   ]
 }

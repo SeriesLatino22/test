@@ -6,298 +6,399 @@
   "capitulos": [
     {
       "numero": "Capítulo 1",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/96dd941e9cc3f5e6f48bacf964f1c662.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/3/96dd941e9cc3f5e6f48bacf964f1c662.m3u8",
+      "titulo": "La encrucijada",
+      "subtitulo": "Capítulo 1"
     },
     {
       "numero": "Capítulo 2",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/32249b7626894dc7ebf0dc6d75eca996.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/1/32249b7626894dc7ebf0dc6d75eca996.m3u8",
+      "titulo": "La encrucijada",
+      "subtitulo": "Capítulo 2"
     },
     {
       "numero": "Capítulo 3",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/742e114cfbeccbdfe774f8583dad697c.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/2/742e114cfbeccbdfe774f8583dad697c.m3u8",
+      "titulo": "La encrucijada",
+      "subtitulo": "Capítulo 3"
     },
     {
       "numero": "Capítulo 4",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/6325693844948ec36a246c16a0ba7547.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/2/6325693844948ec36a246c16a0ba7547.m3u8",
+      "titulo": "La encrucijada",
+      "subtitulo": "Capítulo 4"
     },
     {
       "numero": "Capítulo 5",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/4/fe3081b3f7cbb11a5e39ddc44ea39006.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/4/fe3081b3f7cbb11a5e39ddc44ea39006.m3u8",
+      "titulo": "La encrucijada",
+      "subtitulo": "Capítulo 5"
     },
     {
       "numero": "Capítulo 6",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/6becac9c433f98f1985858a5f7d0a0a8.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/2/6becac9c433f98f1985858a5f7d0a0a8.m3u8",
+      "titulo": "La encrucijada",
+      "subtitulo": "Capítulo 6"
     },
     {
       "numero": "Capítulo 7",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/4/e0e8e8c19b0e213f42e965ec0a5b7ebb.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/4/e0e8e8c19b0e213f42e965ec0a5b7ebb.m3u8",
+      "titulo": "La encrucijada",
+      "subtitulo": "Capítulo 7"
     },
     {
       "numero": "Capítulo 8",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/cde767a293b2b0854db078d94dd147a1.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/3/cde767a293b2b0854db078d94dd147a1.m3u8",
+      "titulo": "La encrucijada",
+      "subtitulo": "Capítulo 8"
     },
     {
       "numero": "Capítulo 9",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/d57e23108c9dc77d5ee88f788b785b5a.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/d7/s8/2/Y/W/D/1/YWD1y.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=416599552-416631221",
+      "titulo": "La encrucijada",
+      "subtitulo": "Capítulo 9",
+      "rumbleUrl": "https://rumble.com/v6w2nn6-encrucija-9.html"
     },
     {
       "numero": "Capítulo 10",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/6be9c31606c122f730d139bb0b55ad50.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/77/s8/2/-/W/D/1/-WD1y.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=415918080-415949757",
+      "titulo": "La encrucijada",
+      "subtitulo": "Capítulo 10",
+      "rumbleUrl": "https://rumble.com/v6w2nni-encrucija-10.html"
     },
     {
       "numero": "Capítulo 11",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/85c72c52f24dec35d5321a94b8afd422.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/e0/s8/2/i/N/n/3/iNn3y.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=441805312-441838896",
+      "titulo": "La encrucijada",
+      "subtitulo": "Capítulo 11",
+      "rumbleUrl": "https://rumble.com/v6wch54-encru-11.html"
     },
     {
       "numero": "Capítulo 12",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/db43606a7d3da8cdc9f9353aab07bc5c.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/44/s8/2/m/N/n/3/mNn3y.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=414932480-414963950",
+      "titulo": "La encrucijada",
+      "subtitulo": "Capítulo 12",
+      "rumbleUrl": "https://rumble.com/v6wch58-encru-12.html"
     },
     {
       "numero": "Capítulo 13",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/dab50e87d023f7417016a2ae8df13da5.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/69/s8/2/a/c/E/6/acE6y.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=414303744-414335213",
+      "titulo": "La encrucijada",
+      "subtitulo": "Capítulo 13",
+      "rumbleUrl": "https://rumble.com/v6wuruo-encru-13.html"
     },
     {
       "numero": "Capítulo 14",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/53683136a2fec8d0d7ec4183845321ed.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/9b/s8/2/o/c/E/6/ocE6y.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=414468096-414499661",
+      "titulo": "La encrucijada",
+      "subtitulo": "Capítulo 14",
+      "rumbleUrl": "https://rumble.com/v6wurv2-encru-14.html"
     },
     {
       "numero": "Capítulo 15",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/2c539dca33662bfabeca9adb3e3f450c.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/79/s8/2/S/U/s/8/SUs8y.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=416922624-416954304",
+      "titulo": "La encrucijada",
+      "subtitulo": "Capítulo 15",
+      "rumbleUrl": "https://rumble.com/v6x50oc-encrucij-15.html"
     },
     {
       "numero": "Capítulo 16",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/30c1ff60e6e3dc866ca71271fe1992ee.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/30/s8/2/W/U/s/8/WUs8y.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=420825088-420857052",
+      "titulo": "La encrucijada",
+      "subtitulo": "Capítulo 16",
+      "rumbleUrl": "https://rumble.com/v6x50og-encrucij-16.html"
     },
     {
       "numero": "Capítulo 17",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/4/ec8ed7118ec09751a41f51876b31cf6f.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/62/s8/2/c/b/J/9/cbJ9y.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=417225216-417256887",
+      "titulo": "La encrucijada",
+      "subtitulo": "Capítulo 17",
+      "rumbleUrl": "https://rumble.com/v6xc2f6-encru-17.html"
     },
     {
       "numero": "Capítulo 18",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/123c57413ca0f78cd3e4ced72f30b40e.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/60/s8/2/w/b/J/9/wbJ9y.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=412933120-412964497",
+      "titulo": "La encrucijada",
+      "subtitulo": "Capítulo 18",
+      "rumbleUrl": "https://rumble.com/v6xc2fq-encru-18.html"
     },
     {
       "numero": "Capítulo 19",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/03bd4cb4bfc527d25f313683dc1ad6ff.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/cb/s8/2/A/I/O/_/AIO_y.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=431123968-431156739",
+      "titulo": "La encrucijada",
+      "subtitulo": "Capítulo 19",
+      "rumbleUrl": "https://rumble.com/v6xnsey-encru-19.html"
     },
     {
       "numero": "Capítulo 20",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/4/e1402454000152862bcda741bdfa584c.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/81/s8/2/Q/I/O/_/QIO_y.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=440618496-440652059",
+      "titulo": "La encrucijada",
+      "subtitulo": "Capítulo 20",
+      "rumbleUrl": "https://rumble.com/v6xnsfe-encru-20.html"
     },
     {
       "numero": "Capítulo 21",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/4/fa788c9634176c8e7bf9bf7f5cb3c7df.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/74/s8/2/E/g/z/d/Egzdz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=436853248-436886434",
+      "titulo": "La encrucijada",
+      "subtitulo": "Capítulo 21",
+      "rumbleUrl": "https://rumble.com/v6y8wpq-encru-21.html"
     },
     {
       "numero": "Capítulo 22",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/879344c9bf7cc64969ad19f49ee26578.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/08/s8/2/I/g/z/d/Igzdz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=433097728-433130610",
+      "titulo": "La encrucijada",
+      "subtitulo": "Capítulo 22",
+      "rumbleUrl": "https://rumble.com/v6y8wpu-encru-22.html"
     },
     {
       "numero": "Capítulo 23",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/2215c75611810cb19fb2728ca74c5963.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/bc/s8/2/4/O/X/e/4OXez.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=425842688-425875066",
+      "titulo": "La encrucijada",
+      "subtitulo": "Capítulo 23",
+      "rumbleUrl": "https://rumble.com/v6ygojc-encru-23.html"
     },
     {
       "numero": "Capítulo 24",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/68da13b863f69ed3d90df65c6d693951.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/59/s8/2/6/O/X/e/6OXez.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=425256448-425288711",
+      "titulo": "La encrucijada",
+      "subtitulo": "Capítulo 24",
+      "rumbleUrl": "https://rumble.com/v6ygoje-encru-24.html"
     },
     {
       "numero": "Capítulo 25",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/5e2ff902a4f0336d92bf27e5388db623.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/95/s8/2/y/L/p/h/yLphz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=448908288-448942372",
+      "titulo": "La encrucijada",
+      "subtitulo": "Capítulo 25",
+      "rumbleUrl": "https://rumble.com/v6yujq0-laencru-25.html"
     },
     {
       "numero": "Capítulo 26",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/b0e00115767f0fbe8d2e20ab1e938eed.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/5c/s8/2/S/O/p/h/SOphz.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=899336704-899370479",
+      "titulo": "La encrucijada",
+      "subtitulo": "Capítulo 26",
+      "rumbleUrl": "https://rumble.com/v6yujvw-laencru26.html"
     },
     {
       "numero": "Capítulo 27",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/7f12910422bbf66d07179d52a304a9f7.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/68/s8/2/o/R/p/h/oRphz.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=914427904-914462289",
+      "titulo": "La encrucijada",
+      "subtitulo": "Capítulo 27",
+      "rumbleUrl": "https://rumble.com/v6yuk0e-laencru27.html"
     },
     {
       "numero": "Capítulo 28",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/56cc680343cc56195a9db4785dfc5b23.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/fc/s8/2/m/T/p/h/mTphz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=435827200-435860381",
+      "titulo": "La encrucijada",
+      "subtitulo": "Capítulo 28",
+      "rumbleUrl": "https://rumble.com/v6yuk3w-la-encru-28.html"
     },
     {
       "numero": "Capítulo 29",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/4/ff609cb3bf3abef778e912125b46b2d9.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/65/s8/2/u/z/j/l/uzjlz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=416899072-416930730",
+      "titulo": "La encrucijada",
+      "subtitulo": "Capítulo 29",
+      "rumbleUrl": "https://rumble.com/v6zgh90-encru-29.html"
     },
     {
       "numero": "Capítulo 30",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/4/f84bbd2a9d4ff0b549b1a965feb68df2.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/2e/s8/2/A/z/j/l/Azjlz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=418868224-418900089",
+      "titulo": "La encrucijada",
+      "subtitulo": "Capítulo 30",
+      "rumbleUrl": "https://rumble.com/v6zgh96-encru-30.html"
     },
     {
       "numero": "Capítulo 31",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/8e54ed9cc81d1d151fdd89e43b5d4352.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/db/s8/2/A/9/n/n/A9nnz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=411384320-411415585",
+      "titulo": "La encrucijada",
+      "subtitulo": "Capítulo 31",
+      "rumbleUrl": "https://rumble.com/v6zs47u-encru-31.html"
     },
     {
       "numero": "Capítulo 32",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/8af7b982db243096d49c483ea27a41fb.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/8c/s8/2/K/c/o/n/Kconz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=412886528-412917893",
+      "titulo": "La encrucijada",
+      "subtitulo": "Capítulo 32",
+      "rumbleUrl": "https://rumble.com/v6zs4h0-la-encru32.html"
     },
     {
       "numero": "Capítulo 33",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/28c3df61b266bd9b55c32c1f59a777f9.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/c8/s8/2/g/i/T/q/giTqz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=412990976-413022279",
+      "titulo": "La encrucijada",
+      "subtitulo": "Capítulo 33",
+      "rumbleUrl": "https://rumble.com/v70bpja-encru-33.html"
     },
     {
       "numero": "Capítulo 34",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/269dd5af3797532bfe948ccad8b3ed24.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/6d/s8/2/o/i/T/q/oiTqz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=420041728-420073529",
+      "titulo": "La encrucijada",
+      "subtitulo": "Capítulo 34",
+      "rumbleUrl": "https://rumble.com/v70bpji-encru-34.html"
     },
     {
       "numero": "Capítulo 35",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/4/e430f7b94b9b49640363665c5d99727d.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/05/s8/2/u/i/T/q/uiTqz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=415626752-415658261",
+      "titulo": "La encrucijada",
+      "subtitulo": "Capítulo 35",
+      "rumbleUrl": "https://rumble.com/v70bpjo-encru-35.html"
     },
     {
       "numero": "Capítulo 36",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/d5fa432e00394227471d8743afae2500.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/22/s8/2/M/i/T/q/MiTqz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=425905152-425937536",
+      "titulo": "La encrucijada",
+      "subtitulo": "Capítulo 36",
+      "rumbleUrl": "https://rumble.com/v70bpk6-encru-36.html"
     },
     {
       "numero": "Capítulo 37",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/02ec330355a8cc7d4ea31d33a1947d03.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/3b/s8/2/U/6/B/r/U6Brz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=445499904-445533779",
+      "titulo": "La encrucijada",
+      "subtitulo": "Capítulo 37",
+      "rumbleUrl": "https://rumble.com/v70ftf2-encru-37.html"
     },
     {
       "numero": "Capítulo 38",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/9d3f614c8653dc1404bf7346f551e00b.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/81/s8/2/W/6/B/r/W6Brz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=431449600-431482383",
+      "titulo": "La encrucijada",
+      "subtitulo": "Capítulo 38",
+      "rumbleUrl": "https://rumble.com/v70ftf4-encru-38.html"
     },
     {
       "numero": "Capítulo 39",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/5ed4edd055e5995cc0f29547ee750269.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/bf/s8/2/U/r/C/u/UrCuz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=445415936-445449811",
+      "titulo": "La encrucijada",
+      "subtitulo": "Capítulo 39",
+      "rumbleUrl": "https://rumble.com/v70wpda-encru-39.html"
     },
     {
       "numero": "Capítulo 40",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/c1b12fc4aa23592dab7b520471216567.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/97/s8/2/8/r/C/u/8rCuz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=431353856-431386638",
+      "titulo": "La encrucijada",
+      "subtitulo": "Capítulo 40",
+      "rumbleUrl": "https://rumble.com/v70wpdo-encru-40.html"
     },
     {
       "numero": "Capítulo 41",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/4/f818320d3a4c5d5f1db25454ba54b409.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/66/s8/2/k/s/C/u/ksCuz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=444103168-444136944",
+      "titulo": "La encrucijada",
+      "subtitulo": "Capítulo 41",
+      "rumbleUrl": "https://rumble.com/v70wpe2-encru-41.html"
     },
     {
       "numero": "Capítulo 42",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/060a9c00e6540696dbedcfd9c68c7b57.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/aa/s8/2/o/s/C/u/osCuz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=450271232-450305509",
+      "titulo": "La encrucijada",
+      "subtitulo": "Capítulo 42",
+      "rumbleUrl": "https://rumble.com/v70wpe6-encru-42.html"
     },
     {
       "numero": "Capítulo 43",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/bc421c3f84809a172996336679455b36.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/ab/s8/2/U/d/h/B/UdhBz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=441921536-441955097",
+      "titulo": "La encrucijada",
+      "subtitulo": "Capítulo 43",
+      "rumbleUrl": "https://rumble.com/v71y67i-la-encru-43.html"
     },
     {
       "numero": "Capítulo 44",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/0584acb543211f5e81205a793da42ea5.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/31/s8/2/a/e/h/B/aehBz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=432062976-432095863",
+      "titulo": "La encrucijada",
+      "subtitulo": "Capítulo 44",
+      "rumbleUrl": "https://rumble.com/v71y680-la-encru-44.html"
     },
     {
       "numero": "Capítulo 45",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/19d57a16c5be51ed41f6587686c44a29.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/93/s8/2/y/e/h/B/yehBz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=441260032-441293616",
+      "titulo": "La encrucijada",
+      "subtitulo": "Capítulo 45",
+      "rumbleUrl": "https://rumble.com/v71y68o-la-encru-45.html"
     },
     {
       "numero": "Capítulo 46",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/73b0b1eb754b9458c4c8f9f99f2dc3ac.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/33/s8/2/C/e/h/B/CehBz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=434557440-434590509",
+      "titulo": "La encrucijada",
+      "subtitulo": "Capítulo 46",
+      "rumbleUrl": "https://rumble.com/v71y68s-la-encru-46.html"
     },
     {
       "numero": "Capítulo 47",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/aec68bf0cb35739f56f914c7f8fc1ba5.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/1e/s8/2/M/e/h/B/MehBz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=450849280-450883547",
+      "titulo": "La encrucijada",
+      "subtitulo": "Capítulo 47",
+      "rumbleUrl": "https://rumble.com/v71y692-la-encru-47.html"
     },
     {
       "numero": "Capítulo 48",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/8e54bef701451d44f2c5859e9d838673.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/83/s8/2/E/e/h/B/EehBz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=411770368-411801641",
+      "titulo": "La encrucijada",
+      "subtitulo": "Capítulo 48",
+      "rumbleUrl": "https://rumble.com/v71y68u-la-encru-48.html"
     },
     {
       "numero": "Capítulo 49",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/4/e5bdc6b464ff200f6414dc019f0f3d27.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/4/e5bdc6b464ff200f6414dc019f0f3d27.m3u8",
+      "titulo": "La encrucijada",
+      "subtitulo": "Capítulo 49"
     },
     {
       "numero": "Capítulo 50",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/9a076c09a881e4c954daa492fa8d66b6.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/3/9a076c09a881e4c954daa492fa8d66b6.m3u8",
+      "titulo": "La encrucijada",
+      "subtitulo": "Capítulo 50"
     },
     {
       "numero": "Capítulo 51",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/88f15ebaa2f30b062ed9901d6b380ecf.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/2/88f15ebaa2f30b062ed9901d6b380ecf.m3u8",
+      "titulo": "La encrucijada",
+      "subtitulo": "Capítulo 51"
+    },
+    {
+      "numero": "Capítulo 52",
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/3/df0e66d1129d6ecfd844d874d16af1e8.m3u8",
+      "titulo": "La encrucijada",
+      "subtitulo": "Capítulo 52"
     },
     {
       "numero": "Capítulo 53",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/df0e66d1129d6ecfd844d874d16af1e8.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/2/6b5c062c970d874f878ffb25761ac140.m3u8",
+      "titulo": "La encrucijada",
+      "subtitulo": "Capítulo 53"
     },
     {
       "numero": "Capítulo 54",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/6b5c062c970d874f878ffb25761ac140.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/1/06edbf2509d26fd6404dd5abb306702a.m3u8",
+      "titulo": "La encrucijada",
+      "subtitulo": "Capítulo 54"
     },
     {
       "numero": "Capítulo 55",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/06edbf2509d26fd6404dd5abb306702a.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/1/07ce01395f7ac9c31bfa7717847aee0f.m3u8",
+      "titulo": "La encrucijada",
+      "subtitulo": "Capítulo 55"
     },
     {
       "numero": "Capítulo 56",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/07ce01395f7ac9c31bfa7717847aee0f.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/2/6a9774d6a0752128f91fb632427585ae.m3u8",
+      "titulo": "La encrucijada",
+      "subtitulo": "Capítulo 56"
     },
     {
       "numero": "Capítulo 57",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/6a9774d6a0752128f91fb632427585ae.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/32/s8/2/Q/k/e/N/QkeNz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=423806464-423838749",
+      "titulo": "La encrucijada",
+      "subtitulo": "Capítulo 57",
+      "rumbleUrl": "https://rumble.com/v73tcbu-encru-57.html"
     },
     {
       "numero": "Capítulo 58",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/7144627be6a23b1476aefc00a176b6a6.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/90/s8/2/W/k/e/N/WkeNz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=415494144-415525706",
+      "titulo": "La encrucijada",
+      "subtitulo": "Capítulo 58",
+      "rumbleUrl": "https://rumble.com/v73tcc0-encru-58.html"
     },
     {
       "numero": "Capítulo 59",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/6b81683f8de614f9e9e5df45354666ae.m3u8",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 60",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/39c406c175114144160532010064f233.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/1/39c406c175114144160532010064f233.m3u8",
+      "titulo": "La encrucijada",
+      "subtitulo": "Capítulo 59"
     }
   ]
 }

@@ -6,43 +6,51 @@
   "capitulos": [
     {
       "numero": "Capítulo 1",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/7f3ffd3551407223b6414f0d97277978.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/2/7f3ffd3551407223b6414f0d97277978.m3u8",
+      "titulo": "",
+      "subtitulo": "Capítulo 1"
     },
     {
       "numero": "Capítulo 2",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/6186906f9449c1227477595a2b03a247.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/2/6186906f9449c1227477595a2b03a247.m3u8",
+      "titulo": "",
+      "subtitulo": "Capítulo 2"
     },
     {
       "numero": "Capítulo 3",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/6f79f3cb9675c3bfaee0e7dbd56383e5.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/2/6f79f3cb9675c3bfaee0e7dbd56383e5.m3u8",
+      "titulo": "",
+      "subtitulo": "Capítulo 3"
     },
     {
       "numero": "Capítulo 4",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/0b8ad133987c3f224a6274f3145736e3.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/1/0b8ad133987c3f224a6274f3145736e3.m3u8",
+      "titulo": "",
+      "subtitulo": "Capítulo 4"
     },
     {
       "numero": "Capítulo 5",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/96a814763ffe225cfd78c554b6e1d477.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/3/96a814763ffe225cfd78c554b6e1d477.m3u8",
+      "titulo": "",
+      "subtitulo": "Capítulo 5"
     },
     {
       "numero": "Capítulo 6",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/13304ad334818ee13a1d47de785e6398.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/1/13304ad334818ee13a1d47de785e6398.m3u8",
+      "titulo": "",
+      "subtitulo": "Capítulo 6"
     },
     {
       "numero": "Capítulo 7",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/79a8a4a9bc26986581320150faabaf32.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/2/79a8a4a9bc26986581320150faabaf32.m3u8",
+      "titulo": "",
+      "subtitulo": "Capítulo 7"
     },
     {
       "numero": "Capítulo 8",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/4/eee3b2c4afa82fc2cd5c0302190d9ecb.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/4/eee3b2c4afa82fc2cd5c0302190d9ecb.m3u8",
+      "titulo": "",
+      "subtitulo": "Capítulo 8"
     }
   ]
 }

@@ -6,248 +6,324 @@
   "capitulos": [
     {
       "numero": "Capítulo 1",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/66f89b7f4206101f993e240f05dbc9af.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/1f/s8/2/E/o/F/G/EoFGz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=400520704-400551179",
+      "titulo": "Doménica Montero",
+      "subtitulo": "Capítulo 1",
+      "rumbleUrl": "https://rumble.com/v72sdy6-domenica-1.html"
     },
     {
       "numero": "Capítulo 2",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/d1718db4ed435d2734ad5a23d11f6ce7.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/1a/s8/2/0/A/Z/G/0AZGz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=354309120-354336071",
+      "titulo": "Doménica Montero",
+      "subtitulo": "Capítulo 2",
+      "rumbleUrl": "https://rumble.com/v72u5ro-dome-2.html"
     },
     {
       "numero": "Capítulo 3",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/89a03acbe080033528dd31028d976ad9.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/e4/s8/2/G/3/h/H/G3hHz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=353406976-353433964",
+      "titulo": "Doménica Montero",
+      "subtitulo": "Capítulo 3",
+      "rumbleUrl": "https://rumble.com/v72vye8-dome-3.html"
     },
     {
       "numero": "Capítulo 4",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/3b185c5ca92b1f8c370b211c65237327.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/1/3b185c5ca92b1f8c370b211c65237327.m3u8",
+      "titulo": "Doménica Montero",
+      "subtitulo": "Capítulo 4"
     },
     {
       "numero": "Capítulo 5",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/77a5f8bfe8e036f92a212c8b33eea092.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/2/77a5f8bfe8e036f92a212c8b33eea092.m3u8",
+      "titulo": "Doménica Montero",
+      "subtitulo": "Capítulo 5"
     },
     {
       "numero": "Capítulo 6",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/485f670bb5a472adc81cd4cbefcd9bce.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/1/485f670bb5a472adc81cd4cbefcd9bce.m3u8",
+      "titulo": "Doménica Montero",
+      "subtitulo": "Capítulo 6"
     },
     {
       "numero": "Capítulo 7",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/1fa1f08fe5a0dce3cecece4f2a66ffe9.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/1/1fa1f08fe5a0dce3cecece4f2a66ffe9.m3u8",
+      "titulo": "Doménica Montero",
+      "subtitulo": "Capítulo 7"
     },
     {
       "numero": "Capítulo 8",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/589a168a2b2f1ee775a670893c1aed0a.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/2/589a168a2b2f1ee775a670893c1aed0a.m3u8",
+      "titulo": "Doménica Montero",
+      "subtitulo": "Capítulo 8"
     },
     {
       "numero": "Capítulo 9",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/1806113ab836d19e277cb5ff7065d4c5.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/1/1806113ab836d19e277cb5ff7065d4c5.m3u8",
+      "titulo": "Doménica Montero",
+      "subtitulo": "Capítulo 9"
     },
     {
       "numero": "Capítulo 10",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/a7c8eb93843c12d64d586ade6508022f.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/3/a7c8eb93843c12d64d586ade6508022f.m3u8",
+      "titulo": "Doménica Montero",
+      "subtitulo": "Capítulo 10"
     },
     {
       "numero": "Capítulo 11",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/4/ec7399fa27c2e538eb8fd0cedd3b2dca.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/d0/s8/2/u/D/u/K/uDuKz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=330260480-330285549",
+      "titulo": "Doménica Montero",
+      "subtitulo": "Capítulo 11",
+      "rumbleUrl": "https://rumble.com/v73dx04-dome-11.html"
     },
     {
       "numero": "Capítulo 12",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/c54e90696969ea38e487b28914864f7f.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/c0/s8/2/Y/S/M/K/YSMKz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=329817600-329842676",
+      "titulo": "Doménica Montero",
+      "subtitulo": "Capítulo 12",
+      "rumbleUrl": "https://rumble.com/v73finm-dome-12.html"
     },
     {
       "numero": "Capítulo 13",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/1e44c3512ac5d0c4289c4a99ecba08ef.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/65/s8/2/I/R/2/K/IR2Kz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=304306688-304329949",
+      "titulo": "Doménica Montero",
+      "subtitulo": "Capítulo 13",
+      "rumbleUrl": "https://rumble.com/v73gx5u-dome-13.html"
     },
     {
       "numero": "Capítulo 14",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/583da532e00c8e37f72520cf067da161.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/5b/s8/2/a/N/5/K/aN5Kz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=331072512-331097572",
+      "titulo": "Doménica Montero",
+      "subtitulo": "Capítulo 14",
+      "rumbleUrl": "https://rumble.com/v73h6f4-dome-14.html"
     },
     {
       "numero": "Capítulo 15",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/6392f7c93f4ce43b40aec5e05c850a06.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/ed/s8/2/G/g/x/L/GgxLz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=329566720-329591802",
+      "titulo": "Doménica Montero",
+      "subtitulo": "Capítulo 15",
+      "rumbleUrl": "https://rumble.com/v73jrmo-dome-15.html"
     },
     {
       "numero": "Capítulo 16",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/0e77c68a370d94232790560b2281de8b.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/f7/s8/2/i/z/h/M/izhMz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=329959424-329984502",
+      "titulo": "Doménica Montero",
+      "subtitulo": "Capítulo 16",
+      "rumbleUrl": "https://rumble.com/v73o094-dome-16.html"
     },
     {
       "numero": "Capítulo 17",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/15495380c304606530bc30e33b249636.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/42/s8/2/k/B/z/M/kBzMz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=334048256-334073521",
+      "titulo": "Doménica Montero",
+      "subtitulo": "Capítulo 17",
+      "rumbleUrl": "https://rumble.com/v73pl8q-dome-17.html"
     },
     {
       "numero": "Capítulo 18",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/785169170172a0c406cdc3b26ba18d54.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/f8/s8/2/0/9/P/M/09PMz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=329576448-329601512",
+      "titulo": "Doménica Montero",
+      "subtitulo": "Capítulo 18",
+      "rumbleUrl": "https://rumble.com/v73r1is-dome-18.html"
     },
     {
       "numero": "Capítulo 19",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/8a89279208bf1effa6f9ac5fcff622b1.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/5b/s8/2/C/Y/f/N/CYfNz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=330255872-330280940",
+      "titulo": "Doménica Montero",
+      "subtitulo": "Capítulo 19",
+      "rumbleUrl": "https://rumble.com/v73thgc-dome-19.html"
     },
     {
       "numero": "Capítulo 20",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/713adb7a2c8a259a9303c2620f38d9ca.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/de/s8/2/m/I/6/N/mI6Nz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=330354176-330379346",
+      "titulo": "Doménica Montero",
+      "subtitulo": "Capítulo 20",
+      "rumbleUrl": "https://rumble.com/v73y45o-dome-20.html"
     },
     {
       "numero": "Capítulo 21",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/044bf494627152724992fde439e22371.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/d9/s8/2/C/Z/u/O/CZuOz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=329673216-329698296",
+      "titulo": "Doménica Montero",
+      "subtitulo": "Capítulo 21",
+      "rumbleUrl": "https://rumble.com/v740f6k-dome-21.html"
     },
     {
       "numero": "Capítulo 22",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/2110e246205dc47257cf915cc875f360.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/ca/s8/2/i/x/N/O/ixNOz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=329678336-329703407",
+      "titulo": "Doménica Montero",
+      "subtitulo": "Capítulo 22",
+      "rumbleUrl": "https://rumble.com/v7421u0-dome-22.html"
     },
     {
       "numero": "Capítulo 23",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/576da1f917849a8538731e8d9a8798cb.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/ab/s8/2/i/S/3/O/iS3Oz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=331431936-331457082",
+      "titulo": "Doménica Montero",
+      "subtitulo": "Capítulo 23",
+      "rumbleUrl": "https://rumble.com/v743hfs-dome-23.html"
     },
     {
       "numero": "Capítulo 24",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/9eaa1b315ef088684806e77d2376d2a4.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/3/9eaa1b315ef088684806e77d2376d2a4.m3u8",
+      "titulo": "Doménica Montero",
+      "subtitulo": "Capítulo 24"
     },
     {
       "numero": "Capítulo 25",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/96c9f8c29d0b59d573efec963ebc2c50.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/95/s8/2/a/v/d/Q/avdQz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=329235456-329260518",
+      "titulo": "Doménica Montero",
+      "subtitulo": "Capítulo 25",
+      "rumbleUrl": "https://rumble.com/v74a4hs-dome-25.html"
     },
     {
       "numero": "Capítulo 26",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/92e2403466d22a071f0634c2ba367a9c.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/e4/s8/2/k/8/u/Q/k8uQz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=329845760-329870830",
+      "titulo": "Doménica Montero",
+      "subtitulo": "Capítulo 26",
+      "rumbleUrl": "https://rumble.com/v74bo5m-dome-26.html"
     },
     {
       "numero": "Capítulo 27",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/81d08837348e6524409822e42750391f.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/71/s8/2/K/D/Q/Q/KDQQz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=329619456-329644530",
+      "titulo": "Doménica Montero",
+      "subtitulo": "Capítulo 27",
+      "rumbleUrl": "https://rumble.com/v74dk6c-dome-27.html"
     },
     {
       "numero": "Capítulo 28",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/82e38dd61e6467ae19debca0afb61a6a.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/d0/s8/2/S/9/b/R/S9bRz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=305621504-305644652",
+      "titulo": "Doménica Montero",
+      "subtitulo": "Capítulo 28",
+      "rumbleUrl": "https://rumble.com/v74fmgc-430710636.html"
     },
     {
       "numero": "Capítulo 29",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/3ad6b2073549dface479e2ece3836029.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/d4/s8/2/6/d/g/R/6dgRz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=336205312-336230862",
+      "titulo": "Doménica Montero",
+      "subtitulo": "Capítulo 29",
+      "rumbleUrl": "https://rumble.com/v74fzei-dome-29.html"
     },
     {
       "numero": "Capítulo 30",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/4/ffac24c5c059d4b26df01315cf97fd75.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/01/s8/2/2/x/_/R/2x_Rz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=330246144-330271219",
+      "titulo": "Doménica Montero",
+      "subtitulo": "Capítulo 30",
+      "rumbleUrl": "https://rumble.com/v74l0ja-dome-30.html"
     },
     {
       "numero": "Capítulo 31",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/4fa0af72823416265265e6725e1a9811.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/f0/s8/2/Q/H/t/S/QHtSz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=330720768-330745931",
+      "titulo": "Doménica Montero",
+      "subtitulo": "Capítulo 31",
+      "rumbleUrl": "https://rumble.com/v74ms8a-dome-31.html"
     },
     {
       "numero": "Capítulo 32",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/d4ea3b8665a335283f694467f573e290.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/76/s8/2/c/E/O/S/cEOSz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=328847872-328872945",
+      "titulo": "Doménica Montero",
+      "subtitulo": "Capítulo 32",
+      "rumbleUrl": "https://rumble.com/v74omf6-dome-32.html"
     },
     {
       "numero": "Capítulo 33",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/a69e8469452a79a885ce54a22b7f8fab.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/15/s8/2/W/H/7/S/WH7Sz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=329322496-329347559",
+      "titulo": "Doménica Montero",
+      "subtitulo": "Capítulo 33",
+      "rumbleUrl": "https://rumble.com/v74qank-dome-33.html"
     },
     {
       "numero": "Capítulo 34",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/a2f4ddd2a63dd2478a28af3f9306a8e1.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/0d/s8/2/c/a/t/T/catTz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=330354176-330379250",
+      "titulo": "Doménica Montero",
+      "subtitulo": "Capítulo 34",
+      "rumbleUrl": "https://rumble.com/v74scua-dome-34.html"
     },
     {
       "numero": "Capítulo 35",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/491494a0e69a372e4dcda448779b1da4.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/1/491494a0e69a372e4dcda448779b1da4.m3u8",
+      "titulo": "Doménica Montero",
+      "subtitulo": "Capítulo 35"
     },
     {
       "numero": "Capítulo 36",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/bd384687414f03f0c0233b163d8970b8.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/3/bd384687414f03f0c0233b163d8970b8.m3u8",
+      "titulo": "Doménica Montero",
+      "subtitulo": "Capítulo 36"
     },
     {
       "numero": "Capítulo 37",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/18b26d5a1b1d0b7ac404788d5308df40.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/1/18b26d5a1b1d0b7ac404788d5308df40.m3u8",
+      "titulo": "Doménica Montero",
+      "subtitulo": "Capítulo 37"
     },
     {
       "numero": "Capítulo 38",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/299d2dcf06aeb499e5588f7aa250c147.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/1/299d2dcf06aeb499e5588f7aa250c147.m3u8",
+      "titulo": "Doménica Montero",
+      "subtitulo": "Capítulo 38"
     },
     {
       "numero": "Capítulo 39",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/bc33704625e618a7039ee8a7b8ea6985.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/3/bc33704625e618a7039ee8a7b8ea6985.m3u8",
+      "titulo": "Doménica Montero",
+      "subtitulo": "Capítulo 39"
     },
     {
       "numero": "Capítulo 40",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/03623dc10441c7f5f61f8b82247e6f31.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/1/03623dc10441c7f5f61f8b82247e6f31.m3u8",
+      "titulo": "Doménica Montero",
+      "subtitulo": "Capítulo 40"
     },
     {
       "numero": "Capítulo 41",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/80f5168c3b5fdc3be4def704392b6780.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/2/80f5168c3b5fdc3be4def704392b6780.m3u8",
+      "titulo": "Doménica Montero",
+      "subtitulo": "Capítulo 41"
     },
     {
       "numero": "Capítulo 42",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/817a626dcb3011e9fce24395c21271a7.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/2/817a626dcb3011e9fce24395c21271a7.m3u8",
+      "titulo": "Doménica Montero",
+      "subtitulo": "Capítulo 42"
     },
     {
       "numero": "Capítulo 43",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/41e8fbd339ca434ed719ac913ae7ea98.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/1/41e8fbd339ca434ed719ac913ae7ea98.m3u8",
+      "titulo": "Doménica Montero",
+      "subtitulo": "Capítulo 43"
     },
     {
       "numero": "Capítulo 44",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/2c0b29ce30061d000eddaac7c15bd75d.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/1/2c0b29ce30061d000eddaac7c15bd75d.m3u8",
+      "titulo": "Doménica Montero",
+      "subtitulo": "Capítulo 44"
     },
     {
       "numero": "Capítulo 45",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/609d0ff60fb932edf9e49f81ce4b26c6.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/2/609d0ff60fb932edf9e49f81ce4b26c6.m3u8",
+      "titulo": "Doménica Montero",
+      "subtitulo": "Capítulo 45"
     },
     {
       "numero": "Capítulo 46",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/5bd8a850b7e93b2fd110394a1d19eb42.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/2/5bd8a850b7e93b2fd110394a1d19eb42.m3u8",
+      "titulo": "Doménica Montero",
+      "subtitulo": "Capítulo 46"
     },
     {
       "numero": "Capítulo 47",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/4/ffcaf431f80cb161b4d9d417deaa094b.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/4/ffcaf431f80cb161b4d9d417deaa094b.m3u8",
+      "titulo": "Doménica Montero",
+      "subtitulo": "Capítulo 47"
     },
     {
       "numero": "Capítulo 48",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/03b1011dbf0e0cc17d64f49bee079cc8.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/05/s8/2/w/e/F/Z/weFZz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=330626048-330651219",
+      "titulo": "Doménica Montero",
+      "subtitulo": "Capítulo 48",
+      "rumbleUrl": "https://rumble.com/v75r4ly-dome-48.html"
     },
     {
       "numero": "Capítulo 49",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/8eff16ae53de0500abf097d1b487a113.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/2/8eff16ae53de0500abf097d1b487a113.m3u8",
+      "titulo": "Doménica Montero",
+      "subtitulo": "Capítulo 49"
     }
   ]
 }

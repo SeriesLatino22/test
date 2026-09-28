@@ -6,458 +6,613 @@
   "capitulos": [
     {
       "numero": "Capítulo 1",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/88d003538d4baefd719813d995122294.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/2/88d003538d4baefd719813d995122294.m3u8",
+      "titulo": "",
+      "subtitulo": "Capítulo 1"
     },
     {
       "numero": "Capítulo 2",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/9f2f9b0724cf11e0501a6314abacb35d.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/3/9f2f9b0724cf11e0501a6314abacb35d.m3u8",
+      "titulo": "",
+      "subtitulo": "Capítulo 2"
     },
     {
       "numero": "Capítulo 3",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/4/e02babd5db0fb808eeb16dca3f00362c.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/4/e02babd5db0fb808eeb16dca3f00362c.m3u8",
+      "titulo": "",
+      "subtitulo": "Capítulo 3"
     },
     {
       "numero": "Capítulo 4",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/457c684371dc9da82d5127df0062b981.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/1/457c684371dc9da82d5127df0062b981.m3u8",
+      "titulo": "",
+      "subtitulo": "Capítulo 4"
     },
     {
       "numero": "Capítulo 6",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/40d0c3009405b57857abe6cf428fb7c1.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/1/40d0c3009405b57857abe6cf428fb7c1.m3u8",
+      "titulo": "",
+      "subtitulo": "Capítulo 6"
     },
     {
       "numero": "Capítulo 7",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/80352d768cfee820a79cdfc37e267a61.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/2/80352d768cfee820a79cdfc37e267a61.m3u8",
+      "titulo": "",
+      "subtitulo": "Capítulo 7"
     },
     {
       "numero": "Capítulo 8",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/4/eec437d7040f92113a0e8a37978d2a63.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/4/eec437d7040f92113a0e8a37978d2a63.m3u8",
+      "titulo": "",
+      "subtitulo": "Capítulo 8"
     },
     {
       "numero": "Capítulo 9",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/4/e26ddd1cc4ad4c17a5c32287f6eba76c.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/4/e26ddd1cc4ad4c17a5c32287f6eba76c.m3u8",
+      "titulo": "",
+      "subtitulo": "Capítulo 9"
     },
     {
       "numero": "Capítulo 10",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/4/fba46cb8d6d6c96613950b68abea76ef.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/4/fba46cb8d6d6c96613950b68abea76ef.m3u8",
+      "titulo": "",
+      "subtitulo": "Capítulo 10"
     },
     {
       "numero": "Capítulo 11",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/99979715723faf40176b951be186fc1d.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/3/99979715723faf40176b951be186fc1d.m3u8",
+      "titulo": "",
+      "subtitulo": "Capítulo 11"
     },
     {
       "numero": "Capítulo 12",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/06c7c2c2031a82872e155f6a5ad3f112.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/1/06c7c2c2031a82872e155f6a5ad3f112.m3u8",
+      "titulo": "",
+      "subtitulo": "Capítulo 12"
     },
     {
       "numero": "Capítulo 13",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/aa4cd9173dd53457f4d362665d8319d6.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/3/aa4cd9173dd53457f4d362665d8319d6.m3u8",
+      "titulo": "",
+      "subtitulo": "Capítulo 13"
     },
     {
       "numero": "Capítulo 14",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/4/ea2579bd657bd82807b1e271413c4b3f.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/4/ea2579bd657bd82807b1e271413c4b3f.m3u8",
+      "titulo": "",
+      "subtitulo": "Capítulo 14"
     },
     {
       "numero": "Capítulo 15",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/45fe19683f0163ef2401e5a135f8b520.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/1/45fe19683f0163ef2401e5a135f8b520.m3u8",
+      "titulo": "",
+      "subtitulo": "Capítulo 15"
     },
     {
       "numero": "Capítulo 16",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/c93bf03fb59c718844ca9d716792ca81.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/3/c93bf03fb59c718844ca9d716792ca81.m3u8",
+      "titulo": "",
+      "subtitulo": "Capítulo 16"
     },
     {
       "numero": "Capítulo 17",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/4/eeb6305e0f0cff86b57376408053e39d.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/9b/s8/2/V/0/m/0/V0m0y.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=339457024-339482781",
+      "titulo": "",
+      "subtitulo": "Capítulo 17",
+      "rumbleUrl": "https://rumble.com/v6vvju7-lhj-16.html"
     },
     {
       "numero": "Capítulo 18",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/c45aa5019f32641f41c39eeeb2847778.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/3/c45aa5019f32641f41c39eeeb2847778.m3u8",
+      "titulo": "",
+      "subtitulo": "Capítulo 18"
     },
     {
       "numero": "Capítulo 19",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/380e4bfac6d81b80d079b715642adb1a.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/49/s8/2/W/C/5/0/WC50y.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=341526016-341551787",
+      "titulo": "",
+      "subtitulo": "Capítulo 19",
+      "rumbleUrl": "https://rumble.com/v6vzgvk-lahija18.html"
     },
     {
       "numero": "Capítulo 20",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/284560d2bd52a93aa55012aee9257e69.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/da/s8/2/u/P/r/1/uPr1y.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=338556416-338582178",
+      "titulo": "",
+      "subtitulo": "Capítulo 20",
+      "rumbleUrl": "https://rumble.com/v6w1lck-la-hija-del-mari-19.html"
     },
     {
       "numero": "Capítulo 21",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/4/eb9494fd7cd32d5206699d4160f19790.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/70/s8/2/8/P/r/1/8Pr1y.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=348514304-348540668",
+      "titulo": "",
+      "subtitulo": "Capítulo 21",
+      "rumbleUrl": "https://rumble.com/v6w1ldo-la-hija-20.html"
     },
     {
       "numero": "Capítulo 22",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/4/f8ebe9210b177620bf7b3e24f62f7e13.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/4/f8ebe9210b177620bf7b3e24f62f7e13.m3u8",
+      "titulo": "",
+      "subtitulo": "Capítulo 22"
     },
     {
       "numero": "Capítulo 23",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/84faa30afc833162134a313659f52c0e.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/2/84faa30afc833162134a313659f52c0e.m3u8",
+      "titulo": "",
+      "subtitulo": "Capítulo 23"
     },
     {
       "numero": "Capítulo 24",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/b0fbc07df63d0881a978984c517f59ce.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/86/s8/2/8/Q/n/3/8Qn3y.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=341319168-341345033",
+      "titulo": "",
+      "subtitulo": "Capítulo 24",
+      "rumbleUrl": "https://rumble.com/v6wchbw-la-hija23.html"
     },
     {
       "numero": "Capítulo 25",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/761f59494a2dbbbfcc6763b100301807.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/fc/s8/2/A/I/J/3/AIJ3y.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=345458176-345484240",
+      "titulo": "",
+      "subtitulo": "Capítulo 25",
+      "rumbleUrl": "https://rumble.com/v6weefu-la-hij-24.html"
     },
     {
       "numero": "Capítulo 26",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/4/f5431d9d2d7c4fe5c2dd396b88593ee6.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/0e/s8/2/g/n/c/5/gnc5y.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=340697088-340722832",
+      "titulo": "",
+      "subtitulo": "Capítulo 26",
+      "rumbleUrl": "https://rumble.com/v6wmpmu-la-hij-25.html"
     },
     {
       "numero": "Capítulo 27",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/4/e97ba296867c84032b370605ca90da5b.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/89/s8/2/2/1/T/4/21T4y.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=451830784-451857776",
+      "titulo": "",
+      "subtitulo": "Capítulo 27",
+      "rumbleUrl": "https://rumble.com/v6wkx9y-la-hija-26.html"
     },
     {
       "numero": "Capítulo 28",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/7a7d570b903ed086f9021695054aee51.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/67/s8/2/M/k/c/5/Mkc5y.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=379346944-379375625",
+      "titulo": "",
+      "subtitulo": "Capítulo 28",
+      "rumbleUrl": "https://rumble.com/v6wmpie-la-hija-27.html"
     },
     {
       "numero": "Capítulo 29",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/6d4fdba476cd46f1a44a90dea9460b1c.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/f5/s8/2/-/S/v/5/-Sv5y.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=382934016-382962989",
+      "titulo": "",
+      "subtitulo": "Capítulo 29",
+      "rumbleUrl": "https://rumble.com/v6wof9a-la-hija-28.html"
     },
     {
       "numero": "Capítulo 30",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/3b0e147e7840c110fd9f677533cf0bc1.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/23/s8/2/W/O/W/6/WOW6y.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=380018688-380047392",
+      "titulo": "",
+      "subtitulo": "Capítulo 30",
+      "rumbleUrl": "https://rumble.com/v6wwenk-hij-29.html"
     },
     {
       "numero": "Capítulo 31",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/24990a654272defde6611c41eafd4a94.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/7b/s8/2/s/O/i/7/sOi7y.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=375321600-375350081",
+      "titulo": "",
+      "subtitulo": "Capítulo 31",
+      "rumbleUrl": "https://rumble.com/v6wyihe-hija-30.html"
     },
     {
       "numero": "Capítulo 32",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/92adbccfcd885a34f844ab1ee23e2d57.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/2/92adbccfcd885a34f844ab1ee23e2d57.m3u8",
+      "titulo": "",
+      "subtitulo": "Capítulo 32"
     },
     {
       "numero": "Capítulo 33",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/6b69b6e243dc2309a01638aa340c5f31.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/47/s8/2/g/U/s/8/gUs8y.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=362570240-362597721",
+      "titulo": "",
+      "subtitulo": "Capítulo 33",
+      "rumbleUrl": "https://rumble.com/v6x50na-la-hija-32.html"
     },
     {
       "numero": "Capítulo 34",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/098191a525d75010731ada0c42f3c040.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/75/s8/2/8/Z/L/8/8ZL8y.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=379719680-379748455",
+      "titulo": "",
+      "subtitulo": "Capítulo 34",
+      "rumbleUrl": "https://rumble.com/v6x6ozg-hija-33.html"
     },
     {
       "numero": "Capítulo 35",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/34925388b513138e7110b385285c933b.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/1/34925388b513138e7110b385285c933b.m3u8",
+      "titulo": "",
+      "subtitulo": "Capítulo 35"
     },
     {
       "numero": "Capítulo 36",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/3a359d31751ac464e8a6dd23768988ee.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/fa/s8/2/A/K/O/9/AKO9y.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=321500160-321524421",
+      "titulo": "",
+      "subtitulo": "Capítulo 36",
+      "rumbleUrl": "https://rumble.com/v6xcjyy-la-hij-35.html"
     },
     {
       "numero": "Capítulo 37",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/b6bac99f4f6a35685857c18251cebf20.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/b6/s8/2/q/U/I/-/qUI-y.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=381564416-381593304",
+      "titulo": "",
+      "subtitulo": "Capítulo 37",
+      "rumbleUrl": "https://rumble.com/v6xhnrk-la-hij-36.html"
     },
     {
       "numero": "Capítulo 38",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/3de933428f4ad279cf49756ab25334ea.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/d3/s8/2/A/m/1/-/Am1-y.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=380238848-380267628",
+      "titulo": "",
+      "subtitulo": "Capítulo 38",
+      "rumbleUrl": "https://rumble.com/v6xja56-la-hj-37.html"
     },
     {
       "numero": "Capítulo 39",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/4ff6698ca23b0ad2eb66b7dcaf781b85.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/ed/s8/2/0/G/m/_/0Gm_y.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=351270912-351297475",
+      "titulo": "",
+      "subtitulo": "Capítulo 39",
+      "rumbleUrl": "https://rumble.com/v6xlbuc-la-hija-38.html"
     },
     {
       "numero": "Capítulo 40",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/4/fd28b074129836cf22dec82619ba75bf.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/f3/s8/2/q/i/z/_/qiz_y.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=368267264-368295152",
+      "titulo": "",
+      "subtitulo": "Capítulo 40",
+      "rumbleUrl": "https://rumble.com/v6xmfps-la-hij-39.html"
     },
     {
       "numero": "Capítulo 41",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/63c5560adc12dc746ef8e2838b5ba8a4.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/43/s8/2/G/I/O/_/GIO_y.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=366579200-366606982",
+      "titulo": "",
+      "subtitulo": "Capítulo 41",
+      "rumbleUrl": "https://rumble.com/v6xnsf4-hija-40.html"
     },
     {
       "numero": "Capítulo 42",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/26a74234def9dd515e56b8bface9d8da.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/1/26a74234def9dd515e56b8bface9d8da.m3u8",
+      "titulo": "",
+      "subtitulo": "Capítulo 42"
     },
     {
       "numero": "Capítulo 43",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/0a3c1ee634e352f23a10db7bef207076.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/1/0a3c1ee634e352f23a10db7bef207076.m3u8",
+      "titulo": "",
+      "subtitulo": "Capítulo 43"
     },
     {
       "numero": "Capítulo 44",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/98dca5b4c0cabc58be03551781c857ff.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/c2/s8/2/u/5/A/b/u5Abz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=365042176-365069752",
+      "titulo": "",
+      "subtitulo": "Capítulo 44",
+      "rumbleUrl": "https://rumble.com/v6xxtuc-la-hija-43.html"
     },
     {
       "numero": "Capítulo 45",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/5a0b773d937a21ae1225388e8b4693e1.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/99/s8/2/W/V/V/b/WVVbz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=376053248-376081646",
+      "titulo": "",
+      "subtitulo": "Capítulo 45",
+      "rumbleUrl": "https://rumble.com/v6xznqo-la-hija-44.html"
     },
     {
       "numero": "Capítulo 46",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/4d52533bfb95d37b3281f698fc8e8da4.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/da/s8/2/K/O/K/c/KOKcz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=358812672-358839828",
+      "titulo": "",
+      "subtitulo": "Capítulo 46",
+      "rumbleUrl": "https://rumble.com/v6y4aw4-laihja-45.html"
     },
     {
       "numero": "Capítulo 47",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/c1ecb9a89882792b33756ac2b695fdb6.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/ac/s8/2/y/u/y/d/yuydz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=353908224-353934986",
+      "titulo": "",
+      "subtitulo": "Capítulo 47",
+      "rumbleUrl": "https://rumble.com/v6y8u8o-hij-48.html"
     },
     {
       "numero": "Capítulo 48",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/1eddd6dad25496f1527f7aadf2a8ab10.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/26/s8/2/o/r/8/c/or8cz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=168557056-168569643",
+      "titulo": "",
+      "subtitulo": "Capítulo 48",
+      "rumbleUrl": "https://rumble.com/v6y6dla-la-hija-47.html"
     },
     {
       "numero": "Capítulo 49",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/39608c066c0d61c797722d7a635a250d.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/1/39608c066c0d61c797722d7a635a250d.m3u8",
+      "titulo": "",
+      "subtitulo": "Capítulo 49"
     },
     {
       "numero": "Capítulo 50",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/8f1c0eba708ecfb2085e2ceed7e74a99.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/9b/s8/2/o/Z/6/d/oZ6dz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=345038336-345064414",
+      "titulo": "",
+      "subtitulo": "Capítulo 50",
+      "rumbleUrl": "https://rumble.com/v6ybv7y-lahija49.html"
     },
     {
       "numero": "Capítulo 51",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/8d985f5fb5691aed9e34f61dc595d8ca.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/c2/s8/2/Y/B/E/f/YBEfz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=359343616-359370776",
+      "titulo": "",
+      "subtitulo": "Capítulo 51",
+      "rumbleUrl": "https://rumble.com/v6ykm42-la-hija-50-back.html"
     },
     {
       "numero": "Capítulo 52",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/61a0a18575ddf1118a6bef7558647665.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/d1/s8/2/W/B/E/f/WBEfz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=357223424-357250398",
+      "titulo": "",
+      "subtitulo": "Capítulo 52",
+      "rumbleUrl": "https://rumble.com/v6ykm40-la-hija-51-back.html"
     },
     {
       "numero": "Capítulo 53",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/7917390ee9e261c21368ca2218931715.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/3c/s8/2/8/B/E/f/8BEfz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=352326656-352353336",
+      "titulo": "",
+      "subtitulo": "Capítulo 53",
+      "rumbleUrl": "https://rumble.com/v6ykm4c-la-hija-52-back.html"
     },
     {
       "numero": "Capítulo 54",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/8dc3057bf89cd91b2c7d0fef0fc84174.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/25/s8/2/E/U/U/g/EUUgz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=341632000-341657779",
+      "titulo": "",
+      "subtitulo": "Capítulo 54",
+      "rumbleUrl": "https://rumble.com/v6yrnvi-la-hija-53.html"
     },
     {
       "numero": "Capítulo 55",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/4/e37c978d41bd442eb358edf19aa6f719.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/ce/s8/2/m/3/U/g/m3Ugz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=144161280-144172075",
+      "titulo": "",
+      "subtitulo": "Capítulo 55",
+      "rumbleUrl": "https://rumble.com/v6yrob0-la-hija-54.html"
     },
     {
       "numero": "Capítulo 56",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/4776ce90aeac1f6dc9f672494abc4c8a.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/11/s8/2/w/i/p/h/wiphz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=122909696-122918902",
+      "titulo": "",
+      "subtitulo": "Capítulo 56",
+      "rumbleUrl": "https://rumble.com/v6yuiae-la-hij-55.html"
     },
     {
       "numero": "Capítulo 57",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/4/ee2888473ed6ba05502ae94aa8e3a900.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/85/s8/2/k/j/p/h/kjphz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=351769600-351796237",
+      "titulo": "",
+      "subtitulo": "Capítulo 57",
+      "rumbleUrl": "https://rumble.com/v6yuibu-la-hija-56.html"
     },
     {
       "numero": "Capítulo 58",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/6ae14cd52c4010fba65304709a9038c3.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/b7/s8/2/0/-/I/h/0-Ihz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=334719488-334744757",
+      "titulo": "",
+      "subtitulo": "Capítulo 58",
+      "rumbleUrl": "https://rumble.com/v6yw910-hij-57.html"
     },
     {
       "numero": "Capítulo 59",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/4/fc7f093da34a8461606915c44c0fac0b.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/8e/s8/2/I/J/v/i/IJviz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=332477952-332503017",
+      "titulo": "",
+      "subtitulo": "Capítulo 59",
+      "rumbleUrl": "https://rumble.com/v6z0ov6-la-hija-58.html"
     },
     {
       "numero": "Capítulo 60",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/552eb8289a23d9d019009e65b9ab4bde.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/a8/s8/2/m/6/g/j/m6gjz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=338182144-338207715",
+      "titulo": "",
+      "subtitulo": "Capítulo 60",
+      "rumbleUrl": "https://rumble.com/v6z50uk-la-hija-59.html"
     },
     {
       "numero": "Capítulo 61",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/2465b4e13303e76657587afc62be0595.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/5a/s8/2/o/6/g/j/o6gjz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=334426112-334451369",
+      "titulo": "",
+      "subtitulo": "Capítulo 61",
+      "rumbleUrl": "https://rumble.com/v6z50um-la-hija-60.html"
     },
     {
       "numero": "Capítulo 62",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/48e1402fa82663427e6a43c9ae7e52c3.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/e1/s8/2/I/6/g/j/I6gjz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=347647488-347673759",
+      "titulo": "",
+      "subtitulo": "Capítulo 62",
+      "rumbleUrl": "https://rumble.com/v6z50v6-la-hija-61.html"
     },
     {
       "numero": "Capítulo 63",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/b9a9381f1448b8dba45d290fc5fd2b6a.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/68/s8/2/A/x/O/j/AxOjz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=341538816-341564598",
+      "titulo": "",
+      "subtitulo": "Capítulo 63",
+      "rumbleUrl": "https://rumble.com/v6z7yl6-hij-62.html"
     },
     {
       "numero": "Capítulo 64",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/c94cab7937de0bab813e54cbd3e94d8a.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/22/s8/2/W/n/L/k/WnLkz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=340576768-340602434",
+      "titulo": "",
+      "subtitulo": "Capítulo 64",
+      "rumbleUrl": "https://rumble.com/v6zdawg-la-hija-63.html"
     },
     {
       "numero": "Capítulo 65",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/7818873053baa0654397a757b8f76e83.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/03/s8/2/G/k/L/k/GkLkz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=337414656-337440199",
+      "titulo": "",
+      "subtitulo": "Capítulo 65",
+      "rumbleUrl": "https://rumble.com/v6zdaqo-la-hija-64.html"
     },
     {
       "numero": "Capítulo 66",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/27202f605a33826fa2b9b801dda4a3aa.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/df/s8/2/y/h/5/k/yh5kz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=339870720-339896498",
+      "titulo": "",
+      "subtitulo": "Capítulo 66",
+      "rumbleUrl": "https://rumble.com/v6zf1so-la-hija-65.html"
     },
     {
       "numero": "Capítulo 67",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/25df0cbdebf935982eaaf89a6eb8e86a.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/80/s8/2/6/w/j/l/6wjlz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=344734720-344760781",
+      "titulo": "",
+      "subtitulo": "Capítulo 67",
+      "rumbleUrl": "https://rumble.com/v6zgh4q-la-hija-66.html"
     },
     {
       "numero": "Capítulo 68",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/77cc81011fcb70886d8d07fd4d489508.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/14/s8/2/A/5/5/m/A55mz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=337600000-337625452",
+      "titulo": "",
+      "subtitulo": "Capítulo 68",
+      "rumbleUrl": "https://rumble.com/v6zqct6-la-hija-67.html"
     },
     {
       "numero": "Capítulo 69",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/c9112279cdf9ba2a0d8d28719f11894f.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/ef/s8/2/g/9/5/m/g95mz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=344899072-344925136",
+      "titulo": "",
+      "subtitulo": "Capítulo 69",
+      "rumbleUrl": "https://rumble.com/v6zqczq-la-hija-68.html"
     },
     {
       "numero": "Capítulo 70",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/c5734a479c14157dbbd8928c7732a992.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/de/s8/2/e/9/5/m/e95mz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=337481728-337507210",
+      "titulo": "",
+      "subtitulo": "Capítulo 70",
+      "rumbleUrl": "https://rumble.com/v6zqczo-la-hija-69.html"
     },
     {
       "numero": "Capítulo 71",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/14b79264d8795bfd0642d3159ee708ab.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/f9/s8/2/y/9/5/m/y95mz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=341359616-341385378",
+      "titulo": "",
+      "subtitulo": "Capítulo 71",
+      "rumbleUrl": "https://rumble.com/v6zqd08-la-hija-70.html"
     },
     {
       "numero": "Capítulo 72",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/4/e8c07a891ee13858a922001632bcde1f.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/ba/s8/2/c/k/n/n/cknnz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=335682560-335707939",
+      "titulo": "",
+      "subtitulo": "Capítulo 72",
+      "rumbleUrl": "https://rumble.com/v6zs1oi-la-hj-71.html"
     },
     {
       "numero": "Capítulo 73",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/dd6fa5b12acb14012b26dc4667121f2d.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/30/s8/2/w/Q/X/n/wQXnz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=334247936-334273215",
+      "titulo": "",
+      "subtitulo": "Capítulo 73",
+      "rumbleUrl": "https://rumble.com/v6zv91y-la-hij-72.html"
     },
     {
       "numero": "Capítulo 74",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/4/e76bdaa1bd38932c325b878c75c0729d.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/fe/s8/2/C/Q/X/n/CQXnz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=340615168-340640943",
+      "titulo": "",
+      "subtitulo": "Capítulo 74",
+      "rumbleUrl": "https://rumble.com/v6zv924-la-hij-73.html"
     },
     {
       "numero": "Capítulo 75",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/76e5fd5b808fc85acb7cb1ba03037a42.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/55/s8/2/k/C/c/p/kCcpz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=338977792-339003372",
+      "titulo": "",
+      "subtitulo": "Capítulo 75",
+      "rumbleUrl": "https://rumble.com/v702ccq-la-hija-74.html"
     },
     {
       "numero": "Capítulo 76",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/56280a8a74c4c914e3ccf0cbeb1b0d8f.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/cd/s8/2/i/F/c/p/iFcpz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=342897664-342923520",
+      "titulo": "",
+      "subtitulo": "Capítulo 76",
+      "rumbleUrl": "https://rumble.com/v702ci0-la-hija-75.html"
     },
     {
       "numero": "Capítulo 77",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/9eb81f7face645f1ae463889f790a180.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/d5/s8/2/Q/m/C/p/QmCpz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=341710336-341736097",
+      "titulo": "",
+      "subtitulo": "Capítulo 77",
+      "rumbleUrl": "https://rumble.com/v704lre-hija-76.html"
     },
     {
       "numero": "Capítulo 78",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/d09ea5c35513c12508e2ceac88907435.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/aa/s8/2/m/F/H/q/mFHqz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=335281664-335307033",
+      "titulo": "",
+      "subtitulo": "Capítulo 78",
+      "rumbleUrl": "https://rumble.com/v70aor0-hija-77.html"
     },
     {
       "numero": "Capítulo 79",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/b42958ca80af213e826563af5d9f21d9.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/0f/s8/2/G/F/H/q/GFHqz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=341166592-341192357",
+      "titulo": "",
+      "subtitulo": "Capítulo 79",
+      "rumbleUrl": "https://rumble.com/v70aork-hija-78.html"
     },
     {
       "numero": "Capítulo 80",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/07d5abdc921a538110960b94195efab4.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/3d/s8/2/g/E/U/q/gEUqz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=343828480-343854439",
+      "titulo": "",
+      "subtitulo": "Capítulo 80",
+      "rumbleUrl": "https://rumble.com/v70bts6-la-hija-79.html"
     },
     {
       "numero": "Capítulo 81",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/cd4cd53eb0a3acbeeb65f21be5042705.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/3/cd4cd53eb0a3acbeeb65f21be5042705.m3u8",
+      "titulo": "",
+      "subtitulo": "Capítulo 81"
     },
     {
       "numero": "Capítulo 82",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/0e31904ef7dbb0b0fd504dd4d9820f85.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/3f/s8/2/M/Z/Q/r/MZQrz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=332342784-332368024",
+      "titulo": "",
+      "subtitulo": "Capítulo 82",
+      "rumbleUrl": "https://rumble.com/v70h4h2-la-hij-81.html"
     },
     {
       "numero": "Capítulo 83",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/1/3b7e6e44eb2e6e711dd27c88d7964173.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/d2/s8/2/e/4/l/s/e4lsz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=344193024-344218995",
+      "titulo": "",
+      "subtitulo": "Capítulo 83",
+      "rumbleUrl": "https://rumble.com/v70k0zo-la-hij-82.html"
     },
     {
       "numero": "Capítulo 84",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/944124ce7d715e94772268815aee69d4.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/8a/s8/2/s/w/B/s/swBsz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=322924032-322948485",
+      "titulo": "",
+      "subtitulo": "Capítulo 84",
+      "rumbleUrl": "https://rumble.com/v70ldw2-hij-83.html"
     },
     {
       "numero": "Capítulo 85",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/8c1d5fc80c7ba5fd550fd23054605441.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/30/s8/2/U/i/V/s/UiVsz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=345563136-345589203",
+      "titulo": "",
+      "subtitulo": "Capítulo 85",
+      "rumbleUrl": "https://rumble.com/v70n4fi-la-hija-84.html"
     },
     {
       "numero": "Capítulo 86",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/8c1d5fc80c7ba5fd550fd23054605441.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/2/8c1d5fc80c7ba5fd550fd23054605441.m3u8",
+      "titulo": "",
+      "subtitulo": "Capítulo 86"
     },
     {
       "numero": "Capítulo 87",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/2/5be029d62991dda3634cfbcf5a8e5048.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/2/5be029d62991dda3634cfbcf5a8e5048.m3u8",
+      "titulo": "",
+      "subtitulo": "Capítulo 87"
     },
     {
       "numero": "Capítulo 88",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/4/e988fa7169a241fc67a6b5452127db94.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/3e/s8/2/8/c/L/t/8cLtz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=342513664-342539626",
+      "titulo": "",
+      "subtitulo": "Capítulo 88",
+      "rumbleUrl": "https://rumble.com/v70rut8-hij-87.html"
     },
     {
       "numero": "Capítulo 89",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/4/e63bb606d911f8e6dd7dad42960fe78f.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/6f/s8/2/o/n/C/u/onCuz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=341075968-341101747",
+      "titulo": "",
+      "subtitulo": "Capítulo 89",
+      "rumbleUrl": "https://rumble.com/v70wp5a-la-hija-88.html"
     },
     {
       "numero": "Capítulo 90",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/a7f37d5f7139dc6b8a3c1b2c3c40e236.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fwe2/8a/s8/2/W/2/T/u/W2Tuz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=336720384-336745858",
+      "titulo": "",
+      "subtitulo": "Capítulo 90",
+      "rumbleUrl": "https://rumble.com/v70y8xc-la-hij-89.html"
     },
     {
       "numero": "Capítulo 91",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/a34d2f6b0b4b0b8e7a25eb0ec492e486.m3u8",
-      "titulo": ""
+      "urlOkru": "https://jsonoline-2ao.pages.dev/cdn/playlists/3/a34d2f6b0b4b0b8e7a25eb0ec492e486.m3u8",
+      "titulo": "",
+      "subtitulo": "Capítulo 91"
     },
     {
       "numero": "Capítulo 92",
-      "urlOkru": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/playlists/3/c99fed340a383c8224807ae89f9de2ca.m3u8",
-      "titulo": ""
+      "urlOkru": "https://hugh.cdn.rumble.cloud/video/fww1/5c/s8/2/g/6/N/v/g6Nvz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=342789632-342815549",
+      "titulo": "",
+      "subtitulo": "Capítulo 92",
+      "rumbleUrl": "https://rumble.com/v713cee-la-hija-91.html"
     }
   ]
 }
