@@ -14699,26 +14699,6 @@
     "localPoster": "/posters/hermanitas.webp"
   },
   {
-    "id": "metastasis",
-    "title": "Metástasis",
-    "category": "Narco Novelas",
-    "ribbon": "NINGUNA",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/metastasis.webp",
-    "isPremium": false,
-    "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/metastasis_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/metastasis_s1.json",
-        "episodesCount": 62
-      }
-    ],
-    "episodesCount": 62,
-    "localPoster": "/posters/metastasis.webp"
-  },
-  {
     "id": "sin_tetas_no_hay_paraiso_2006",
     "title": "Sin tetas no hay paraíso [2006]",
     "category": "Recién agregadas",
@@ -18472,26 +18452,6 @@
     ],
     "episodesCount": 114,
     "localPoster": "/posters/la_indomable.webp"
-  },
-  {
-    "id": "la_cacica",
-    "title": "La cacica",
-    "category": "Recién agregadas",
-    "ribbon": "NINGUNA",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/cacica.webp",
-    "isPremium": false,
-    "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/la_cacica_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/la_cacica_s1.json",
-        "episodesCount": 39
-      }
-    ],
-    "episodesCount": 39,
-    "localPoster": "/posters/cacica.webp"
   },
   {
     "id": "la_ex",
