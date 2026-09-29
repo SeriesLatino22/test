@@ -67,7 +67,7 @@
         "name": "Temporada 10",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/el_senor_de_los_cielos_t10_s10.json",
         "hasAdOverride": false,
-        "episodesCount": 58
+        "episodesCount": 59
       }
     ],
     "isPremium": true,
@@ -145,7 +145,7 @@
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/novela_1789770803141_s1.json",
         "hasAdOverride": false,
-        "episodesCount": 4
+        "episodesCount": 6
       }
     ],
     "isPremium": false,
@@ -159,14 +159,14 @@
     "ribbon": "GRAN ESTRENO",
     "defaultSeason": 1,
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/1788636447111_tierrad22.webp",
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/novela_1788636491872_s1.json",
+    "targetUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/novela_1788636491872_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/novela_1788636491872_s1.json",
+        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/novela_1788636491872_s1.json",
         "hasAdOverride": false,
-        "episodesCount": 35
+        "episodesCount": 40
       }
     ],
     "isPremium": false,
@@ -231,7 +231,7 @@
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/pa_seguirte_queriendo_s1.json",
         "hasAdOverride": false,
-        "episodesCount": 46
+        "episodesCount": 48
       }
     ],
     "isPremium": false,
@@ -252,7 +252,7 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/el_renacer_de_luna_s1.json",
-        "episodesCount": 70
+        "episodesCount": 71
       }
     ],
     "episodesCount": 38,
@@ -278,7 +278,7 @@
         "name": "Temporada 2",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/lejos_de_ti_t2_s2.json",
         "hasAdOverride": false,
-        "episodesCount": 52
+        "episodesCount": 53
       }
     ],
     "isPremium": false,

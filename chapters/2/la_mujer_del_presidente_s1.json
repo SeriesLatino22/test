@@ -1,6 +1,10 @@
 {
   "titulo": "La mujer del presidente",
   "capitulos": [
-    "System.Collections.Hashtable"
+    {
+      "numero": "Capítulo 1",
+      "urlOkru": "System.Collections.Hashtable",
+      "rumbleUrl": ""
+    }
   ]
 }
