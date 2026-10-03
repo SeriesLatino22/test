@@ -1,24 +1,5 @@
 [
   {
-    "id": "novela-1790993700619",
-    "title": "Cuando fui bonita",
-    "category": "Mexicanas",
-    "ribbon": "GRAN ESTRENO",
-    "defaultSeason": 1,
-    "posterUrl": "https://jsonoline-2ao.pages.dev/cdn/posters/1/1790993654276_images.webp",
-    "targetUrl": "fui",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "fui",
-        "hasAdOverride": false
-      }
-    ],
-    "isPremium": false,
-    "hasAd": true
-  },
-  {
     "id": "el_senor_de_los_cielos_t10",
     "title": "El Señor de los Cielos",
     "category": "Narco Novelas",
@@ -149,6 +130,25 @@
     "isPremium": true,
     "hasAd": false,
     "localPoster": "/posters/betty.webp"
+  },
+  {
+    "id": "novela-1790993700619",
+    "title": "Cuando fui bonita",
+    "category": "Mexicanas",
+    "ribbon": "GRAN ESTRENO",
+    "defaultSeason": 1,
+    "posterUrl": "https://jsonoline-2ao.pages.dev/cdn/posters/1/1790993654276_images.webp",
+    "targetUrl": "fui",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "fui",
+        "hasAdOverride": false
+      }
+    ],
+    "isPremium": false,
+    "hasAd": true
   },
   {
     "id": "novela-1789770803141",
@@ -4008,13 +4008,14 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/costena.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/la_costena_y_el_cachaco_s1.json",
+    "targetUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/la_costena_y_el_cachaco_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/la_costena_y_el_cachaco_s1.json",
-        "episodesCount": 140
+        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/la_costena_y_el_cachaco_s1.json",
+        "episodesCount": 140,
+        "sourceUrl": "https://sosanovel.net/?page_id=424"
       }
     ],
     "episodesCount": 140,
