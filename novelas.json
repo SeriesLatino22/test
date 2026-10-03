@@ -138,17 +138,20 @@
     "ribbon": "GRAN ESTRENO",
     "defaultSeason": 1,
     "posterUrl": "https://jsonoline-2ao.pages.dev/cdn/posters/1/1790993654276_images.webp",
-    "targetUrl": "fui",
+    "targetUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/novela_1790993700619_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "fui",
-        "hasAdOverride": false
+        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/novela_1790993700619_s1.json",
+        "hasAdOverride": false,
+        "episodesCount": 3,
+        "sourceUrl": "fui"
       }
     ],
     "isPremium": false,
-    "hasAd": true
+    "hasAd": true,
+    "localPoster": "/posters/1790993654276_images.webp"
   },
   {
     "id": "novela-1789770803141",
@@ -3917,27 +3920,6 @@
     "localPoster": "/posters/la_gata.webp"
   },
   {
-    "id": "la_costena_y_el_cachaco",
-    "title": "La costeña y el cachaco",
-    "category": "Colombianas",
-    "ribbon": "NINGUNA",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/costena.webp",
-    "isPremium": false,
-    "hasAd": false,
-    "targetUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/la_costena_y_el_cachaco_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/la_costena_y_el_cachaco_s1.json",
-        "episodesCount": 140,
-        "sourceUrl": "https://sosanovel.net/?page_id=424"
-      }
-    ],
-    "episodesCount": 140,
-    "localPoster": "/posters/costena.webp"
-  },
-  {
     "id": "la_madrastra",
     "title": "La Madrastra",
     "category": "Mexicanas",
@@ -3999,27 +3981,6 @@
     ],
     "episodesCount": 120,
     "localPoster": "/posters/la_verdad_oculta.webp"
-  },
-  {
-    "id": "la_costena_y_el_cachaco",
-    "title": "La costeña y el cachaco",
-    "category": "Colombianas",
-    "ribbon": "NINGUNA",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/costena.webp",
-    "isPremium": false,
-    "hasAd": false,
-    "targetUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/la_costena_y_el_cachaco_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/la_costena_y_el_cachaco_s1.json",
-        "episodesCount": 140,
-        "sourceUrl": "https://sosanovel.net/?page_id=424"
-      }
-    ],
-    "episodesCount": 140,
-    "localPoster": "/posters/costena.webp"
   },
   {
     "id": "la_fan",
