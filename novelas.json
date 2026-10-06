@@ -196,6 +196,26 @@
     "localPoster": "/posters/queirnedo22im.webp"
   },
   {
+    "id": "el_renacer_de_luna",
+    "title": "El renacer de Luna",
+    "category": "Recién agregadas",
+    "ribbon": "GRAN ESTRENO",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/renacerIMG.webp",
+    "isPremium": false,
+    "hasAd": false,
+    "targetUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/el_renacer_de_luna_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/el_renacer_de_luna_s1.json",
+        "episodesCount": 76
+      }
+    ],
+    "episodesCount": 38,
+    "localPoster": "/posters/renacerIMG.webp"
+  },
+  {
     "id": "novela-1788636491872",
     "title": "Tierra de Amor y Coraje",
     "category": "Mexicanas",
@@ -215,6 +235,33 @@
     "isPremium": false,
     "hasAd": false,
     "localPoster": "/posters/1788636447111_tierrad22.webp"
+  },
+  {
+    "id": "lejos_de_ti_t2",
+    "title": "Lejos de ti T2",
+    "category": "Recién agregadas",
+    "ribbon": "GRAN ESTRENO",
+    "defaultSeason": 1,
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/lejosdeti2.webp",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/lejos_de_ti_t2_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/lejos_de_ti_t2_s1.json",
+        "hasAdOverride": false
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Temporada 2",
+        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/lejos_de_ti_t2_s2.json",
+        "hasAdOverride": false,
+        "episodesCount": 58
+      }
+    ],
+    "isPremium": false,
+    "hasAd": false,
+    "localPoster": "/posters/lejosdeti2.webp"
   },
   {
     "id": "rosario_tijeras_5_mexico",
@@ -259,53 +306,6 @@
     "isPremium": false,
     "hasAd": false,
     "localPoster": "/posters/rosa5.webp"
-  },
-  {
-    "id": "el_renacer_de_luna",
-    "title": "El renacer de Luna",
-    "category": "Recién agregadas",
-    "ribbon": "GRAN ESTRENO",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/renacerIMG.webp",
-    "isPremium": false,
-    "hasAd": false,
-    "targetUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/el_renacer_de_luna_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/el_renacer_de_luna_s1.json",
-        "episodesCount": 76
-      }
-    ],
-    "episodesCount": 38,
-    "localPoster": "/posters/renacerIMG.webp"
-  },
-  {
-    "id": "lejos_de_ti_t2",
-    "title": "Lejos de ti T2",
-    "category": "Recién agregadas",
-    "ribbon": "GRAN ESTRENO",
-    "defaultSeason": 1,
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/lejosdeti2.webp",
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/lejos_de_ti_t2_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/lejos_de_ti_t2_s1.json",
-        "hasAdOverride": false
-      },
-      {
-        "seasonNumber": 2,
-        "name": "Temporada 2",
-        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/lejos_de_ti_t2_s2.json",
-        "hasAdOverride": false,
-        "episodesCount": 58
-      }
-    ],
-    "isPremium": false,
-    "hasAd": false,
-    "localPoster": "/posters/lejosdeti2.webp"
   },
   {
     "id": "novela-1789994221391",
