@@ -216,27 +216,6 @@
     "localPoster": "/posters/renacerIMG.webp"
   },
   {
-    "id": "novela-1788636491872",
-    "title": "Tierra de Amor y Coraje",
-    "category": "Mexicanas",
-    "ribbon": "GRAN ESTRENO",
-    "defaultSeason": 1,
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/1788636447111_tierrad22.webp",
-    "targetUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/novela_1788636491872_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/novela_1788636491872_s1.json",
-        "hasAdOverride": false,
-        "episodesCount": 40
-      }
-    ],
-    "isPremium": false,
-    "hasAd": false,
-    "localPoster": "/posters/1788636447111_tierrad22.webp"
-  },
-  {
     "id": "lejos_de_ti_t2",
     "title": "Lejos de ti T2",
     "category": "Recién agregadas",
@@ -262,6 +241,27 @@
     "isPremium": false,
     "hasAd": false,
     "localPoster": "/posters/lejosdeti2.webp"
+  },
+  {
+    "id": "novela-1788636491872",
+    "title": "Tierra de Amor y Coraje",
+    "category": "Mexicanas",
+    "ribbon": "GRAN ESTRENO",
+    "defaultSeason": 1,
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/1788636447111_tierrad22.webp",
+    "targetUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/novela_1788636491872_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/novela_1788636491872_s1.json",
+        "hasAdOverride": false,
+        "episodesCount": 40
+      }
+    ],
+    "isPremium": false,
+    "hasAd": false,
+    "localPoster": "/posters/1788636447111_tierrad22.webp"
   },
   {
     "id": "rosario_tijeras_5_mexico",
