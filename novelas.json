@@ -661,7 +661,7 @@
   {
     "id": "dinastia_casillas",
     "title": "Dinastía Casillas",
-    "category": "Recién agregadas",
+    "category": "Narco Novelas",
     "ribbon": "FINALIZADO",
     "defaultSeason": 1,
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/dinastiaIMG.webp",
@@ -675,8 +675,7 @@
       }
     ],
     "isPremium": false,
-    "hasAd": true,
-    "localPoster": "/posters/dinastiaIMG.webp"
+    "hasAd": true
   },
   {
     "id": "domenica_montero",
@@ -3067,7 +3066,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": true
+    "hasAd": true,
+    "localPoster": "/posters/1791489240576_la_familia_de_mi_esposo_s1.webp"
   },
   {
     "id": "amor_secreto",
@@ -3186,7 +3186,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": true
+    "hasAd": true,
+    "localPoster": "/posters/1791489416585_sinu_rio_de_pasiones_s1.webp"
   },
   {
     "id": "infieles",
@@ -3225,7 +3226,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": false
+    "hasAd": false,
+    "localPoster": "/posters/1791488484587_amar_en_tiempos_revueltos.webp"
   },
   {
     "id": "obsesion",
@@ -3244,7 +3246,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": false
+    "hasAd": false,
+    "localPoster": "/posters/1791488507103_obsesion.webp"
   },
   {
     "id": "herederos",
@@ -3275,7 +3278,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": false
+    "hasAd": false,
+    "localPoster": "/posters/1791488524886_herederos.webp"
   },
   {
     "id": "curro_jimenez",
@@ -3294,7 +3298,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": false
+    "hasAd": false,
+    "localPoster": "/posters/1791488555623_curro_jimenez.webp"
   },
   {
     "id": "verano_azul",
@@ -3313,7 +3318,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": false
+    "hasAd": false,
+    "localPoster": "/posters/1791488571698_verano_azul.webp"
   },
   {
     "id": "a_las_once_en_casa",
@@ -3332,7 +3338,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": false
+    "hasAd": false,
+    "localPoster": "/posters/1791488593894_a_las_once_en_casa.webp"
   },
   {
     "id": "los_gozos_y_las_sombras",
@@ -3351,7 +3358,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": false
+    "hasAd": false,
+    "localPoster": "/posters/1791488627565_los_gozos_y_las_sombras.webp"
   },
   {
     "id": "fortunata_y_jacinta",
@@ -3370,7 +3378,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": false
+    "hasAd": false,
+    "localPoster": "/posters/1791488642837_fortunata_y_jacinta.webp"
   },
   {
     "id": "la_barraca",
@@ -3389,7 +3398,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": false
+    "hasAd": false,
+    "localPoster": "/posters/1791488659338_la_barraca.webp"
   },
   {
     "id": "juncal",
@@ -3408,7 +3418,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": false
+    "hasAd": false,
+    "localPoster": "/posters/1791488706040_juncal.webp"
   },
   {
     "id": "canas_y_barro",
@@ -3427,7 +3438,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": false
+    "hasAd": false,
+    "localPoster": "/posters/1791488722739_canas_y_barro.webp"
   },
   {
     "id": "la_plaza_del_diamante",
@@ -3446,7 +3458,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": false
+    "hasAd": false,
+    "localPoster": "/posters/1791488752974_la_plaza_del_diamante.webp"
   },
   {
     "id": "la_regenta",
@@ -3465,7 +3478,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": false
+    "hasAd": false,
+    "localPoster": "/posters/1791488865592_la_regenta.webp"
   },
   {
     "id": "las_tontas_no_van_al_cielo",
@@ -4141,7 +4155,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": false
+    "hasAd": false,
+    "localPoster": "/posters/1791489474144_cuidado_con_el_angel.webp"
   },
   {
     "id": "dame_chocolate",
@@ -5652,7 +5667,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": false
+    "hasAd": false,
+    "localPoster": "/posters/1791489526956_las_villamizar.webp"
   },
   {
     "id": "lazos_de_amor",
@@ -7255,7 +7271,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": false
+    "hasAd": false,
+    "localPoster": "/posters/1791489582223_montecristo_colombia.webp"
   },
   {
     "id": "montecristo_mexico",
@@ -12195,15 +12212,16 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/tarde.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/tarde_lo_conoci_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/tarde_lo_conoci_s1.json",
+        "episodesCount": 105
       }
     ],
-    "episodesCount": 0,
+    "episodesCount": 105,
     "localPoster": "/posters/tarde.webp"
   },
   {
@@ -12253,15 +12271,16 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/vicente.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_rey_vicente_fernandez_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_rey_vicente_fernandez_s1.json",
+        "episodesCount": 36
       }
     ],
-    "episodesCount": 0,
+    "episodesCount": 36,
     "localPoster": "/posters/vicente.webp"
   },
   {
@@ -14672,15 +14691,28 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/sintetas.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/sin_tetas_no_hay_paraiso_2006_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/sin_tetas_no_hay_paraiso_2006_s1.json",
+        "episodesCount": 12
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Temporada 2",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/sin_tetas_no_hay_paraiso_2006_s2.json",
+        "episodesCount": 17
+      },
+      {
+        "seasonNumber": 3,
+        "name": "Temporada 3",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/sin_tetas_no_hay_paraiso_2006_s3.json",
+        "episodesCount": 15
       }
     ],
-    "episodesCount": 0,
+    "episodesCount": 44,
     "localPoster": "/posters/sintetas.webp"
   },
   {
@@ -14731,15 +14763,16 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/fantasma.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_fantasma_del_gran_hotel_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_fantasma_del_gran_hotel_s1.json",
+        "episodesCount": 123
       }
     ],
-    "episodesCount": 0,
+    "episodesCount": 123,
     "localPoster": "/posters/fantasma.webp"
   },
   {
@@ -19093,15 +19126,16 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/juanasven.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_venganza_de_las_juanas_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_venganza_de_las_juanas_s1.json",
+        "episodesCount": 18
       }
     ],
-    "episodesCount": 0,
+    "episodesCount": 18,
     "localPoster": "/posters/juanasven.webp"
   },
   {
@@ -19132,15 +19166,16 @@
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/luna.webp",
     "isPremium": false,
     "hasAd": false,
-    "targetUrl": "",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/yo_no_te_pido_la_luna_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": ""
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/yo_no_te_pido_la_luna_s1.json",
+        "episodesCount": 58
       }
     ],
-    "episodesCount": 0,
+    "episodesCount": 58,
     "localPoster": "/posters/luna.webp"
   },
   {
