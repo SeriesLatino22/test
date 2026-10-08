@@ -4129,21 +4129,19 @@
     "title": "Cuidado Con El Ángel",
     "category": "Mexicanas",
     "ribbon": "NINGUNA",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/Logooo.webp",
-    "isPremium": false,
-    "hasAd": false,
+    "defaultSeason": 1,
+    "posterUrl": "https://jsonoline-2ao.pages.dev/cdn/posters/1/1791489474144_cuidado_con_el_angel.webp",
     "targetUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/1/cuidado_con_el_angel_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/1/cuidado_con_el_angel_s1.json",
-        "episodesCount": 194,
-        "sourceUrl": "https://sosanovel.net/?page_id=544"
+        "hasAdOverride": false
       }
     ],
-    "episodesCount": 194,
-    "localPoster": "/posters/Logooo.webp"
+    "isPremium": false,
+    "hasAd": false
   },
   {
     "id": "dame_chocolate",
