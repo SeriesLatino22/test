@@ -7378,25 +7378,6 @@
     "localPoster": "/posters/muchachitas_como_tu.webp"
   },
   {
-    "id": "donde_carajos_esta_umana",
-    "title": "¿Dónde carajos está Umaña?",
-    "category": "Recién agregadas",
-    "ribbon": "NINGUNA",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/umana.webp",
-    "isPremium": false,
-    "hasAd": false,
-    "targetUrl": "",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": ""
-      }
-    ],
-    "episodesCount": 0,
-    "localPoster": "/posters/umana.webp"
-  },
-  {
     "id": "donde_esta_elisa",
     "title": "¿Dónde está Elisa?",
     "category": "Recién agregadas",
