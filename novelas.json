@@ -3459,20 +3459,19 @@
     "title": "La Regenta",
     "category": "Recién agregadas",
     "ribbon": "NINGUNA",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/la_regenta.webp",
-    "isPremium": false,
-    "hasAd": false,
+    "defaultSeason": 1,
+    "posterUrl": "https://jsonoline-2ao.pages.dev/cdn/posters/1/1791488865592_la_regenta.webp",
     "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_regenta_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_regenta_s1.json",
-        "episodesCount": 3
+        "hasAdOverride": false
       }
     ],
-    "episodesCount": 3,
-    "localPoster": "/posters/la_regenta.webp"
+    "isPremium": false,
+    "hasAd": false
   },
   {
     "id": "las_tontas_no_van_al_cielo",
