@@ -3238,20 +3238,19 @@
     "title": "Obsesión",
     "category": "Recién agregadas",
     "ribbon": "NINGUNA",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/obsesion.webp",
-    "isPremium": false,
-    "hasAd": false,
+    "defaultSeason": 1,
+    "posterUrl": "https://jsonoline-2ao.pages.dev/cdn/posters/1/1791488507103_obsesion.webp",
     "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/obsesion_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/obsesion_s1.json",
-        "episodesCount": 40
+        "hasAdOverride": false
       }
     ],
-    "episodesCount": 40,
-    "localPoster": "/posters/obsesion.webp"
+    "isPremium": false,
+    "hasAd": false
   },
   {
     "id": "herederos",
