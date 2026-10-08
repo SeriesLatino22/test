@@ -3402,20 +3402,19 @@
     "title": "Juncal",
     "category": "Recién agregadas",
     "ribbon": "NINGUNA",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/juncal.webp",
-    "isPremium": false,
-    "hasAd": false,
+    "defaultSeason": 1,
+    "posterUrl": "https://jsonoline-2ao.pages.dev/cdn/posters/1/1791488706040_juncal.webp",
     "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/juncal_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/juncal_s1.json",
-        "episodesCount": 7
+        "hasAdOverride": false
       }
     ],
-    "episodesCount": 7,
-    "localPoster": "/posters/juncal.webp"
+    "isPremium": false,
+    "hasAd": false
   },
   {
     "id": "canas_y_barro",
