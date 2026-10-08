@@ -3173,23 +3173,20 @@
     "id": "sinu_rio_de_pasiones_s1",
     "title": "Sinú, río de pasiones",
     "category": "Colombianas",
-    "ribbon": "",
-    "posterUrl": "https://pbs.twimg.com/media/GV6pYtZWkAAfd67?format=jpg&name=small",
-    "isPremium": false,
-    "hasAd": true,
+    "ribbon": "NINGUNA",
+    "defaultSeason": 1,
+    "posterUrl": "https://jsonoline-2ao.pages.dev/cdn/posters/1/1791489416585_sinu_rio_de_pasiones_s1.webp",
     "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/sinu_rio_de_pasiones_s1_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/sinu_rio_de_pasiones_s1_s1.json",
-        "hasAdOverride": false,
-        "episodesCount": 61
+        "hasAdOverride": false
       }
     ],
-    "episodesCount": 0,
-    "defaultSeason": 1,
-    "localPoster": "https://pbs.twimg.com/media/GV6pYtZWkAAfd67?format=jpg&name=small"
+    "isPremium": false,
+    "hasAd": true
   },
   {
     "id": "infieles",
