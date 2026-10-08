@@ -3345,20 +3345,19 @@
     "title": "Los Gozos y las Sombras",
     "category": "Recién agregadas",
     "ribbon": "NINGUNA",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/los_gozos_y_las_sombras.webp",
-    "isPremium": false,
-    "hasAd": false,
+    "defaultSeason": 1,
+    "posterUrl": "https://jsonoline-2ao.pages.dev/cdn/posters/1/1791488627565_los_gozos_y_las_sombras.webp",
     "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/los_gozos_y_las_sombras_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/los_gozos_y_las_sombras_s1.json",
-        "episodesCount": 13
+        "hasAdOverride": false
       }
     ],
-    "episodesCount": 13,
-    "localPoster": "/posters/los_gozos_y_las_sombras.webp"
+    "isPremium": false,
+    "hasAd": false
   },
   {
     "id": "fortunata_y_jacinta",
