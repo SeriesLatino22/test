@@ -3307,20 +3307,19 @@
     "title": "Verano Azul",
     "category": "Recién agregadas",
     "ribbon": "NINGUNA",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/verano_azul.webp",
-    "isPremium": false,
-    "hasAd": false,
+    "defaultSeason": 1,
+    "posterUrl": "https://jsonoline-2ao.pages.dev/cdn/posters/1/1791488571698_verano_azul.webp",
     "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/verano_azul_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/verano_azul_s1.json",
-        "episodesCount": 19
+        "hasAdOverride": false
       }
     ],
-    "episodesCount": 19,
-    "localPoster": "/posters/verano_azul.webp"
+    "isPremium": false,
+    "hasAd": false
   },
   {
     "id": "a_las_once_en_casa",
