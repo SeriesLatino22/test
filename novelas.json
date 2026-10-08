@@ -3053,24 +3053,21 @@
   {
     "id": "la_familia_de_mi_esposo_s1",
     "title": "La familia de mi esposo",
-    "category": "Otras Novelas",
-    "ribbon": "",
-    "posterUrl": "https://pbs.twimg.com/media/GV6pR3aWkAAcbjQ?format=jpg&name=small",
-    "isPremium": false,
-    "hasAd": true,
+    "category": "Recién agregadas",
+    "ribbon": "NINGUNA",
+    "defaultSeason": 1,
+    "posterUrl": "https://jsonoline-2ao.pages.dev/cdn/posters/1/1791489240576_la_familia_de_mi_esposo_s1.webp",
     "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/la_familia_de_mi_esposo_s1_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/la_familia_de_mi_esposo_s1_s1.json",
-        "hasAdOverride": false,
-        "episodesCount": 152
+        "hasAdOverride": false
       }
     ],
-    "episodesCount": 0,
-    "defaultSeason": 1,
-    "localPoster": "https://pbs.twimg.com/media/GV6pR3aWkAAcbjQ?format=jpg&name=small"
+    "isPremium": false,
+    "hasAd": true
   },
   {
     "id": "amor_secreto",
