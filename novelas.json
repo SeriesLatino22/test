@@ -399,6 +399,26 @@
     "localPoster": "/posters/1789953897914_acerosenorqa.webp"
   },
   {
+    "id": "gata_salvaje",
+    "title": "Gata salvaje",
+    "category": "Recién agregadas",
+    "ribbon": "NINGUNA",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/gata_salvaje.webp",
+    "isPremium": false,
+    "hasAd": false,
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/gata_salvaje_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/gata_salvaje_s1.json",
+        "episodesCount": 98
+      }
+    ],
+    "episodesCount": 98,
+    "localPoster": "/posters/gata_salvaje.webp"
+  },
+  {
     "id": "tan_cerca_de_ti_nace_el_amor",
     "title": "Tan cerca de ti, nace el amor",
     "category": "Mexicanas",
@@ -3053,6 +3073,106 @@
     "localPoster": "https://pbs.twimg.com/media/GV6pR3aWkAAcbjQ?format=jpg&name=small"
   },
   {
+    "id": "amor_secreto",
+    "title": "Amor secreto",
+    "category": "Recién agregadas",
+    "ribbon": "NINGUNA",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/amor_secreto.webp",
+    "isPremium": false,
+    "hasAd": false,
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/amor_secreto_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/amor_secreto_s1.json",
+        "episodesCount": 148
+      }
+    ],
+    "episodesCount": 148,
+    "localPoster": "/posters/amor_secreto.webp"
+  },
+  {
+    "id": "voltea_pa_que_te_enamores",
+    "title": "Voltea pa’ que te enamores",
+    "category": "Recién agregadas",
+    "ribbon": "NINGUNA",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/voltea_pa_que_te_enamores.webp",
+    "isPremium": false,
+    "hasAd": false,
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/voltea_pa_que_te_enamores_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/voltea_pa_que_te_enamores_s1.json",
+        "episodesCount": 123
+      }
+    ],
+    "episodesCount": 123,
+    "localPoster": "/posters/voltea_pa_que_te_enamores.webp"
+  },
+  {
+    "id": "corazon_apasionado",
+    "title": "Corazon apasionado",
+    "category": "Recién agregadas",
+    "ribbon": "NINGUNA",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/corazon_apasionado.webp",
+    "isPremium": false,
+    "hasAd": false,
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/corazon_apasionado_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/corazon_apasionado_s1.json",
+        "episodesCount": 111
+      }
+    ],
+    "episodesCount": 111,
+    "localPoster": "/posters/corazon_apasionado.webp"
+  },
+  {
+    "id": "para_verte_mejor",
+    "title": "Para verte mejor",
+    "category": "Recién agregadas",
+    "ribbon": "NINGUNA",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/para_verte_mejor.webp",
+    "isPremium": false,
+    "hasAd": false,
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/para_verte_mejor_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/para_verte_mejor_s1.json",
+        "episodesCount": 91
+      }
+    ],
+    "episodesCount": 91,
+    "localPoster": "/posters/para_verte_mejor.webp"
+  },
+  {
+    "id": "la_ruta_blanca",
+    "title": "La ruta blanca",
+    "category": "Recién agregadas",
+    "ribbon": "NINGUNA",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/la_ruta_blanca.webp",
+    "isPremium": false,
+    "hasAd": false,
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_ruta_blanca_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_ruta_blanca_s1.json",
+        "episodesCount": 82
+      }
+    ],
+    "episodesCount": 82,
+    "localPoster": "/posters/la_ruta_blanca.webp"
+  },
+  {
     "id": "sinu_rio_de_pasiones_s1",
     "title": "Sinú, río de pasiones",
     "category": "Colombianas",
@@ -3093,6 +3213,277 @@
     ],
     "episodesCount": 25,
     "localPoster": "/posters/infieles.webp"
+  },
+  {
+    "id": "amar_en_tiempos_revueltos",
+    "title": "Amar en tiempos revueltos",
+    "category": "Recién agregadas",
+    "ribbon": "NINGUNA",
+    "defaultSeason": 1,
+    "posterUrl": "https://jsonoline-2ao.pages.dev/cdn/posters/1/1791488484587_amar_en_tiempos_revueltos.webp",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/amar_en_tiempos_revueltos_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/amar_en_tiempos_revueltos_s1.json",
+        "hasAdOverride": false
+      }
+    ],
+    "isPremium": false,
+    "hasAd": false
+  },
+  {
+    "id": "obsesion",
+    "title": "Obsesión",
+    "category": "Recién agregadas",
+    "ribbon": "NINGUNA",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/obsesion.webp",
+    "isPremium": false,
+    "hasAd": false,
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/obsesion_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/obsesion_s1.json",
+        "episodesCount": 40
+      }
+    ],
+    "episodesCount": 40,
+    "localPoster": "/posters/obsesion.webp"
+  },
+  {
+    "id": "herederos",
+    "title": "Herederos",
+    "category": "Recién agregadas",
+    "ribbon": "NINGUNA",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/herederos.webp",
+    "isPremium": false,
+    "hasAd": false,
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/herederos_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/herederos_s1.json",
+        "episodesCount": 15
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Temporada 2",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/herederos_s2.json",
+        "episodesCount": 13
+      },
+      {
+        "seasonNumber": 3,
+        "name": "Temporada 3",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/herederos_s3.json",
+        "episodesCount": 9
+      }
+    ],
+    "episodesCount": 37,
+    "localPoster": "/posters/herederos.webp"
+  },
+  {
+    "id": "curro_jimenez",
+    "title": "Curro Jiménez",
+    "category": "Recién agregadas",
+    "ribbon": "NINGUNA",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/curro_jimenez.webp",
+    "isPremium": false,
+    "hasAd": false,
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/curro_jimenez_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/curro_jimenez_s1.json",
+        "episodesCount": 39
+      }
+    ],
+    "episodesCount": 39,
+    "localPoster": "/posters/curro_jimenez.webp"
+  },
+  {
+    "id": "verano_azul",
+    "title": "Verano Azul",
+    "category": "Recién agregadas",
+    "ribbon": "NINGUNA",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/verano_azul.webp",
+    "isPremium": false,
+    "hasAd": false,
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/verano_azul_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/verano_azul_s1.json",
+        "episodesCount": 19
+      }
+    ],
+    "episodesCount": 19,
+    "localPoster": "/posters/verano_azul.webp"
+  },
+  {
+    "id": "a_las_once_en_casa",
+    "title": "A las once en casa",
+    "category": "Recién agregadas",
+    "ribbon": "NINGUNA",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/a_las_once_en_casa.webp",
+    "isPremium": false,
+    "hasAd": false,
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/a_las_once_en_casa_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/a_las_once_en_casa_s1.json",
+        "episodesCount": 19
+      }
+    ],
+    "episodesCount": 19,
+    "localPoster": "/posters/a_las_once_en_casa.webp"
+  },
+  {
+    "id": "los_gozos_y_las_sombras",
+    "title": "Los Gozos y las Sombras",
+    "category": "Recién agregadas",
+    "ribbon": "NINGUNA",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/los_gozos_y_las_sombras.webp",
+    "isPremium": false,
+    "hasAd": false,
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/los_gozos_y_las_sombras_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/los_gozos_y_las_sombras_s1.json",
+        "episodesCount": 13
+      }
+    ],
+    "episodesCount": 13,
+    "localPoster": "/posters/los_gozos_y_las_sombras.webp"
+  },
+  {
+    "id": "fortunata_y_jacinta",
+    "title": "Fortunata y Jacinta",
+    "category": "Recién agregadas",
+    "ribbon": "NINGUNA",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/fortunata_y_jacinta.webp",
+    "isPremium": false,
+    "hasAd": false,
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/fortunata_y_jacinta_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/fortunata_y_jacinta_s1.json",
+        "episodesCount": 10
+      }
+    ],
+    "episodesCount": 10,
+    "localPoster": "/posters/fortunata_y_jacinta.webp"
+  },
+  {
+    "id": "la_barraca",
+    "title": "La Barraca",
+    "category": "Recién agregadas",
+    "ribbon": "NINGUNA",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/la_barraca.webp",
+    "isPremium": false,
+    "hasAd": false,
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_barraca_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_barraca_s1.json",
+        "episodesCount": 9
+      }
+    ],
+    "episodesCount": 9,
+    "localPoster": "/posters/la_barraca.webp"
+  },
+  {
+    "id": "juncal",
+    "title": "Juncal",
+    "category": "Recién agregadas",
+    "ribbon": "NINGUNA",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/juncal.webp",
+    "isPremium": false,
+    "hasAd": false,
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/juncal_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/juncal_s1.json",
+        "episodesCount": 7
+      }
+    ],
+    "episodesCount": 7,
+    "localPoster": "/posters/juncal.webp"
+  },
+  {
+    "id": "canas_y_barro",
+    "title": "Cañas y Barro",
+    "category": "Recién agregadas",
+    "ribbon": "NINGUNA",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/canas_y_barro.webp",
+    "isPremium": false,
+    "hasAd": false,
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/canas_y_barro_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/canas_y_barro_s1.json",
+        "episodesCount": 6
+      }
+    ],
+    "episodesCount": 6,
+    "localPoster": "/posters/canas_y_barro.webp"
+  },
+  {
+    "id": "la_plaza_del_diamante",
+    "title": "La plaza del Diamante",
+    "category": "Recién agregadas",
+    "ribbon": "NINGUNA",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/la_plaza_del_diamante.webp",
+    "isPremium": false,
+    "hasAd": false,
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_plaza_del_diamante_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_plaza_del_diamante_s1.json",
+        "episodesCount": 4
+      }
+    ],
+    "episodesCount": 4,
+    "localPoster": "/posters/la_plaza_del_diamante.webp"
+  },
+  {
+    "id": "la_regenta",
+    "title": "La Regenta",
+    "category": "Recién agregadas",
+    "ribbon": "NINGUNA",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/la_regenta.webp",
+    "isPremium": false,
+    "hasAd": false,
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_regenta_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_regenta_s1.json",
+        "episodesCount": 3
+      }
+    ],
+    "episodesCount": 3,
+    "localPoster": "/posters/la_regenta.webp"
   },
   {
     "id": "las_tontas_no_van_al_cielo",
@@ -4603,26 +4994,6 @@
     ],
     "episodesCount": 150,
     "localPoster": "/posters/la_revancha.webp"
-  },
-  {
-    "id": "la_ruta_blanca",
-    "title": "La ruta blanca",
-    "category": "Recién agregadas",
-    "ribbon": "NINGUNA",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/la_ruta_blanca.webp",
-    "isPremium": false,
-    "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_ruta_blanca_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_ruta_blanca_s1.json",
-        "episodesCount": 84
-      }
-    ],
-    "episodesCount": 84,
-    "localPoster": "/posters/la_ruta_blanca.webp"
   },
   {
     "id": "la_saga_negocio_de_familia",
@@ -7708,26 +8079,6 @@
     "localPoster": "/posters/nunca_te_olvidare.webp"
   },
   {
-    "id": "obsesion",
-    "title": "Obsesion",
-    "category": "Recién agregadas",
-    "ribbon": "NINGUNA",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/obsesion.webp",
-    "isPremium": false,
-    "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/obsesion_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/obsesion_s1.json",
-        "episodesCount": 167
-      }
-    ],
-    "episodesCount": 167,
-    "localPoster": "/posters/obsesion.webp"
-  },
-  {
     "id": "ojitos_hechiceros",
     "title": "Ojitos hechiceros",
     "category": "Recién agregadas",
@@ -7938,26 +8289,6 @@
     ],
     "episodesCount": 74,
     "localPoster": "/posters/paquita_la_del_barrio.webp"
-  },
-  {
-    "id": "para_verte_mejor",
-    "title": "Para verte mejor",
-    "category": "Recién agregadas",
-    "ribbon": "NINGUNA",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/para_verte_mejor.webp",
-    "isPremium": false,
-    "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/para_verte_mejor_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/para_verte_mejor_s1.json",
-        "episodesCount": 93
-      }
-    ],
-    "episodesCount": 93,
-    "localPoster": "/posters/para_verte_mejor.webp"
   },
   {
     "id": "para_volver_amar",
@@ -11470,26 +11801,6 @@
     "localPoster": "/posters/vivo_por_elena.webp"
   },
   {
-    "id": "voltea_pa_que_te_enamores",
-    "title": "Voltea pa’ que te enamores",
-    "category": "Recién agregadas",
-    "ribbon": "NINGUNA",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/voltea_pa_que_te_enamores.webp",
-    "isPremium": false,
-    "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/voltea_pa_que_te_enamores_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/voltea_pa_que_te_enamores_s1.json",
-        "episodesCount": 123
-      }
-    ],
-    "episodesCount": 123,
-    "localPoster": "/posters/voltea_pa_que_te_enamores.webp"
-  },
-  {
     "id": "volver_a_empezar",
     "title": "Volver a empezar",
     "category": "Recién agregadas",
@@ -13097,26 +13408,6 @@
     "localPoster": "/posters/amor_gitano.webp"
   },
   {
-    "id": "amor_secreto",
-    "title": "Amor secreto",
-    "category": "Recién agregadas",
-    "ribbon": "NINGUNA",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/amor_secreto.webp",
-    "isPremium": false,
-    "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/amor_secreto_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/amor_secreto_s1.json",
-        "episodesCount": 151
-      }
-    ],
-    "episodesCount": 151,
-    "localPoster": "/posters/amor_secreto.webp"
-  },
-  {
     "id": "amor_sin_maquillaje",
     "title": "Amor sin maquillaje",
     "category": "Recién agregadas",
@@ -14671,26 +14962,6 @@
     ],
     "episodesCount": 80,
     "localPoster": "/posters/corazon_salvaje_1993.webp"
-  },
-  {
-    "id": "corazon_apasionado",
-    "title": "Corazon apasionado",
-    "category": "Recién agregadas",
-    "ribbon": "NINGUNA",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/corazon_apasionado.webp",
-    "isPremium": false,
-    "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/corazon_apasionado_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/corazon_apasionado_s1.json",
-        "episodesCount": 111
-      }
-    ],
-    "episodesCount": 111,
-    "localPoster": "/posters/corazon_apasionado.webp"
   },
   {
     "id": "corazon_de_fuego",
@@ -17016,26 +17287,6 @@
     ],
     "episodesCount": 71,
     "localPoster": "/posters/gabriel_y_gabriela.webp"
-  },
-  {
-    "id": "gata_salvaje",
-    "title": "Gata salvaje",
-    "category": "Recién agregadas",
-    "ribbon": "NINGUNA",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/gata_salvaje.webp",
-    "isPremium": false,
-    "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/gata_salvaje_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/gata_salvaje_s1.json",
-        "episodesCount": 252
-      }
-    ],
-    "episodesCount": 252,
-    "localPoster": "/posters/gata_salvaje.webp"
   },
   {
     "id": "gitanas",
