@@ -3257,32 +3257,31 @@
     "title": "Herederos",
     "category": "Recién agregadas",
     "ribbon": "NINGUNA",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/herederos.webp",
-    "isPremium": false,
-    "hasAd": false,
+    "defaultSeason": 1,
+    "posterUrl": "https://jsonoline-2ao.pages.dev/cdn/posters/1/1791488524886_herederos.webp",
     "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/herederos_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/herederos_s1.json",
-        "episodesCount": 15
+        "hasAdOverride": false
       },
       {
         "seasonNumber": 2,
         "name": "Temporada 2",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/herederos_s2.json",
-        "episodesCount": 13
+        "hasAdOverride": false
       },
       {
         "seasonNumber": 3,
         "name": "Temporada 3",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/herederos_s3.json",
-        "episodesCount": 9
+        "hasAdOverride": false
       }
     ],
-    "episodesCount": 37,
-    "localPoster": "/posters/herederos.webp"
+    "isPremium": false,
+    "hasAd": false
   },
   {
     "id": "curro_jimenez",
