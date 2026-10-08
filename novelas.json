@@ -3421,20 +3421,19 @@
     "title": "Cañas y Barro",
     "category": "Recién agregadas",
     "ribbon": "NINGUNA",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/canas_y_barro.webp",
-    "isPremium": false,
-    "hasAd": false,
+    "defaultSeason": 1,
+    "posterUrl": "https://jsonoline-2ao.pages.dev/cdn/posters/1/1791488722739_canas_y_barro.webp",
     "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/canas_y_barro_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/canas_y_barro_s1.json",
-        "episodesCount": 6
+        "hasAdOverride": false
       }
     ],
-    "episodesCount": 6,
-    "localPoster": "/posters/canas_y_barro.webp"
+    "isPremium": false,
+    "hasAd": false
   },
   {
     "id": "la_plaza_del_diamante",
