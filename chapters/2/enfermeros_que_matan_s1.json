@@ -1,0 +1,71 @@
+{
+  "id": "enfermeros_que_matan_s1",
+  "titulo": "Enfermeros que Matan",
+  "subtitulo": "Enfermeros que Matan: Temporada 1",
+  "portada": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/enfermeros_que_matan.webp",
+  "capitulos": [
+    {
+      "numero": "Capítulo 1",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_1l9m68s1/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Beverly Allitt",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 1"
+    },
+    {
+      "numero": "Capítulo 2",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_epbzcv90/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Benjamin Green",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 2"
+    },
+    {
+      "numero": "Capítulo 3",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_sou1xhaf/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Genene Jones",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 3"
+    },
+    {
+      "numero": "Capítulo 4",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_r1eovtkk/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Stephan Letter",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 4"
+    },
+    {
+      "numero": "Capítulo 5",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_ewpxq3k2/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Kimberly Saenz",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 5"
+    },
+    {
+      "numero": "Capítulo 6",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_n0cfriie/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Niels H",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 6"
+    },
+    {
+      "numero": "Capítulo 7",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_samhz3lo/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Colin Norris",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 7"
+    },
+    {
+      "numero": "Capítulo 8",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_0djaghio/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Victorino Chua",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 8"
+    },
+    {
+      "numero": "Capítulo 9",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_5r8o6qph/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Charles Cullen",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 9"
+    }
+  ]
+}

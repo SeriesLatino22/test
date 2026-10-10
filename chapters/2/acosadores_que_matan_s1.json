@@ -1,0 +1,78 @@
+{
+  "id": "acosadores_que_matan_s1",
+  "titulo": "Acosadores que Matan",
+  "subtitulo": "Acosadores que Matan: Temporada 1",
+  "portada": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/acosadores_que_matan.webp",
+  "capitulos": [
+    {
+      "numero": "Capítulo 1",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_o4q0pfqd/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "La Obsesión",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 1"
+    },
+    {
+      "numero": "Capítulo 2",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_lvz7ic1o/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "El santo y el pecador",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 2"
+    },
+    {
+      "numero": "Capítulo 3",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_q38bww36/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "El mozo y la estudiante",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 3"
+    },
+    {
+      "numero": "Capítulo 4",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_qkjeo3bh/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "El asesino de llamadas por cobrar",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 4"
+    },
+    {
+      "numero": "Capítulo 5",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_fp2imtl3/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "El asesino Babyface",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 5"
+    },
+    {
+      "numero": "Capítulo 6",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_9k3ejp45/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "La venganza del carnicero",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 6"
+    },
+    {
+      "numero": "Capítulo 7",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_qxlvn518/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "El asesino del cumpleaños",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 7"
+    },
+    {
+      "numero": "Capítulo 8",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_p699yso0/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "El loco de las armas y la chica Hooters",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 8"
+    },
+    {
+      "numero": "Capítulo 9",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_40s6zesb/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Johanna debe morir",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 9"
+    },
+    {
+      "numero": "Capítulo 10",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_cehfz54j/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Sin tener a dónde huir, ningún lugar para esconderse",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 10"
+    }
+  ]
+}

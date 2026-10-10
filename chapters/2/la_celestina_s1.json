@@ -1,0 +1,29 @@
+{
+  "id": "la_celestina_s1",
+  "titulo": "La Celestina",
+  "subtitulo": "La Celestina: Temporada 1",
+  "portada": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/la_celestina.webp",
+  "capitulos": [
+    {
+      "numero": "Capítulo 1",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_9a1h4x0r/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 01",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 1"
+    },
+    {
+      "numero": "Capítulo 2",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_ep9awey5/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 02",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 2"
+    },
+    {
+      "numero": "Capítulo 3",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_khjr0o2g/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 03",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 3"
+    }
+  ]
+}

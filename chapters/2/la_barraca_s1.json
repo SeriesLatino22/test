@@ -1,0 +1,71 @@
+{
+  "id": "la_barraca_s1",
+  "titulo": "La Barraca",
+  "subtitulo": "La Barraca: Temporada 1",
+  "portada": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/la_barraca.webp",
+  "capitulos": [
+    {
+      "numero": "Capítulo 1",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_kkdd0f4r/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Capítulo 1",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 1"
+    },
+    {
+      "numero": "Capítulo 2",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_zdr7g0w6/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Capítulo 2",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 2"
+    },
+    {
+      "numero": "Capítulo 3",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_g0s38j5a/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Capítulo 3",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 3"
+    },
+    {
+      "numero": "Capítulo 4",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_zbptiacr/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Capítulo 4",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 4"
+    },
+    {
+      "numero": "Capítulo 5",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_aumzapyl/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Capítulo 5",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 5"
+    },
+    {
+      "numero": "Capítulo 6",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_6ekh3apj/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Capítulo 6",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 6"
+    },
+    {
+      "numero": "Capítulo 7",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_pf53vv5d/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Capítulo 7",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 7"
+    },
+    {
+      "numero": "Capítulo 8",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_p2nzb7ce/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Capítulo 8",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 8"
+    },
+    {
+      "numero": "Capítulo 9",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_osg92hf8/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Capítulo 9",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 9"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": "herederos_s2",
+  "titulo": "Herederos",
+  "subtitulo": "Herederos: Temporada 2",
+  "portada": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/herederos.webp",
+  "capitulos": [
+    {
+      "numero": "Capítulo 1",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_55gadl1h/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Capítulo 1",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 1"
+    },
+    {
+      "numero": "Capítulo 2",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_y7rc6un1/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Capítulo 2",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 2"
+    },
+    {
+      "numero": "Capítulo 3",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_8xqzv0ao/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Capítulo 3",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 3"
+    },
+    {
+      "numero": "Capítulo 4",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_x6b5v2v3/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Capítulo 4",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 4"
+    },
+    {
+      "numero": "Capítulo 5",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_elq5wonq/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Capítulo 5",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 5"
+    },
+    {
+      "numero": "Capítulo 6",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_4bqdtbru/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Capítulo 6",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 6"
+    },
+    {
+      "numero": "Capítulo 7",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_z29p59cg/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Capítulo 7",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 7"
+    },
+    {
+      "numero": "Capítulo 8",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_h25d7dwa/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Capítulo 8",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 8"
+    },
+    {
+      "numero": "Capítulo 9",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_pz1kx830/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Capítulo 9",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 9"
+    },
+    {
+      "numero": "Capítulo 10",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_cpyiplo9/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Capítulo 10",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 10"
+    },
+    {
+      "numero": "Capítulo 11",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_qgrljmau/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Capítulo 11",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 11"
+    },
+    {
+      "numero": "Capítulo 12",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_t93t7glf/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Capítulo 12",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 12"
+    },
+    {
+      "numero": "Capítulo 13",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_dtniqtz5/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Capítulo 13",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 13"
+    }
+  ]
+}

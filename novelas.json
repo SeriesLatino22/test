@@ -437,6 +437,26 @@
     "localPoster": "/posters/gata_salvaje.webp"
   },
   {
+    "id": "doctor_en_turno",
+    "title": "Doctor en Turno",
+    "category": "Recién agregadas",
+    "ribbon": "NINGUNA",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/doctor_en_turno.webp",
+    "isPremium": false,
+    "hasAd": false,
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/doctor_en_turno_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/doctor_en_turno_s1.json",
+        "episodesCount": 200
+      }
+    ],
+    "episodesCount": 200,
+    "localPoster": "/posters/doctor_en_turno.webp"
+  },
+  {
     "id": "tan_cerca_de_ti_nace_el_amor",
     "title": "Tan cerca de ti, nace el amor",
     "category": "Mexicanas",
@@ -3229,6 +3249,144 @@
     "localPoster": "/posters/infieles.webp"
   },
   {
+    "id": "la_mujer_perfecta",
+    "title": "La Mujer Perfecta",
+    "category": "Recién agregadas",
+    "ribbon": "NINGUNA",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/la_mujer_perfecta.webp",
+    "isPremium": false,
+    "hasAd": false,
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_mujer_perfecta_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_mujer_perfecta_s1.json",
+        "episodesCount": 138
+      }
+    ],
+    "episodesCount": 138,
+    "localPoster": "/posters/la_mujer_perfecta.webp"
+  },
+  {
+    "id": "ana_y_los_7",
+    "title": "Ana y los 7",
+    "category": "Recién agregadas",
+    "ribbon": "NINGUNA",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/ana_y_los_7.webp",
+    "isPremium": false,
+    "hasAd": false,
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/ana_y_los_7_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporadas 1 y 2",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/ana_y_los_7_s1.json",
+        "episodesCount": 42
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Temporada 3",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/ana_y_los_7_s3.json",
+        "episodesCount": 24
+      },
+      {
+        "seasonNumber": 3,
+        "name": "Temporada 4",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/ana_y_los_7_s4.json",
+        "episodesCount": 13
+      },
+      {
+        "seasonNumber": 4,
+        "name": "Temporada 5",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/ana_y_los_7_s5.json",
+        "episodesCount": 13
+      }
+    ],
+    "episodesCount": 92,
+    "localPoster": "/posters/ana_y_los_7.webp"
+  },
+  {
+    "id": "el_quijote",
+    "title": "El Quijote",
+    "category": "Recién agregadas",
+    "ribbon": "NINGUNA",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/el_quijote.webp",
+    "isPremium": false,
+    "hasAd": false,
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_quijote_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_quijote_s1.json",
+        "episodesCount": 5
+      }
+    ],
+    "episodesCount": 5,
+    "localPoster": "/posters/el_quijote.webp"
+  },
+  {
+    "id": "la_celestina",
+    "title": "La Celestina",
+    "category": "Recién agregadas",
+    "ribbon": "NINGUNA",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/la_celestina.webp",
+    "isPremium": false,
+    "hasAd": false,
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_celestina_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_celestina_s1.json",
+        "episodesCount": 3
+      }
+    ],
+    "episodesCount": 3,
+    "localPoster": "/posters/la_celestina.webp"
+  },
+  {
+    "id": "el_greco_alma_y_luz_universales",
+    "title": "El Greco, Alma y Luz Universales",
+    "category": "Recién agregadas",
+    "ribbon": "NINGUNA",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/el_greco_alma_y_luz_universales.webp",
+    "isPremium": false,
+    "hasAd": false,
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_greco_alma_y_luz_universales_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_greco_alma_y_luz_universales_s1.json",
+        "episodesCount": 6
+      }
+    ],
+    "episodesCount": 6,
+    "localPoster": "/posters/el_greco_alma_y_luz_universales.webp"
+  },
+  {
+    "id": "romance",
+    "title": "Romance",
+    "category": "Recién agregadas",
+    "ribbon": "NINGUNA",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/romance.webp",
+    "isPremium": false,
+    "hasAd": false,
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/romance_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/romance_s1.json",
+        "episodesCount": 6
+      }
+    ],
+    "episodesCount": 6,
+    "localPoster": "/posters/romance.webp"
+  },
+  {
     "id": "amar_en_tiempos_revueltos",
     "title": "Amar en tiempos revueltos",
     "category": "Recién agregadas",
@@ -3247,6 +3405,332 @@
     "isPremium": false,
     "hasAd": false,
     "localPoster": "/posters/1791488484587_amar_en_tiempos_revueltos.webp"
+  },
+  {
+    "id": "asesinatos_en_cruceros",
+    "title": "Asesinatos en Cruceros",
+    "category": "Docudramas",
+    "ribbon": "NINGUNA",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/asesinatos_en_cruceros.webp",
+    "isPremium": false,
+    "hasAd": false,
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/asesinatos_en_cruceros_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/asesinatos_en_cruceros_s1.json",
+        "episodesCount": 40
+      }
+    ],
+    "episodesCount": 40,
+    "localPoster": "/posters/asesinatos_en_cruceros.webp"
+  },
+  {
+    "id": "historias_para_no_dormir",
+    "title": "Historias Para No Dormir",
+    "category": "Docudramas",
+    "ribbon": "NINGUNA",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/historias_para_no_dormir.webp",
+    "isPremium": false,
+    "hasAd": false,
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/historias_para_no_dormir_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/historias_para_no_dormir_s1.json",
+        "episodesCount": 30
+      }
+    ],
+    "episodesCount": 30,
+    "localPoster": "/posters/historias_para_no_dormir.webp"
+  },
+  {
+    "id": "asesinato_en_el_norte",
+    "title": "Asesinato en el norte",
+    "category": "Docudramas",
+    "ribbon": "NINGUNA",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/asesinato_en_el_norte.webp",
+    "isPremium": false,
+    "hasAd": false,
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/asesinato_en_el_norte_s7.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 7",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/asesinato_en_el_norte_s7.json",
+        "episodesCount": 16
+      },
+      {
+        "seasonNumber": 2,
+        "name": "Temporada 8",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/asesinato_en_el_norte_s8.json",
+        "episodesCount": 16
+      }
+    ],
+    "episodesCount": 32,
+    "localPoster": "/posters/asesinato_en_el_norte.webp"
+  },
+  {
+    "id": "la_gran_batalla_de_los_tanques",
+    "title": "La Gran Batalla de los Tanques",
+    "category": "Docudramas",
+    "ribbon": "NINGUNA",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/la_gran_batalla_de_los_tanques.webp",
+    "isPremium": false,
+    "hasAd": false,
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_gran_batalla_de_los_tanques_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_gran_batalla_de_los_tanques_s1.json",
+        "episodesCount": 20
+      }
+    ],
+    "episodesCount": 20,
+    "localPoster": "/posters/la_gran_batalla_de_los_tanques.webp"
+  },
+  {
+    "id": "richard_sorge_el_maestro_del_espionaje",
+    "title": "Richard Sorge: El Maestro del Espionaje",
+    "category": "Docudramas",
+    "ribbon": "NINGUNA",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/richard_sorge_el_maestro_del_espionaje.webp",
+    "isPremium": false,
+    "hasAd": false,
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/richard_sorge_el_maestro_del_espionaje_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/richard_sorge_el_maestro_del_espionaje_s1.json",
+        "episodesCount": 12
+      }
+    ],
+    "episodesCount": 12,
+    "localPoster": "/posters/richard_sorge_el_maestro_del_espionaje.webp"
+  },
+  {
+    "id": "top_10_secretos_y_misterios",
+    "title": "Top 10: Secretos y misterios",
+    "category": "Docudramas",
+    "ribbon": "NINGUNA",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/top_10_secretos_y_misterios.webp",
+    "isPremium": false,
+    "hasAd": false,
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/top_10_secretos_y_misterios_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/top_10_secretos_y_misterios_s1.json",
+        "episodesCount": 10
+      }
+    ],
+    "episodesCount": 10,
+    "localPoster": "/posters/top_10_secretos_y_misterios.webp"
+  },
+  {
+    "id": "acosadores_que_matan",
+    "title": "Acosadores que Matan",
+    "category": "Docudramas",
+    "ribbon": "NINGUNA",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/acosadores_que_matan.webp",
+    "isPremium": false,
+    "hasAd": false,
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/acosadores_que_matan_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/acosadores_que_matan_s1.json",
+        "episodesCount": 10
+      }
+    ],
+    "episodesCount": 10,
+    "localPoster": "/posters/acosadores_que_matan.webp"
+  },
+  {
+    "id": "enfermeros_que_matan",
+    "title": "Enfermeros que Matan",
+    "category": "Docudramas",
+    "ribbon": "NINGUNA",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/enfermeros_que_matan.webp",
+    "isPremium": false,
+    "hasAd": false,
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/enfermeros_que_matan_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/enfermeros_que_matan_s1.json",
+        "episodesCount": 9
+      }
+    ],
+    "episodesCount": 9,
+    "localPoster": "/posters/enfermeros_que_matan.webp"
+  },
+  {
+    "id": "citas_letales",
+    "title": "Citas Letales",
+    "category": "Docudramas",
+    "ribbon": "NINGUNA",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/citas_letales.webp",
+    "isPremium": false,
+    "hasAd": false,
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/citas_letales_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/citas_letales_s1.json",
+        "episodesCount": 8
+      }
+    ],
+    "episodesCount": 8,
+    "localPoster": "/posters/citas_letales.webp"
+  },
+  {
+    "id": "asesinos_seriales_del_siglo_xxi",
+    "title": "Asesinos Seriales del Siglo XXI",
+    "category": "Docudramas",
+    "ribbon": "NINGUNA",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/asesinos_seriales_del_siglo_xxi.webp",
+    "isPremium": false,
+    "hasAd": false,
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/asesinos_seriales_del_siglo_xxi_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/asesinos_seriales_del_siglo_xxi_s1.json",
+        "episodesCount": 6
+      }
+    ],
+    "episodesCount": 6,
+    "localPoster": "/posters/asesinos_seriales_del_siglo_xxi.webp"
+  },
+  {
+    "id": "parejas_criminales",
+    "title": "Parejas Criminales",
+    "category": "Docudramas",
+    "ribbon": "NINGUNA",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/parejas_criminales.webp",
+    "isPremium": false,
+    "hasAd": false,
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/parejas_criminales_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/parejas_criminales_s1.json",
+        "episodesCount": 6
+      }
+    ],
+    "episodesCount": 6,
+    "localPoster": "/posters/parejas_criminales.webp"
+  },
+  {
+    "id": "fotografias_de_un_crimen",
+    "title": "Fotografías de un Crimen",
+    "category": "Docudramas",
+    "ribbon": "NINGUNA",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/fotografias_de_un_crimen.webp",
+    "isPremium": false,
+    "hasAd": false,
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/fotografias_de_un_crimen_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/fotografias_de_un_crimen_s1.json",
+        "episodesCount": 4
+      }
+    ],
+    "episodesCount": 4,
+    "localPoster": "/posters/fotografias_de_un_crimen.webp"
+  },
+  {
+    "id": "naufragios",
+    "title": "Naufragios",
+    "category": "Docudramas",
+    "ribbon": "NINGUNA",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/naufragios.webp",
+    "isPremium": false,
+    "hasAd": false,
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/naufragios_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/naufragios_s1.json",
+        "episodesCount": 4
+      }
+    ],
+    "episodesCount": 4,
+    "localPoster": "/posters/naufragios.webp"
+  },
+  {
+    "id": "el_tercer_reich_en_color",
+    "title": "El Tercer Reich en Color",
+    "category": "Docudramas",
+    "ribbon": "NINGUNA",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/el_tercer_reich_en_color.webp",
+    "isPremium": false,
+    "hasAd": false,
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_tercer_reich_en_color_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_tercer_reich_en_color_s1.json",
+        "episodesCount": 3
+      }
+    ],
+    "episodesCount": 3,
+    "localPoster": "/posters/el_tercer_reich_en_color.webp"
+  },
+  {
+    "id": "como_identificar_un_culto",
+    "title": "Cómo Identificar un Culto",
+    "category": "Docudramas",
+    "ribbon": "NINGUNA",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/como_identificar_un_culto.webp",
+    "isPremium": false,
+    "hasAd": false,
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/como_identificar_un_culto_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/como_identificar_un_culto_s1.json",
+        "episodesCount": 2
+      }
+    ],
+    "episodesCount": 2,
+    "localPoster": "/posters/como_identificar_un_culto.webp"
+  },
+  {
+    "id": "el_caso_wanninkhof",
+    "title": "El Caso Wanninkhof: Una doble tragedia",
+    "category": "Docudramas",
+    "ribbon": "NINGUNA",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/el_caso_wanninkhof.webp",
+    "isPremium": false,
+    "hasAd": false,
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_caso_wanninkhof_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/el_caso_wanninkhof_s1.json",
+        "episodesCount": 2
+      }
+    ],
+    "episodesCount": 2,
+    "localPoster": "/posters/el_caso_wanninkhof.webp"
   },
   {
     "id": "obsesion",

@@ -1,750 +1,744 @@
-{
-  "id": "el_juramento_s1",
-  "titulo": "El juramento",
-  "subtitulo": "El juramento: Temporada 1",
-  "portada": "",
-  "capitulos": [
-    {
-      "numero": "Capítulo 1",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento001Cap7s0kt7mq1hwt.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento001Cap7s0kt7mq1hwt.mp4",
-      "subtitulo": "Capítulo 1"
-    },
-    {
-      "numero": "Capítulo 2",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento002Capg3nf8srh8prz.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento002Capg3nf8srh8prz.mp4",
-      "subtitulo": "Capítulo 2"
-    },
-    {
-      "numero": "Capítulo 3",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento003Capwcwmxi5btqn2.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento003Capwcwmxi5btqn2.mp4",
-      "subtitulo": "Capítulo 3"
-    },
-    {
-      "numero": "Capítulo 4",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento004Capx5oh9uqpqd2p.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento004Capx5oh9uqpqd2p.mp4",
-      "subtitulo": "Capítulo 4"
-    },
-    {
-      "numero": "Capítulo 5",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento005Capx4g32oe1ct0q.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento005Capx4g32oe1ct0q.mp4",
-      "subtitulo": "Capítulo 5"
-    },
-    {
-      "numero": "Capítulo 6",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento006Capo1u8lr4salcs.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento006Capo1u8lr4salcs.mp4",
-      "subtitulo": "Capítulo 6"
-    },
-    {
-      "numero": "Capítulo 7",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento007Caprf6o25ks0ntz.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento007Caprf6o25ks0ntz.mp4",
-      "subtitulo": "Capítulo 7"
-    },
-    {
-      "numero": "Capítulo 8",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento008Capbgss80btnxqm.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento008Capbgss80btnxqm.mp4",
-      "subtitulo": "Capítulo 8"
-    },
-    {
-      "numero": "Capítulo 9",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento009Capyb1t2mwhdhw6.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento009Capyb1t2mwhdhw6.mp4",
-      "subtitulo": "Capítulo 9"
-    },
-    {
-      "numero": "Capítulo 10",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento010Cap659g84klmp1o.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento010Cap659g84klmp1o.mp4",
-      "subtitulo": "Capítulo 10"
-    },
-    {
-      "numero": "Capítulo 11",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento011Capsf2cgivm6pfc.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento011Capsf2cgivm6pfc.mp4",
-      "subtitulo": "Capítulo 11"
-    },
-    {
-      "numero": "Capítulo 12",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento012Caprnewiguax9hh.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento012Caprnewiguax9hh.mp4",
-      "subtitulo": "Capítulo 12"
-    },
-    {
-      "numero": "Capítulo 13",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento013Capfk33mpcdxt9h.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento013Capfk33mpcdxt9h.mp4",
-      "subtitulo": "Capítulo 13"
-    },
-    {
-      "numero": "Capítulo 14",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento014Caprcyfmzupsxxu.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento014Caprcyfmzupsxxu.mp4",
-      "subtitulo": "Capítulo 14"
-    },
-    {
-      "numero": "Capítulo 15",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento015Capw6uy0wyawhg8.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento015Capw6uy0wyawhg8.mp4",
-      "subtitulo": "Capítulo 15"
-    },
-    {
-      "numero": "Capítulo 16",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento016Cap0zmuhi7gyuz8.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento016Cap0zmuhi7gyuz8.mp4",
-      "subtitulo": "Capítulo 16"
-    },
-    {
-      "numero": "Capítulo 17",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento017Cap590aasljsaey.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento017Cap590aasljsaey.mp4",
-      "subtitulo": "Capítulo 17"
-    },
-    {
-      "numero": "Capítulo 18",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento018Capyp236gqzj13w.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento018Capyp236gqzj13w.mp4",
-      "subtitulo": "Capítulo 18"
-    },
-    {
-      "numero": "Capítulo 19",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento019Cap969m0thr5o0j.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento019Cap969m0thr5o0j.mp4",
-      "subtitulo": "Capítulo 19"
-    },
-    {
-      "numero": "Capítulo 20",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento020Capjo3z3fkal65a.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento020Capjo3z3fkal65a.mp4",
-      "subtitulo": "Capítulo 20"
-    },
-    {
-      "numero": "Capítulo 21",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento021Capxsty9q01seeg.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento021Capxsty9q01seeg.mp4",
-      "subtitulo": "Capítulo 21"
-    },
-    {
-      "numero": "Capítulo 22",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento022Capo7bedio82pwp.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento022Capo7bedio82pwp.mp4",
-      "subtitulo": "Capítulo 22"
-    },
-    {
-      "numero": "Capítulo 23",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento023Capc25z1cc9b89l.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento023Capc25z1cc9b89l.mp4",
-      "subtitulo": "Capítulo 23"
-    },
-    {
-      "numero": "Capítulo 24",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento024Capsbgdfcmazdz3.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento024Capsbgdfcmazdz3.mp4",
-      "subtitulo": "Capítulo 24"
-    },
-    {
-      "numero": "Capítulo 25",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento025Capk63g4ujh01hj.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento025Capk63g4ujh01hj.mp4",
-      "subtitulo": "Capítulo 25"
-    },
-    {
-      "numero": "Capítulo 26",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento026Capoprgkugpb8pa.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento026Capoprgkugpb8pa.mp4",
-      "subtitulo": "Capítulo 26"
-    },
-    {
-      "numero": "Capítulo 27",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento027Caphyw0bivf0si4.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento027Caphyw0bivf0si4.mp4",
-      "subtitulo": "Capítulo 27"
-    },
-    {
-      "numero": "Capítulo 28",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento028Caphbfi6o51t2r1.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento028Caphbfi6o51t2r1.mp4",
-      "subtitulo": "Capítulo 28"
-    },
-    {
-      "numero": "Capítulo 29",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento029Cappj3t0mukxafq.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento029Cappj3t0mukxafq.mp4",
-      "subtitulo": "Capítulo 29"
-    },
-    {
-      "numero": "Capítulo 30",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento030Capbwuhk7yazdw5.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento030Capbwuhk7yazdw5.mp4",
-      "subtitulo": "Capítulo 30"
-    },
-    {
-      "numero": "Capítulo 31",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento031Cap8upzzoufkmks.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento031Cap8upzzoufkmks.mp4",
-      "subtitulo": "Capítulo 31"
-    },
-    {
-      "numero": "Capítulo 32",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento032Cap224ajchkeoi7.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento032Cap224ajchkeoi7.mp4",
-      "subtitulo": "Capítulo 32"
-    },
-    {
-      "numero": "Capítulo 33",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento033Cap27i3gghxaah8.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento033Cap27i3gghxaah8.mp4",
-      "subtitulo": "Capítulo 33"
-    },
-    {
-      "numero": "Capítulo 34",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento034Capsuddo9m2m8tq.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento034Capsuddo9m2m8tq.mp4",
-      "subtitulo": "Capítulo 34"
-    },
-    {
-      "numero": "Capítulo 35",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento035Capa9firbxfo7vl.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento035Capa9firbxfo7vl.mp4",
-      "subtitulo": "Capítulo 35"
-    },
-    {
-      "numero": "Capítulo 36",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento036Caphbgtdu3g1m4z.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento036Caphbgtdu3g1m4z.mp4",
-      "subtitulo": "Capítulo 36"
-    },
-    {
-      "numero": "Capítulo 37",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento037Capl2tjoa8mytf5.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento037Capl2tjoa8mytf5.mp4",
-      "subtitulo": "Capítulo 37"
-    },
-    {
-      "numero": "Capítulo 38",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento038Cap1c7qvnxf9lkn.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento038Cap1c7qvnxf9lkn.mp4",
-      "subtitulo": "Capítulo 38"
-    },
-    {
-      "numero": "Capítulo 39",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento039Capcrvkmpxgym0a.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento039Capcrvkmpxgym0a.mp4",
-      "subtitulo": "Capítulo 39"
-    },
-    {
-      "numero": "Capítulo 40",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento040Capyv6ax3dd5l7u.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento040Capyv6ax3dd5l7u.mp4",
-      "subtitulo": "Capítulo 40"
-    },
-    {
-      "numero": "Capítulo 41",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento041Capg4m481ax5uz5.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento041Capg4m481ax5uz5.mp4",
-      "subtitulo": "Capítulo 41"
-    },
-    {
-      "numero": "Capítulo 42",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento042Capjjginj75p9fv.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento042Capjjginj75p9fv.mp4",
-      "subtitulo": "Capítulo 42"
-    },
-    {
-      "numero": "Capítulo 43",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento043Cap8gf4v04qxlem.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento043Cap8gf4v04qxlem.mp4",
-      "subtitulo": "Capítulo 43"
-    },
-    {
-      "numero": "Capítulo 44",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento044Capr5bag3wj4jgu.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento044Capr5bag3wj4jgu.mp4",
-      "subtitulo": "Capítulo 44"
-    },
-    {
-      "numero": "Capítulo 45",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento045Capiduu6dt4cdfg.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento045Capiduu6dt4cdfg.mp4",
-      "subtitulo": "Capítulo 45"
-    },
-    {
-      "numero": "Capítulo 46",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento046Capjgz3y6fjhf5m.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento046Capjgz3y6fjhf5m.mp4",
-      "subtitulo": "Capítulo 46"
-    },
-    {
-      "numero": "Capítulo 47",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento047Caps33x05zuz2qm.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento047Caps33x05zuz2qm.mp4",
-      "subtitulo": "Capítulo 47"
-    },
-    {
-      "numero": "Capítulo 48",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento048Capuyi3oawlxomh.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento048Capuyi3oawlxomh.mp4",
-      "subtitulo": "Capítulo 48"
-    },
-    {
-      "numero": "Capítulo 49",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento049Capt6vgfro2s1vz.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento049Capt6vgfro2s1vz.mp4",
-      "subtitulo": "Capítulo 49"
-    },
-    {
-      "numero": "Capítulo 50",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento050Capva2oic38d8pn.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento050Capva2oic38d8pn.mp4",
-      "subtitulo": "Capítulo 50"
-    },
-    {
-      "numero": "Capítulo 51",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento051Cap17zkvmoqwstd.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento051Cap17zkvmoqwstd.mp4",
-      "subtitulo": "Capítulo 51"
-    },
-    {
-      "numero": "Capítulo 52",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento052Caprrdgje7c71cu.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento052Caprrdgje7c71cu.mp4",
-      "subtitulo": "Capítulo 52"
-    },
-    {
-      "numero": "Capítulo 53",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento053Caphmysxc1o9rrv.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento053Caphmysxc1o9rrv.mp4",
-      "subtitulo": "Capítulo 53"
-    },
-    {
-      "numero": "Capítulo 54",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento054Capifqwfng4airv.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento054Capifqwfng4airv.mp4",
-      "subtitulo": "Capítulo 54"
-    },
-    {
-      "numero": "Capítulo 55",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento055Capuqg29oay0xrt.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento055Capuqg29oay0xrt.mp4",
-      "subtitulo": "Capítulo 55"
-    },
-    {
-      "numero": "Capítulo 56",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento056Capgbkknptwp7d6.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento056Capgbkknptwp7d6.mp4",
-      "subtitulo": "Capítulo 56"
-    },
-    {
-      "numero": "Capítulo 57",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento057Capdg8v1ln3frpa.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento057Capdg8v1ln3frpa.mp4",
-      "subtitulo": "Capítulo 57"
-    },
-    {
-      "numero": "Capítulo 58",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento058Cap76es4629pis8.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento058Cap76es4629pis8.mp4",
-      "subtitulo": "Capítulo 58"
-    },
-    {
-      "numero": "Capítulo 59",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento059Caphebg0xzahmxc.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento059Caphebg0xzahmxc.mp4",
-      "subtitulo": "Capítulo 59"
-    },
-    {
-      "numero": "Capítulo 60",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento060Capjrqi5dy0dsf6.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento060Capjrqi5dy0dsf6.mp4",
-      "subtitulo": "Capítulo 60"
-    },
-    {
-      "numero": "Capítulo 61",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento061Capvlnutrsz6q1c.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento061Capvlnutrsz6q1c.mp4",
-      "subtitulo": "Capítulo 61"
-    },
-    {
-      "numero": "Capítulo 62",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento062Capq7xnyp3s2crq.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento062Capq7xnyp3s2crq.mp4",
-      "subtitulo": "Capítulo 62"
-    },
-    {
-      "numero": "Capítulo 63",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento063Cap5q3jakgjgyif.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento063Cap5q3jakgjgyif.mp4",
-      "subtitulo": "Capítulo 63"
-    },
-    {
-      "numero": "Capítulo 64",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento064Capuyd0u5fckjfh.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento064Capuyd0u5fckjfh.mp4",
-      "subtitulo": "Capítulo 64"
-    },
-    {
-      "numero": "Capítulo 65",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento065Capk9daexbsf5vu.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento065Capk9daexbsf5vu.mp4",
-      "subtitulo": "Capítulo 65"
-    },
-    {
-      "numero": "Capítulo 66",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento066Caprknvsi1de6q3.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento066Caprknvsi1de6q3.mp4",
-      "subtitulo": "Capítulo 66"
-    },
-    {
-      "numero": "Capítulo 67",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento067Capjafq58af4kig.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento067Capjafq58af4kig.mp4",
-      "subtitulo": "Capítulo 67"
-    },
-    {
-      "numero": "Capítulo 68",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento068Cap32fhq5plh8jl.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento068Cap32fhq5plh8jl.mp4",
-      "subtitulo": "Capítulo 68"
-    },
-    {
-      "numero": "Capítulo 69",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento069Cap4qbhq7w0fesg.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento069Cap4qbhq7w0fesg.mp4",
-      "subtitulo": "Capítulo 69"
-    },
-    {
-      "numero": "Capítulo 70",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento070Cap84oe4x0sr81t.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento070Cap84oe4x0sr81t.mp4",
-      "subtitulo": "Capítulo 70"
-    },
-    {
-      "numero": "Capítulo 71",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento071Cape9zwa7adfp8p.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento071Cape9zwa7adfp8p.mp4",
-      "subtitulo": "Capítulo 71"
-    },
-    {
-      "numero": "Capítulo 72",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento072Capx410c5wzgahg.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento072Capx410c5wzgahg.mp4",
-      "subtitulo": "Capítulo 72"
-    },
-    {
-      "numero": "Capítulo 73",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento073Capwhyocwrt6g6j.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento073Capwhyocwrt6g6j.mp4",
-      "subtitulo": "Capítulo 73"
-    },
-    {
-      "numero": "Capítulo 74",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento074Capf70xi7mk50wi.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento074Capf70xi7mk50wi.mp4",
-      "subtitulo": "Capítulo 74"
-    },
-    {
-      "numero": "Capítulo 75",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento075Cap0ki1wmibwb35.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento075Cap0ki1wmibwb35.mp4",
-      "subtitulo": "Capítulo 75"
-    },
-    {
-      "numero": "Capítulo 76",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento076Capq8twcs5rrpmq.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento076Capq8twcs5rrpmq.mp4",
-      "subtitulo": "Capítulo 76"
-    },
-    {
-      "numero": "Capítulo 77",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento077Capiniuphg1tnod.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento077Capiniuphg1tnod.mp4",
-      "subtitulo": "Capítulo 77"
-    },
-    {
-      "numero": "Capítulo 78",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento078Capeavkh8nwq7hu.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento078Capeavkh8nwq7hu.mp4",
-      "subtitulo": "Capítulo 78"
-    },
-    {
-      "numero": "Capítulo 79",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento079Cap1xpme5wobs2b.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento079Cap1xpme5wobs2b.mp4",
-      "subtitulo": "Capítulo 79"
-    },
-    {
-      "numero": "Capítulo 80",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento080Cap3ssoutuu4qjf.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento080Cap3ssoutuu4qjf.mp4",
-      "subtitulo": "Capítulo 80"
-    },
-    {
-      "numero": "Capítulo 81",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento081Capnv1t6r909dbf.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento081Capnv1t6r909dbf.mp4",
-      "subtitulo": "Capítulo 81"
-    },
-    {
-      "numero": "Capítulo 82",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento082Capkla6jruef7x7.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento082Capkla6jruef7x7.mp4",
-      "subtitulo": "Capítulo 82"
-    },
-    {
-      "numero": "Capítulo 83",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento083Caphrpmfren5rvy.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento083Caphrpmfren5rvy.mp4",
-      "subtitulo": "Capítulo 83"
-    },
-    {
-      "numero": "Capítulo 84",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento084Captn76z5j301g8.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento084Captn76z5j301g8.mp4",
-      "subtitulo": "Capítulo 84"
-    },
-    {
-      "numero": "Capítulo 85",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento085Capffu9p5gskp6m.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento085Capffu9p5gskp6m.mp4",
-      "subtitulo": "Capítulo 85"
-    },
-    {
-      "numero": "Capítulo 86",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento086Capf8hxrkd8iozk.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento086Capf8hxrkd8iozk.mp4",
-      "subtitulo": "Capítulo 86"
-    },
-    {
-      "numero": "Capítulo 87",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento087Cap6yzxbdet485c.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento087Cap6yzxbdet485c.mp4",
-      "subtitulo": "Capítulo 87"
-    },
-    {
-      "numero": "Capítulo 88",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento088Cap6ds1wzqi2f3h.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento088Cap6ds1wzqi2f3h.mp4",
-      "subtitulo": "Capítulo 88"
-    },
-    {
-      "numero": "Capítulo 89",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento089Cap03y5r35r2kx0.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento089Cap03y5r35r2kx0.mp4",
-      "subtitulo": "Capítulo 89"
-    },
-    {
-      "numero": "Capítulo 90",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento090Capxkcmbrxjyskh.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento090Capxkcmbrxjyskh.mp4",
-      "subtitulo": "Capítulo 90"
-    },
-    {
-      "numero": "Capítulo 91",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento091Cap4nys7lill8al.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento091Cap4nys7lill8al.mp4",
-      "subtitulo": "Capítulo 91"
-    },
-    {
-      "numero": "Capítulo 92",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento092Capkcpaqgjpl8db.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento092Capkcpaqgjpl8db.mp4",
-      "subtitulo": "Capítulo 92"
-    },
-    {
-      "numero": "Capítulo 93",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento093Cap7mgupsajftgl.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento093Cap7mgupsajftgl.mp4",
-      "subtitulo": "Capítulo 93"
-    },
-    {
-      "numero": "Capítulo 94",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento094Cap9jakoi2lh58l.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento094Cap9jakoi2lh58l.mp4",
-      "subtitulo": "Capítulo 94"
-    },
-    {
-      "numero": "Capítulo 95",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento095Capbwm4rxn76z0q.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento095Capbwm4rxn76z0q.mp4",
-      "subtitulo": "Capítulo 95"
-    },
-    {
-      "numero": "Capítulo 96",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento096Cap3ovw7vj7yjsb.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento096Cap3ovw7vj7yjsb.mp4",
-      "subtitulo": "Capítulo 96"
-    },
-    {
-      "numero": "Capítulo 97",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento097Cap5lx6ssschbns.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento097Cap5lx6ssschbns.mp4",
-      "subtitulo": "Capítulo 97"
-    },
-    {
-      "numero": "Capítulo 98",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento098Cap8pbh18v29z6u.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento098Cap8pbh18v29z6u.mp4",
-      "subtitulo": "Capítulo 98"
-    },
-    {
-      "numero": "Capítulo 99",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento099Capg53hohtwehh4.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento099Capg53hohtwehh4.mp4",
-      "subtitulo": "Capítulo 99"
-    },
-    {
-      "numero": "Capítulo 100",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento100Caplnw4rlaad73f.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento100Caplnw4rlaad73f.mp4",
-      "subtitulo": "Capítulo 100"
-    },
-    {
-      "numero": "Capítulo 101",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento101Capj98b26jgbwvp.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento101Capj98b26jgbwvp.mp4",
-      "subtitulo": "Capítulo 101"
-    },
-    {
-      "numero": "Capítulo 102",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento102Capadfu191gwp61.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento102Capadfu191gwp61.mp4",
-      "subtitulo": "Capítulo 102"
-    },
-    {
-      "numero": "Capítulo 103",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento103Capwq6fzbomwslg.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento103Capwq6fzbomwslg.mp4",
-      "subtitulo": "Capítulo 103"
-    },
-    {
-      "numero": "Capítulo 104",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento104Capgg4x4ozo8e53.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento104Capgg4x4ozo8e53.mp4",
-      "subtitulo": "Capítulo 104"
-    },
-    {
-      "numero": "Capítulo 105",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento105Capna5g3ovd8xk8.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento105Capna5g3ovd8xk8.mp4",
-      "subtitulo": "Capítulo 105"
-    },
-    {
-      "numero": "Capítulo 106",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento106Cap9eozwbvx8bjb.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento106Cap9eozwbvx8bjb.mp4",
-      "subtitulo": "Capítulo 106"
-    }
-  ]
-}
+[
+  {
+    "numero": "Capítulo 1",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento001Cap7s0kt7mq1hwt.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5130243017221",
+    "subtitulo": "Capítulo 1"
+  },
+  {
+    "numero": "Capítulo 2",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento002Capg3nf8srh8prz.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5123542419973",
+    "subtitulo": "Capítulo 2"
+  },
+  {
+    "numero": "Capítulo 3",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento003Capwcwmxi5btqn2.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5123543927301",
+    "subtitulo": "Capítulo 3"
+  },
+  {
+    "numero": "Capítulo 4",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento004Capx5oh9uqpqd2p.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5123544189445",
+    "subtitulo": "Capítulo 4"
+  },
+  {
+    "numero": "Capítulo 5",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento005Capx4g32oe1ct0q.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5123544320517",
+    "subtitulo": "Capítulo 5"
+  },
+  {
+    "numero": "Capítulo 6",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento006Capo1u8lr4salcs.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5130243541509",
+    "subtitulo": "Capítulo 6"
+  },
+  {
+    "numero": "Capítulo 7",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento007Caprf6o25ks0ntz.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5123546155525",
+    "subtitulo": "Capítulo 7"
+  },
+  {
+    "numero": "Capítulo 8",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento008Capbgss80btnxqm.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5123546810885",
+    "subtitulo": "Capítulo 8"
+  },
+  {
+    "numero": "Capítulo 9",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento009Capyb1t2mwhdhw6.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5123547204101",
+    "subtitulo": "Capítulo 9"
+  },
+  {
+    "numero": "Capítulo 10",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento010Cap659g84klmp1o.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5123547335173",
+    "subtitulo": "Capítulo 10"
+  },
+  {
+    "numero": "Capítulo 11",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento011Capsf2cgivm6pfc.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5123547400709",
+    "subtitulo": "Capítulo 11"
+  },
+  {
+    "numero": "Capítulo 12",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento012Caprnewiguax9hh.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5123547990533",
+    "subtitulo": "Capítulo 12"
+  },
+  {
+    "numero": "Capítulo 13",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento013Capfk33mpcdxt9h.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5123548908037",
+    "subtitulo": "Capítulo 13"
+  },
+  {
+    "numero": "Capítulo 14",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento014Caprcyfmzupsxxu.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5123549104645",
+    "subtitulo": "Capítulo 14"
+  },
+  {
+    "numero": "Capítulo 15",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento015Capw6uy0wyawhg8.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5123549366789",
+    "subtitulo": "Capítulo 15"
+  },
+  {
+    "numero": "Capítulo 16",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento016Cap0zmuhi7gyuz8.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5123549825541",
+    "subtitulo": "Capítulo 16"
+  },
+  {
+    "numero": "Capítulo 17",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento017Cap590aasljsaey.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5123550022149",
+    "subtitulo": "Capítulo 17"
+  },
+  {
+    "numero": "Capítulo 18",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento018Capyp236gqzj13w.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5123550218757",
+    "subtitulo": "Capítulo 18"
+  },
+  {
+    "numero": "Capítulo 19",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento019Cap969m0thr5o0j.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5123550611973",
+    "subtitulo": "Capítulo 19"
+  },
+  {
+    "numero": "Capítulo 20",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento020Capjo3z3fkal65a.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5123550939653",
+    "subtitulo": "Capítulo 20"
+  },
+  {
+    "numero": "Capítulo 21",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento021Capxsty9q01seeg.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5123551463941",
+    "subtitulo": "Capítulo 21"
+  },
+  {
+    "numero": "Capítulo 22",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento022Capo7bedio82pwp.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5123552381445",
+    "subtitulo": "Capítulo 22"
+  },
+  {
+    "numero": "Capítulo 23",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento023Capc25z1cc9b89l.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5123553430021",
+    "subtitulo": "Capítulo 23"
+  },
+  {
+    "numero": "Capítulo 24",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento024Capsbgdfcmazdz3.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5123554281989",
+    "subtitulo": "Capítulo 24"
+  },
+  {
+    "numero": "Capítulo 25",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento025Capk63g4ujh01hj.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5123555068421",
+    "subtitulo": "Capítulo 25"
+  },
+  {
+    "numero": "Capítulo 26",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento026Capoprgkugpb8pa.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5123556248069",
+    "subtitulo": "Capítulo 26"
+  },
+  {
+    "numero": "Capítulo 27",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento027Caphyw0bivf0si4.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5123557034501",
+    "subtitulo": "Capítulo 27"
+  },
+  {
+    "numero": "Capítulo 28",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento028Caphbfi6o51t2r1.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5123557689861",
+    "subtitulo": "Capítulo 28"
+  },
+  {
+    "numero": "Capítulo 29",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento029Cappj3t0mukxafq.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5123557755397",
+    "subtitulo": "Capítulo 29"
+  },
+  {
+    "numero": "Capítulo 30",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento030Capbwuhk7yazdw5.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5123558148613",
+    "subtitulo": "Capítulo 30"
+  },
+  {
+    "numero": "Capítulo 31",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento031Cap8upzzoufkmks.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5123558345221",
+    "subtitulo": "Capítulo 31"
+  },
+  {
+    "numero": "Capítulo 32",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento032Cap224ajchkeoi7.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5123558672901",
+    "subtitulo": "Capítulo 32"
+  },
+  {
+    "numero": "Capítulo 33",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento033Cap27i3gghxaah8.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5123558803973",
+    "subtitulo": "Capítulo 33"
+  },
+  {
+    "numero": "Capítulo 34",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento034Capsuddo9m2m8tq.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5123559262725",
+    "subtitulo": "Capítulo 34"
+  },
+  {
+    "numero": "Capítulo 35",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento035Capa9firbxfo7vl.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5123559590405",
+    "subtitulo": "Capítulo 35"
+  },
+  {
+    "numero": "Capítulo 36",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento036Caphbgtdu3g1m4z.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5123560507909",
+    "subtitulo": "Capítulo 36"
+  },
+  {
+    "numero": "Capítulo 37",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento037Capl2tjoa8mytf5.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5123560704517",
+    "subtitulo": "Capítulo 37"
+  },
+  {
+    "numero": "Capítulo 38",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento038Cap1c7qvnxf9lkn.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5123561163269",
+    "subtitulo": "Capítulo 38"
+  },
+  {
+    "numero": "Capítulo 39",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento039Capcrvkmpxgym0a.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5123580430853",
+    "subtitulo": "Capítulo 39"
+  },
+  {
+    "numero": "Capítulo 40",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento040Capyv6ax3dd5l7u.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5123581676037",
+    "subtitulo": "Capítulo 40"
+  },
+  {
+    "numero": "Capítulo 41",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento041Capg4m481ax5uz5.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5123581938181",
+    "subtitulo": "Capítulo 41"
+  },
+  {
+    "numero": "Capítulo 42",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento042Capjjginj75p9fv.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5123583248901",
+    "subtitulo": "Capítulo 42"
+  },
+  {
+    "numero": "Capítulo 43",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento043Cap8gf4v04qxlem.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5123584428549",
+    "subtitulo": "Capítulo 43"
+  },
+  {
+    "numero": "Capítulo 44",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento044Capr5bag3wj4jgu.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5123585804805",
+    "subtitulo": "Capítulo 44"
+  },
+  {
+    "numero": "Capítulo 45",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento045Capiduu6dt4cdfg.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5123587443205",
+    "subtitulo": "Capítulo 45"
+  },
+  {
+    "numero": "Capítulo 46",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento046Capjgz3y6fjhf5m.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5123588753925",
+    "subtitulo": "Capítulo 46"
+  },
+  {
+    "numero": "Capítulo 47",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento047Caps33x05zuz2qm.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5123589540357",
+    "subtitulo": "Capítulo 47"
+  },
+  {
+    "numero": "Capítulo 48",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento048Capuyi3oawlxomh.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5123589802501",
+    "subtitulo": "Capítulo 48"
+  },
+  {
+    "numero": "Capítulo 49",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento049Capt6vgfro2s1vz.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5123590392325",
+    "subtitulo": "Capítulo 49"
+  },
+  {
+    "numero": "Capítulo 50",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento050Capva2oic38d8pn.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5123590588933",
+    "subtitulo": "Capítulo 50"
+  },
+  {
+    "numero": "Capítulo 51",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento051Cap17zkvmoqwstd.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5123591637509",
+    "subtitulo": "Capítulo 51"
+  },
+  {
+    "numero": "Capítulo 52",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento052Caprrdgje7c71cu.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5123592161797",
+    "subtitulo": "Capítulo 52"
+  },
+  {
+    "numero": "Capítulo 53",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento053Caphmysxc1o9rrv.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5123592948229",
+    "subtitulo": "Capítulo 53"
+  },
+  {
+    "numero": "Capítulo 54",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento054Capifqwfng4airv.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5123593210373",
+    "subtitulo": "Capítulo 54"
+  },
+  {
+    "numero": "Capítulo 55",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento055Capuqg29oay0xrt.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5123593538053",
+    "subtitulo": "Capítulo 55"
+  },
+  {
+    "numero": "Capítulo 56",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento056Capgbkknptwp7d6.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5123594390021",
+    "subtitulo": "Capítulo 56"
+  },
+  {
+    "numero": "Capítulo 57",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento057Capdg8v1ln3frpa.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5123595504133",
+    "subtitulo": "Capítulo 57"
+  },
+  {
+    "numero": "Capítulo 58",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento058Cap76es4629pis8.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5123596356101",
+    "subtitulo": "Capítulo 58"
+  },
+  {
+    "numero": "Capítulo 59",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento059Caphebg0xzahmxc.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5123596487173",
+    "subtitulo": "Capítulo 59"
+  },
+  {
+    "numero": "Capítulo 60",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento060Capjrqi5dy0dsf6.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5123597339141",
+    "subtitulo": "Capítulo 60"
+  },
+  {
+    "numero": "Capítulo 61",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento061Capvlnutrsz6q1c.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5123597470213",
+    "subtitulo": "Capítulo 61"
+  },
+  {
+    "numero": "Capítulo 62",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento062Capq7xnyp3s2crq.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5123597535749",
+    "subtitulo": "Capítulo 62"
+  },
+  {
+    "numero": "Capítulo 63",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento063Cap5q3jakgjgyif.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5123597732357",
+    "subtitulo": "Capítulo 63"
+  },
+  {
+    "numero": "Capítulo 64",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento064Capuyd0u5fckjfh.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5123597863429",
+    "subtitulo": "Capítulo 64"
+  },
+  {
+    "numero": "Capítulo 65",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento065Capk9daexbsf5vu.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5123597928965",
+    "subtitulo": "Capítulo 65"
+  },
+  {
+    "numero": "Capítulo 66",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento066Caprknvsi1de6q3.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5123598453253",
+    "subtitulo": "Capítulo 66"
+  },
+  {
+    "numero": "Capítulo 67",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento067Capjafq58af4kig.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5130637543941",
+    "subtitulo": "Capítulo 67"
+  },
+  {
+    "numero": "Capítulo 68",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento068Cap32fhq5plh8jl.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5130638068229",
+    "subtitulo": "Capítulo 68"
+  },
+  {
+    "numero": "Capítulo 69",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento069Cap4qbhq7w0fesg.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5130638330373",
+    "subtitulo": "Capítulo 69"
+  },
+  {
+    "numero": "Capítulo 70",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento070Cap84oe4x0sr81t.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5130638592517",
+    "subtitulo": "Capítulo 70"
+  },
+  {
+    "numero": "Capítulo 71",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento071Cape9zwa7adfp8p.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5130639051269",
+    "subtitulo": "Capítulo 71"
+  },
+  {
+    "numero": "Capítulo 72",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento072Capx410c5wzgahg.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5130639313413",
+    "subtitulo": "Capítulo 72"
+  },
+  {
+    "numero": "Capítulo 73",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento073Capwhyocwrt6g6j.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5130639510021",
+    "subtitulo": "Capítulo 73"
+  },
+  {
+    "numero": "Capítulo 74",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento074Capf70xi7mk50wi.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5130639706629",
+    "subtitulo": "Capítulo 74"
+  },
+  {
+    "numero": "Capítulo 75",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento075Cap0ki1wmibwb35.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5130640165381",
+    "subtitulo": "Capítulo 75"
+  },
+  {
+    "numero": "Capítulo 76",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento076Capq8twcs5rrpmq.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5130640493061",
+    "subtitulo": "Capítulo 76"
+  },
+  {
+    "numero": "Capítulo 77",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento077Capiniuphg1tnod.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5130640624133",
+    "subtitulo": "Capítulo 77"
+  },
+  {
+    "numero": "Capítulo 78",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento078Capeavkh8nwq7hu.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5130640755205",
+    "subtitulo": "Capítulo 78"
+  },
+  {
+    "numero": "Capítulo 79",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento079Cap1xpme5wobs2b.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5130640886277",
+    "subtitulo": "Capítulo 79"
+  },
+  {
+    "numero": "Capítulo 80",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento080Cap3ssoutuu4qjf.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5130641017349",
+    "subtitulo": "Capítulo 80"
+  },
+  {
+    "numero": "Capítulo 81",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento081Capnv1t6r909dbf.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5130641213957",
+    "subtitulo": "Capítulo 81"
+  },
+  {
+    "numero": "Capítulo 82",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento082Capkla6jruef7x7.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5130641345029",
+    "subtitulo": "Capítulo 82"
+  },
+  {
+    "numero": "Capítulo 83",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento083Caphrpmfren5rvy.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5130641672709",
+    "subtitulo": "Capítulo 83"
+  },
+  {
+    "numero": "Capítulo 84",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento084Captn76z5j301g8.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5130641803781",
+    "subtitulo": "Capítulo 84"
+  },
+  {
+    "numero": "Capítulo 85",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento085Capffu9p5gskp6m.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5130641869317",
+    "subtitulo": "Capítulo 85"
+  },
+  {
+    "numero": "Capítulo 86",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento086Capf8hxrkd8iozk.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5130642196997",
+    "subtitulo": "Capítulo 86"
+  },
+  {
+    "numero": "Capítulo 87",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento087Cap6yzxbdet485c.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5130642459141",
+    "subtitulo": "Capítulo 87"
+  },
+  {
+    "numero": "Capítulo 88",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento088Cap6ds1wzqi2f3h.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5130642852357",
+    "subtitulo": "Capítulo 88"
+  },
+  {
+    "numero": "Capítulo 89",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento089Cap03y5r35r2kx0.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5130643114501",
+    "subtitulo": "Capítulo 89"
+  },
+  {
+    "numero": "Capítulo 90",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento090Capxkcmbrxjyskh.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5130643442181",
+    "subtitulo": "Capítulo 90"
+  },
+  {
+    "numero": "Capítulo 91",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento091Cap4nys7lill8al.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5130643638789",
+    "subtitulo": "Capítulo 91"
+  },
+  {
+    "numero": "Capítulo 92",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento092Capkcpaqgjpl8db.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5130643704325",
+    "subtitulo": "Capítulo 92"
+  },
+  {
+    "numero": "Capítulo 93",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento093Cap7mgupsajftgl.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5130643900933",
+    "subtitulo": "Capítulo 93"
+  },
+  {
+    "numero": "Capítulo 94",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento094Cap9jakoi2lh58l.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5130643966469",
+    "subtitulo": "Capítulo 94"
+  },
+  {
+    "numero": "Capítulo 95",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento095Capbwm4rxn76z0q.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5130644097541",
+    "subtitulo": "Capítulo 95"
+  },
+  {
+    "numero": "Capítulo 96",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento096Cap3ovw7vj7yjsb.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5130644294149",
+    "subtitulo": "Capítulo 96"
+  },
+  {
+    "numero": "Capítulo 97",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento097Cap5lx6ssschbns.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5130644556293",
+    "subtitulo": "Capítulo 97"
+  },
+  {
+    "numero": "Capítulo 98",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento098Cap8pbh18v29z6u.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5130644752901",
+    "subtitulo": "Capítulo 98"
+  },
+  {
+    "numero": "Capítulo 99",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento099Capg53hohtwehh4.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5130644883973",
+    "subtitulo": "Capítulo 99"
+  },
+  {
+    "numero": "Capítulo 100",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento100Caplnw4rlaad73f.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5130645080581",
+    "subtitulo": "Capítulo 100"
+  },
+  {
+    "numero": "Capítulo 101",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento101Capj98b26jgbwvp.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5130645146117",
+    "subtitulo": "Capítulo 101"
+  },
+  {
+    "numero": "Capítulo 102",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento102Capadfu191gwp61.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5130645342725",
+    "subtitulo": "Capítulo 102"
+  },
+  {
+    "numero": "Capítulo 103",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento103Capwq6fzbomwslg.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5130645408261",
+    "subtitulo": "Capítulo 103"
+  },
+  {
+    "numero": "Capítulo 104",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento104Capgg4x4ozo8e53.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5130645539333",
+    "subtitulo": "Capítulo 104"
+  },
+  {
+    "numero": "Capítulo 105",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento105Capna5g3ovd8xk8.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5130645670405",
+    "subtitulo": "Capítulo 105"
+  },
+  {
+    "numero": "Capítulo 106",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/eljuramento/elhuramento106Cap9eozwbvx8bjb.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/5130645735941",
+    "subtitulo": "Capítulo 106"
+  }
+]

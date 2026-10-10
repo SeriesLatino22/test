@@ -1,673 +1,667 @@
-{
-  "id": "el_manantial_s1",
-  "titulo": "El Manantial",
-  "subtitulo": "El Manantial: Temporada 1",
-  "portada": "",
-  "capitulos": [
-    {
-      "numero": "Capítulo 1",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial1.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2056678083183",
-      "subtitulo": "Capítulo 1"
-    },
-    {
-      "numero": "Capítulo 2",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial2.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2056678279791",
-      "subtitulo": "Capítulo 2"
-    },
-    {
-      "numero": "Capítulo 3",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial3.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2056678345327",
-      "subtitulo": "Capítulo 3"
-    },
-    {
-      "numero": "Capítulo 4",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial4.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2056678410863",
-      "subtitulo": "Capítulo 4"
-    },
-    {
-      "numero": "Capítulo 5",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial5.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2056678476399",
-      "subtitulo": "Capítulo 5"
-    },
-    {
-      "numero": "Capítulo 6",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial6.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2056678541935",
-      "subtitulo": "Capítulo 6"
-    },
-    {
-      "numero": "Capítulo 7",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial7.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2056678738543",
-      "subtitulo": "Capítulo 7"
-    },
-    {
-      "numero": "Capítulo 8",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial8.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2056678804079",
-      "subtitulo": "Capítulo 8"
-    },
-    {
-      "numero": "Capítulo 9",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial9.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2056678869615",
-      "subtitulo": "Capítulo 9"
-    },
-    {
-      "numero": "Capítulo 10",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial10.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2056678935151",
-      "subtitulo": "Capítulo 10"
-    },
-    {
-      "numero": "Capítulo 11",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial11.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2606871743087",
-      "subtitulo": "Capítulo 11"
-    },
-    {
-      "numero": "Capítulo 12",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial12.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2056722713199",
-      "subtitulo": "Capítulo 12"
-    },
-    {
-      "numero": "Capítulo 13",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial13.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2056722778735",
-      "subtitulo": "Capítulo 13"
-    },
-    {
-      "numero": "Capítulo 14",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial14.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2056722844271",
-      "subtitulo": "Capítulo 14"
-    },
-    {
-      "numero": "Capítulo 15",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial15.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2056722975343",
-      "subtitulo": "Capítulo 15"
-    },
-    {
-      "numero": "Capítulo 16",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial16.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2056723106415",
-      "subtitulo": "Capítulo 16"
-    },
-    {
-      "numero": "Capítulo 17",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial17.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2056723171951",
-      "subtitulo": "Capítulo 17"
-    },
-    {
-      "numero": "Capítulo 18",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial18.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2056723303023",
-      "subtitulo": "Capítulo 18"
-    },
-    {
-      "numero": "Capítulo 19",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial19.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2056723630703",
-      "subtitulo": "Capítulo 19"
-    },
-    {
-      "numero": "Capítulo 20",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial20.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2056723892847",
-      "subtitulo": "Capítulo 20"
-    },
-    {
-      "numero": "Capítulo 21",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial21.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2058122955375",
-      "subtitulo": "Capítulo 21"
-    },
-    {
-      "numero": "Capítulo 22",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial22.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2058123545199",
-      "subtitulo": "Capítulo 22"
-    },
-    {
-      "numero": "Capítulo 23",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial23.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2058123938415",
-      "subtitulo": "Capítulo 23"
-    },
-    {
-      "numero": "Capítulo 24",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial24.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2058124069487",
-      "subtitulo": "Capítulo 24"
-    },
-    {
-      "numero": "Capítulo 25",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial25.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2058124397167",
-      "subtitulo": "Capítulo 25"
-    },
-    {
-      "numero": "Capítulo 26",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial26.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2058124593775",
-      "subtitulo": "Capítulo 26"
-    },
-    {
-      "numero": "Capítulo 27",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial27.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2058124790383",
-      "subtitulo": "Capítulo 27"
-    },
-    {
-      "numero": "Capítulo 28",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial28.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2058125314671",
-      "subtitulo": "Capítulo 28"
-    },
-    {
-      "numero": "Capítulo 29",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial29.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2058125904495",
-      "subtitulo": "Capítulo 29"
-    },
-    {
-      "numero": "Capítulo 30",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial30.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2058126035567",
-      "subtitulo": "Capítulo 30"
-    },
-    {
-      "numero": "Capítulo 31",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial31.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2059118381679",
-      "subtitulo": "Capítulo 31"
-    },
-    {
-      "numero": "Capítulo 32",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial32.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2059118774895",
-      "subtitulo": "Capítulo 32"
-    },
-    {
-      "numero": "Capítulo 33",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial33.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2059118840431",
-      "subtitulo": "Capítulo 33"
-    },
-    {
-      "numero": "Capítulo 34",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial34.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2059118971503",
-      "subtitulo": "Capítulo 34"
-    },
-    {
-      "numero": "Capítulo 35",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial35.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2059119168111",
-      "subtitulo": "Capítulo 35"
-    },
-    {
-      "numero": "Capítulo 36",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial36.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2059119233647",
-      "subtitulo": "Capítulo 36"
-    },
-    {
-      "numero": "Capítulo 37",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial37.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2059119299183",
-      "subtitulo": "Capítulo 37"
-    },
-    {
-      "numero": "Capítulo 38",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial38.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2059119430255",
-      "subtitulo": "Capítulo 38"
-    },
-    {
-      "numero": "Capítulo 39",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial39.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2059119561327",
-      "subtitulo": "Capítulo 39"
-    },
-    {
-      "numero": "Capítulo 40",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial40.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2059119757935",
-      "subtitulo": "Capítulo 40"
-    },
-    {
-      "numero": "Capítulo 41",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial41.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2061635750511",
-      "subtitulo": "Capítulo 41"
-    },
-    {
-      "numero": "Capítulo 42",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial42.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2061635881583",
-      "subtitulo": "Capítulo 42"
-    },
-    {
-      "numero": "Capítulo 43",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial43.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2061636012655",
-      "subtitulo": "Capítulo 43"
-    },
-    {
-      "numero": "Capítulo 44",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial44.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2061636143727",
-      "subtitulo": "Capítulo 44"
-    },
-    {
-      "numero": "Capítulo 45",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial45.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2061636209263",
-      "subtitulo": "Capítulo 45"
-    },
-    {
-      "numero": "Capítulo 46",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial46.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2061636274799",
-      "subtitulo": "Capítulo 46"
-    },
-    {
-      "numero": "Capítulo 47",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial47.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2061636340335",
-      "subtitulo": "Capítulo 47"
-    },
-    {
-      "numero": "Capítulo 48",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial48.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2061636536943",
-      "subtitulo": "Capítulo 48"
-    },
-    {
-      "numero": "Capítulo 49",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial49.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2061636799087",
-      "subtitulo": "Capítulo 49"
-    },
-    {
-      "numero": "Capítulo 50",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial50.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2061636930159",
-      "subtitulo": "Capítulo 50"
-    },
-    {
-      "numero": "Capítulo 51",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial51.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2063395195503",
-      "subtitulo": "Capítulo 51"
-    },
-    {
-      "numero": "Capítulo 52",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial52.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2063395457647",
-      "subtitulo": "Capítulo 52"
-    },
-    {
-      "numero": "Capítulo 53",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial53.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2063395916399",
-      "subtitulo": "Capítulo 53"
-    },
-    {
-      "numero": "Capítulo 54",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial54.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2063396047471",
-      "subtitulo": "Capítulo 54"
-    },
-    {
-      "numero": "Capítulo 55",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial55.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2063396506223",
-      "subtitulo": "Capítulo 55"
-    },
-    {
-      "numero": "Capítulo 56",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial56.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2079446207087",
-      "subtitulo": "Capítulo 56"
-    },
-    {
-      "numero": "Capítulo 57",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial57.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2079446469231",
-      "subtitulo": "Capítulo 57"
-    },
-    {
-      "numero": "Capítulo 58",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial58.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2079446600303",
-      "subtitulo": "Capítulo 58"
-    },
-    {
-      "numero": "Capítulo 59",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial59.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2999597533807",
-      "subtitulo": "Capítulo 59"
-    },
-    {
-      "numero": "Capítulo 60",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial60.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2999597664879",
-      "subtitulo": "Capítulo 60"
-    },
-    {
-      "numero": "Capítulo 61",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial61.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2999597599343",
-      "subtitulo": "Capítulo 61"
-    },
-    {
-      "numero": "Capítulo 62",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial62.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2999597730415",
-      "subtitulo": "Capítulo 62"
-    },
-    {
-      "numero": "Capítulo 63",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial63.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2079448369775",
-      "subtitulo": "Capítulo 63"
-    },
-    {
-      "numero": "Capítulo 64",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial64.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2079588223599",
-      "subtitulo": "Capítulo 64"
-    },
-    {
-      "numero": "Capítulo 65",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial65.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2079588485743",
-      "subtitulo": "Capítulo 65"
-    },
-    {
-      "numero": "Capítulo 66",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial66.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2079588944495",
-      "subtitulo": "Capítulo 66"
-    },
-    {
-      "numero": "Capítulo 67",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial67.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2079589206639",
-      "subtitulo": "Capítulo 67"
-    },
-    {
-      "numero": "Capítulo 68",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial68.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2079589272175",
-      "subtitulo": "Capítulo 68"
-    },
-    {
-      "numero": "Capítulo 69",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial69.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2079589927535",
-      "subtitulo": "Capítulo 69"
-    },
-    {
-      "numero": "Capítulo 70",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial70.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2079590255215",
-      "subtitulo": "Capítulo 70"
-    },
-    {
-      "numero": "Capítulo 71",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial71.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2143859640943",
-      "subtitulo": "Capítulo 71"
-    },
-    {
-      "numero": "Capítulo 72",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial72.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2143860165231",
-      "subtitulo": "Capítulo 72"
-    },
-    {
-      "numero": "Capítulo 73",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial73.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2143860820591",
-      "subtitulo": "Capítulo 73"
-    },
-    {
-      "numero": "Capítulo 74",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial74.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2143861279343",
-      "subtitulo": "Capítulo 74"
-    },
-    {
-      "numero": "Capítulo 75",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial75.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2143861344879",
-      "subtitulo": "Capítulo 75"
-    },
-    {
-      "numero": "Capítulo 76",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial76.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2143861803631",
-      "subtitulo": "Capítulo 76"
-    },
-    {
-      "numero": "Capítulo 77",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial77.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2143861934703",
-      "subtitulo": "Capítulo 77"
-    },
-    {
-      "numero": "Capítulo 78",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial78.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2143936842351",
-      "subtitulo": "Capítulo 78"
-    },
-    {
-      "numero": "Capítulo 79",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial79.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2143937038959",
-      "subtitulo": "Capítulo 79"
-    },
-    {
-      "numero": "Capítulo 80",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial80.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2143937694319",
-      "subtitulo": "Capítulo 80"
-    },
-    {
-      "numero": "Capítulo 81",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial81.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2144055921263",
-      "subtitulo": "Capítulo 81"
-    },
-    {
-      "numero": "Capítulo 82",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial82.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2144056248943",
-      "subtitulo": "Capítulo 82"
-    },
-    {
-      "numero": "Capítulo 83",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial83.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2144056773231",
-      "subtitulo": "Capítulo 83"
-    },
-    {
-      "numero": "Capítulo 84",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial84.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2144057887343",
-      "subtitulo": "Capítulo 84"
-    },
-    {
-      "numero": "Capítulo 85",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial85.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2144058083951",
-      "subtitulo": "Capítulo 85"
-    },
-    {
-      "numero": "Capítulo 86",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial86.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2144058215023",
-      "subtitulo": "Capítulo 86"
-    },
-    {
-      "numero": "Capítulo 87",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial87.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2144058149487",
-      "subtitulo": "Capítulo 87"
-    },
-    {
-      "numero": "Capítulo 88",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial88.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2144057494127",
-      "subtitulo": "Capítulo 88"
-    },
-    {
-      "numero": "Capítulo 89",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial89.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2144057625199",
-      "subtitulo": "Capítulo 89"
-    },
-    {
-      "numero": "Capítulo 90",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial90.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2144058018415",
-      "subtitulo": "Capítulo 90"
-    },
-    {
-      "numero": "Capítulo 91",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial91.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2144057821807",
-      "subtitulo": "Capítulo 91"
-    },
-    {
-      "numero": "Capítulo 92",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial92.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2144057559663",
-      "subtitulo": "Capítulo 92"
-    },
-    {
-      "numero": "Capítulo 93",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial93.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2144057952879",
-      "subtitulo": "Capítulo 93"
-    },
-    {
-      "numero": "Capítulo 94",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial94.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2144057428591",
-      "subtitulo": "Capítulo 94"
-    },
-    {
-      "numero": "Capítulo 95",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial95.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2144057756271",
-      "subtitulo": "Capítulo 95"
-    }
-  ]
-}
+[
+  {
+    "numero": "Capítulo 1",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial1.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2056678083183",
+    "subtitulo": "Capítulo 1"
+  },
+  {
+    "numero": "Capítulo 2",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial2.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2056678279791",
+    "subtitulo": "Capítulo 2"
+  },
+  {
+    "numero": "Capítulo 3",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial3.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2056678345327",
+    "subtitulo": "Capítulo 3"
+  },
+  {
+    "numero": "Capítulo 4",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial4.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2056678410863",
+    "subtitulo": "Capítulo 4"
+  },
+  {
+    "numero": "Capítulo 5",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial5.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2056678476399",
+    "subtitulo": "Capítulo 5"
+  },
+  {
+    "numero": "Capítulo 6",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial6.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2056678541935",
+    "subtitulo": "Capítulo 6"
+  },
+  {
+    "numero": "Capítulo 7",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial7.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2056678738543",
+    "subtitulo": "Capítulo 7"
+  },
+  {
+    "numero": "Capítulo 8",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial8.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2056678804079",
+    "subtitulo": "Capítulo 8"
+  },
+  {
+    "numero": "Capítulo 9",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial9.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2056678869615",
+    "subtitulo": "Capítulo 9"
+  },
+  {
+    "numero": "Capítulo 10",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial10.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2606871743087",
+    "subtitulo": "Capítulo 10"
+  },
+  {
+    "numero": "Capítulo 11",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial11.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2056678935151",
+    "subtitulo": "Capítulo 11"
+  },
+  {
+    "numero": "Capítulo 12",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial12.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2056722713199",
+    "subtitulo": "Capítulo 12"
+  },
+  {
+    "numero": "Capítulo 13",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial13.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2056722778735",
+    "subtitulo": "Capítulo 13"
+  },
+  {
+    "numero": "Capítulo 14",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial14.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2056722844271",
+    "subtitulo": "Capítulo 14"
+  },
+  {
+    "numero": "Capítulo 15",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial15.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2056722975343",
+    "subtitulo": "Capítulo 15"
+  },
+  {
+    "numero": "Capítulo 16",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial16.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2056723106415",
+    "subtitulo": "Capítulo 16"
+  },
+  {
+    "numero": "Capítulo 17",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial17.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2056723171951",
+    "subtitulo": "Capítulo 17"
+  },
+  {
+    "numero": "Capítulo 18",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial18.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2056723303023",
+    "subtitulo": "Capítulo 18"
+  },
+  {
+    "numero": "Capítulo 19",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial19.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2056723630703",
+    "subtitulo": "Capítulo 19"
+  },
+  {
+    "numero": "Capítulo 20",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial20.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2056723892847",
+    "subtitulo": "Capítulo 20"
+  },
+  {
+    "numero": "Capítulo 21",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial21.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2058122955375",
+    "subtitulo": "Capítulo 21"
+  },
+  {
+    "numero": "Capítulo 22",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial22.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2058123545199",
+    "subtitulo": "Capítulo 22"
+  },
+  {
+    "numero": "Capítulo 23",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial23.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2058123938415",
+    "subtitulo": "Capítulo 23"
+  },
+  {
+    "numero": "Capítulo 24",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial24.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2058124069487",
+    "subtitulo": "Capítulo 24"
+  },
+  {
+    "numero": "Capítulo 25",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial25.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2058124397167",
+    "subtitulo": "Capítulo 25"
+  },
+  {
+    "numero": "Capítulo 26",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial26.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2058124593775",
+    "subtitulo": "Capítulo 26"
+  },
+  {
+    "numero": "Capítulo 27",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial27.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2058124790383",
+    "subtitulo": "Capítulo 27"
+  },
+  {
+    "numero": "Capítulo 28",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial28.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2058125314671",
+    "subtitulo": "Capítulo 28"
+  },
+  {
+    "numero": "Capítulo 29",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial29.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2058125904495",
+    "subtitulo": "Capítulo 29"
+  },
+  {
+    "numero": "Capítulo 30",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial30.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2058126035567",
+    "subtitulo": "Capítulo 30"
+  },
+  {
+    "numero": "Capítulo 31",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial31.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2059118381679",
+    "subtitulo": "Capítulo 31"
+  },
+  {
+    "numero": "Capítulo 32",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial32.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2059118774895",
+    "subtitulo": "Capítulo 32"
+  },
+  {
+    "numero": "Capítulo 33",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial33.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2059118840431",
+    "subtitulo": "Capítulo 33"
+  },
+  {
+    "numero": "Capítulo 34",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial34.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2059118971503",
+    "subtitulo": "Capítulo 34"
+  },
+  {
+    "numero": "Capítulo 35",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial35.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2059119168111",
+    "subtitulo": "Capítulo 35"
+  },
+  {
+    "numero": "Capítulo 36",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial36.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2059119233647",
+    "subtitulo": "Capítulo 36"
+  },
+  {
+    "numero": "Capítulo 37",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial37.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2059119299183",
+    "subtitulo": "Capítulo 37"
+  },
+  {
+    "numero": "Capítulo 38",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial38.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2059119430255",
+    "subtitulo": "Capítulo 38"
+  },
+  {
+    "numero": "Capítulo 39",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial39.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2059119561327",
+    "subtitulo": "Capítulo 39"
+  },
+  {
+    "numero": "Capítulo 40",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial40.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2059119757935",
+    "subtitulo": "Capítulo 40"
+  },
+  {
+    "numero": "Capítulo 41",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial41.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2061635750511",
+    "subtitulo": "Capítulo 41"
+  },
+  {
+    "numero": "Capítulo 42",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial42.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2061635881583",
+    "subtitulo": "Capítulo 42"
+  },
+  {
+    "numero": "Capítulo 43",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial43.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2061636012655",
+    "subtitulo": "Capítulo 43"
+  },
+  {
+    "numero": "Capítulo 44",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial44.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2061636143727",
+    "subtitulo": "Capítulo 44"
+  },
+  {
+    "numero": "Capítulo 45",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial45.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2061636209263",
+    "subtitulo": "Capítulo 45"
+  },
+  {
+    "numero": "Capítulo 46",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial46.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2061636274799",
+    "subtitulo": "Capítulo 46"
+  },
+  {
+    "numero": "Capítulo 47",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial47.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2061636340335",
+    "subtitulo": "Capítulo 47"
+  },
+  {
+    "numero": "Capítulo 48",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial48.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2061636536943",
+    "subtitulo": "Capítulo 48"
+  },
+  {
+    "numero": "Capítulo 49",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial49.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2061636799087",
+    "subtitulo": "Capítulo 49"
+  },
+  {
+    "numero": "Capítulo 50",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial50.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2061636930159",
+    "subtitulo": "Capítulo 50"
+  },
+  {
+    "numero": "Capítulo 51",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial51.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2063395195503",
+    "subtitulo": "Capítulo 51"
+  },
+  {
+    "numero": "Capítulo 52",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial52.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2063395457647",
+    "subtitulo": "Capítulo 52"
+  },
+  {
+    "numero": "Capítulo 53",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial53.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2063395916399",
+    "subtitulo": "Capítulo 53"
+  },
+  {
+    "numero": "Capítulo 54",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial54.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2063396047471",
+    "subtitulo": "Capítulo 54"
+  },
+  {
+    "numero": "Capítulo 55",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial55.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2063396506223",
+    "subtitulo": "Capítulo 55"
+  },
+  {
+    "numero": "Capítulo 56",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial56.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2079446207087",
+    "subtitulo": "Capítulo 56"
+  },
+  {
+    "numero": "Capítulo 57",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial57.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2079446469231",
+    "subtitulo": "Capítulo 57"
+  },
+  {
+    "numero": "Capítulo 58",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial58.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2079446600303",
+    "subtitulo": "Capítulo 58"
+  },
+  {
+    "numero": "Capítulo 59",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial59.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2999597533807",
+    "subtitulo": "Capítulo 59"
+  },
+  {
+    "numero": "Capítulo 60",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial60.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2999597664879",
+    "subtitulo": "Capítulo 60"
+  },
+  {
+    "numero": "Capítulo 61",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial61.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2999597599343",
+    "subtitulo": "Capítulo 61"
+  },
+  {
+    "numero": "Capítulo 62",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial62.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2999597730415",
+    "subtitulo": "Capítulo 62"
+  },
+  {
+    "numero": "Capítulo 63",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial63.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2079448369775",
+    "subtitulo": "Capítulo 63"
+  },
+  {
+    "numero": "Capítulo 64",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial64.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2079588223599",
+    "subtitulo": "Capítulo 64"
+  },
+  {
+    "numero": "Capítulo 65",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial65.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2079588485743",
+    "subtitulo": "Capítulo 65"
+  },
+  {
+    "numero": "Capítulo 66",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial66.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2079588944495",
+    "subtitulo": "Capítulo 66"
+  },
+  {
+    "numero": "Capítulo 67",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial67.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2079589206639",
+    "subtitulo": "Capítulo 67"
+  },
+  {
+    "numero": "Capítulo 68",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial68.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2079589272175",
+    "subtitulo": "Capítulo 68"
+  },
+  {
+    "numero": "Capítulo 69",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial69.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2079589927535",
+    "subtitulo": "Capítulo 69"
+  },
+  {
+    "numero": "Capítulo 70",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial70.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2079590255215",
+    "subtitulo": "Capítulo 70"
+  },
+  {
+    "numero": "Capítulo 71",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial71.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2143859640943",
+    "subtitulo": "Capítulo 71"
+  },
+  {
+    "numero": "Capítulo 72",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial72.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2143860165231",
+    "subtitulo": "Capítulo 72"
+  },
+  {
+    "numero": "Capítulo 73",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial73.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2143860820591",
+    "subtitulo": "Capítulo 73"
+  },
+  {
+    "numero": "Capítulo 74",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial74.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2143861279343",
+    "subtitulo": "Capítulo 74"
+  },
+  {
+    "numero": "Capítulo 75",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial75.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2143861344879",
+    "subtitulo": "Capítulo 75"
+  },
+  {
+    "numero": "Capítulo 76",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial76.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2143861803631",
+    "subtitulo": "Capítulo 76"
+  },
+  {
+    "numero": "Capítulo 77",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial77.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2143861934703",
+    "subtitulo": "Capítulo 77"
+  },
+  {
+    "numero": "Capítulo 78",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial78.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2143936842351",
+    "subtitulo": "Capítulo 78"
+  },
+  {
+    "numero": "Capítulo 79",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial79.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2143937038959",
+    "subtitulo": "Capítulo 79"
+  },
+  {
+    "numero": "Capítulo 80",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial80.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2143937694319",
+    "subtitulo": "Capítulo 80"
+  },
+  {
+    "numero": "Capítulo 81",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial81.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2144055921263",
+    "subtitulo": "Capítulo 81"
+  },
+  {
+    "numero": "Capítulo 82",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial82.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2144056248943",
+    "subtitulo": "Capítulo 82"
+  },
+  {
+    "numero": "Capítulo 83",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial83.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2144056773231",
+    "subtitulo": "Capítulo 83"
+  },
+  {
+    "numero": "Capítulo 84",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial84.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2144057887343",
+    "subtitulo": "Capítulo 84"
+  },
+  {
+    "numero": "Capítulo 85",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial85.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2144058083951",
+    "subtitulo": "Capítulo 85"
+  },
+  {
+    "numero": "Capítulo 86",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial86.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2144058215023",
+    "subtitulo": "Capítulo 86"
+  },
+  {
+    "numero": "Capítulo 87",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial87.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2144058149487",
+    "subtitulo": "Capítulo 87"
+  },
+  {
+    "numero": "Capítulo 88",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial88.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2144057494127",
+    "subtitulo": "Capítulo 88"
+  },
+  {
+    "numero": "Capítulo 89",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial89.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2144057625199",
+    "subtitulo": "Capítulo 89"
+  },
+  {
+    "numero": "Capítulo 90",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial90.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2144058018415",
+    "subtitulo": "Capítulo 90"
+  },
+  {
+    "numero": "Capítulo 91",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial91.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2144057821807",
+    "subtitulo": "Capítulo 91"
+  },
+  {
+    "numero": "Capítulo 92",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial92.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2144057559663",
+    "subtitulo": "Capítulo 92"
+  },
+  {
+    "numero": "Capítulo 93",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial93.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2144057952879",
+    "subtitulo": "Capítulo 93"
+  },
+  {
+    "numero": "Capítulo 94",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial94.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2144057428591",
+    "subtitulo": "Capítulo 94"
+  },
+  {
+    "numero": "Capítulo 95",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elmanantial/manantial95.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2144057756271",
+    "subtitulo": "Capítulo 95"
+  }
+]

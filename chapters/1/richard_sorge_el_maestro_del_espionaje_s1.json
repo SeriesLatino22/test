@@ -1,0 +1,92 @@
+{
+  "id": "richard_sorge_el_maestro_del_espionaje_s1",
+  "titulo": "Richard Sorge: El Maestro del Espionaje",
+  "subtitulo": "Richard Sorge: El Maestro del Espionaje: Temporada 1",
+  "portada": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/richard_sorge_el_maestro_del_espionaje.webp",
+  "capitulos": [
+    {
+      "numero": "Capítulo 1",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_ckvryr1q/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 01",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 1"
+    },
+    {
+      "numero": "Capítulo 2",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_rqd5nnxi/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 02",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 2"
+    },
+    {
+      "numero": "Capítulo 3",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_lkdcyd1n/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 03",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 3"
+    },
+    {
+      "numero": "Capítulo 4",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_zh3gn423/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 04",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 4"
+    },
+    {
+      "numero": "Capítulo 5",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_ubmmgluu/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 05",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 5"
+    },
+    {
+      "numero": "Capítulo 6",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_xrueobbd/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 06",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 6"
+    },
+    {
+      "numero": "Capítulo 7",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_oe80o5p3/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 07",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 7"
+    },
+    {
+      "numero": "Capítulo 8",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_k4r3cz0l/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 08",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 8"
+    },
+    {
+      "numero": "Capítulo 9",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_m17sql6z/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 09",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 9"
+    },
+    {
+      "numero": "Capítulo 10",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_miy0xwes/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 10",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 10"
+    },
+    {
+      "numero": "Capítulo 11",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_nd5t97y3/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 11",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 11"
+    },
+    {
+      "numero": "Capítulo 12",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_1hk0x398/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 12",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 12"
+    }
+  ]
+}

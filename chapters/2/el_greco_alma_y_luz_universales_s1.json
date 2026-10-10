@@ -1,0 +1,50 @@
+{
+  "id": "el_greco_alma_y_luz_universales_s1",
+  "titulo": "El Greco, Alma y Luz Universales",
+  "subtitulo": "El Greco, Alma y Luz Universales: Temporada 1",
+  "portada": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/el_greco_alma_y_luz_universales.webp",
+  "capitulos": [
+    {
+      "numero": "Capítulo 1",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_k9o7raqv/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Camino hacia la eternidad",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 1"
+    },
+    {
+      "numero": "Capítulo 2",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_7jllidyg/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Las brumas de la memoria",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 2"
+    },
+    {
+      "numero": "Capítulo 3",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_16vcnmt4/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "La Italia soñada",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 3"
+    },
+    {
+      "numero": "Capítulo 4",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_qddonbht/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Destino español",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 4"
+    },
+    {
+      "numero": "Capítulo 5",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_s4q7ovwj/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "El entierro del Conde Orgaz",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 5"
+    },
+    {
+      "numero": "Capítulo 6",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_nkhqlgj3/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "La gloria",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 6"
+    }
+  ]
+}

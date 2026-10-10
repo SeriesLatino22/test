@@ -1,0 +1,78 @@
+{
+  "id": "fortunata_y_jacinta_s1",
+  "titulo": "Fortunata y Jacinta",
+  "subtitulo": "Fortunata y Jacinta: Temporada 1",
+  "portada": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/fortunata_y_jacinta.webp",
+  "capitulos": [
+    {
+      "numero": "Capítulo 1",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_rdjfgqsa/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Capítulo 1",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 1"
+    },
+    {
+      "numero": "Capítulo 2",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_crnmh7y2/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Capítulo 2",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 2"
+    },
+    {
+      "numero": "Capítulo 3",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_hosrfij2/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Capítulo 3",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 3"
+    },
+    {
+      "numero": "Capítulo 4",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_hvx42op0/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Capítulo 4",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 4"
+    },
+    {
+      "numero": "Capítulo 5",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_hojwpiby/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Capítulo 5",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 5"
+    },
+    {
+      "numero": "Capítulo 6",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_ussjoxwb/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Capítulo 6",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 6"
+    },
+    {
+      "numero": "Capítulo 7",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_93dp3zlr/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Capítulo 7",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 7"
+    },
+    {
+      "numero": "Capítulo 8",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_y1m9oekd/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Capítulo 8",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 8"
+    },
+    {
+      "numero": "Capítulo 9",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_9qislnyx/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Capítulo 9",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 9"
+    },
+    {
+      "numero": "Capítulo 10",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_0i69eef3/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Capítulo 10",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 10"
+    }
+  ]
+}

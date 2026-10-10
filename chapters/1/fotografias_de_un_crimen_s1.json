@@ -1,0 +1,36 @@
+{
+  "id": "fotografias_de_un_crimen_s1",
+  "titulo": "Fotografías de un Crimen",
+  "subtitulo": "Fotografías de un Crimen: Temporada 1",
+  "portada": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/fotografias_de_un_crimen.webp",
+  "capitulos": [
+    {
+      "numero": "Capítulo 1",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_fo3bbxmr/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 01",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 1"
+    },
+    {
+      "numero": "Capítulo 2",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_wr69p7fy/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 02",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 2"
+    },
+    {
+      "numero": "Capítulo 3",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_6w1tuwhj/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 03",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 3"
+    },
+    {
+      "numero": "Capítulo 4",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_00pe3gma/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 04",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 4"
+    }
+  ]
+}

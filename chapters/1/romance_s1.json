@@ -1,0 +1,50 @@
+{
+  "id": "romance_s1",
+  "titulo": "Romance",
+  "subtitulo": "Romance: Temporada 1",
+  "portada": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/romance.webp",
+  "capitulos": [
+    {
+      "numero": "Capítulo 1",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_5xbcj5fx/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 1",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 1"
+    },
+    {
+      "numero": "Capítulo 2",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_68rnqkql/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 2",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 2"
+    },
+    {
+      "numero": "Capítulo 3",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_7k9vxigj/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 3",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 3"
+    },
+    {
+      "numero": "Capítulo 4",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_21knjyn7/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 4",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 4"
+    },
+    {
+      "numero": "Capítulo 5",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_wf8i8xic/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 5",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 5"
+    },
+    {
+      "numero": "Capítulo 6",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_619yabvu/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 6",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 6"
+    }
+  ]
+}

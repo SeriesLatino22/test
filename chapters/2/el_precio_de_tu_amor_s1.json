@@ -1,673 +1,667 @@
-{
-  "id": "el_precio_de_tu_amor_s1",
-  "titulo": "El Precio de Tu Amor",
-  "subtitulo": "El Precio de Tu Amor: Temporada 1",
-  "portada": "",
-  "capitulos": [
-    {
-      "numero": "Capítulo 1",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor1CapbGtmZjI5OXF6eWc2.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2068514212488",
-      "subtitulo": "Capítulo 1"
-    },
-    {
-      "numero": "Capítulo 2",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor2CapamltMXJkdDVyMHpp.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2069484341896",
-      "subtitulo": "Capítulo 2"
-    },
-    {
-      "numero": "Capítulo 3",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor3CapeTh3ODJ1cHVxMXd2.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2069484276360",
-      "subtitulo": "Capítulo 3"
-    },
-    {
-      "numero": "Capítulo 4",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor4CapdmZubm9jeDB6OHVx.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2069486897800",
-      "subtitulo": "Capítulo 4"
-    },
-    {
-      "numero": "Capítulo 5",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor5CapcDk0cHVoa2RsNGRh.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2069486963336",
-      "subtitulo": "Capítulo 5"
-    },
-    {
-      "numero": "Capítulo 6",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor6CapODJucml1cnVpempr.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2073085807240",
-      "subtitulo": "Capítulo 6"
-    },
-    {
-      "numero": "Capítulo 7",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor7CapN3hmdXp5ZG0xcXBu.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2073091639944",
-      "subtitulo": "Capítulo 7"
-    },
-    {
-      "numero": "Capítulo 8",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor8CapcXBmOW80bHBodGl6.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2073099111048",
-      "subtitulo": "Capítulo 8"
-    },
-    {
-      "numero": "Capítulo 9",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor9CapY2k5YWRiZWNhZGVl.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2073099242120",
-      "subtitulo": "Capítulo 9"
-    },
-    {
-      "numero": "Capítulo 10",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor10CapNnN6dm1mcTRlb3g2.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2073099963016",
-      "subtitulo": "Capítulo 10"
-    },
-    {
-      "numero": "Capítulo 11",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor11CapYmM1OTFjMGVsNTJj.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2079401314952",
-      "subtitulo": "Capítulo 11"
-    },
-    {
-      "numero": "Capítulo 12",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor12CapZm55Y3k5a3Fham13.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2079407606408",
-      "subtitulo": "Capítulo 12"
-    },
-    {
-      "numero": "Capítulo 13",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor13CapZXN4NWR1azVua2t0.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2079407803016",
-      "subtitulo": "Capítulo 13"
-    },
-    {
-      "numero": "Capítulo 14",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor14CapOWplc3ZlbDBxZ2xz.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2079407671944",
-      "subtitulo": "Capítulo 14"
-    },
-    {
-      "numero": "Capítulo 15",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor15Capd2JtYTI1cDdhZTVh.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2079407737480",
-      "subtitulo": "Capítulo 15"
-    },
-    {
-      "numero": "Capítulo 16",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor16CapZnJ3OWYwZW1yNXV5.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2079439653512",
-      "subtitulo": "Capítulo 16"
-    },
-    {
-      "numero": "Capítulo 17",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor17CapaGJwNXN1NTJmbWR5.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2079439587976",
-      "subtitulo": "Capítulo 17"
-    },
-    {
-      "numero": "Capítulo 18",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor18CapZXIyM3F6amx6MDhz.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2079439784584",
-      "subtitulo": "Capítulo 18"
-    },
-    {
-      "numero": "Capítulo 19",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor19CapMHFyZzN2aXF0MTlv.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2079439719048",
-      "subtitulo": "Capítulo 19"
-    },
-    {
-      "numero": "Capítulo 20",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor20Capa2prcjF4cm4yaGVv.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2079439850120",
-      "subtitulo": "Capítulo 20"
-    },
-    {
-      "numero": "Capítulo 21",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor21CapNXEzMHdxaHowaG9s.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2080017353352",
-      "subtitulo": "Capítulo 21"
-    },
-    {
-      "numero": "Capítulo 22",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor22CapbDJpdXdieWt6MWt1.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2080017222280",
-      "subtitulo": "Capítulo 22"
-    },
-    {
-      "numero": "Capítulo 23",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor23Capb2Jma2tqYWY1MTZk.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2080017156744",
-      "subtitulo": "Capítulo 23"
-    },
-    {
-      "numero": "Capítulo 24",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor24CapdjN2dWdpYTF5c2Vp.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2080017091208",
-      "subtitulo": "Capítulo 24"
-    },
-    {
-      "numero": "Capítulo 25",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor25CapMjAxNnZvdGNmdWJ3.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2080017287816",
-      "subtitulo": "Capítulo 25"
-    },
-    {
-      "numero": "Capítulo 26",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor26CapdTk4cmljbW1hbTQ3.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2080037210760",
-      "subtitulo": "Capítulo 26"
-    },
-    {
-      "numero": "Capítulo 27",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor27CapcnkzcDhva3V4cW9q.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2080037145224",
-      "subtitulo": "Capítulo 27"
-    },
-    {
-      "numero": "Capítulo 28",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor28CapNDUyNm1rcW8xbWU2.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2080039045768",
-      "subtitulo": "Capítulo 28"
-    },
-    {
-      "numero": "Capítulo 29",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor29CapZ3FiZ3BjZnVqM2k3.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2080039111304",
-      "subtitulo": "Capítulo 29"
-    },
-    {
-      "numero": "Capítulo 30",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor30CapdzVyampna2cxeDVv.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2080039307912",
-      "subtitulo": "Capítulo 30"
-    },
-    {
-      "numero": "Capítulo 31",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor31CapODlucXAxM2RmenF5.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2080085772936",
-      "subtitulo": "Capítulo 31"
-    },
-    {
-      "numero": "Capítulo 32",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor32Capa2JpM2M0YzhmeGE3.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2080085707400",
-      "subtitulo": "Capítulo 32"
-    },
-    {
-      "numero": "Capítulo 33",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor33CapbmY2dnR6a3gwazc5.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2080085641864",
-      "subtitulo": "Capítulo 33"
-    },
-    {
-      "numero": "Capítulo 34",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor34Capa3RrMWZtMG42ZGxk.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2080108579464",
-      "subtitulo": "Capítulo 34"
-    },
-    {
-      "numero": "Capítulo 35",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor35CapYjZlZnBtbmttbmEz.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2080109431432",
-      "subtitulo": "Capítulo 35"
-    },
-    {
-      "numero": "Capítulo 36",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor36CapcXY1c2RoMmE0M3Yz.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2080146459272",
-      "subtitulo": "Capítulo 36"
-    },
-    {
-      "numero": "Capítulo 37",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor37Capc3YzN2ducnNnOGZr.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2080146393736",
-      "subtitulo": "Capítulo 37"
-    },
-    {
-      "numero": "Capítulo 38",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor38CapNW5pdjRvdTAyMGZ3.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2080152881800",
-      "subtitulo": "Capítulo 38"
-    },
-    {
-      "numero": "Capítulo 39",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor39CapeGpiN2F5ZDk4dmNp.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2080153209480",
-      "subtitulo": "Capítulo 39"
-    },
-    {
-      "numero": "Capítulo 40",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor40CapMnQxYnd2eDdseGNh.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2080154258056",
-      "subtitulo": "Capítulo 40"
-    },
-    {
-      "numero": "Capítulo 41",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor41CapZ21oM2F4MjRxNXVz.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2082174208648",
-      "subtitulo": "Capítulo 41"
-    },
-    {
-      "numero": "Capítulo 42",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor42CapMWE2cHJrYXBtbmgw.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2082174601864",
-      "subtitulo": "Capítulo 42"
-    },
-    {
-      "numero": "Capítulo 43",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor43CapZTNwMm5sNXFwMXg1.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2082175191688",
-      "subtitulo": "Capítulo 43"
-    },
-    {
-      "numero": "Capítulo 44",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor44CapN2hrMGx0MTk0MDFw.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2082175388296",
-      "subtitulo": "Capítulo 44"
-    },
-    {
-      "numero": "Capítulo 45",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor45CapZDNpa3gydXcwbGlp.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2082175912584",
-      "subtitulo": "Capítulo 45"
-    },
-    {
-      "numero": "Capítulo 46",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor46CapcnVlN2J0eDJvbnp0.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2082267466376",
-      "subtitulo": "Capítulo 46"
-    },
-    {
-      "numero": "Capítulo 47",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor47CapejlwYm9qZ2RjanV1.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2082267531912",
-      "subtitulo": "Capítulo 47"
-    },
-    {
-      "numero": "Capítulo 48",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor48Capd2lkNzh4bjluOGhn.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2082268646024",
-      "subtitulo": "Capítulo 48"
-    },
-    {
-      "numero": "Capítulo 49",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor49CapZGtmY2dnZzFoeDM3.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2082268514952",
-      "subtitulo": "Capítulo 49"
-    },
-    {
-      "numero": "Capítulo 50",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor50CapazNpbmlsZWMyMjFl.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2082268580488",
-      "subtitulo": "Capítulo 50"
-    },
-    {
-      "numero": "Capítulo 51",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor51CapZHloYmNuZDgwZWF0.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2082355677832",
-      "subtitulo": "Capítulo 51"
-    },
-    {
-      "numero": "Capítulo 52",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor52CapanVvNHFja2FuOWxs.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2082355612296",
-      "subtitulo": "Capítulo 52"
-    },
-    {
-      "numero": "Capítulo 53",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor53CapNjZhMmFlbmQ1aXU0.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2082356136584",
-      "subtitulo": "Capítulo 53"
-    },
-    {
-      "numero": "Capítulo 54",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor54CapaTdycGhzbW5iOTJh.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2082356202120",
-      "subtitulo": "Capítulo 54"
-    },
-    {
-      "numero": "Capítulo 55",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor55Capa3lyN3M1ZTFmamJr.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2082356660872",
-      "subtitulo": "Capítulo 55"
-    },
-    {
-      "numero": "Capítulo 56",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor56CapM3lzbTg0aG40cmJq.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2082356595336",
-      "subtitulo": "Capítulo 56"
-    },
-    {
-      "numero": "Capítulo 57",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor57CapYzl5czk0c2Izdzdl.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2082357381768",
-      "subtitulo": "Capítulo 57"
-    },
-    {
-      "numero": "Capítulo 58",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor58CapdzE3NXVmNGR6Ynlo.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2082357447304",
-      "subtitulo": "Capítulo 58"
-    },
-    {
-      "numero": "Capítulo 59",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor59CapMXEwbXhlZDg4enRx.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2082357840520",
-      "subtitulo": "Capítulo 59"
-    },
-    {
-      "numero": "Capítulo 60",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor60CapOHUzeGVhNzhtbTly.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2082357774984",
-      "subtitulo": "Capítulo 60"
-    },
-    {
-      "numero": "Capítulo 61",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor61CapZW1xazNxeHA5eXJ6.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2082560608904",
-      "subtitulo": "Capítulo 61"
-    },
-    {
-      "numero": "Capítulo 62",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor62CapY2s0bWRrMzlnbGFw.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2082560543368",
-      "subtitulo": "Capítulo 62"
-    },
-    {
-      "numero": "Capítulo 63",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor63CapY2dpY3JxeXFjMHVy.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2082568931976",
-      "subtitulo": "Capítulo 63"
-    },
-    {
-      "numero": "Capítulo 64",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor64CapeG83NXpsNHZlcjdt.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2082568997512",
-      "subtitulo": "Capítulo 64"
-    },
-    {
-      "numero": "Capítulo 65",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor65CapY3lyOHJncGxibW40.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2082581973640",
-      "subtitulo": "Capítulo 65"
-    },
-    {
-      "numero": "Capítulo 66",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor66CapOWw5eWtqN3l1c240.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2082833894024",
-      "subtitulo": "Capítulo 66"
-    },
-    {
-      "numero": "Capítulo 67",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor67CapaThoMHFlcGJucWw4.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2082834418312",
-      "subtitulo": "Capítulo 67"
-    },
-    {
-      "numero": "Capítulo 68",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor68CapdGRldTJtdWY1Ymg5.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2082834352776",
-      "subtitulo": "Capítulo 68"
-    },
-    {
-      "numero": "Capítulo 69",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor69CapZjF4MHYyNm5lNDh2.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2082839726728",
-      "subtitulo": "Capítulo 69"
-    },
-    {
-      "numero": "Capítulo 70",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor70CapMHM0b2FjcDNib2J5.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2082839792264",
-      "subtitulo": "Capítulo 70"
-    },
-    {
-      "numero": "Capítulo 71",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor71CapdTRpM2FwMjk1OG5k.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2084124625544",
-      "subtitulo": "Capítulo 71"
-    },
-    {
-      "numero": "Capítulo 72",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor72CapY3pkeHpkNWV5b2ox.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2084124756616",
-      "subtitulo": "Capítulo 72"
-    },
-    {
-      "numero": "Capítulo 73",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor73CapeTl0ZzM2YmVlaG56.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2084125084296",
-      "subtitulo": "Capítulo 73"
-    },
-    {
-      "numero": "Capítulo 74",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor74CapMzRqcXQ2N3N4cWo5.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2084125346440",
-      "subtitulo": "Capítulo 74"
-    },
-    {
-      "numero": "Capítulo 75",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor75CapbW1ueThiYWViZXI4.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2084125608584",
-      "subtitulo": "Capítulo 75"
-    },
-    {
-      "numero": "Capítulo 76",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor76CapMTNidTd0YjA3enQ3.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2084183149192",
-      "subtitulo": "Capítulo 76"
-    },
-    {
-      "numero": "Capítulo 77",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor77CapcDA4Z3ZpdWhlbmI4.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2084183083656",
-      "subtitulo": "Capítulo 77"
-    },
-    {
-      "numero": "Capítulo 78",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor78CapZmIyOG5kdXFubHN2.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2084191472264",
-      "subtitulo": "Capítulo 78"
-    },
-    {
-      "numero": "Capítulo 79",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor79CapMm42OHVuaTA5bHhx.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2084192193160",
-      "subtitulo": "Capítulo 79"
-    },
-    {
-      "numero": "Capítulo 80",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor80CapemF3N2JrZ3U1bmR5.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2084192782984",
-      "subtitulo": "Capítulo 80"
-    },
-    {
-      "numero": "Capítulo 81",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor81CapOGFwOW1rYzVubDQ4.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2084727753352",
-      "subtitulo": "Capítulo 81"
-    },
-    {
-      "numero": "Capítulo 82",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor82CapcXJsMjQ5dXhseGk1.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2084727687816",
-      "subtitulo": "Capítulo 82"
-    },
-    {
-      "numero": "Capítulo 83",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor83CapZ2pjN2ExMHQ4c2xs.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2084807379592",
-      "subtitulo": "Capítulo 83"
-    },
-    {
-      "numero": "Capítulo 84",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor84CapdXZmZ2JpNnY0dGJ6.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2084807576200",
-      "subtitulo": "Capítulo 84"
-    },
-    {
-      "numero": "Capítulo 85",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor85CapNDJ5amtxYmN2dW0x.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2084808034952",
-      "subtitulo": "Capítulo 85"
-    },
-    {
-      "numero": "Capítulo 86",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor86CapY3c4NzlyNzZqM3Rr.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2084828088968",
-      "subtitulo": "Capítulo 86"
-    },
-    {
-      "numero": "Capítulo 87",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor87Capb3ZwMDZ5ZXg5Y3Rx.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2084828416648",
-      "subtitulo": "Capítulo 87"
-    },
-    {
-      "numero": "Capítulo 88",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor88CapMnF3Z3h0aHZ0YXR1.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2084828744328",
-      "subtitulo": "Capítulo 88"
-    },
-    {
-      "numero": "Capítulo 89",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor89CapdjFvczFxN2hyazc0.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2084829072008",
-      "subtitulo": "Capítulo 89"
-    },
-    {
-      "numero": "Capítulo 90",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor90CapNDdnam1zbm5wczlp.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2084829661832",
-      "subtitulo": "Capítulo 90"
-    },
-    {
-      "numero": "Capítulo 91",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor91CapNDdnam1zbm5wczlp.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2084955622024",
-      "subtitulo": "Capítulo 91"
-    },
-    {
-      "numero": "Capítulo 92",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor92CapNDdnam1zbm5wczlp.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2084955490952",
-      "subtitulo": "Capítulo 92"
-    },
-    {
-      "numero": "Capítulo 93",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor93CapNDdnam1zbm5wczlp.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2084955359880",
-      "subtitulo": "Capítulo 93"
-    },
-    {
-      "numero": "Capítulo 94",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor94CapNDdnam1zbm5wczlp.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2084955687560",
-      "subtitulo": "Capítulo 94"
-    },
-    {
-      "numero": "Capítulo 95",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor95CapNDdnam1zbm5wczlp.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2084955556488",
-      "subtitulo": "Capítulo 95"
-    }
-  ]
-}
+[
+  {
+    "numero": "Capítulo 1",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor1CapbGtmZjI5OXF6eWc2.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2068514212488",
+    "subtitulo": "Capítulo 1"
+  },
+  {
+    "numero": "Capítulo 2",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor2CapamltMXJkdDVyMHpp.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2069484341896",
+    "subtitulo": "Capítulo 2"
+  },
+  {
+    "numero": "Capítulo 3",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor3CapeTh3ODJ1cHVxMXd2.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2069484276360",
+    "subtitulo": "Capítulo 3"
+  },
+  {
+    "numero": "Capítulo 4",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor4CapdmZubm9jeDB6OHVx.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2069486897800",
+    "subtitulo": "Capítulo 4"
+  },
+  {
+    "numero": "Capítulo 5",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor5CapcDk0cHVoa2RsNGRh.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2069486963336",
+    "subtitulo": "Capítulo 5"
+  },
+  {
+    "numero": "Capítulo 6",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor6CapODJucml1cnVpempr.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2073085807240",
+    "subtitulo": "Capítulo 6"
+  },
+  {
+    "numero": "Capítulo 7",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor7CapN3hmdXp5ZG0xcXBu.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2073091639944",
+    "subtitulo": "Capítulo 7"
+  },
+  {
+    "numero": "Capítulo 8",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor8CapcXBmOW80bHBodGl6.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2073099111048",
+    "subtitulo": "Capítulo 8"
+  },
+  {
+    "numero": "Capítulo 9",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor9CapY2k5YWRiZWNhZGVl.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2073099242120",
+    "subtitulo": "Capítulo 9"
+  },
+  {
+    "numero": "Capítulo 10",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor10CapNnN6dm1mcTRlb3g2.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2073099963016",
+    "subtitulo": "Capítulo 10"
+  },
+  {
+    "numero": "Capítulo 11",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor11CapYmM1OTFjMGVsNTJj.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2079401314952",
+    "subtitulo": "Capítulo 11"
+  },
+  {
+    "numero": "Capítulo 12",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor12CapZm55Y3k5a3Fham13.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2079407606408",
+    "subtitulo": "Capítulo 12"
+  },
+  {
+    "numero": "Capítulo 13",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor13CapZXN4NWR1azVua2t0.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2079407803016",
+    "subtitulo": "Capítulo 13"
+  },
+  {
+    "numero": "Capítulo 14",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor14CapOWplc3ZlbDBxZ2xz.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2079407671944",
+    "subtitulo": "Capítulo 14"
+  },
+  {
+    "numero": "Capítulo 15",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor15Capd2JtYTI1cDdhZTVh.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2079407737480",
+    "subtitulo": "Capítulo 15"
+  },
+  {
+    "numero": "Capítulo 16",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor16CapZnJ3OWYwZW1yNXV5.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2079439653512",
+    "subtitulo": "Capítulo 16"
+  },
+  {
+    "numero": "Capítulo 17",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor17CapaGJwNXN1NTJmbWR5.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2079439587976",
+    "subtitulo": "Capítulo 17"
+  },
+  {
+    "numero": "Capítulo 18",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor18CapZXIyM3F6amx6MDhz.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2079439784584",
+    "subtitulo": "Capítulo 18"
+  },
+  {
+    "numero": "Capítulo 19",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor19CapMHFyZzN2aXF0MTlv.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2079439719048",
+    "subtitulo": "Capítulo 19"
+  },
+  {
+    "numero": "Capítulo 20",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor20Capa2prcjF4cm4yaGVv.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2079439850120",
+    "subtitulo": "Capítulo 20"
+  },
+  {
+    "numero": "Capítulo 21",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor21CapNXEzMHdxaHowaG9s.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2080017353352",
+    "subtitulo": "Capítulo 21"
+  },
+  {
+    "numero": "Capítulo 22",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor22CapbDJpdXdieWt6MWt1.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2080017222280",
+    "subtitulo": "Capítulo 22"
+  },
+  {
+    "numero": "Capítulo 23",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor23Capb2Jma2tqYWY1MTZk.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2080017156744",
+    "subtitulo": "Capítulo 23"
+  },
+  {
+    "numero": "Capítulo 24",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor24CapdjN2dWdpYTF5c2Vp.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2080017091208",
+    "subtitulo": "Capítulo 24"
+  },
+  {
+    "numero": "Capítulo 25",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor25CapMjAxNnZvdGNmdWJ3.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2080017287816",
+    "subtitulo": "Capítulo 25"
+  },
+  {
+    "numero": "Capítulo 26",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor26CapdTk4cmljbW1hbTQ3.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2080037210760",
+    "subtitulo": "Capítulo 26"
+  },
+  {
+    "numero": "Capítulo 27",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor27CapcnkzcDhva3V4cW9q.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2080037145224",
+    "subtitulo": "Capítulo 27"
+  },
+  {
+    "numero": "Capítulo 28",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor28CapNDUyNm1rcW8xbWU2.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2080039045768",
+    "subtitulo": "Capítulo 28"
+  },
+  {
+    "numero": "Capítulo 29",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor29CapZ3FiZ3BjZnVqM2k3.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2080039111304",
+    "subtitulo": "Capítulo 29"
+  },
+  {
+    "numero": "Capítulo 30",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor30CapdzVyampna2cxeDVv.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2080039307912",
+    "subtitulo": "Capítulo 30"
+  },
+  {
+    "numero": "Capítulo 31",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor31CapODlucXAxM2RmenF5.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2080085772936",
+    "subtitulo": "Capítulo 31"
+  },
+  {
+    "numero": "Capítulo 32",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor32Capa2JpM2M0YzhmeGE3.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2080085707400",
+    "subtitulo": "Capítulo 32"
+  },
+  {
+    "numero": "Capítulo 33",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor33CapbmY2dnR6a3gwazc5.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2080085641864",
+    "subtitulo": "Capítulo 33"
+  },
+  {
+    "numero": "Capítulo 34",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor34Capa3RrMWZtMG42ZGxk.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2080108579464",
+    "subtitulo": "Capítulo 34"
+  },
+  {
+    "numero": "Capítulo 35",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor35CapYjZlZnBtbmttbmEz.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2080109431432",
+    "subtitulo": "Capítulo 35"
+  },
+  {
+    "numero": "Capítulo 36",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor36CapcXY1c2RoMmE0M3Yz.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2080146459272",
+    "subtitulo": "Capítulo 36"
+  },
+  {
+    "numero": "Capítulo 37",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor37Capc3YzN2ducnNnOGZr.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2080146393736",
+    "subtitulo": "Capítulo 37"
+  },
+  {
+    "numero": "Capítulo 38",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor38CapNW5pdjRvdTAyMGZ3.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2080152881800",
+    "subtitulo": "Capítulo 38"
+  },
+  {
+    "numero": "Capítulo 39",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor39CapeGpiN2F5ZDk4dmNp.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2080153209480",
+    "subtitulo": "Capítulo 39"
+  },
+  {
+    "numero": "Capítulo 40",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor40CapMnQxYnd2eDdseGNh.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2080154258056",
+    "subtitulo": "Capítulo 40"
+  },
+  {
+    "numero": "Capítulo 41",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor41CapZ21oM2F4MjRxNXVz.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2082174208648",
+    "subtitulo": "Capítulo 41"
+  },
+  {
+    "numero": "Capítulo 42",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor42CapMWE2cHJrYXBtbmgw.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2082174601864",
+    "subtitulo": "Capítulo 42"
+  },
+  {
+    "numero": "Capítulo 43",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor43CapZTNwMm5sNXFwMXg1.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2082175191688",
+    "subtitulo": "Capítulo 43"
+  },
+  {
+    "numero": "Capítulo 44",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor44CapN2hrMGx0MTk0MDFw.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2082175388296",
+    "subtitulo": "Capítulo 44"
+  },
+  {
+    "numero": "Capítulo 45",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor45CapZDNpa3gydXcwbGlp.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2082175912584",
+    "subtitulo": "Capítulo 45"
+  },
+  {
+    "numero": "Capítulo 46",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor46CapcnVlN2J0eDJvbnp0.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2082267466376",
+    "subtitulo": "Capítulo 46"
+  },
+  {
+    "numero": "Capítulo 47",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor47CapejlwYm9qZ2RjanV1.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2082267531912",
+    "subtitulo": "Capítulo 47"
+  },
+  {
+    "numero": "Capítulo 48",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor48Capd2lkNzh4bjluOGhn.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2082268646024",
+    "subtitulo": "Capítulo 48"
+  },
+  {
+    "numero": "Capítulo 49",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor49CapZGtmY2dnZzFoeDM3.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2082268514952",
+    "subtitulo": "Capítulo 49"
+  },
+  {
+    "numero": "Capítulo 50",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor50CapazNpbmlsZWMyMjFl.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2082268580488",
+    "subtitulo": "Capítulo 50"
+  },
+  {
+    "numero": "Capítulo 51",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor51CapZHloYmNuZDgwZWF0.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2082355677832",
+    "subtitulo": "Capítulo 51"
+  },
+  {
+    "numero": "Capítulo 52",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor52CapanVvNHFja2FuOWxs.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2082355612296",
+    "subtitulo": "Capítulo 52"
+  },
+  {
+    "numero": "Capítulo 53",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor53CapNjZhMmFlbmQ1aXU0.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2082356136584",
+    "subtitulo": "Capítulo 53"
+  },
+  {
+    "numero": "Capítulo 54",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor54CapaTdycGhzbW5iOTJh.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2082356202120",
+    "subtitulo": "Capítulo 54"
+  },
+  {
+    "numero": "Capítulo 55",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor55Capa3lyN3M1ZTFmamJr.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2082356660872",
+    "subtitulo": "Capítulo 55"
+  },
+  {
+    "numero": "Capítulo 56",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor56CapM3lzbTg0aG40cmJq.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2082356595336",
+    "subtitulo": "Capítulo 56"
+  },
+  {
+    "numero": "Capítulo 57",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor57CapYzl5czk0c2Izdzdl.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2082357381768",
+    "subtitulo": "Capítulo 57"
+  },
+  {
+    "numero": "Capítulo 58",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor58CapdzE3NXVmNGR6Ynlo.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2082357447304",
+    "subtitulo": "Capítulo 58"
+  },
+  {
+    "numero": "Capítulo 59",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor59CapMXEwbXhlZDg4enRx.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2082357840520",
+    "subtitulo": "Capítulo 59"
+  },
+  {
+    "numero": "Capítulo 60",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor60CapOHUzeGVhNzhtbTly.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2082357774984",
+    "subtitulo": "Capítulo 60"
+  },
+  {
+    "numero": "Capítulo 61",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor61CapZW1xazNxeHA5eXJ6.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2082560608904",
+    "subtitulo": "Capítulo 61"
+  },
+  {
+    "numero": "Capítulo 62",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor62CapY2s0bWRrMzlnbGFw.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2082560543368",
+    "subtitulo": "Capítulo 62"
+  },
+  {
+    "numero": "Capítulo 63",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor63CapY2dpY3JxeXFjMHVy.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2082568931976",
+    "subtitulo": "Capítulo 63"
+  },
+  {
+    "numero": "Capítulo 64",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor64CapeG83NXpsNHZlcjdt.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2082568997512",
+    "subtitulo": "Capítulo 64"
+  },
+  {
+    "numero": "Capítulo 65",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor65CapY3lyOHJncGxibW40.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2082581973640",
+    "subtitulo": "Capítulo 65"
+  },
+  {
+    "numero": "Capítulo 66",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor66CapOWw5eWtqN3l1c240.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2082833894024",
+    "subtitulo": "Capítulo 66"
+  },
+  {
+    "numero": "Capítulo 67",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor67CapaThoMHFlcGJucWw4.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2082834418312",
+    "subtitulo": "Capítulo 67"
+  },
+  {
+    "numero": "Capítulo 68",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor68CapdGRldTJtdWY1Ymg5.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2082834352776",
+    "subtitulo": "Capítulo 68"
+  },
+  {
+    "numero": "Capítulo 69",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor69CapZjF4MHYyNm5lNDh2.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2082839726728",
+    "subtitulo": "Capítulo 69"
+  },
+  {
+    "numero": "Capítulo 70",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor70CapMHM0b2FjcDNib2J5.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2082839792264",
+    "subtitulo": "Capítulo 70"
+  },
+  {
+    "numero": "Capítulo 71",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor71CapdTRpM2FwMjk1OG5k.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2084124625544",
+    "subtitulo": "Capítulo 71"
+  },
+  {
+    "numero": "Capítulo 72",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor72CapY3pkeHpkNWV5b2ox.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2084124756616",
+    "subtitulo": "Capítulo 72"
+  },
+  {
+    "numero": "Capítulo 73",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor73CapeTl0ZzM2YmVlaG56.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2084125084296",
+    "subtitulo": "Capítulo 73"
+  },
+  {
+    "numero": "Capítulo 74",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor74CapMzRqcXQ2N3N4cWo5.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2084125346440",
+    "subtitulo": "Capítulo 74"
+  },
+  {
+    "numero": "Capítulo 75",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor75CapbW1ueThiYWViZXI4.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2084125608584",
+    "subtitulo": "Capítulo 75"
+  },
+  {
+    "numero": "Capítulo 76",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor76CapMTNidTd0YjA3enQ3.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2084183149192",
+    "subtitulo": "Capítulo 76"
+  },
+  {
+    "numero": "Capítulo 77",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor77CapcDA4Z3ZpdWhlbmI4.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2084183083656",
+    "subtitulo": "Capítulo 77"
+  },
+  {
+    "numero": "Capítulo 78",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor78CapZmIyOG5kdXFubHN2.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2084191472264",
+    "subtitulo": "Capítulo 78"
+  },
+  {
+    "numero": "Capítulo 79",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor79CapMm42OHVuaTA5bHhx.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2084192193160",
+    "subtitulo": "Capítulo 79"
+  },
+  {
+    "numero": "Capítulo 80",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor80CapemF3N2JrZ3U1bmR5.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2084192782984",
+    "subtitulo": "Capítulo 80"
+  },
+  {
+    "numero": "Capítulo 81",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor81CapOGFwOW1rYzVubDQ4.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2084727753352",
+    "subtitulo": "Capítulo 81"
+  },
+  {
+    "numero": "Capítulo 82",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor82CapcXJsMjQ5dXhseGk1.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2084727687816",
+    "subtitulo": "Capítulo 82"
+  },
+  {
+    "numero": "Capítulo 83",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor83CapZ2pjN2ExMHQ4c2xs.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2084807379592",
+    "subtitulo": "Capítulo 83"
+  },
+  {
+    "numero": "Capítulo 84",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor84CapdXZmZ2JpNnY0dGJ6.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2084807576200",
+    "subtitulo": "Capítulo 84"
+  },
+  {
+    "numero": "Capítulo 85",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor85CapNDJ5amtxYmN2dW0x.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2084808034952",
+    "subtitulo": "Capítulo 85"
+  },
+  {
+    "numero": "Capítulo 86",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor86CapY3c4NzlyNzZqM3Rr.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2084828088968",
+    "subtitulo": "Capítulo 86"
+  },
+  {
+    "numero": "Capítulo 87",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor87Capb3ZwMDZ5ZXg5Y3Rx.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2084828416648",
+    "subtitulo": "Capítulo 87"
+  },
+  {
+    "numero": "Capítulo 88",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor88CapMnF3Z3h0aHZ0YXR1.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2084828744328",
+    "subtitulo": "Capítulo 88"
+  },
+  {
+    "numero": "Capítulo 89",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor89CapdjFvczFxN2hyazc0.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2084829072008",
+    "subtitulo": "Capítulo 89"
+  },
+  {
+    "numero": "Capítulo 90",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor90CapNDdnam1zbm5wczlp.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2084829661832",
+    "subtitulo": "Capítulo 90"
+  },
+  {
+    "numero": "Capítulo 91",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor91CapNDdnam1zbm5wczlp.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2084955622024",
+    "subtitulo": "Capítulo 91"
+  },
+  {
+    "numero": "Capítulo 92",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor92CapNDdnam1zbm5wczlp.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2084955490952",
+    "subtitulo": "Capítulo 92"
+  },
+  {
+    "numero": "Capítulo 93",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor93CapNDdnam1zbm5wczlp.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2084955359880",
+    "subtitulo": "Capítulo 93"
+  },
+  {
+    "numero": "Capítulo 94",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor94CapNDdnam1zbm5wczlp.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2084955687560",
+    "subtitulo": "Capítulo 94"
+  },
+  {
+    "numero": "Capítulo 95",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elpreciodetuamor/elpreciodetuamor95CapNDdnam1zbm5wczlp.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2084955556488",
+    "subtitulo": "Capítulo 95"
+  }
+]

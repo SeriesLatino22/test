@@ -1,0 +1,22 @@
+{
+  "id": "el_caso_wanninkhof_s1",
+  "titulo": "El Caso Wanninkhof: Una doble tragedia",
+  "subtitulo": "El Caso Wanninkhof: Una doble tragedia: Temporada 1",
+  "portada": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/el_caso_wanninkhof.webp",
+  "capitulos": [
+    {
+      "numero": "Capítulo 1",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_7vm3p7sj/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 1",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 1"
+    },
+    {
+      "numero": "Capítulo 2",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_anrgmo2w/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 2",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 2"
+    }
+  ]
+}

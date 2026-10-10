@@ -1,0 +1,974 @@
+{
+  "id": "la_mujer_perfecta_s1",
+  "titulo": "La Mujer Perfecta",
+  "subtitulo": "La Mujer Perfecta: Temporada 1",
+  "portada": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/la_mujer_perfecta.webp",
+  "capitulos": [
+    {
+      "numero": "Capítulo 1",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_pfli8bqh/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 01",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 1"
+    },
+    {
+      "numero": "Capítulo 2",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_9j92qdbf/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 02",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 2"
+    },
+    {
+      "numero": "Capítulo 3",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_1075842u/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 03",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 3"
+    },
+    {
+      "numero": "Capítulo 4",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_ncxdgoom/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 04",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 4"
+    },
+    {
+      "numero": "Capítulo 5",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_x499iw1m/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 05",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 5"
+    },
+    {
+      "numero": "Capítulo 6",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_35qlpt5i/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 06",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 6"
+    },
+    {
+      "numero": "Capítulo 7",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_psdcmxt2/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 07",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 7"
+    },
+    {
+      "numero": "Capítulo 8",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_8b0q5d82/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 08",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 8"
+    },
+    {
+      "numero": "Capítulo 9",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_pa945pi3/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 09",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 9"
+    },
+    {
+      "numero": "Capítulo 10",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_ohoawt4j/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 10",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 10"
+    },
+    {
+      "numero": "Capítulo 11",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_rxhatobc/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 11",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 11"
+    },
+    {
+      "numero": "Capítulo 12",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_mvbgnjts/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 12",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 12"
+    },
+    {
+      "numero": "Capítulo 13",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_xr4t2fuk/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 13",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 13"
+    },
+    {
+      "numero": "Capítulo 14",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_5l4apaur/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 14",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 14"
+    },
+    {
+      "numero": "Capítulo 15",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_fln7oueu/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 15",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 15"
+    },
+    {
+      "numero": "Capítulo 16",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_tfalsxlu/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 16",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 16"
+    },
+    {
+      "numero": "Capítulo 17",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_7ptgcf8x/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 17",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 17"
+    },
+    {
+      "numero": "Capítulo 18",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_c0eo8t32/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 18",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 18"
+    },
+    {
+      "numero": "Capítulo 19",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_ptcgrru8/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 20",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 19"
+    },
+    {
+      "numero": "Capítulo 20",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_8ifp6r22/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 21",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 20"
+    },
+    {
+      "numero": "Capítulo 21",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_0d5v7ueu/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 22",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 21"
+    },
+    {
+      "numero": "Capítulo 22",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_d7cscx4d/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 23",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 22"
+    },
+    {
+      "numero": "Capítulo 23",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_gu7lfean/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 24",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 23"
+    },
+    {
+      "numero": "Capítulo 24",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_l9dnoqnm/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 25",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 24"
+    },
+    {
+      "numero": "Capítulo 25",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_5n1awm1r/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 26",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 25"
+    },
+    {
+      "numero": "Capítulo 26",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_b5kh4836/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 27",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 26"
+    },
+    {
+      "numero": "Capítulo 27",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_9y0uatko/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 28",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 27"
+    },
+    {
+      "numero": "Capítulo 28",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_3zt92lcb/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 29",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 28"
+    },
+    {
+      "numero": "Capítulo 29",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_n8koxjwt/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 30",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 29"
+    },
+    {
+      "numero": "Capítulo 30",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_v2w4z4g3/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 31",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 30"
+    },
+    {
+      "numero": "Capítulo 31",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_dbvfbowi/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 32",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 31"
+    },
+    {
+      "numero": "Capítulo 32",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_g3iubiau/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 33",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 32"
+    },
+    {
+      "numero": "Capítulo 33",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_h42a6r2c/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 34",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 33"
+    },
+    {
+      "numero": "Capítulo 34",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_ph8zf6qd/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 35",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 34"
+    },
+    {
+      "numero": "Capítulo 35",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_mplcfw3y/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 36",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 35"
+    },
+    {
+      "numero": "Capítulo 36",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_iun5w0nu/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 37",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 36"
+    },
+    {
+      "numero": "Capítulo 37",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_e5ihxej8/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 38",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 37"
+    },
+    {
+      "numero": "Capítulo 38",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_ltdpvtos/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 39",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 38"
+    },
+    {
+      "numero": "Capítulo 39",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_ylr0s4mx/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 40",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 39"
+    },
+    {
+      "numero": "Capítulo 40",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_apmodh09/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 41",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 40"
+    },
+    {
+      "numero": "Capítulo 41",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_k08spe7c/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 42",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 41"
+    },
+    {
+      "numero": "Capítulo 42",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_wboiw707/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 43",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 42"
+    },
+    {
+      "numero": "Capítulo 43",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_dnt7xkkg/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 44",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 43"
+    },
+    {
+      "numero": "Capítulo 44",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_6rdm56mk/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 45",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 44"
+    },
+    {
+      "numero": "Capítulo 45",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_wbbnqqvc/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 46",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 45"
+    },
+    {
+      "numero": "Capítulo 46",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_cu8skp68/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 47",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 46"
+    },
+    {
+      "numero": "Capítulo 47",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_bt3g3s4r/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 48",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 47"
+    },
+    {
+      "numero": "Capítulo 48",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_6ddnczel/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 49",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 48"
+    },
+    {
+      "numero": "Capítulo 49",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_jnesza4o/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 50",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 49"
+    },
+    {
+      "numero": "Capítulo 50",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_jrbcau7q/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 51",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 50"
+    },
+    {
+      "numero": "Capítulo 51",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_g3vgsh8o/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 52",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 51"
+    },
+    {
+      "numero": "Capítulo 52",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_cpfb5bhv/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 53",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 52"
+    },
+    {
+      "numero": "Capítulo 53",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_qs7tp9gs/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 54",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 53"
+    },
+    {
+      "numero": "Capítulo 54",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_583wv7o9/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 55",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 54"
+    },
+    {
+      "numero": "Capítulo 55",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_2l8oyx94/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 56",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 55"
+    },
+    {
+      "numero": "Capítulo 56",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_m4vlv8s2/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 57",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 56"
+    },
+    {
+      "numero": "Capítulo 57",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_pq1nw5ck/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 58",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 57"
+    },
+    {
+      "numero": "Capítulo 58",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_7aia0hah/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 59",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 58"
+    },
+    {
+      "numero": "Capítulo 59",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_esc740sb/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 60",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 59"
+    },
+    {
+      "numero": "Capítulo 60",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_lnslp53b/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 61",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 60"
+    },
+    {
+      "numero": "Capítulo 61",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_fykzd0ar/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 62",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 61"
+    },
+    {
+      "numero": "Capítulo 62",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_2sysr7mt/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 63",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 62"
+    },
+    {
+      "numero": "Capítulo 63",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_ox2zyb8p/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 64",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 63"
+    },
+    {
+      "numero": "Capítulo 64",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_53yfizht/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 65",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 64"
+    },
+    {
+      "numero": "Capítulo 65",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_b8nb7a8m/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 66",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 65"
+    },
+    {
+      "numero": "Capítulo 66",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_qe697cr2/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 67",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 66"
+    },
+    {
+      "numero": "Capítulo 67",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_1tm4hb4n/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 68",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 67"
+    },
+    {
+      "numero": "Capítulo 68",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_73h56clo/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 69",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 68"
+    },
+    {
+      "numero": "Capítulo 69",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_4gvdua3m/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 70",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 69"
+    },
+    {
+      "numero": "Capítulo 70",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_kg7mnhzz/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 71",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 70"
+    },
+    {
+      "numero": "Capítulo 71",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_tf0ub4c0/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 72",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 71"
+    },
+    {
+      "numero": "Capítulo 72",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_dqiqvz5g/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 73",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 72"
+    },
+    {
+      "numero": "Capítulo 73",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_woa3bxla/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 74",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 73"
+    },
+    {
+      "numero": "Capítulo 74",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_m9umzuy8/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 75",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 74"
+    },
+    {
+      "numero": "Capítulo 75",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_9jrsx8pe/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 76",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 75"
+    },
+    {
+      "numero": "Capítulo 76",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_m0t10585/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 77",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 76"
+    },
+    {
+      "numero": "Capítulo 77",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_dofn2l0s/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 78",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 77"
+    },
+    {
+      "numero": "Capítulo 78",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_i231f2a4/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 79",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 78"
+    },
+    {
+      "numero": "Capítulo 79",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_6iiyoqub/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 80",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 79"
+    },
+    {
+      "numero": "Capítulo 80",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_598404ho/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 81",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 80"
+    },
+    {
+      "numero": "Capítulo 81",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_2zphs7sl/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 82",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 81"
+    },
+    {
+      "numero": "Capítulo 82",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_dhicyofw/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 83",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 82"
+    },
+    {
+      "numero": "Capítulo 83",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_jmd73dn7/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 84",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 83"
+    },
+    {
+      "numero": "Capítulo 84",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_kdz2olsm/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 85",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 84"
+    },
+    {
+      "numero": "Capítulo 85",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_kykhqjzd/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 86",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 85"
+    },
+    {
+      "numero": "Capítulo 86",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_fpe0kdmc/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 87",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 86"
+    },
+    {
+      "numero": "Capítulo 87",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_jltw8ky8/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 88",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 87"
+    },
+    {
+      "numero": "Capítulo 88",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_m3c6qmv4/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 89",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 88"
+    },
+    {
+      "numero": "Capítulo 89",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_rgzn8erh/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 90",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 89"
+    },
+    {
+      "numero": "Capítulo 90",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_g16gy8tc/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 91",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 90"
+    },
+    {
+      "numero": "Capítulo 91",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_wnfucnup/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 92",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 91"
+    },
+    {
+      "numero": "Capítulo 92",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_tk35h220/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 93",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 92"
+    },
+    {
+      "numero": "Capítulo 93",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_b5kswawt/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 94",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 93"
+    },
+    {
+      "numero": "Capítulo 94",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_835gxvik/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 95",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 94"
+    },
+    {
+      "numero": "Capítulo 95",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_hkbajla1/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 96",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 95"
+    },
+    {
+      "numero": "Capítulo 96",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_yuikcn4n/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 97",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 96"
+    },
+    {
+      "numero": "Capítulo 97",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_6yycbqup/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 98",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 97"
+    },
+    {
+      "numero": "Capítulo 98",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_degv7aca/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 99",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 98"
+    },
+    {
+      "numero": "Capítulo 99",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_a7semooz/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 100",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 99"
+    },
+    {
+      "numero": "Capítulo 100",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_1ddq721z/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 101",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 100"
+    },
+    {
+      "numero": "Capítulo 101",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_5qyuvzrh/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 102",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 101"
+    },
+    {
+      "numero": "Capítulo 102",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_avxegqat/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 103",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 102"
+    },
+    {
+      "numero": "Capítulo 103",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_gw198l35/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 104",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 103"
+    },
+    {
+      "numero": "Capítulo 104",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_es829y8m/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 105",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 104"
+    },
+    {
+      "numero": "Capítulo 105",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_v729v70t/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 106",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 105"
+    },
+    {
+      "numero": "Capítulo 106",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_1vs9vkg5/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 107",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 106"
+    },
+    {
+      "numero": "Capítulo 107",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_4s2chj6f/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 108",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 107"
+    },
+    {
+      "numero": "Capítulo 108",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_1vmmd65y/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 109",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 108"
+    },
+    {
+      "numero": "Capítulo 109",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_drp86bu5/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 110",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 109"
+    },
+    {
+      "numero": "Capítulo 110",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_79n9b5gj/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 111",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 110"
+    },
+    {
+      "numero": "Capítulo 111",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_pvjbx9if/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 112",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 111"
+    },
+    {
+      "numero": "Capítulo 112",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_gkpwkm4z/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 113",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 112"
+    },
+    {
+      "numero": "Capítulo 113",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_8f786krg/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 114",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 113"
+    },
+    {
+      "numero": "Capítulo 114",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_tj2dozzt/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 115",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 114"
+    },
+    {
+      "numero": "Capítulo 115",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_lfjk8qug/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 116",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 115"
+    },
+    {
+      "numero": "Capítulo 116",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_0iip4jn9/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 117",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 116"
+    },
+    {
+      "numero": "Capítulo 117",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_xlocdsq2/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 118",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 117"
+    },
+    {
+      "numero": "Capítulo 118",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_bibv7am8/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 119",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 118"
+    },
+    {
+      "numero": "Capítulo 119",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_akxb49jm/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 120",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 119"
+    },
+    {
+      "numero": "Capítulo 120",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_pc9oq1f9/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 121",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 120"
+    },
+    {
+      "numero": "Capítulo 121",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_0pbyn7qd/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 122",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 121"
+    },
+    {
+      "numero": "Capítulo 122",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_v1xkkswu/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 123",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 122"
+    },
+    {
+      "numero": "Capítulo 123",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_hpx3r89b/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 124",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 123"
+    },
+    {
+      "numero": "Capítulo 124",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_ntlwf9ji/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 125",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 124"
+    },
+    {
+      "numero": "Capítulo 125",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_8c4mqiq2/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 126",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 125"
+    },
+    {
+      "numero": "Capítulo 126",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_9dhc1c6h/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 127",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 126"
+    },
+    {
+      "numero": "Capítulo 127",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_fq2kl7yc/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 128",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 127"
+    },
+    {
+      "numero": "Capítulo 128",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_ri48co00/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 129",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 128"
+    },
+    {
+      "numero": "Capítulo 129",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_b0y2r479/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 130",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 129"
+    },
+    {
+      "numero": "Capítulo 130",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_qkfvvsxc/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 131",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 130"
+    },
+    {
+      "numero": "Capítulo 131",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_dkp76pvf/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 132",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 131"
+    },
+    {
+      "numero": "Capítulo 132",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_mt3hfu9r/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 133",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 132"
+    },
+    {
+      "numero": "Capítulo 133",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_s4oisody/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 134",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 133"
+    },
+    {
+      "numero": "Capítulo 134",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_tqko2smt/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 135",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 134"
+    },
+    {
+      "numero": "Capítulo 135",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_hu3pgge3/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 136",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 135"
+    },
+    {
+      "numero": "Capítulo 136",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_zpbnjw3b/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 137",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 136"
+    },
+    {
+      "numero": "Capítulo 137",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_2gaeibm2/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 138",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 137"
+    },
+    {
+      "numero": "Capítulo 138",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_qjonr2up/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 139",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 138"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "id": "la_gran_batalla_de_los_tanques_s1",
+  "titulo": "La Gran Batalla de los Tanques",
+  "subtitulo": "La Gran Batalla de los Tanques: Temporada 1",
+  "portada": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/la_gran_batalla_de_los_tanques.webp",
+  "capitulos": [
+    {
+      "numero": "Capítulo 1",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_zdejx9sz/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "La batalla de 73 Easting",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 1"
+    },
+    {
+      "numero": "Capítulo 2",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_1ygwyvo7/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "La Guerra de Octubre: La batalla por los Altos del Golán",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 2"
+    },
+    {
+      "numero": "Capítulo 3",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_0ob1lw0o/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "La batalla de El Alamein",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 3"
+    },
+    {
+      "numero": "Capítulo 4",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_w73g9c75/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "La batalla de las Ardenas: La avanzada hacia Bastogne",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 4"
+    },
+    {
+      "numero": "Capítulo 5",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_m0ehgxe5/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "La brecha de Hochwald",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 5"
+    },
+    {
+      "numero": "Capítulo 6",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_o3gca1t7/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "La batalla de las Ardenas: El ataque de los panzers",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 6"
+    },
+    {
+      "numero": "Capítulo 7",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_99debsor/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "La batalla de Normandía",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 7"
+    },
+    {
+      "numero": "Capítulo 8",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_liclue7t/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "La batalla de Arracourt",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 8"
+    },
+    {
+      "numero": "Capítulo 9",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_haiamcf1/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "La batalla de Kursk: Frente Norte",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 9"
+    },
+    {
+      "numero": "Capítulo 10",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_cqwnyuaa/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "La batalla de Kursk: Frente Sur",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 10"
+    },
+    {
+      "numero": "Capítulo 11",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_opu14eta/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Batallas de tanques en la Gran Guerra",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 11"
+    },
+    {
+      "numero": "Capítulo 12",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_ebvngvzu/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Batallas de tanques en Corea",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 12"
+    },
+    {
+      "numero": "Capítulo 13",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_ubmuxecr/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "La batalla de Francia",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 13"
+    },
+    {
+      "numero": "Capítulo 14",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_5ynqg08i/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "La Guerra de los Seis Días: La batalla por el Sinaí",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 14"
+    },
+    {
+      "numero": "Capítulo 15",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_kd1htf55/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "La batalla por el Báltico",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 15"
+    },
+    {
+      "numero": "Capítulo 16",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_j46d8gug/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "La batalla de Stalingrado",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 16"
+    },
+    {
+      "numero": "Capítulo 17",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_2tjduy9a/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "As de tanques: Ludwig Bauer",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 17"
+    },
+    {
+      "numero": "Capítulo 18",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_4nxg2sr6/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "La Guerra de Octubre: La batalla por el Sinaí",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 18"
+    },
+    {
+      "numero": "Capítulo 19",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_1ixi9yfj/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "La batalla de Túnez",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 19"
+    },
+    {
+      "numero": "Capítulo 20",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_d11s744u/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Batallas de tanques en Italia",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 20"
+    }
+  ]
+}

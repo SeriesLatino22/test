@@ -1,428 +1,422 @@
-{
-  "id": "entre_sombras_s1",
-  "titulo": "Entre sombras",
-  "subtitulo": "Entre sombras: Temporada 1",
-  "portada": "",
-  "capitulos": [
-    {
-      "numero": "Capítulo 1",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras01.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras01.mp4",
-      "subtitulo": "Capítulo 1"
-    },
-    {
-      "numero": "Capítulo 2",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras02.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras02.mp4",
-      "subtitulo": "Capítulo 2"
-    },
-    {
-      "numero": "Capítulo 3",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras03.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras03.mp4",
-      "subtitulo": "Capítulo 3"
-    },
-    {
-      "numero": "Capítulo 4",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras04.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras04.mp4",
-      "subtitulo": "Capítulo 4"
-    },
-    {
-      "numero": "Capítulo 5",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras05.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras05.mp4",
-      "subtitulo": "Capítulo 5"
-    },
-    {
-      "numero": "Capítulo 6",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras06.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras06.mp4",
-      "subtitulo": "Capítulo 6"
-    },
-    {
-      "numero": "Capítulo 7",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras07.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras07.mp4",
-      "subtitulo": "Capítulo 7"
-    },
-    {
-      "numero": "Capítulo 8",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras08.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras08.mp4",
-      "subtitulo": "Capítulo 8"
-    },
-    {
-      "numero": "Capítulo 9",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras09.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras09.mp4",
-      "subtitulo": "Capítulo 9"
-    },
-    {
-      "numero": "Capítulo 10",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras10.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras10.mp4",
-      "subtitulo": "Capítulo 10"
-    },
-    {
-      "numero": "Capítulo 11",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras11.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras11.mp4",
-      "subtitulo": "Capítulo 11"
-    },
-    {
-      "numero": "Capítulo 12",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras12.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras12.mp4",
-      "subtitulo": "Capítulo 12"
-    },
-    {
-      "numero": "Capítulo 13",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras13.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras13.mp4",
-      "subtitulo": "Capítulo 13"
-    },
-    {
-      "numero": "Capítulo 14",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras14.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras14.mp4",
-      "subtitulo": "Capítulo 14"
-    },
-    {
-      "numero": "Capítulo 15",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras15.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras15.mp4",
-      "subtitulo": "Capítulo 15"
-    },
-    {
-      "numero": "Capítulo 16",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras16.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras16.mp4",
-      "subtitulo": "Capítulo 16"
-    },
-    {
-      "numero": "Capítulo 17",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras17.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras17.mp4",
-      "subtitulo": "Capítulo 17"
-    },
-    {
-      "numero": "Capítulo 18",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras18.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras18.mp4",
-      "subtitulo": "Capítulo 18"
-    },
-    {
-      "numero": "Capítulo 19",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras19.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras19.mp4",
-      "subtitulo": "Capítulo 19"
-    },
-    {
-      "numero": "Capítulo 20",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras20.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras20.mp4",
-      "subtitulo": "Capítulo 20"
-    },
-    {
-      "numero": "Capítulo 21",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras21.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras21.mp4",
-      "subtitulo": "Capítulo 21"
-    },
-    {
-      "numero": "Capítulo 22",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras22.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras22.mp4",
-      "subtitulo": "Capítulo 22"
-    },
-    {
-      "numero": "Capítulo 23",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras23.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras23.mp4",
-      "subtitulo": "Capítulo 23"
-    },
-    {
-      "numero": "Capítulo 24",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras24.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras24.mp4",
-      "subtitulo": "Capítulo 24"
-    },
-    {
-      "numero": "Capítulo 25",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras25.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras25.mp4",
-      "subtitulo": "Capítulo 25"
-    },
-    {
-      "numero": "Capítulo 26",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras26.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras26.mp4",
-      "subtitulo": "Capítulo 26"
-    },
-    {
-      "numero": "Capítulo 27",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras27.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras27.mp4",
-      "subtitulo": "Capítulo 27"
-    },
-    {
-      "numero": "Capítulo 28",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras28.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras28.mp4",
-      "subtitulo": "Capítulo 28"
-    },
-    {
-      "numero": "Capítulo 29",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras29.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras29.mp4",
-      "subtitulo": "Capítulo 29"
-    },
-    {
-      "numero": "Capítulo 30",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras30.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras30.mp4",
-      "subtitulo": "Capítulo 30"
-    },
-    {
-      "numero": "Capítulo 31",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras31.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras31.mp4",
-      "subtitulo": "Capítulo 31"
-    },
-    {
-      "numero": "Capítulo 32",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras32.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras32.mp4",
-      "subtitulo": "Capítulo 32"
-    },
-    {
-      "numero": "Capítulo 33",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras33.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras33.mp4",
-      "subtitulo": "Capítulo 33"
-    },
-    {
-      "numero": "Capítulo 34",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras34.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras34.mp4",
-      "subtitulo": "Capítulo 34"
-    },
-    {
-      "numero": "Capítulo 35",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras35.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras35.mp4",
-      "subtitulo": "Capítulo 35"
-    },
-    {
-      "numero": "Capítulo 36",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras36.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras36.mp4",
-      "subtitulo": "Capítulo 36"
-    },
-    {
-      "numero": "Capítulo 37",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras37.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras37.mp4",
-      "subtitulo": "Capítulo 37"
-    },
-    {
-      "numero": "Capítulo 38",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras38.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras38.mp4",
-      "subtitulo": "Capítulo 38"
-    },
-    {
-      "numero": "Capítulo 39",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras39.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras39.mp4",
-      "subtitulo": "Capítulo 39"
-    },
-    {
-      "numero": "Capítulo 40",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras40.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras40.mp4",
-      "subtitulo": "Capítulo 40"
-    },
-    {
-      "numero": "Capítulo 41",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras41.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras41.mp4",
-      "subtitulo": "Capítulo 41"
-    },
-    {
-      "numero": "Capítulo 42",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras42.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras42.mp4",
-      "subtitulo": "Capítulo 42"
-    },
-    {
-      "numero": "Capítulo 43",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras43.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras43.mp4",
-      "subtitulo": "Capítulo 43"
-    },
-    {
-      "numero": "Capítulo 44",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras44.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras44.mp4",
-      "subtitulo": "Capítulo 44"
-    },
-    {
-      "numero": "Capítulo 45",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras45.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras45.mp4",
-      "subtitulo": "Capítulo 45"
-    },
-    {
-      "numero": "Capítulo 46",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras46.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras46.mp4",
-      "subtitulo": "Capítulo 46"
-    },
-    {
-      "numero": "Capítulo 47",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras47.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras47.mp4",
-      "subtitulo": "Capítulo 47"
-    },
-    {
-      "numero": "Capítulo 48",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras48.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras48.mp4",
-      "subtitulo": "Capítulo 48"
-    },
-    {
-      "numero": "Capítulo 49",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras49.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras49.mp4",
-      "subtitulo": "Capítulo 49"
-    },
-    {
-      "numero": "Capítulo 50",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras50.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras50.mp4",
-      "subtitulo": "Capítulo 50"
-    },
-    {
-      "numero": "Capítulo 51",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras51.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras51.mp4",
-      "subtitulo": "Capítulo 51"
-    },
-    {
-      "numero": "Capítulo 52",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras52.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras52.mp4",
-      "subtitulo": "Capítulo 52"
-    },
-    {
-      "numero": "Capítulo 53",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras53.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras53.mp4",
-      "subtitulo": "Capítulo 53"
-    },
-    {
-      "numero": "Capítulo 54",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras54.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras54.mp4",
-      "subtitulo": "Capítulo 54"
-    },
-    {
-      "numero": "Capítulo 55",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras55.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras55.mp4",
-      "subtitulo": "Capítulo 55"
-    },
-    {
-      "numero": "Capítulo 56",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras56.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras56.mp4",
-      "subtitulo": "Capítulo 56"
-    },
-    {
-      "numero": "Capítulo 57",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras57.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras57.mp4",
-      "subtitulo": "Capítulo 57"
-    },
-    {
-      "numero": "Capítulo 58",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras58.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras58.mp4",
-      "subtitulo": "Capítulo 58"
-    },
-    {
-      "numero": "Capítulo 59",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras59.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras59.mp4",
-      "subtitulo": "Capítulo 59"
-    },
-    {
-      "numero": "Capítulo 60",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras60.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras60.mp4",
-      "subtitulo": "Capítulo 60"
-    }
-  ]
-}
+[
+  {
+    "numero": "Capítulo 1",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras01.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/4564353747596",
+    "subtitulo": "Capítulo 1"
+  },
+  {
+    "numero": "Capítulo 2",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras02.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/4564371245708",
+    "subtitulo": "Capítulo 2"
+  },
+  {
+    "numero": "Capítulo 3",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras03.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/4564386646668",
+    "subtitulo": "Capítulo 3"
+  },
+  {
+    "numero": "Capítulo 4",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras04.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/4564406176396",
+    "subtitulo": "Capítulo 4"
+  },
+  {
+    "numero": "Capítulo 5",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras05.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/4564414761612",
+    "subtitulo": "Capítulo 5"
+  },
+  {
+    "numero": "Capítulo 6",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras06.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/4564422429324",
+    "subtitulo": "Capítulo 6"
+  },
+  {
+    "numero": "Capítulo 7",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras07.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/4564423412364",
+    "subtitulo": "Capítulo 7"
+  },
+  {
+    "numero": "Capítulo 8",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras08.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/4564423477900",
+    "subtitulo": "Capítulo 8"
+  },
+  {
+    "numero": "Capítulo 9",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras09.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/4564423608972",
+    "subtitulo": "Capítulo 9"
+  },
+  {
+    "numero": "Capítulo 10",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras10.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/4564353682060",
+    "subtitulo": "Capítulo 10"
+  },
+  {
+    "numero": "Capítulo 11",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras11.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/4564353616524",
+    "subtitulo": "Capítulo 11"
+  },
+  {
+    "numero": "Capítulo 12",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras12.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/4564353944204",
+    "subtitulo": "Capítulo 12"
+  },
+  {
+    "numero": "Capítulo 13",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras13.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/4564354009740",
+    "subtitulo": "Capítulo 13"
+  },
+  {
+    "numero": "Capítulo 14",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras14.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/4564354075276",
+    "subtitulo": "Capítulo 14"
+  },
+  {
+    "numero": "Capítulo 15",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras15.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/4564353878668",
+    "subtitulo": "Capítulo 15"
+  },
+  {
+    "numero": "Capítulo 16",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras16.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/4564353813132",
+    "subtitulo": "Capítulo 16"
+  },
+  {
+    "numero": "Capítulo 17",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras17.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/4564370000524",
+    "subtitulo": "Capítulo 17"
+  },
+  {
+    "numero": "Capítulo 18",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras18.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/4564370459276",
+    "subtitulo": "Capítulo 18"
+  },
+  {
+    "numero": "Capítulo 19",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras19.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/4564371180172",
+    "subtitulo": "Capítulo 19"
+  },
+  {
+    "numero": "Capítulo 20",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras20.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/4564372228748",
+    "subtitulo": "Capítulo 20"
+  },
+  {
+    "numero": "Capítulo 21",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras21.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/4564372359820",
+    "subtitulo": "Capítulo 21"
+  },
+  {
+    "numero": "Capítulo 22",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras22.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/4564373473932",
+    "subtitulo": "Capítulo 22"
+  },
+  {
+    "numero": "Capítulo 23",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras23.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/4564374522508",
+    "subtitulo": "Capítulo 23"
+  },
+  {
+    "numero": "Capítulo 24",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras24.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/4564376226444",
+    "subtitulo": "Capítulo 24"
+  },
+  {
+    "numero": "Capítulo 25",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras25.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/4564376488588",
+    "subtitulo": "Capítulo 25"
+  },
+  {
+    "numero": "Capítulo 26",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras26.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/4564377668236",
+    "subtitulo": "Capítulo 26"
+  },
+  {
+    "numero": "Capítulo 27",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras27.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/4564378651276",
+    "subtitulo": "Capítulo 27"
+  },
+  {
+    "numero": "Capítulo 28",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras28.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/4564378847884",
+    "subtitulo": "Capítulo 28"
+  },
+  {
+    "numero": "Capítulo 29",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras29.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/4564379699852",
+    "subtitulo": "Capítulo 29"
+  },
+  {
+    "numero": "Capítulo 30",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras30.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/4564387236492",
+    "subtitulo": "Capítulo 30"
+  },
+  {
+    "numero": "Capítulo 31",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras31.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/4564389595788",
+    "subtitulo": "Capítulo 31"
+  },
+  {
+    "numero": "Capítulo 32",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras32.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/4564390906508",
+    "subtitulo": "Capítulo 32"
+  },
+  {
+    "numero": "Capítulo 33",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras33.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/4564392938124",
+    "subtitulo": "Capítulo 33"
+  },
+  {
+    "numero": "Capítulo 34",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras34.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/4564393986700",
+    "subtitulo": "Capítulo 34"
+  },
+  {
+    "numero": "Capítulo 35",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras35.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/4564396542604",
+    "subtitulo": "Capítulo 35"
+  },
+  {
+    "numero": "Capítulo 36",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras36.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/4564396935820",
+    "subtitulo": "Capítulo 36"
+  },
+  {
+    "numero": "Capítulo 37",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras37.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/4564400736908",
+    "subtitulo": "Capítulo 37"
+  },
+  {
+    "numero": "Capítulo 38",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras38.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/4564403096204",
+    "subtitulo": "Capítulo 38"
+  },
+  {
+    "numero": "Capítulo 39",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras39.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/4564405717644",
+    "subtitulo": "Capítulo 39"
+  },
+  {
+    "numero": "Capítulo 40",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras40.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/4564407749260",
+    "subtitulo": "Capítulo 40"
+  },
+  {
+    "numero": "Capítulo 41",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras41.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/4564407880332",
+    "subtitulo": "Capítulo 41"
+  },
+  {
+    "numero": "Capítulo 42",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras42.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/4564409191052",
+    "subtitulo": "Capítulo 42"
+  },
+  {
+    "numero": "Capítulo 43",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras43.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/4564409387660",
+    "subtitulo": "Capítulo 43"
+  },
+  {
+    "numero": "Capítulo 44",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras44.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/4564410632844",
+    "subtitulo": "Capítulo 44"
+  },
+  {
+    "numero": "Capítulo 45",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras45.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/4564411746956",
+    "subtitulo": "Capítulo 45"
+  },
+  {
+    "numero": "Capítulo 46",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras46.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/4564412336780",
+    "subtitulo": "Capítulo 46"
+  },
+  {
+    "numero": "Capítulo 47",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras47.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/4564413450892",
+    "subtitulo": "Capítulo 47"
+  },
+  {
+    "numero": "Capítulo 48",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras48.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/4564413581964",
+    "subtitulo": "Capítulo 48"
+  },
+  {
+    "numero": "Capítulo 49",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras49.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/4564414368396",
+    "subtitulo": "Capítulo 49"
+  },
+  {
+    "numero": "Capítulo 50",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras50.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/4564415482508",
+    "subtitulo": "Capítulo 50"
+  },
+  {
+    "numero": "Capítulo 51",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras51.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/4564415744652",
+    "subtitulo": "Capítulo 51"
+  },
+  {
+    "numero": "Capítulo 52",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras52.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/4564415941260",
+    "subtitulo": "Capítulo 52"
+  },
+  {
+    "numero": "Capítulo 53",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras53.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/4564416334476",
+    "subtitulo": "Capítulo 53"
+  },
+  {
+    "numero": "Capítulo 54",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras54.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/4564418103948",
+    "subtitulo": "Capítulo 54"
+  },
+  {
+    "numero": "Capítulo 55",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras55.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/4564418890380",
+    "subtitulo": "Capítulo 55"
+  },
+  {
+    "numero": "Capítulo 56",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras56.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/4564419480204",
+    "subtitulo": "Capítulo 56"
+  },
+  {
+    "numero": "Capítulo 57",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras57.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/4564419807884",
+    "subtitulo": "Capítulo 57"
+  },
+  {
+    "numero": "Capítulo 58",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras58.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/4564420594316",
+    "subtitulo": "Capítulo 58"
+  },
+  {
+    "numero": "Capítulo 59",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras59.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/4564420987532",
+    "subtitulo": "Capítulo 59"
+  },
+  {
+    "numero": "Capítulo 60",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entresombras/entresombras60.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/4564423150220",
+    "subtitulo": "Capítulo 60"
+  }
+]

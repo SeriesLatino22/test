@@ -1,603 +1,597 @@
-{
-  "id": "fuego_ardiente_s1",
-  "titulo": "Fuego ardiente",
-  "subtitulo": "Fuego ardiente: Temporada 1",
-  "portada": "",
-  "capitulos": [
-    {
-      "numero": "Capítulo 1",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente1.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente1.mp4",
-      "subtitulo": "Capítulo 1"
-    },
-    {
-      "numero": "Capítulo 2",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente2.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente2.mp4",
-      "subtitulo": "Capítulo 2"
-    },
-    {
-      "numero": "Capítulo 3",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente3.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente3.mp4",
-      "subtitulo": "Capítulo 3"
-    },
-    {
-      "numero": "Capítulo 4",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente4.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente4.mp4",
-      "subtitulo": "Capítulo 4"
-    },
-    {
-      "numero": "Capítulo 5",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente5.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente5.mp4",
-      "subtitulo": "Capítulo 5"
-    },
-    {
-      "numero": "Capítulo 6",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente6.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente6.mp4",
-      "subtitulo": "Capítulo 6"
-    },
-    {
-      "numero": "Capítulo 7",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente7.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente7.mp4",
-      "subtitulo": "Capítulo 7"
-    },
-    {
-      "numero": "Capítulo 8",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente8.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente8.mp4",
-      "subtitulo": "Capítulo 8"
-    },
-    {
-      "numero": "Capítulo 9",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente9.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente9.mp4",
-      "subtitulo": "Capítulo 9"
-    },
-    {
-      "numero": "Capítulo 10",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente10.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente10.mp4",
-      "subtitulo": "Capítulo 10"
-    },
-    {
-      "numero": "Capítulo 11",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente11.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente11.mp4",
-      "subtitulo": "Capítulo 11"
-    },
-    {
-      "numero": "Capítulo 12",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente12.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente12.mp4",
-      "subtitulo": "Capítulo 12"
-    },
-    {
-      "numero": "Capítulo 13",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente13.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente13.mp4",
-      "subtitulo": "Capítulo 13"
-    },
-    {
-      "numero": "Capítulo 14",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente14.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente14.mp4",
-      "subtitulo": "Capítulo 14"
-    },
-    {
-      "numero": "Capítulo 15",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente15.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente15.mp4",
-      "subtitulo": "Capítulo 15"
-    },
-    {
-      "numero": "Capítulo 16",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente16.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente16.mp4",
-      "subtitulo": "Capítulo 16"
-    },
-    {
-      "numero": "Capítulo 17",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente17.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente17.mp4",
-      "subtitulo": "Capítulo 17"
-    },
-    {
-      "numero": "Capítulo 18",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente18.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente18.mp4",
-      "subtitulo": "Capítulo 18"
-    },
-    {
-      "numero": "Capítulo 19",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente19.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente19.mp4",
-      "subtitulo": "Capítulo 19"
-    },
-    {
-      "numero": "Capítulo 20",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente20.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente20.mp4",
-      "subtitulo": "Capítulo 20"
-    },
-    {
-      "numero": "Capítulo 21",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente21.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente21.mp4",
-      "subtitulo": "Capítulo 21"
-    },
-    {
-      "numero": "Capítulo 22",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente22.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente22.mp4",
-      "subtitulo": "Capítulo 22"
-    },
-    {
-      "numero": "Capítulo 23",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente23.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente23.mp4",
-      "subtitulo": "Capítulo 23"
-    },
-    {
-      "numero": "Capítulo 24",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente24.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente24.mp4",
-      "subtitulo": "Capítulo 24"
-    },
-    {
-      "numero": "Capítulo 25",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente25.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente25.mp4",
-      "subtitulo": "Capítulo 25"
-    },
-    {
-      "numero": "Capítulo 26",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente26.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente26.mp4",
-      "subtitulo": "Capítulo 26"
-    },
-    {
-      "numero": "Capítulo 27",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente27.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente27.mp4",
-      "subtitulo": "Capítulo 27"
-    },
-    {
-      "numero": "Capítulo 28",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente28.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente28.mp4",
-      "subtitulo": "Capítulo 28"
-    },
-    {
-      "numero": "Capítulo 29",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente29.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente29.mp4",
-      "subtitulo": "Capítulo 29"
-    },
-    {
-      "numero": "Capítulo 30",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente30.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente30.mp4",
-      "subtitulo": "Capítulo 30"
-    },
-    {
-      "numero": "Capítulo 31",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente31.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente31.mp4",
-      "subtitulo": "Capítulo 31"
-    },
-    {
-      "numero": "Capítulo 32",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente32.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente32.mp4",
-      "subtitulo": "Capítulo 32"
-    },
-    {
-      "numero": "Capítulo 33",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente33.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente33.mp4",
-      "subtitulo": "Capítulo 33"
-    },
-    {
-      "numero": "Capítulo 34",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente34.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente34.mp4",
-      "subtitulo": "Capítulo 34"
-    },
-    {
-      "numero": "Capítulo 35",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente35.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente35.mp4",
-      "subtitulo": "Capítulo 35"
-    },
-    {
-      "numero": "Capítulo 36",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente36.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente36.mp4",
-      "subtitulo": "Capítulo 36"
-    },
-    {
-      "numero": "Capítulo 37",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente37.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente37.mp4",
-      "subtitulo": "Capítulo 37"
-    },
-    {
-      "numero": "Capítulo 38",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente38.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente38.mp4",
-      "subtitulo": "Capítulo 38"
-    },
-    {
-      "numero": "Capítulo 39",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente39.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente39.mp4",
-      "subtitulo": "Capítulo 39"
-    },
-    {
-      "numero": "Capítulo 40",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente40.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente40.mp4",
-      "subtitulo": "Capítulo 40"
-    },
-    {
-      "numero": "Capítulo 41",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente41.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente41.mp4",
-      "subtitulo": "Capítulo 41"
-    },
-    {
-      "numero": "Capítulo 42",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente42.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente42.mp4",
-      "subtitulo": "Capítulo 42"
-    },
-    {
-      "numero": "Capítulo 43",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente43.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente43.mp4",
-      "subtitulo": "Capítulo 43"
-    },
-    {
-      "numero": "Capítulo 44",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente44.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente44.mp4",
-      "subtitulo": "Capítulo 44"
-    },
-    {
-      "numero": "Capítulo 45",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente45.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente45.mp4",
-      "subtitulo": "Capítulo 45"
-    },
-    {
-      "numero": "Capítulo 46",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente46.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente46.mp4",
-      "subtitulo": "Capítulo 46"
-    },
-    {
-      "numero": "Capítulo 47",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente47.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente47.mp4",
-      "subtitulo": "Capítulo 47"
-    },
-    {
-      "numero": "Capítulo 48",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente48.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente48.mp4",
-      "subtitulo": "Capítulo 48"
-    },
-    {
-      "numero": "Capítulo 49",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente49.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente49.mp4",
-      "subtitulo": "Capítulo 49"
-    },
-    {
-      "numero": "Capítulo 50",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente50.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente50.mp4",
-      "subtitulo": "Capítulo 50"
-    },
-    {
-      "numero": "Capítulo 51",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente51.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente51.mp4",
-      "subtitulo": "Capítulo 51"
-    },
-    {
-      "numero": "Capítulo 52",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente52.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente52.mp4",
-      "subtitulo": "Capítulo 52"
-    },
-    {
-      "numero": "Capítulo 53",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente53.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente53.mp4",
-      "subtitulo": "Capítulo 53"
-    },
-    {
-      "numero": "Capítulo 54",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente54.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente54.mp4",
-      "subtitulo": "Capítulo 54"
-    },
-    {
-      "numero": "Capítulo 55",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente55.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente55.mp4",
-      "subtitulo": "Capítulo 55"
-    },
-    {
-      "numero": "Capítulo 56",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente56.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente56.mp4",
-      "subtitulo": "Capítulo 56"
-    },
-    {
-      "numero": "Capítulo 57",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente57.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente57.mp4",
-      "subtitulo": "Capítulo 57"
-    },
-    {
-      "numero": "Capítulo 58",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente58.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente58.mp4",
-      "subtitulo": "Capítulo 58"
-    },
-    {
-      "numero": "Capítulo 59",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente59.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente59.mp4",
-      "subtitulo": "Capítulo 59"
-    },
-    {
-      "numero": "Capítulo 60",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente60.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente60.mp4",
-      "subtitulo": "Capítulo 60"
-    },
-    {
-      "numero": "Capítulo 61",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente61.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente61.mp4",
-      "subtitulo": "Capítulo 61"
-    },
-    {
-      "numero": "Capítulo 62",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente62.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente62.mp4",
-      "subtitulo": "Capítulo 62"
-    },
-    {
-      "numero": "Capítulo 63",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente63.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente63.mp4",
-      "subtitulo": "Capítulo 63"
-    },
-    {
-      "numero": "Capítulo 64",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente64.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente64.mp4",
-      "subtitulo": "Capítulo 64"
-    },
-    {
-      "numero": "Capítulo 65",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente65.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente65.mp4",
-      "subtitulo": "Capítulo 65"
-    },
-    {
-      "numero": "Capítulo 66",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente66.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente66.mp4",
-      "subtitulo": "Capítulo 66"
-    },
-    {
-      "numero": "Capítulo 67",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente67.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente67.mp4",
-      "subtitulo": "Capítulo 67"
-    },
-    {
-      "numero": "Capítulo 68",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente68.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente68.mp4",
-      "subtitulo": "Capítulo 68"
-    },
-    {
-      "numero": "Capítulo 69",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente69.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente69.mp4",
-      "subtitulo": "Capítulo 69"
-    },
-    {
-      "numero": "Capítulo 70",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente70.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente70.mp4",
-      "subtitulo": "Capítulo 70"
-    },
-    {
-      "numero": "Capítulo 71",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente71.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente71.mp4",
-      "subtitulo": "Capítulo 71"
-    },
-    {
-      "numero": "Capítulo 72",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente72.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente72.mp4",
-      "subtitulo": "Capítulo 72"
-    },
-    {
-      "numero": "Capítulo 73",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente73.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente73.mp4",
-      "subtitulo": "Capítulo 73"
-    },
-    {
-      "numero": "Capítulo 74",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente74.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente74.mp4",
-      "subtitulo": "Capítulo 74"
-    },
-    {
-      "numero": "Capítulo 75",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente75.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente75.mp4",
-      "subtitulo": "Capítulo 75"
-    },
-    {
-      "numero": "Capítulo 76",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente76.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente76.mp4",
-      "subtitulo": "Capítulo 76"
-    },
-    {
-      "numero": "Capítulo 77",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente77.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente77.mp4",
-      "subtitulo": "Capítulo 77"
-    },
-    {
-      "numero": "Capítulo 78",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente78.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente78.mp4",
-      "subtitulo": "Capítulo 78"
-    },
-    {
-      "numero": "Capítulo 79",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente79.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente79.mp4",
-      "subtitulo": "Capítulo 79"
-    },
-    {
-      "numero": "Capítulo 80",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente80.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente80.mp4",
-      "subtitulo": "Capítulo 80"
-    },
-    {
-      "numero": "Capítulo 81",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente81.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente81.mp4",
-      "subtitulo": "Capítulo 81"
-    },
-    {
-      "numero": "Capítulo 82",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente82.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente82.mp4",
-      "subtitulo": "Capítulo 82"
-    },
-    {
-      "numero": "Capítulo 83",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente83.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente83.mp4",
-      "subtitulo": "Capítulo 83"
-    },
-    {
-      "numero": "Capítulo 84",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente84.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente84.mp4",
-      "subtitulo": "Capítulo 84"
-    },
-    {
-      "numero": "Capítulo 85",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente85.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente85.mp4",
-      "subtitulo": "Capítulo 85"
-    }
-  ]
-}
+[
+  {
+    "numero": "Capítulo 1",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente1.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 1",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291418"
+  },
+  {
+    "numero": "Capítulo 2",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente2.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 2",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291429"
+  },
+  {
+    "numero": "Capítulo 3",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente3.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 3",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291440"
+  },
+  {
+    "numero": "Capítulo 4",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente4.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 4",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291451"
+  },
+  {
+    "numero": "Capítulo 5",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente5.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 5",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291462"
+  },
+  {
+    "numero": "Capítulo 6",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente6.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 6",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291473"
+  },
+  {
+    "numero": "Capítulo 7",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente7.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 7",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291484"
+  },
+  {
+    "numero": "Capítulo 8",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente8.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 8",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291495"
+  },
+  {
+    "numero": "Capítulo 9",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente9.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 9",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291502"
+  },
+  {
+    "numero": "Capítulo 10",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente10.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 10",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291419"
+  },
+  {
+    "numero": "Capítulo 11",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente11.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 11",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291420"
+  },
+  {
+    "numero": "Capítulo 12",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente12.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 12",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291421"
+  },
+  {
+    "numero": "Capítulo 13",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente13.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 13",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291422"
+  },
+  {
+    "numero": "Capítulo 14",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente14.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 14",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291423"
+  },
+  {
+    "numero": "Capítulo 15",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente15.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 15",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291424"
+  },
+  {
+    "numero": "Capítulo 16",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente16.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 16",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291425"
+  },
+  {
+    "numero": "Capítulo 17",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente17.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 17",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291426"
+  },
+  {
+    "numero": "Capítulo 18",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente18.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 18",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291427"
+  },
+  {
+    "numero": "Capítulo 19",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente19.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 19",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291428"
+  },
+  {
+    "numero": "Capítulo 20",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente20.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 20",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291430"
+  },
+  {
+    "numero": "Capítulo 21",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente21.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 21",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291431"
+  },
+  {
+    "numero": "Capítulo 22",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente22.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 22",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291432"
+  },
+  {
+    "numero": "Capítulo 23",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente23.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 23",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291433"
+  },
+  {
+    "numero": "Capítulo 24",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente24.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 24",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291434"
+  },
+  {
+    "numero": "Capítulo 25",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente25.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 25",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291435"
+  },
+  {
+    "numero": "Capítulo 26",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente26.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 26",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291436"
+  },
+  {
+    "numero": "Capítulo 27",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente27.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 27",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291437"
+  },
+  {
+    "numero": "Capítulo 28",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente28.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 28",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291438"
+  },
+  {
+    "numero": "Capítulo 29",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente29.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 29",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291439"
+  },
+  {
+    "numero": "Capítulo 30",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente30.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 30",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291441"
+  },
+  {
+    "numero": "Capítulo 31",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente31.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 31",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291442"
+  },
+  {
+    "numero": "Capítulo 32",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente32.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 32",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291443"
+  },
+  {
+    "numero": "Capítulo 33",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente33.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 33",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291444"
+  },
+  {
+    "numero": "Capítulo 34",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente34.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 34",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291445"
+  },
+  {
+    "numero": "Capítulo 35",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente35.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 35",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291446"
+  },
+  {
+    "numero": "Capítulo 36",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente36.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 36",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291447"
+  },
+  {
+    "numero": "Capítulo 37",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente37.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 37",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291448"
+  },
+  {
+    "numero": "Capítulo 38",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente38.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 38",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291449"
+  },
+  {
+    "numero": "Capítulo 39",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente39.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 39",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291450"
+  },
+  {
+    "numero": "Capítulo 40",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente40.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 40",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291452"
+  },
+  {
+    "numero": "Capítulo 41",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente41.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 41",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291453"
+  },
+  {
+    "numero": "Capítulo 42",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente42.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 42",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291454"
+  },
+  {
+    "numero": "Capítulo 43",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente43.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 43",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291455"
+  },
+  {
+    "numero": "Capítulo 44",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente44.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 44",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291456"
+  },
+  {
+    "numero": "Capítulo 45",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente45.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 45",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291457"
+  },
+  {
+    "numero": "Capítulo 46",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente46.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 46",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291458"
+  },
+  {
+    "numero": "Capítulo 47",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente47.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 47",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291459"
+  },
+  {
+    "numero": "Capítulo 48",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente48.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 48",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291460"
+  },
+  {
+    "numero": "Capítulo 49",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente49.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 49",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291461"
+  },
+  {
+    "numero": "Capítulo 50",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente50.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 50",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291463"
+  },
+  {
+    "numero": "Capítulo 51",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente51.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 51",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291464"
+  },
+  {
+    "numero": "Capítulo 52",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente52.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 52",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291465"
+  },
+  {
+    "numero": "Capítulo 53",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente53.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 53",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291466"
+  },
+  {
+    "numero": "Capítulo 54",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente54.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 54",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291467"
+  },
+  {
+    "numero": "Capítulo 55",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente55.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 55",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291468"
+  },
+  {
+    "numero": "Capítulo 56",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente56.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 56",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291469"
+  },
+  {
+    "numero": "Capítulo 57",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente57.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 57",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291470"
+  },
+  {
+    "numero": "Capítulo 58",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente58.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 58",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291471"
+  },
+  {
+    "numero": "Capítulo 59",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente59.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 59",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291472"
+  },
+  {
+    "numero": "Capítulo 60",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente60.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 60",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291474"
+  },
+  {
+    "numero": "Capítulo 61",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente61.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 61",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291475"
+  },
+  {
+    "numero": "Capítulo 62",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente62.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 62",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291476"
+  },
+  {
+    "numero": "Capítulo 63",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente63.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 63",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291477"
+  },
+  {
+    "numero": "Capítulo 64",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente64.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 64",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291478"
+  },
+  {
+    "numero": "Capítulo 65",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente65.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 65",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291479"
+  },
+  {
+    "numero": "Capítulo 66",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente66.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 66",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291480"
+  },
+  {
+    "numero": "Capítulo 67",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente67.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 67",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291481"
+  },
+  {
+    "numero": "Capítulo 68",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente68.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 68",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291482"
+  },
+  {
+    "numero": "Capítulo 69",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente69.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 69",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291483"
+  },
+  {
+    "numero": "Capítulo 70",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente70.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 70",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291485"
+  },
+  {
+    "numero": "Capítulo 71",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente71.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 71",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291486"
+  },
+  {
+    "numero": "Capítulo 72",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente72.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 72",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291487"
+  },
+  {
+    "numero": "Capítulo 73",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente73.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 73",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291488"
+  },
+  {
+    "numero": "Capítulo 74",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente74.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 74",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291489"
+  },
+  {
+    "numero": "Capítulo 75",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente75.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 75",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291490"
+  },
+  {
+    "numero": "Capítulo 76",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente76.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 76",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291491"
+  },
+  {
+    "numero": "Capítulo 77",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente77.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 77",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291492"
+  },
+  {
+    "numero": "Capítulo 78",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente78.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 78",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291493"
+  },
+  {
+    "numero": "Capítulo 79",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente79.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 79",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291494"
+  },
+  {
+    "numero": "Capítulo 80",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente80.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 80",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291496"
+  },
+  {
+    "numero": "Capítulo 81",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente81.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 81",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291497"
+  },
+  {
+    "numero": "Capítulo 82",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente82.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 82",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291498"
+  },
+  {
+    "numero": "Capítulo 83",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente83.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 83",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291499"
+  },
+  {
+    "numero": "Capítulo 84",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente84.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 84",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291500"
+  },
+  {
+    "numero": "Capítulo 85",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/fuegoardiente/fuegoardiente85.mp4",
+    "titulo": "",
+    "subtitulo": "Capítulo 85",
+    "rumbleUrl": "https://vk.com/video_ext.php?oid=865964634&id=456291501"
+  }
+]

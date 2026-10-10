@@ -1,0 +1,218 @@
+{
+  "id": "historias_para_no_dormir_s1",
+  "titulo": "Historias Para No Dormir",
+  "subtitulo": "Historias Para No Dormir: Temporada 1",
+  "portada": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/historias_para_no_dormir.webp",
+  "capitulos": [
+    {
+      "numero": "Capítulo 1",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_20tb09i6/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "El cumpleaños",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 1"
+    },
+    {
+      "numero": "Capítulo 2",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_0sn6vuso/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "La Mano",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 2"
+    },
+    {
+      "numero": "Capítulo 3",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_6qqu5ims/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "La bodega (1ª parte)",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 3"
+    },
+    {
+      "numero": "Capítulo 4",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_n01mptqu/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "La bodega (2ª parte)",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 4"
+    },
+    {
+      "numero": "Capítulo 5",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_wmpjemis/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "El tonel",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 5"
+    },
+    {
+      "numero": "Capítulo 6",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_ydb6ckpw/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "La oferta",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 6"
+    },
+    {
+      "numero": "Capítulo 7",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_lmdqt3zk/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "El doble",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 7"
+    },
+    {
+      "numero": "Capítulo 8",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_uk8apo1n/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "El pacto",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 8"
+    },
+    {
+      "numero": "Capítulo 9",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_txe7dgyc/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "El muñeco",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 9"
+    },
+    {
+      "numero": "Capítulo 10",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_28aui07c/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "El cohete",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 10"
+    },
+    {
+      "numero": "Capítulo 11",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_txkh277f/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "La broma",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 11"
+    },
+    {
+      "numero": "Capítulo 12",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_hb5ndnzn/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "La cabaña",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 12"
+    },
+    {
+      "numero": "Capítulo 13",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_xq3r4ozl/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "El aniversario",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 13"
+    },
+    {
+      "numero": "Capítulo 14",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_p9ie0bar/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "La espera",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 14"
+    },
+    {
+      "numero": "Capítulo 15",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_72cczje5/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "La alarma (1ª parte)",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 15"
+    },
+    {
+      "numero": "Capítulo 16",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_yk2np7dn/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "La alarma (2ª parte)",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 16"
+    },
+    {
+      "numero": "Capítulo 17",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_x4mt4db2/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "La sonrisa",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 17"
+    },
+    {
+      "numero": "Capítulo 18",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_wqv9ginh/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "El asfalto",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 18"
+    },
+    {
+      "numero": "Capítulo 19",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_h6hehefk/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "La pesadilla",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 19"
+    },
+    {
+      "numero": "Capítulo 20",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_b6zbw0ld/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "La zarpa",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 20"
+    },
+    {
+      "numero": "Capítulo 21",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_6f1r7fn2/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "El vidente",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 21"
+    },
+    {
+      "numero": "Capítulo 22",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_kaskm81u/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "El regreso",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 22"
+    },
+    {
+      "numero": "Capítulo 23",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_9cukhzoe/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "El cuervo",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 23"
+    },
+    {
+      "numero": "Capítulo 24",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_f0myco8v/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "La promesa",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 24"
+    },
+    {
+      "numero": "Capítulo 25",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_vatz6tg2/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "La casa",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 25"
+    },
+    {
+      "numero": "Capítulo 26",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_hq2c597t/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "El trasplante",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 26"
+    },
+    {
+      "numero": "Capítulo 27",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_1cyl6kgt/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Freddy",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 27"
+    },
+    {
+      "numero": "Capítulo 28",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_5gf4jmlc/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "El caso del Señor Valdemar",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 28"
+    },
+    {
+      "numero": "Capítulo 29",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_heli8ag1/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "El fin empezó ayer",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 29"
+    },
+    {
+      "numero": "Capítulo 30",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_5v1qcb4e/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "El trapero",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 30"
+    }
+  ]
+}

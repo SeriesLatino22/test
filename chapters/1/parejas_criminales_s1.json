@@ -1,0 +1,50 @@
+{
+  "id": "parejas_criminales_s1",
+  "titulo": "Parejas Criminales",
+  "subtitulo": "Parejas Criminales: Temporada 1",
+  "portada": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/parejas_criminales.webp",
+  "capitulos": [
+    {
+      "numero": "Capítulo 1",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_9tvru9o1/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Enfrentamiento",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 1"
+    },
+    {
+      "numero": "Capítulo 2",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_xaa4465p/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Voces de los muertos",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 2"
+    },
+    {
+      "numero": "Capítulo 3",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_hea5xpoa/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "La verdad invisible",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 3"
+    },
+    {
+      "numero": "Capítulo 4",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_h44jxgcu/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Control + Alt + Borrar",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 4"
+    },
+    {
+      "numero": "Capítulo 5",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_781xynkd/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Mentiroso mentiroso",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 5"
+    },
+    {
+      "numero": "Capítulo 6",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_d3del44y/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "La escritura en la pared",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 6"
+    }
+  ]
+}

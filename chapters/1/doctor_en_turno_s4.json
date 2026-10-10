@@ -1,0 +1,288 @@
+{
+  "id": "doctor_en_turno_s4",
+  "titulo": "Doctor en Turno",
+  "subtitulo": "Doctor en Turno: Temporada 4",
+  "portada": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/doctor_en_turno.webp",
+  "capitulos": [
+    {
+      "numero": "Capítulo 121",
+      "urlOkru": "https://app.latino7.com/freetvplayer.php?id=1617",
+      "titulo": "Episodio 01",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 121"
+    },
+    {
+      "numero": "Capítulo 122",
+      "urlOkru": "https://app.latino7.com/freetvplayer.php?id=1618",
+      "titulo": "Episodio 02",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 122"
+    },
+    {
+      "numero": "Capítulo 123",
+      "urlOkru": "https://app.latino7.com/freetvplayer.php?id=1619",
+      "titulo": "Episodio 03",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 123"
+    },
+    {
+      "numero": "Capítulo 124",
+      "urlOkru": "https://app.latino7.com/freetvplayer.php?id=1620",
+      "titulo": "Episodio 04",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 124"
+    },
+    {
+      "numero": "Capítulo 125",
+      "urlOkru": "https://app.latino7.com/freetvplayer.php?id=1621",
+      "titulo": "Episodio 05",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 125"
+    },
+    {
+      "numero": "Capítulo 126",
+      "urlOkru": "https://app.latino7.com/freetvplayer.php?id=1622",
+      "titulo": "Episodio 06",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 126"
+    },
+    {
+      "numero": "Capítulo 127",
+      "urlOkru": "https://app.latino7.com/freetvplayer.php?id=1623",
+      "titulo": "Episodio 07",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 127"
+    },
+    {
+      "numero": "Capítulo 128",
+      "urlOkru": "https://app.latino7.com/freetvplayer.php?id=1624",
+      "titulo": "Episodio 08",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 128"
+    },
+    {
+      "numero": "Capítulo 129",
+      "urlOkru": "https://app.latino7.com/freetvplayer.php?id=1625",
+      "titulo": "Episodio 09",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 129"
+    },
+    {
+      "numero": "Capítulo 130",
+      "urlOkru": "https://app.latino7.com/freetvplayer.php?id=1626",
+      "titulo": "Episodio 10",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 130"
+    },
+    {
+      "numero": "Capítulo 131",
+      "urlOkru": "https://app.latino7.com/freetvplayer.php?id=1627",
+      "titulo": "Episodio 11",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 131"
+    },
+    {
+      "numero": "Capítulo 132",
+      "urlOkru": "https://app.latino7.com/freetvplayer.php?id=1628",
+      "titulo": "Episodio 12",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 132"
+    },
+    {
+      "numero": "Capítulo 133",
+      "urlOkru": "https://app.latino7.com/freetvplayer.php?id=1629",
+      "titulo": "Episodio 13",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 133"
+    },
+    {
+      "numero": "Capítulo 134",
+      "urlOkru": "https://app.latino7.com/freetvplayer.php?id=1630",
+      "titulo": "Episodio 14",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 134"
+    },
+    {
+      "numero": "Capítulo 135",
+      "urlOkru": "https://app.latino7.com/freetvplayer.php?id=1631",
+      "titulo": "Episodio 15",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 135"
+    },
+    {
+      "numero": "Capítulo 136",
+      "urlOkru": "https://app.latino7.com/freetvplayer.php?id=1632",
+      "titulo": "Episodio 16",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 136"
+    },
+    {
+      "numero": "Capítulo 137",
+      "urlOkru": "https://app.latino7.com/freetvplayer.php?id=1633",
+      "titulo": "Episodio 17",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 137"
+    },
+    {
+      "numero": "Capítulo 138",
+      "urlOkru": "https://app.latino7.com/freetvplayer.php?id=1634",
+      "titulo": "Episodio 18",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 138"
+    },
+    {
+      "numero": "Capítulo 139",
+      "urlOkru": "https://app.latino7.com/freetvplayer.php?id=1635",
+      "titulo": "Episodio 19",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 139"
+    },
+    {
+      "numero": "Capítulo 140",
+      "urlOkru": "https://app.latino7.com/freetvplayer.php?id=1636",
+      "titulo": "Episodio 20",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 140"
+    },
+    {
+      "numero": "Capítulo 141",
+      "urlOkru": "https://app.latino7.com/freetvplayer.php?id=1637",
+      "titulo": "Episodio 21",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 141"
+    },
+    {
+      "numero": "Capítulo 142",
+      "urlOkru": "https://app.latino7.com/freetvplayer.php?id=1638",
+      "titulo": "Episodio 22",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 142"
+    },
+    {
+      "numero": "Capítulo 143",
+      "urlOkru": "https://app.latino7.com/freetvplayer.php?id=1639",
+      "titulo": "Episodio 23",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 143"
+    },
+    {
+      "numero": "Capítulo 144",
+      "urlOkru": "https://app.latino7.com/freetvplayer.php?id=1640",
+      "titulo": "Episodio 24",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 144"
+    },
+    {
+      "numero": "Capítulo 145",
+      "urlOkru": "https://app.latino7.com/freetvplayer.php?id=1641",
+      "titulo": "Episodio 25",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 145"
+    },
+    {
+      "numero": "Capítulo 146",
+      "urlOkru": "https://app.latino7.com/freetvplayer.php?id=1642",
+      "titulo": "Episodio 26",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 146"
+    },
+    {
+      "numero": "Capítulo 147",
+      "urlOkru": "https://app.latino7.com/freetvplayer.php?id=1643",
+      "titulo": "Episodio 27",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 147"
+    },
+    {
+      "numero": "Capítulo 148",
+      "urlOkru": "https://app.latino7.com/freetvplayer.php?id=1644",
+      "titulo": "Episodio 28",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 148"
+    },
+    {
+      "numero": "Capítulo 149",
+      "urlOkru": "https://app.latino7.com/freetvplayer.php?id=1645",
+      "titulo": "Episodio 29",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 149"
+    },
+    {
+      "numero": "Capítulo 150",
+      "urlOkru": "https://app.latino7.com/freetvplayer.php?id=1646",
+      "titulo": "Episodio 30",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 150"
+    },
+    {
+      "numero": "Capítulo 151",
+      "urlOkru": "https://app.latino7.com/freetvplayer.php?id=1647",
+      "titulo": "Episodio 31",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 151"
+    },
+    {
+      "numero": "Capítulo 152",
+      "urlOkru": "https://app.latino7.com/freetvplayer.php?id=1648",
+      "titulo": "Episodio 32",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 152"
+    },
+    {
+      "numero": "Capítulo 153",
+      "urlOkru": "https://app.latino7.com/freetvplayer.php?id=1649",
+      "titulo": "Episodio 33",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 153"
+    },
+    {
+      "numero": "Capítulo 154",
+      "urlOkru": "https://app.latino7.com/freetvplayer.php?id=1650",
+      "titulo": "Episodio 34",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 154"
+    },
+    {
+      "numero": "Capítulo 155",
+      "urlOkru": "https://app.latino7.com/freetvplayer.php?id=1651",
+      "titulo": "Episodio 35",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 155"
+    },
+    {
+      "numero": "Capítulo 156",
+      "urlOkru": "https://app.latino7.com/freetvplayer.php?id=1652",
+      "titulo": "Episodio 36",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 156"
+    },
+    {
+      "numero": "Capítulo 157",
+      "urlOkru": "https://app.latino7.com/freetvplayer.php?id=1653",
+      "titulo": "Episodio 37",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 157"
+    },
+    {
+      "numero": "Capítulo 158",
+      "urlOkru": "https://app.latino7.com/freetvplayer.php?id=1654",
+      "titulo": "Episodio 38",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 158"
+    },
+    {
+      "numero": "Capítulo 159",
+      "urlOkru": "https://app.latino7.com/freetvplayer.php?id=1655",
+      "titulo": "Episodio 39",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 159"
+    },
+    {
+      "numero": "Capítulo 160",
+      "urlOkru": "https://app.latino7.com/freetvplayer.php?id=1656",
+      "titulo": "Episodio 40",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 160"
+    }
+  ]
+}

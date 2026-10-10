@@ -1,0 +1,22 @@
+{
+  "id": "como_identificar_un_culto_s1",
+  "titulo": "Cómo Identificar un Culto",
+  "subtitulo": "Cómo Identificar un Culto: Temporada 1",
+  "portada": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/como_identificar_un_culto.webp",
+  "capitulos": [
+    {
+      "numero": "Capítulo 1",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_ocjguu05/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Atrapados",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 1"
+    },
+    {
+      "numero": "Capítulo 2",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_1bmlamco/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Escapar",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 2"
+    }
+  ]
+}

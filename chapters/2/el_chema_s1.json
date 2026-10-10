@@ -1,433 +1,597 @@
-{
-  "id": "el_chema_s1",
-  "titulo": "El Chema",
-  "subtitulo": "El Chema: Temporada 1",
-  "portada": "",
-  "capitulos": [
-    {
-      "numero": "Capítulo 1",
-      "urlOkru": "https://ok.ru/videoembed/1688029104823",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 2",
-      "urlOkru": "https://ok.ru/videoembed/1687009823415",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 3",
-      "urlOkru": "https://ok.ru/videoembed/1687009954487",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 4",
-      "urlOkru": "https://ok.ru/videoembed/1687009757879",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 5",
-      "urlOkru": "https://ok.ru/videoembed/1687010020023",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 6",
-      "urlOkru": "https://ok.ru/videoembed/1687009888951",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 7",
-      "urlOkru": "https://ok.ru/videoembed/1687021161143",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 8",
-      "urlOkru": "https://ok.ru/videoembed/1687021226679",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 9",
-      "urlOkru": "https://ok.ru/videoembed/1687020964535",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 10",
-      "urlOkru": "https://ok.ru/videoembed/1687021095607",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 11",
-      "urlOkru": "https://ok.ru/videoembed/1687021030071",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 12",
-      "urlOkru": "https://ok.ru/videoembed/1687029549751",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 13",
-      "urlOkru": "https://ok.ru/videoembed/1687029615287",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 14",
-      "urlOkru": "https://ok.ru/videoembed/1687029680823",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 15",
-      "urlOkru": "https://ok.ru/videoembed/1687029746359",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 16",
-      "urlOkru": "https://ok.ru/videoembed/1687029811895",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 17",
-      "urlOkru": "https://ok.ru/videoembed/1687034530487",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 18",
-      "urlOkru": "https://ok.ru/videoembed/1687034333879",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 19",
-      "urlOkru": "https://ok.ru/videoembed/1687034399415",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 20",
-      "urlOkru": "https://ok.ru/videoembed/1687034596023",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 21",
-      "urlOkru": "https://ok.ru/videoembed/1687034464951",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 22",
-      "urlOkru": "https://ok.ru/videoembed/1687041346231",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 23",
-      "urlOkru": "https://ok.ru/videoembed/1687041411767",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 24",
-      "urlOkru": "https://ok.ru/videoembed/1687041477303",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 25",
-      "urlOkru": "https://ok.ru/videoembed/1687041542839",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 26",
-      "urlOkru": "https://ok.ru/videoembed/1687041608375",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 27",
-      "urlOkru": "https://ok.ru/videoembed/1687045671607",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 28",
-      "urlOkru": "https://ok.ru/videoembed/1687045737143",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 29",
-      "urlOkru": "https://ok.ru/videoembed/1687045802679",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 30",
-      "urlOkru": "https://ok.ru/videoembed/1687045868215",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 31",
-      "urlOkru": "https://ok.ru/videoembed/1687045933751",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 32",
-      "urlOkru": "https://ok.ru/videoembed/1687050193591",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 33",
-      "urlOkru": "https://ok.ru/videoembed/1687050259127",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 34",
-      "urlOkru": "https://ok.ru/videoembed/1687050324663",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 35",
-      "urlOkru": "https://ok.ru/videoembed/1687050521271",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 36",
-      "urlOkru": "https://ok.ru/videoembed/1687050652343",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 37",
-      "urlOkru": "https://ok.ru/videoembed/1687055305399",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 38",
-      "urlOkru": "https://ok.ru/videoembed/1687055370935",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 39",
-      "urlOkru": "https://ok.ru/videoembed/1687055502007",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 40",
-      "urlOkru": "https://ok.ru/videoembed/1687055633079",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 41",
-      "urlOkru": "https://ok.ru/videoembed/1687055698615",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 42",
-      "urlOkru": "https://ok.ru/videoembed/1687066053303",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 43",
-      "urlOkru": "https://ok.ru/videoembed/1687066184375",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 44",
-      "urlOkru": "https://ok.ru/videoembed/1687066315447",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 45",
-      "urlOkru": "https://ok.ru/videoembed/1687066380983",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 46",
-      "urlOkru": "https://ok.ru/videoembed/1687066446519",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 47",
-      "urlOkru": "https://ok.ru/videoembed/1687093775031",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 48",
-      "urlOkru": "https://ok.ru/videoembed/1687093906103",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 49",
-      "urlOkru": "https://ok.ru/videoembed/1687093971639",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 50",
-      "urlOkru": "https://ok.ru/videoembed/1687094037175",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 51",
-      "urlOkru": "https://ok.ru/videoembed/1687094102711",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 52",
-      "urlOkru": "https://ok.ru/videoembed/1687100066487",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 53",
-      "urlOkru": "https://ok.ru/videoembed/1687100132023",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 54",
-      "urlOkru": "https://ok.ru/videoembed/1687100197559",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 55",
-      "urlOkru": "https://ok.ru/videoembed/1687100263095",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 56",
-      "urlOkru": "https://ok.ru/videoembed/1687100328631",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 57",
-      "urlOkru": "https://ok.ru/videoembed/1687113042615",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 58",
-      "urlOkru": "https://ok.ru/videoembed/1687113108151",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 59",
-      "urlOkru": "https://ok.ru/videoembed/1687113173687",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 60",
-      "urlOkru": "https://ok.ru/videoembed/1687113239223",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 61",
-      "urlOkru": "https://ok.ru/videoembed/1687113304759",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 62",
-      "urlOkru": "https://ok.ru/videoembed/1687146728119",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 63",
-      "urlOkru": "https://ok.ru/videoembed/1687146859191",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 64",
-      "urlOkru": "https://ok.ru/videoembed/1687146924727",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 65",
-      "urlOkru": "https://ok.ru/videoembed/1687146990263",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 66",
-      "urlOkru": "https://ok.ru/videoembed/1687147055799",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 67",
-      "urlOkru": "https://ok.ru/videoembed/1687147121335",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 68",
-      "urlOkru": "https://ok.ru/videoembed/1687147186871",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 69",
-      "urlOkru": "https://ok.ru/videoembed/1687147252407",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 70",
-      "urlOkru": "https://ok.ru/videoembed/1687147383479",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 71",
-      "urlOkru": "https://ok.ru/videoembed/1687147514551",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 72",
-      "urlOkru": "https://ok.ru/videoembed/1687154789047",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 73",
-      "urlOkru": "https://ok.ru/videoembed/1687154920119",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 74",
-      "urlOkru": "https://ok.ru/videoembed/1687155051191",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 75",
-      "urlOkru": "https://ok.ru/videoembed/1687154985655",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 76",
-      "urlOkru": "https://ok.ru/videoembed/1687154854583",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 77",
-      "urlOkru": "https://ok.ru/videoembed/1687207348919",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 78",
-      "urlOkru": "https://ok.ru/videoembed/1687207479991",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 79",
-      "urlOkru": "https://ok.ru/videoembed/1687207545527",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 80",
-      "urlOkru": "https://ok.ru/videoembed/1687207742135",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 81",
-      "urlOkru": "https://ok.ru/videoembed/1687207873207",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 82",
-      "urlOkru": "https://ok.ru/videoembed/1687207938743",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 83",
-      "urlOkru": "https://ok.ru/videoembed/1687208004279",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 84",
-      "urlOkru": "https://ok.ru/videoembed/1687208069815",
-      "titulo": ""
-    },
-    {
-      "numero": "Capítulo 85",
-      "urlOkru": "https://ok.ru/videoembed/1687208135351",
-      "titulo": ""
-    }
-  ]
-}
+[
+  {
+    "numero": "Capítulo 1",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema01.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1688029104823",
+    "subtitulo": "Capítulo 1"
+  },
+  {
+    "numero": "Capítulo 2",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema02.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687009823415",
+    "subtitulo": "Capítulo 2"
+  },
+  {
+    "numero": "Capítulo 3",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema03.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687009954487",
+    "subtitulo": "Capítulo 3"
+  },
+  {
+    "numero": "Capítulo 4",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema04.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687009757879",
+    "subtitulo": "Capítulo 4"
+  },
+  {
+    "numero": "Capítulo 5",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema05.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687010020023",
+    "subtitulo": "Capítulo 5"
+  },
+  {
+    "numero": "Capítulo 6",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema06.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687009888951",
+    "subtitulo": "Capítulo 6"
+  },
+  {
+    "numero": "Capítulo 7",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema07.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687021161143",
+    "subtitulo": "Capítulo 7"
+  },
+  {
+    "numero": "Capítulo 8",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema08.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687021226679",
+    "subtitulo": "Capítulo 8"
+  },
+  {
+    "numero": "Capítulo 9",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema09.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687020964535",
+    "subtitulo": "Capítulo 9"
+  },
+  {
+    "numero": "Capítulo 10",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema10.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687021095607",
+    "subtitulo": "Capítulo 10"
+  },
+  {
+    "numero": "Capítulo 11",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema11.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687021030071",
+    "subtitulo": "Capítulo 11"
+  },
+  {
+    "numero": "Capítulo 12",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema12.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687029549751",
+    "subtitulo": "Capítulo 12"
+  },
+  {
+    "numero": "Capítulo 13",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema13.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687029615287",
+    "subtitulo": "Capítulo 13"
+  },
+  {
+    "numero": "Capítulo 14",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema14.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687029680823",
+    "subtitulo": "Capítulo 14"
+  },
+  {
+    "numero": "Capítulo 15",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema15.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687029746359",
+    "subtitulo": "Capítulo 15"
+  },
+  {
+    "numero": "Capítulo 16",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema16.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687029811895",
+    "subtitulo": "Capítulo 16"
+  },
+  {
+    "numero": "Capítulo 17",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema17.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687034530487",
+    "subtitulo": "Capítulo 17"
+  },
+  {
+    "numero": "Capítulo 18",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema18.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687034333879",
+    "subtitulo": "Capítulo 18"
+  },
+  {
+    "numero": "Capítulo 19",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema19.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687034399415",
+    "subtitulo": "Capítulo 19"
+  },
+  {
+    "numero": "Capítulo 20",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema20.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687034596023",
+    "subtitulo": "Capítulo 20"
+  },
+  {
+    "numero": "Capítulo 21",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema21.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687034464951",
+    "subtitulo": "Capítulo 21"
+  },
+  {
+    "numero": "Capítulo 22",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema22.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687041346231",
+    "subtitulo": "Capítulo 22"
+  },
+  {
+    "numero": "Capítulo 23",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema23.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687041411767",
+    "subtitulo": "Capítulo 23"
+  },
+  {
+    "numero": "Capítulo 24",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema24.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687041477303",
+    "subtitulo": "Capítulo 24"
+  },
+  {
+    "numero": "Capítulo 25",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema25.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687041542839",
+    "subtitulo": "Capítulo 25"
+  },
+  {
+    "numero": "Capítulo 26",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema26.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687041608375",
+    "subtitulo": "Capítulo 26"
+  },
+  {
+    "numero": "Capítulo 27",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema27.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687045671607",
+    "subtitulo": "Capítulo 27"
+  },
+  {
+    "numero": "Capítulo 28",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema28.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687045737143",
+    "subtitulo": "Capítulo 28"
+  },
+  {
+    "numero": "Capítulo 29",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema29.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687045802679",
+    "subtitulo": "Capítulo 29"
+  },
+  {
+    "numero": "Capítulo 30",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema30.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687045868215",
+    "subtitulo": "Capítulo 30"
+  },
+  {
+    "numero": "Capítulo 31",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema31.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687045933751",
+    "subtitulo": "Capítulo 31"
+  },
+  {
+    "numero": "Capítulo 32",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema32.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687050193591",
+    "subtitulo": "Capítulo 32"
+  },
+  {
+    "numero": "Capítulo 33",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema33.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687050259127",
+    "subtitulo": "Capítulo 33"
+  },
+  {
+    "numero": "Capítulo 34",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema34.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687050324663",
+    "subtitulo": "Capítulo 34"
+  },
+  {
+    "numero": "Capítulo 35",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema35.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687050521271",
+    "subtitulo": "Capítulo 35"
+  },
+  {
+    "numero": "Capítulo 36",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema36.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687050652343",
+    "subtitulo": "Capítulo 36"
+  },
+  {
+    "numero": "Capítulo 37",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema37.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687055305399",
+    "subtitulo": "Capítulo 37"
+  },
+  {
+    "numero": "Capítulo 38",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema38.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687055370935",
+    "subtitulo": "Capítulo 38"
+  },
+  {
+    "numero": "Capítulo 39",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema39.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687055502007",
+    "subtitulo": "Capítulo 39"
+  },
+  {
+    "numero": "Capítulo 40",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema40.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687055633079",
+    "subtitulo": "Capítulo 40"
+  },
+  {
+    "numero": "Capítulo 41",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema41.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687055698615",
+    "subtitulo": "Capítulo 41"
+  },
+  {
+    "numero": "Capítulo 42",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema42.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687066053303",
+    "subtitulo": "Capítulo 42"
+  },
+  {
+    "numero": "Capítulo 43",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema43.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687066184375",
+    "subtitulo": "Capítulo 43"
+  },
+  {
+    "numero": "Capítulo 44",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema44.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687066315447",
+    "subtitulo": "Capítulo 44"
+  },
+  {
+    "numero": "Capítulo 45",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema45.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687066380983",
+    "subtitulo": "Capítulo 45"
+  },
+  {
+    "numero": "Capítulo 46",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema46.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687066446519",
+    "subtitulo": "Capítulo 46"
+  },
+  {
+    "numero": "Capítulo 47",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema47.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687093775031",
+    "subtitulo": "Capítulo 47"
+  },
+  {
+    "numero": "Capítulo 48",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema48.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687093906103",
+    "subtitulo": "Capítulo 48"
+  },
+  {
+    "numero": "Capítulo 49",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema49.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687093971639",
+    "subtitulo": "Capítulo 49"
+  },
+  {
+    "numero": "Capítulo 50",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema50.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687094037175",
+    "subtitulo": "Capítulo 50"
+  },
+  {
+    "numero": "Capítulo 51",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema51.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687094102711",
+    "subtitulo": "Capítulo 51"
+  },
+  {
+    "numero": "Capítulo 52",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema52.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687100066487",
+    "subtitulo": "Capítulo 52"
+  },
+  {
+    "numero": "Capítulo 53",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema53.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687100132023",
+    "subtitulo": "Capítulo 53"
+  },
+  {
+    "numero": "Capítulo 54",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema54.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687100197559",
+    "subtitulo": "Capítulo 54"
+  },
+  {
+    "numero": "Capítulo 55",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema55.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687100263095",
+    "subtitulo": "Capítulo 55"
+  },
+  {
+    "numero": "Capítulo 56",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema56.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687100328631",
+    "subtitulo": "Capítulo 56"
+  },
+  {
+    "numero": "Capítulo 57",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema57.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687113042615",
+    "subtitulo": "Capítulo 57"
+  },
+  {
+    "numero": "Capítulo 58",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema58.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687113108151",
+    "subtitulo": "Capítulo 58"
+  },
+  {
+    "numero": "Capítulo 59",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema59.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687113173687",
+    "subtitulo": "Capítulo 59"
+  },
+  {
+    "numero": "Capítulo 60",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema60.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687113239223",
+    "subtitulo": "Capítulo 60"
+  },
+  {
+    "numero": "Capítulo 61",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema61.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687113304759",
+    "subtitulo": "Capítulo 61"
+  },
+  {
+    "numero": "Capítulo 62",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema62.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687146728119",
+    "subtitulo": "Capítulo 62"
+  },
+  {
+    "numero": "Capítulo 63",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema63.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687146859191",
+    "subtitulo": "Capítulo 63"
+  },
+  {
+    "numero": "Capítulo 64",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema64.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687146924727",
+    "subtitulo": "Capítulo 64"
+  },
+  {
+    "numero": "Capítulo 65",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema65.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687146990263",
+    "subtitulo": "Capítulo 65"
+  },
+  {
+    "numero": "Capítulo 66",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema66.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687147055799",
+    "subtitulo": "Capítulo 66"
+  },
+  {
+    "numero": "Capítulo 67",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema67.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687147121335",
+    "subtitulo": "Capítulo 67"
+  },
+  {
+    "numero": "Capítulo 68",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema68.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687147186871",
+    "subtitulo": "Capítulo 68"
+  },
+  {
+    "numero": "Capítulo 69",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema69.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687147252407",
+    "subtitulo": "Capítulo 69"
+  },
+  {
+    "numero": "Capítulo 70",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema70.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687147383479",
+    "subtitulo": "Capítulo 70"
+  },
+  {
+    "numero": "Capítulo 71",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema71.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687147514551",
+    "subtitulo": "Capítulo 71"
+  },
+  {
+    "numero": "Capítulo 72",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema72.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687154789047",
+    "subtitulo": "Capítulo 72"
+  },
+  {
+    "numero": "Capítulo 73",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema73.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687154920119",
+    "subtitulo": "Capítulo 73"
+  },
+  {
+    "numero": "Capítulo 74",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema74.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687155051191",
+    "subtitulo": "Capítulo 74"
+  },
+  {
+    "numero": "Capítulo 75",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema75.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687154985655",
+    "subtitulo": "Capítulo 75"
+  },
+  {
+    "numero": "Capítulo 76",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema76.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687154854583",
+    "subtitulo": "Capítulo 76"
+  },
+  {
+    "numero": "Capítulo 77",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema77.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687207348919",
+    "subtitulo": "Capítulo 77"
+  },
+  {
+    "numero": "Capítulo 78",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema78.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687207479991",
+    "subtitulo": "Capítulo 78"
+  },
+  {
+    "numero": "Capítulo 79",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema79.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687207545527",
+    "subtitulo": "Capítulo 79"
+  },
+  {
+    "numero": "Capítulo 80",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema80.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687207742135",
+    "subtitulo": "Capítulo 80"
+  },
+  {
+    "numero": "Capítulo 81",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema81.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687207873207",
+    "subtitulo": "Capítulo 81"
+  },
+  {
+    "numero": "Capítulo 82",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema82.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687207938743",
+    "subtitulo": "Capítulo 82"
+  },
+  {
+    "numero": "Capítulo 83",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema83.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687208004279",
+    "subtitulo": "Capítulo 83"
+  },
+  {
+    "numero": "Capítulo 84",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema84.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687208069815",
+    "subtitulo": "Capítulo 84"
+  },
+  {
+    "numero": "Capítulo 85",
+    "urlOkru": "https://sv3.sosanovel.com/Disco2.0/elchema/elchema85.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1687208135351",
+    "subtitulo": "Capítulo 85"
+  }
+]

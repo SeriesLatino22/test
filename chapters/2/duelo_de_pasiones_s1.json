@@ -1,883 +1,877 @@
-{
-  "id": "duelo_de_pasiones_s1",
-  "titulo": "Duelo de Pasiones",
-  "subtitulo": "Duelo de Pasiones: Temporada 1",
-  "portada": "",
-  "capitulos": [
-    {
-      "numero": "Capítulo 1",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones1.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680881289819",
-      "subtitulo": "Capítulo 1"
-    },
-    {
-      "numero": "Capítulo 2",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones2.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680881617499",
-      "subtitulo": "Capítulo 2"
-    },
-    {
-      "numero": "Capítulo 3",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones3.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680881945179",
-      "subtitulo": "Capítulo 3"
-    },
-    {
-      "numero": "Capítulo 4",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones4.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680882076251",
-      "subtitulo": "Capítulo 4"
-    },
-    {
-      "numero": "Capítulo 5",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones5.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680882207323",
-      "subtitulo": "Capítulo 5"
-    },
-    {
-      "numero": "Capítulo 6",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones6.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680882141787",
-      "subtitulo": "Capítulo 6"
-    },
-    {
-      "numero": "Capítulo 7",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones7.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680882010715",
-      "subtitulo": "Capítulo 7"
-    },
-    {
-      "numero": "Capítulo 8",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones8.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680881879643",
-      "subtitulo": "Capítulo 8"
-    },
-    {
-      "numero": "Capítulo 9",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones9.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680881224283",
-      "subtitulo": "Capítulo 9"
-    },
-    {
-      "numero": "Capítulo 10",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones10.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680881355355",
-      "subtitulo": "Capítulo 10"
-    },
-    {
-      "numero": "Capítulo 11",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones11.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680881486427",
-      "subtitulo": "Capítulo 11"
-    },
-    {
-      "numero": "Capítulo 12",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones12.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680881551963",
-      "subtitulo": "Capítulo 12"
-    },
-    {
-      "numero": "Capítulo 13",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones13.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680881420891",
-      "subtitulo": "Capítulo 13"
-    },
-    {
-      "numero": "Capítulo 14",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones14.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680881814107",
-      "subtitulo": "Capítulo 14"
-    },
-    {
-      "numero": "Capítulo 15",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones15.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680881748571",
-      "subtitulo": "Capítulo 15"
-    },
-    {
-      "numero": "Capítulo 16",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones16.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680881683035",
-      "subtitulo": "Capítulo 16"
-    },
-    {
-      "numero": "Capítulo 17",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones17.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680901278299",
-      "subtitulo": "Capítulo 17"
-    },
-    {
-      "numero": "Capítulo 18",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones18.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680900360795",
-      "subtitulo": "Capítulo 18"
-    },
-    {
-      "numero": "Capítulo 19",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones19.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680901343835",
-      "subtitulo": "Capítulo 19"
-    },
-    {
-      "numero": "Capítulo 20",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones20.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680901212763",
-      "subtitulo": "Capítulo 20"
-    },
-    {
-      "numero": "Capítulo 21",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones21.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680900426331",
-      "subtitulo": "Capítulo 21"
-    },
-    {
-      "numero": "Capítulo 22",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones22.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680901147227",
-      "subtitulo": "Capítulo 22"
-    },
-    {
-      "numero": "Capítulo 23",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones23.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680900491867",
-      "subtitulo": "Capítulo 23"
-    },
-    {
-      "numero": "Capítulo 24",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones24.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680900557403",
-      "subtitulo": "Capítulo 24"
-    },
-    {
-      "numero": "Capítulo 25",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones25.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680901016155",
-      "subtitulo": "Capítulo 25"
-    },
-    {
-      "numero": "Capítulo 26",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones26.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680900885083",
-      "subtitulo": "Capítulo 26"
-    },
-    {
-      "numero": "Capítulo 27",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones27.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680900754011",
-      "subtitulo": "Capítulo 27"
-    },
-    {
-      "numero": "Capítulo 28",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones28.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680900622939",
-      "subtitulo": "Capítulo 28"
-    },
-    {
-      "numero": "Capítulo 29",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones29.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680901081691",
-      "subtitulo": "Capítulo 29"
-    },
-    {
-      "numero": "Capítulo 30",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones30.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680900950619",
-      "subtitulo": "Capítulo 30"
-    },
-    {
-      "numero": "Capítulo 31",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones31.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680900819547",
-      "subtitulo": "Capítulo 31"
-    },
-    {
-      "numero": "Capítulo 32",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones32.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680900688475",
-      "subtitulo": "Capítulo 32"
-    },
-    {
-      "numero": "Capítulo 33",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones33.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680937912923",
-      "subtitulo": "Capítulo 33"
-    },
-    {
-      "numero": "Capítulo 34",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones34.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680938175067",
-      "subtitulo": "Capítulo 34"
-    },
-    {
-      "numero": "Capítulo 35",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones35.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680938437211",
-      "subtitulo": "Capítulo 35"
-    },
-    {
-      "numero": "Capítulo 36",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones36.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680938568283",
-      "subtitulo": "Capítulo 36"
-    },
-    {
-      "numero": "Capítulo 37",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones37.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680938502747",
-      "subtitulo": "Capítulo 37"
-    },
-    {
-      "numero": "Capítulo 38",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones38.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680938109531",
-      "subtitulo": "Capítulo 38"
-    },
-    {
-      "numero": "Capítulo 39",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones39.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680937978459",
-      "subtitulo": "Capítulo 39"
-    },
-    {
-      "numero": "Capítulo 40",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones40.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680938306139",
-      "subtitulo": "Capítulo 40"
-    },
-    {
-      "numero": "Capítulo 41",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones41.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680959801947",
-      "subtitulo": "Capítulo 41"
-    },
-    {
-      "numero": "Capítulo 42",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones42.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680959474267",
-      "subtitulo": "Capítulo 42"
-    },
-    {
-      "numero": "Capítulo 43",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones43.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680959539803",
-      "subtitulo": "Capítulo 43"
-    },
-    {
-      "numero": "Capítulo 44",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones44.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680959736411",
-      "subtitulo": "Capítulo 44"
-    },
-    {
-      "numero": "Capítulo 45",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones45.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680959670875",
-      "subtitulo": "Capítulo 45"
-    },
-    {
-      "numero": "Capítulo 46",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones46.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680959998555",
-      "subtitulo": "Capítulo 46"
-    },
-    {
-      "numero": "Capítulo 47",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones47.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680960064091",
-      "subtitulo": "Capítulo 47"
-    },
-    {
-      "numero": "Capítulo 48",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones48.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680959933019",
-      "subtitulo": "Capítulo 48"
-    },
-    {
-      "numero": "Capítulo 49",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones49.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680963013211",
-      "subtitulo": "Capítulo 49"
-    },
-    {
-      "numero": "Capítulo 50",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones50.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680963078747",
-      "subtitulo": "Capítulo 50"
-    },
-    {
-      "numero": "Capítulo 51",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones51.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680963144283",
-      "subtitulo": "Capítulo 51"
-    },
-    {
-      "numero": "Capítulo 52",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones52.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680963209819",
-      "subtitulo": "Capítulo 52"
-    },
-    {
-      "numero": "Capítulo 53",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones53.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680963340891",
-      "subtitulo": "Capítulo 53"
-    },
-    {
-      "numero": "Capítulo 54",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones54.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680963471963",
-      "subtitulo": "Capítulo 54"
-    },
-    {
-      "numero": "Capítulo 55",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones55.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680963406427",
-      "subtitulo": "Capítulo 55"
-    },
-    {
-      "numero": "Capítulo 56",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones56.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680963275355",
-      "subtitulo": "Capítulo 56"
-    },
-    {
-      "numero": "Capítulo 57",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones57.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680978938459",
-      "subtitulo": "Capítulo 57"
-    },
-    {
-      "numero": "Capítulo 58",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones58.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680979003995",
-      "subtitulo": "Capítulo 58"
-    },
-    {
-      "numero": "Capítulo 59",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones59.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680979855963",
-      "subtitulo": "Capítulo 59"
-    },
-    {
-      "numero": "Capítulo 60",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones60.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680979200603",
-      "subtitulo": "Capítulo 60"
-    },
-    {
-      "numero": "Capítulo 61",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones61.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680979593819",
-      "subtitulo": "Capítulo 61"
-    },
-    {
-      "numero": "Capítulo 62",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones62.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680979724891",
-      "subtitulo": "Capítulo 62"
-    },
-    {
-      "numero": "Capítulo 63",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones63.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680979069531",
-      "subtitulo": "Capítulo 63"
-    },
-    {
-      "numero": "Capítulo 64",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones64.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680979790427",
-      "subtitulo": "Capítulo 64"
-    },
-    {
-      "numero": "Capítulo 65",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones65.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680979462747",
-      "subtitulo": "Capítulo 65"
-    },
-    {
-      "numero": "Capítulo 66",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones66.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680979659355",
-      "subtitulo": "Capítulo 66"
-    },
-    {
-      "numero": "Capítulo 67",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones67.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680979397211",
-      "subtitulo": "Capítulo 67"
-    },
-    {
-      "numero": "Capítulo 68",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones68.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680979266139",
-      "subtitulo": "Capítulo 68"
-    },
-    {
-      "numero": "Capítulo 69",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones69.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680979135067",
-      "subtitulo": "Capítulo 69"
-    },
-    {
-      "numero": "Capítulo 70",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones70.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680979921499",
-      "subtitulo": "Capítulo 70"
-    },
-    {
-      "numero": "Capítulo 71",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones71.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680979331675",
-      "subtitulo": "Capítulo 71"
-    },
-    {
-      "numero": "Capítulo 72",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones72.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680979528283",
-      "subtitulo": "Capítulo 72"
-    },
-    {
-      "numero": "Capítulo 73",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones73.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680995125851",
-      "subtitulo": "Capítulo 73"
-    },
-    {
-      "numero": "Capítulo 74",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones74.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680995912283",
-      "subtitulo": "Capítulo 74"
-    },
-    {
-      "numero": "Capítulo 75",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones75.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680996043355",
-      "subtitulo": "Capítulo 75"
-    },
-    {
-      "numero": "Capítulo 76",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones76.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680996108891",
-      "subtitulo": "Capítulo 76"
-    },
-    {
-      "numero": "Capítulo 77",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones77.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680995191387",
-      "subtitulo": "Capítulo 77"
-    },
-    {
-      "numero": "Capítulo 78",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones78.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680995781211",
-      "subtitulo": "Capítulo 78"
-    },
-    {
-      "numero": "Capítulo 79",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones79.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680995650139",
-      "subtitulo": "Capítulo 79"
-    },
-    {
-      "numero": "Capítulo 80",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones80.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680995519067",
-      "subtitulo": "Capítulo 80"
-    },
-    {
-      "numero": "Capítulo 81",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones81.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680995387995",
-      "subtitulo": "Capítulo 81"
-    },
-    {
-      "numero": "Capítulo 82",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones82.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680995322459",
-      "subtitulo": "Capítulo 82"
-    },
-    {
-      "numero": "Capítulo 83",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones83.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680995256923",
-      "subtitulo": "Capítulo 83"
-    },
-    {
-      "numero": "Capítulo 84",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones84.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680995846747",
-      "subtitulo": "Capítulo 84"
-    },
-    {
-      "numero": "Capítulo 85",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones85.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680995715675",
-      "subtitulo": "Capítulo 85"
-    },
-    {
-      "numero": "Capítulo 86",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones86.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680995584603",
-      "subtitulo": "Capítulo 86"
-    },
-    {
-      "numero": "Capítulo 87",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones87.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680995453531",
-      "subtitulo": "Capítulo 87"
-    },
-    {
-      "numero": "Capítulo 88",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones88.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1680995977819",
-      "subtitulo": "Capítulo 88"
-    },
-    {
-      "numero": "Capítulo 89",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones89.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1681007708763",
-      "subtitulo": "Capítulo 89"
-    },
-    {
-      "numero": "Capítulo 90",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones90.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1681007577691",
-      "subtitulo": "Capítulo 90"
-    },
-    {
-      "numero": "Capítulo 91",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones91.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1681007839835",
-      "subtitulo": "Capítulo 91"
-    },
-    {
-      "numero": "Capítulo 92",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones92.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1681007643227",
-      "subtitulo": "Capítulo 92"
-    },
-    {
-      "numero": "Capítulo 93",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones93.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1681007512155",
-      "subtitulo": "Capítulo 93"
-    },
-    {
-      "numero": "Capítulo 94",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones94.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1681007381083",
-      "subtitulo": "Capítulo 94"
-    },
-    {
-      "numero": "Capítulo 95",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones95.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1681007774299",
-      "subtitulo": "Capítulo 95"
-    },
-    {
-      "numero": "Capítulo 96",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones96.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1681007446619",
-      "subtitulo": "Capítulo 96"
-    },
-    {
-      "numero": "Capítulo 97",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones97.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1681021536859",
-      "subtitulo": "Capítulo 97"
-    },
-    {
-      "numero": "Capítulo 98",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones98.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1681021930075",
-      "subtitulo": "Capítulo 98"
-    },
-    {
-      "numero": "Capítulo 99",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones99.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1681021995611",
-      "subtitulo": "Capítulo 99"
-    },
-    {
-      "numero": "Capítulo 100",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones100.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1681021733467",
-      "subtitulo": "Capítulo 100"
-    },
-    {
-      "numero": "Capítulo 101",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones101.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1681021864539",
-      "subtitulo": "Capítulo 101"
-    },
-    {
-      "numero": "Capítulo 102",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones102.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1681021602395",
-      "subtitulo": "Capítulo 102"
-    },
-    {
-      "numero": "Capítulo 103",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones103.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1681021799003",
-      "subtitulo": "Capítulo 103"
-    },
-    {
-      "numero": "Capítulo 104",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones104.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1681021667931",
-      "subtitulo": "Capítulo 104"
-    },
-    {
-      "numero": "Capítulo 105",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones105.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1681033661019",
-      "subtitulo": "Capítulo 105"
-    },
-    {
-      "numero": "Capítulo 106",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones106.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1681033595483",
-      "subtitulo": "Capítulo 106"
-    },
-    {
-      "numero": "Capítulo 107",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones107.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1681033792091",
-      "subtitulo": "Capítulo 107"
-    },
-    {
-      "numero": "Capítulo 108",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones108.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1681033923163",
-      "subtitulo": "Capítulo 108"
-    },
-    {
-      "numero": "Capítulo 109",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones109.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1681033464411",
-      "subtitulo": "Capítulo 109"
-    },
-    {
-      "numero": "Capítulo 110",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones110.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1681034054235",
-      "subtitulo": "Capítulo 110"
-    },
-    {
-      "numero": "Capítulo 111",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones111.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1681034119771",
-      "subtitulo": "Capítulo 111"
-    },
-    {
-      "numero": "Capítulo 112",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones112.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1681033726555",
-      "subtitulo": "Capítulo 112"
-    },
-    {
-      "numero": "Capítulo 113",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones113.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1681033333339",
-      "subtitulo": "Capítulo 113"
-    },
-    {
-      "numero": "Capítulo 114",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones114.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1681033988699",
-      "subtitulo": "Capítulo 114"
-    },
-    {
-      "numero": "Capítulo 115",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones115.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1681033857627",
-      "subtitulo": "Capítulo 115"
-    },
-    {
-      "numero": "Capítulo 116",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones116.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1681034185307",
-      "subtitulo": "Capítulo 116"
-    },
-    {
-      "numero": "Capítulo 117",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones117.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1681033398875",
-      "subtitulo": "Capítulo 117"
-    },
-    {
-      "numero": "Capítulo 118",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones118.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1681034250843",
-      "subtitulo": "Capítulo 118"
-    },
-    {
-      "numero": "Capítulo 119",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones119.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1681034316379",
-      "subtitulo": "Capítulo 119"
-    },
-    {
-      "numero": "Capítulo 120",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones120.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1681035430491",
-      "subtitulo": "Capítulo 120"
-    },
-    {
-      "numero": "Capítulo 121",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones121.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1681035496027",
-      "subtitulo": "Capítulo 121"
-    },
-    {
-      "numero": "Capítulo 122",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones122.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1681035561563",
-      "subtitulo": "Capítulo 122"
-    },
-    {
-      "numero": "Capítulo 123",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones123.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1681035627099",
-      "subtitulo": "Capítulo 123"
-    },
-    {
-      "numero": "Capítulo 124",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones124.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1681035692635",
-      "subtitulo": "Capítulo 124"
-    },
-    {
-      "numero": "Capítulo 125",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones125.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/1681033529947",
-      "subtitulo": "Capítulo 125"
-    }
-  ]
-}
+[
+  {
+    "numero": "Capítulo 1",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones1.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680881289819",
+    "subtitulo": "Capítulo 1"
+  },
+  {
+    "numero": "Capítulo 2",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones2.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680881617499",
+    "subtitulo": "Capítulo 2"
+  },
+  {
+    "numero": "Capítulo 3",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones3.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680881945179",
+    "subtitulo": "Capítulo 3"
+  },
+  {
+    "numero": "Capítulo 4",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones4.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680882076251",
+    "subtitulo": "Capítulo 4"
+  },
+  {
+    "numero": "Capítulo 5",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones5.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680882207323",
+    "subtitulo": "Capítulo 5"
+  },
+  {
+    "numero": "Capítulo 6",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones6.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680882141787",
+    "subtitulo": "Capítulo 6"
+  },
+  {
+    "numero": "Capítulo 7",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones7.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680882010715",
+    "subtitulo": "Capítulo 7"
+  },
+  {
+    "numero": "Capítulo 8",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones8.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680881879643",
+    "subtitulo": "Capítulo 8"
+  },
+  {
+    "numero": "Capítulo 9",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones9.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680881224283",
+    "subtitulo": "Capítulo 9"
+  },
+  {
+    "numero": "Capítulo 10",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones10.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680881355355",
+    "subtitulo": "Capítulo 10"
+  },
+  {
+    "numero": "Capítulo 11",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones11.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680881486427",
+    "subtitulo": "Capítulo 11"
+  },
+  {
+    "numero": "Capítulo 12",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones12.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680881551963",
+    "subtitulo": "Capítulo 12"
+  },
+  {
+    "numero": "Capítulo 13",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones13.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680881420891",
+    "subtitulo": "Capítulo 13"
+  },
+  {
+    "numero": "Capítulo 14",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones14.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680881814107",
+    "subtitulo": "Capítulo 14"
+  },
+  {
+    "numero": "Capítulo 15",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones15.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680881748571",
+    "subtitulo": "Capítulo 15"
+  },
+  {
+    "numero": "Capítulo 16",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones16.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680881683035",
+    "subtitulo": "Capítulo 16"
+  },
+  {
+    "numero": "Capítulo 17",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones17.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680901278299",
+    "subtitulo": "Capítulo 17"
+  },
+  {
+    "numero": "Capítulo 18",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones18.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680900360795",
+    "subtitulo": "Capítulo 18"
+  },
+  {
+    "numero": "Capítulo 19",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones19.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680901343835",
+    "subtitulo": "Capítulo 19"
+  },
+  {
+    "numero": "Capítulo 20",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones20.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680901212763",
+    "subtitulo": "Capítulo 20"
+  },
+  {
+    "numero": "Capítulo 21",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones21.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680900426331",
+    "subtitulo": "Capítulo 21"
+  },
+  {
+    "numero": "Capítulo 22",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones22.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680901147227",
+    "subtitulo": "Capítulo 22"
+  },
+  {
+    "numero": "Capítulo 23",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones23.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680900491867",
+    "subtitulo": "Capítulo 23"
+  },
+  {
+    "numero": "Capítulo 24",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones24.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680900557403",
+    "subtitulo": "Capítulo 24"
+  },
+  {
+    "numero": "Capítulo 25",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones25.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680901016155",
+    "subtitulo": "Capítulo 25"
+  },
+  {
+    "numero": "Capítulo 26",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones26.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680900885083",
+    "subtitulo": "Capítulo 26"
+  },
+  {
+    "numero": "Capítulo 27",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones27.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680900754011",
+    "subtitulo": "Capítulo 27"
+  },
+  {
+    "numero": "Capítulo 28",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones28.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680900622939",
+    "subtitulo": "Capítulo 28"
+  },
+  {
+    "numero": "Capítulo 29",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones29.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680901081691",
+    "subtitulo": "Capítulo 29"
+  },
+  {
+    "numero": "Capítulo 30",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones30.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680900950619",
+    "subtitulo": "Capítulo 30"
+  },
+  {
+    "numero": "Capítulo 31",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones31.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680900819547",
+    "subtitulo": "Capítulo 31"
+  },
+  {
+    "numero": "Capítulo 32",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones32.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680900688475",
+    "subtitulo": "Capítulo 32"
+  },
+  {
+    "numero": "Capítulo 33",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones33.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680937912923",
+    "subtitulo": "Capítulo 33"
+  },
+  {
+    "numero": "Capítulo 34",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones34.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680938175067",
+    "subtitulo": "Capítulo 34"
+  },
+  {
+    "numero": "Capítulo 35",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones35.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680938437211",
+    "subtitulo": "Capítulo 35"
+  },
+  {
+    "numero": "Capítulo 36",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones36.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680938568283",
+    "subtitulo": "Capítulo 36"
+  },
+  {
+    "numero": "Capítulo 37",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones37.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680938502747",
+    "subtitulo": "Capítulo 37"
+  },
+  {
+    "numero": "Capítulo 38",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones38.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680938109531",
+    "subtitulo": "Capítulo 38"
+  },
+  {
+    "numero": "Capítulo 39",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones39.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680937978459",
+    "subtitulo": "Capítulo 39"
+  },
+  {
+    "numero": "Capítulo 40",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones40.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680938306139",
+    "subtitulo": "Capítulo 40"
+  },
+  {
+    "numero": "Capítulo 41",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones41.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680959801947",
+    "subtitulo": "Capítulo 41"
+  },
+  {
+    "numero": "Capítulo 42",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones42.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680959474267",
+    "subtitulo": "Capítulo 42"
+  },
+  {
+    "numero": "Capítulo 43",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones43.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680959539803",
+    "subtitulo": "Capítulo 43"
+  },
+  {
+    "numero": "Capítulo 44",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones44.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680959736411",
+    "subtitulo": "Capítulo 44"
+  },
+  {
+    "numero": "Capítulo 45",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones45.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680959670875",
+    "subtitulo": "Capítulo 45"
+  },
+  {
+    "numero": "Capítulo 46",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones46.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680959998555",
+    "subtitulo": "Capítulo 46"
+  },
+  {
+    "numero": "Capítulo 47",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones47.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680960064091",
+    "subtitulo": "Capítulo 47"
+  },
+  {
+    "numero": "Capítulo 48",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones48.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680959933019",
+    "subtitulo": "Capítulo 48"
+  },
+  {
+    "numero": "Capítulo 49",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones49.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680963013211",
+    "subtitulo": "Capítulo 49"
+  },
+  {
+    "numero": "Capítulo 50",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones50.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680963078747",
+    "subtitulo": "Capítulo 50"
+  },
+  {
+    "numero": "Capítulo 51",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones51.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680963144283",
+    "subtitulo": "Capítulo 51"
+  },
+  {
+    "numero": "Capítulo 52",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones52.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680963209819",
+    "subtitulo": "Capítulo 52"
+  },
+  {
+    "numero": "Capítulo 53",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones53.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680963340891",
+    "subtitulo": "Capítulo 53"
+  },
+  {
+    "numero": "Capítulo 54",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones54.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680963471963",
+    "subtitulo": "Capítulo 54"
+  },
+  {
+    "numero": "Capítulo 55",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones55.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680963406427",
+    "subtitulo": "Capítulo 55"
+  },
+  {
+    "numero": "Capítulo 56",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones56.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680963275355",
+    "subtitulo": "Capítulo 56"
+  },
+  {
+    "numero": "Capítulo 57",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones57.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680978938459",
+    "subtitulo": "Capítulo 57"
+  },
+  {
+    "numero": "Capítulo 58",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones58.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680979003995",
+    "subtitulo": "Capítulo 58"
+  },
+  {
+    "numero": "Capítulo 59",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones59.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680979855963",
+    "subtitulo": "Capítulo 59"
+  },
+  {
+    "numero": "Capítulo 60",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones60.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680979200603",
+    "subtitulo": "Capítulo 60"
+  },
+  {
+    "numero": "Capítulo 61",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones61.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680979593819",
+    "subtitulo": "Capítulo 61"
+  },
+  {
+    "numero": "Capítulo 62",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones62.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680979724891",
+    "subtitulo": "Capítulo 62"
+  },
+  {
+    "numero": "Capítulo 63",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones63.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680979069531",
+    "subtitulo": "Capítulo 63"
+  },
+  {
+    "numero": "Capítulo 64",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones64.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680979790427",
+    "subtitulo": "Capítulo 64"
+  },
+  {
+    "numero": "Capítulo 65",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones65.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680979462747",
+    "subtitulo": "Capítulo 65"
+  },
+  {
+    "numero": "Capítulo 66",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones66.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680979659355",
+    "subtitulo": "Capítulo 66"
+  },
+  {
+    "numero": "Capítulo 67",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones67.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680979397211",
+    "subtitulo": "Capítulo 67"
+  },
+  {
+    "numero": "Capítulo 68",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones68.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680979266139",
+    "subtitulo": "Capítulo 68"
+  },
+  {
+    "numero": "Capítulo 69",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones69.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680979135067",
+    "subtitulo": "Capítulo 69"
+  },
+  {
+    "numero": "Capítulo 70",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones70.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680979921499",
+    "subtitulo": "Capítulo 70"
+  },
+  {
+    "numero": "Capítulo 71",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones71.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680979331675",
+    "subtitulo": "Capítulo 71"
+  },
+  {
+    "numero": "Capítulo 72",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones72.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680979528283",
+    "subtitulo": "Capítulo 72"
+  },
+  {
+    "numero": "Capítulo 73",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones73.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680995125851",
+    "subtitulo": "Capítulo 73"
+  },
+  {
+    "numero": "Capítulo 74",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones74.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680995912283",
+    "subtitulo": "Capítulo 74"
+  },
+  {
+    "numero": "Capítulo 75",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones75.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680996043355",
+    "subtitulo": "Capítulo 75"
+  },
+  {
+    "numero": "Capítulo 76",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones76.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680996108891",
+    "subtitulo": "Capítulo 76"
+  },
+  {
+    "numero": "Capítulo 77",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones77.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680995191387",
+    "subtitulo": "Capítulo 77"
+  },
+  {
+    "numero": "Capítulo 78",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones78.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680995781211",
+    "subtitulo": "Capítulo 78"
+  },
+  {
+    "numero": "Capítulo 79",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones79.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680995650139",
+    "subtitulo": "Capítulo 79"
+  },
+  {
+    "numero": "Capítulo 80",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones80.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680995519067",
+    "subtitulo": "Capítulo 80"
+  },
+  {
+    "numero": "Capítulo 81",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones81.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680995387995",
+    "subtitulo": "Capítulo 81"
+  },
+  {
+    "numero": "Capítulo 82",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones82.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680995322459",
+    "subtitulo": "Capítulo 82"
+  },
+  {
+    "numero": "Capítulo 83",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones83.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680995256923",
+    "subtitulo": "Capítulo 83"
+  },
+  {
+    "numero": "Capítulo 84",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones84.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680995846747",
+    "subtitulo": "Capítulo 84"
+  },
+  {
+    "numero": "Capítulo 85",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones85.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680995715675",
+    "subtitulo": "Capítulo 85"
+  },
+  {
+    "numero": "Capítulo 86",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones86.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680995584603",
+    "subtitulo": "Capítulo 86"
+  },
+  {
+    "numero": "Capítulo 87",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones87.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680995453531",
+    "subtitulo": "Capítulo 87"
+  },
+  {
+    "numero": "Capítulo 88",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones88.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1680995977819",
+    "subtitulo": "Capítulo 88"
+  },
+  {
+    "numero": "Capítulo 89",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones89.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1681007708763",
+    "subtitulo": "Capítulo 89"
+  },
+  {
+    "numero": "Capítulo 90",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones90.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1681007577691",
+    "subtitulo": "Capítulo 90"
+  },
+  {
+    "numero": "Capítulo 91",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones91.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1681007839835",
+    "subtitulo": "Capítulo 91"
+  },
+  {
+    "numero": "Capítulo 92",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones92.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1681007643227",
+    "subtitulo": "Capítulo 92"
+  },
+  {
+    "numero": "Capítulo 93",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones93.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1681007512155",
+    "subtitulo": "Capítulo 93"
+  },
+  {
+    "numero": "Capítulo 94",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones94.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1681007381083",
+    "subtitulo": "Capítulo 94"
+  },
+  {
+    "numero": "Capítulo 95",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones95.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1681007774299",
+    "subtitulo": "Capítulo 95"
+  },
+  {
+    "numero": "Capítulo 96",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones96.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1681007446619",
+    "subtitulo": "Capítulo 96"
+  },
+  {
+    "numero": "Capítulo 97",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones97.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1681021536859",
+    "subtitulo": "Capítulo 97"
+  },
+  {
+    "numero": "Capítulo 98",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones98.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1681021930075",
+    "subtitulo": "Capítulo 98"
+  },
+  {
+    "numero": "Capítulo 99",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones99.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1681021995611",
+    "subtitulo": "Capítulo 99"
+  },
+  {
+    "numero": "Capítulo 100",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones100.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1681021733467",
+    "subtitulo": "Capítulo 100"
+  },
+  {
+    "numero": "Capítulo 101",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones101.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1681021864539",
+    "subtitulo": "Capítulo 101"
+  },
+  {
+    "numero": "Capítulo 102",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones102.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1681021602395",
+    "subtitulo": "Capítulo 102"
+  },
+  {
+    "numero": "Capítulo 103",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones103.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1681021799003",
+    "subtitulo": "Capítulo 103"
+  },
+  {
+    "numero": "Capítulo 104",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones104.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1681021667931",
+    "subtitulo": "Capítulo 104"
+  },
+  {
+    "numero": "Capítulo 105",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones105.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1681033661019",
+    "subtitulo": "Capítulo 105"
+  },
+  {
+    "numero": "Capítulo 106",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones106.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1681033595483",
+    "subtitulo": "Capítulo 106"
+  },
+  {
+    "numero": "Capítulo 107",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones107.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1681033792091",
+    "subtitulo": "Capítulo 107"
+  },
+  {
+    "numero": "Capítulo 108",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones108.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1681033923163",
+    "subtitulo": "Capítulo 108"
+  },
+  {
+    "numero": "Capítulo 109",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones109.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1681033464411",
+    "subtitulo": "Capítulo 109"
+  },
+  {
+    "numero": "Capítulo 110",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones110.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1681034054235",
+    "subtitulo": "Capítulo 110"
+  },
+  {
+    "numero": "Capítulo 111",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones111.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1681034119771",
+    "subtitulo": "Capítulo 111"
+  },
+  {
+    "numero": "Capítulo 112",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones112.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1681033726555",
+    "subtitulo": "Capítulo 112"
+  },
+  {
+    "numero": "Capítulo 113",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones113.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1681033333339",
+    "subtitulo": "Capítulo 113"
+  },
+  {
+    "numero": "Capítulo 114",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones114.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1681033988699",
+    "subtitulo": "Capítulo 114"
+  },
+  {
+    "numero": "Capítulo 115",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones115.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1681033857627",
+    "subtitulo": "Capítulo 115"
+  },
+  {
+    "numero": "Capítulo 116",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones116.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1681034185307",
+    "subtitulo": "Capítulo 116"
+  },
+  {
+    "numero": "Capítulo 117",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones117.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1681033398875",
+    "subtitulo": "Capítulo 117"
+  },
+  {
+    "numero": "Capítulo 118",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones118.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1681034250843",
+    "subtitulo": "Capítulo 118"
+  },
+  {
+    "numero": "Capítulo 119",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones119.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1681034316379",
+    "subtitulo": "Capítulo 119"
+  },
+  {
+    "numero": "Capítulo 120",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones120.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1681035430491",
+    "subtitulo": "Capítulo 120"
+  },
+  {
+    "numero": "Capítulo 121",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones121.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1681035496027",
+    "subtitulo": "Capítulo 121"
+  },
+  {
+    "numero": "Capítulo 122",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones122.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1681035561563",
+    "subtitulo": "Capítulo 122"
+  },
+  {
+    "numero": "Capítulo 123",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones123.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1681035627099",
+    "subtitulo": "Capítulo 123"
+  },
+  {
+    "numero": "Capítulo 124",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones124.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1681035692635",
+    "subtitulo": "Capítulo 124"
+  },
+  {
+    "numero": "Capítulo 125",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/duelodepasiones/duelodepasiones125.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/1681033529947",
+    "subtitulo": "Capítulo 125"
+  }
+]

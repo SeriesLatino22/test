@@ -1,0 +1,29 @@
+{
+  "id": "el_tercer_reich_en_color_s1",
+  "titulo": "El Tercer Reich en Color",
+  "subtitulo": "El Tercer Reich en Color: Temporada 1",
+  "portada": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/el_tercer_reich_en_color.webp",
+  "capitulos": [
+    {
+      "numero": "Capítulo 1",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_eur221qt/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 01 – El Dictador",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 1"
+    },
+    {
+      "numero": "Capítulo 2",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_yxeqa50h/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 02 – Guerra Contra Hitler",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 2"
+    },
+    {
+      "numero": "Capítulo 3",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_6oxm9wnk/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Episodio 03 – La Liberación de Francia",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 3"
+    }
+  ]
+}

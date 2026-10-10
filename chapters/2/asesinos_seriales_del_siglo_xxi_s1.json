@@ -1,0 +1,50 @@
+{
+  "id": "asesinos_seriales_del_siglo_xxi_s1",
+  "titulo": "Asesinos Seriales del Siglo XXI",
+  "subtitulo": "Asesinos Seriales del Siglo XXI: Temporada 1",
+  "portada": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/asesinos_seriales_del_siglo_xxi.webp",
+  "capitulos": [
+    {
+      "numero": "Capítulo 1",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_8fzvt6ac/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Jesse Matthew",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 1"
+    },
+    {
+      "numero": "Capítulo 2",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_5k1oelpd/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Stephen Port",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 2"
+    },
+    {
+      "numero": "Capítulo 3",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_6q1emv8f/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "William Howell",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 3"
+    },
+    {
+      "numero": "Capítulo 4",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_jj2qann7/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "James Fairweather",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 4"
+    },
+    {
+      "numero": "Capítulo 5",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_ynyt40e8/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Mark Martin",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 5"
+    },
+    {
+      "numero": "Capítulo 6",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_d4b4n7io/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Shawn Grate",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 6"
+    }
+  ]
+}

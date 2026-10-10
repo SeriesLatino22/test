@@ -1,0 +1,64 @@
+{
+  "id": "citas_letales_s1",
+  "titulo": "Citas Letales",
+  "subtitulo": "Citas Letales: Temporada 1",
+  "portada": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/citas_letales.webp",
+  "capitulos": [
+    {
+      "numero": "Capítulo 1",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_b69kyhyb/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Nadine Aburas",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 1"
+    },
+    {
+      "numero": "Capítulo 2",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_b83t7pa7/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Nicole White",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 2"
+    },
+    {
+      "numero": "Capítulo 3",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_1ijs6ki9/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Ashley Pegram",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 3"
+    },
+    {
+      "numero": "Capítulo 4",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_mdknnoej/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Lorraine Long",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 4"
+    },
+    {
+      "numero": "Capítulo 5",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_3pdfgyyb/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Sharon Siermans",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 5"
+    },
+    {
+      "numero": "Capítulo 6",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_ru5hbc2o/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Kayleigh Haywood",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 6"
+    },
+    {
+      "numero": "Capítulo 7",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_m3g7yoym/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Clare Wood",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 7"
+    },
+    {
+      "numero": "Capítulo 8",
+      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_8pm3zc0d/format/applehttp/protocol/https/a.m3u8",
+      "titulo": "Carly Ryan",
+      "rumbleUrl": "",
+      "subtitulo": "Capítulo 8"
+    }
+  ]
+}

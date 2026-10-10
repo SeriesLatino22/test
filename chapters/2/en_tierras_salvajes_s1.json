@@ -1,498 +1,492 @@
-{
-  "id": "en_tierras_salvajes_s1",
-  "titulo": "En tierras salvajes",
-  "subtitulo": "En tierras salvajes: Temporada 1",
-  "portada": "",
-  "capitulos": [
-    {
-      "numero": "Capítulo 1",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje1.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171062442512",
-      "subtitulo": "Capítulo 1"
-    },
-    {
-      "numero": "Capítulo 2",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje2.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171062639120",
-      "subtitulo": "Capítulo 2"
-    },
-    {
-      "numero": "Capítulo 3",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje3.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171061983760",
-      "subtitulo": "Capítulo 3"
-    },
-    {
-      "numero": "Capítulo 4",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje4.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171062508048",
-      "subtitulo": "Capítulo 4"
-    },
-    {
-      "numero": "Capítulo 5",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje5.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171062311440",
-      "subtitulo": "Capítulo 5"
-    },
-    {
-      "numero": "Capítulo 6",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje6.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171062245904",
-      "subtitulo": "Capítulo 6"
-    },
-    {
-      "numero": "Capítulo 7",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje7.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171062704656",
-      "subtitulo": "Capítulo 7"
-    },
-    {
-      "numero": "Capítulo 8",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje8.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171062376976",
-      "subtitulo": "Capítulo 8"
-    },
-    {
-      "numero": "Capítulo 9",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje9.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171061787152",
-      "subtitulo": "Capítulo 9"
-    },
-    {
-      "numero": "Capítulo 10",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje10.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171062573584",
-      "subtitulo": "Capítulo 10"
-    },
-    {
-      "numero": "Capítulo 11",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje11.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171062180368",
-      "subtitulo": "Capítulo 11"
-    },
-    {
-      "numero": "Capítulo 12",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje12.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171061656080",
-      "subtitulo": "Capítulo 12"
-    },
-    {
-      "numero": "Capítulo 13",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje13.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171061852688",
-      "subtitulo": "Capítulo 13"
-    },
-    {
-      "numero": "Capítulo 14",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje14.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171062049296",
-      "subtitulo": "Capítulo 14"
-    },
-    {
-      "numero": "Capítulo 15",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje15.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171061721616",
-      "subtitulo": "Capítulo 15"
-    },
-    {
-      "numero": "Capítulo 16",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje16.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171061590544",
-      "subtitulo": "Capítulo 16"
-    },
-    {
-      "numero": "Capítulo 17",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje17.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171061918224",
-      "subtitulo": "Capítulo 17"
-    },
-    {
-      "numero": "Capítulo 18",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje18.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171062114832",
-      "subtitulo": "Capítulo 18"
-    },
-    {
-      "numero": "Capítulo 19",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje19.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171063687696",
-      "subtitulo": "Capítulo 19"
-    },
-    {
-      "numero": "Capítulo 20",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje20.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171063032336",
-      "subtitulo": "Capítulo 20"
-    },
-    {
-      "numero": "Capítulo 21",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje21.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171063425552",
-      "subtitulo": "Capítulo 21"
-    },
-    {
-      "numero": "Capítulo 22",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje22.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171063949840",
-      "subtitulo": "Capítulo 22"
-    },
-    {
-      "numero": "Capítulo 23",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje23.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171063294480",
-      "subtitulo": "Capítulo 23"
-    },
-    {
-      "numero": "Capítulo 24",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje24.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171063097872",
-      "subtitulo": "Capítulo 24"
-    },
-    {
-      "numero": "Capítulo 25",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje25.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171063228944",
-      "subtitulo": "Capítulo 25"
-    },
-    {
-      "numero": "Capítulo 26",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje26.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171062966800",
-      "subtitulo": "Capítulo 26"
-    },
-    {
-      "numero": "Capítulo 27",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje27.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171063163408",
-      "subtitulo": "Capítulo 27"
-    },
-    {
-      "numero": "Capítulo 28",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje28.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171063360016",
-      "subtitulo": "Capítulo 28"
-    },
-    {
-      "numero": "Capítulo 29",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje29.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171062835728",
-      "subtitulo": "Capítulo 29"
-    },
-    {
-      "numero": "Capítulo 30",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje30.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171062901264",
-      "subtitulo": "Capítulo 30"
-    },
-    {
-      "numero": "Capítulo 31",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje31.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171063753232",
-      "subtitulo": "Capítulo 31"
-    },
-    {
-      "numero": "Capítulo 32",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje32.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171063884304",
-      "subtitulo": "Capítulo 32"
-    },
-    {
-      "numero": "Capítulo 33",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje33.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171063818768",
-      "subtitulo": "Capítulo 33"
-    },
-    {
-      "numero": "Capítulo 34",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje34.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171063491088",
-      "subtitulo": "Capítulo 34"
-    },
-    {
-      "numero": "Capítulo 35",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje35.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171063556624",
-      "subtitulo": "Capítulo 35"
-    },
-    {
-      "numero": "Capítulo 36",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje36.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171063622160",
-      "subtitulo": "Capítulo 36"
-    },
-    {
-      "numero": "Capítulo 37",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje37.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171065195024",
-      "subtitulo": "Capítulo 37"
-    },
-    {
-      "numero": "Capítulo 38",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje38.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171064736272",
-      "subtitulo": "Capítulo 38"
-    },
-    {
-      "numero": "Capítulo 39",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje39.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171065260560",
-      "subtitulo": "Capítulo 39"
-    },
-    {
-      "numero": "Capítulo 40",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje40.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171064867344",
-      "subtitulo": "Capítulo 40"
-    },
-    {
-      "numero": "Capítulo 41",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje41.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171064801808",
-      "subtitulo": "Capítulo 41"
-    },
-    {
-      "numero": "Capítulo 42",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje42.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171064539664",
-      "subtitulo": "Capítulo 42"
-    },
-    {
-      "numero": "Capítulo 43",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje43.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171064408592",
-      "subtitulo": "Capítulo 43"
-    },
-    {
-      "numero": "Capítulo 44",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje44.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171064998416",
-      "subtitulo": "Capítulo 44"
-    },
-    {
-      "numero": "Capítulo 45",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje45.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171064932880",
-      "subtitulo": "Capítulo 45"
-    },
-    {
-      "numero": "Capítulo 46",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje46.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171065457168",
-      "subtitulo": "Capítulo 46"
-    },
-    {
-      "numero": "Capítulo 47",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje47.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171065129488",
-      "subtitulo": "Capítulo 47"
-    },
-    {
-      "numero": "Capítulo 48",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje48.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171064605200",
-      "subtitulo": "Capítulo 48"
-    },
-    {
-      "numero": "Capítulo 49",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje49.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171064670736",
-      "subtitulo": "Capítulo 49"
-    },
-    {
-      "numero": "Capítulo 50",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje50.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171064277520",
-      "subtitulo": "Capítulo 50"
-    },
-    {
-      "numero": "Capítulo 51",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje51.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171065391632",
-      "subtitulo": "Capítulo 51"
-    },
-    {
-      "numero": "Capítulo 52",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje52.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171065063952",
-      "subtitulo": "Capítulo 52"
-    },
-    {
-      "numero": "Capítulo 53",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje53.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171064474128",
-      "subtitulo": "Capítulo 53"
-    },
-    {
-      "numero": "Capítulo 54",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje54.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171064211984",
-      "subtitulo": "Capítulo 54"
-    },
-    {
-      "numero": "Capítulo 55",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje55.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171066112528",
-      "subtitulo": "Capítulo 55"
-    },
-    {
-      "numero": "Capítulo 56",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje56.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171066046992",
-      "subtitulo": "Capítulo 56"
-    },
-    {
-      "numero": "Capítulo 57",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje57.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171066178064",
-      "subtitulo": "Capítulo 57"
-    },
-    {
-      "numero": "Capítulo 58",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje58.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171066898960",
-      "subtitulo": "Capítulo 58"
-    },
-    {
-      "numero": "Capítulo 59",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje59.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171065850384",
-      "subtitulo": "Capítulo 59"
-    },
-    {
-      "numero": "Capítulo 60",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje60.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171065915920",
-      "subtitulo": "Capítulo 60"
-    },
-    {
-      "numero": "Capítulo 61",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje61.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171066833424",
-      "subtitulo": "Capítulo 61"
-    },
-    {
-      "numero": "Capítulo 62",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje62.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171066243600",
-      "subtitulo": "Capítulo 62"
-    },
-    {
-      "numero": "Capítulo 63",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje63.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171066767888",
-      "subtitulo": "Capítulo 63"
-    },
-    {
-      "numero": "Capítulo 64",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje64.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171065981456",
-      "subtitulo": "Capítulo 64"
-    },
-    {
-      "numero": "Capítulo 65",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje65.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171066571280",
-      "subtitulo": "Capítulo 65"
-    },
-    {
-      "numero": "Capítulo 66",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje66.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171066309136",
-      "subtitulo": "Capítulo 66"
-    },
-    {
-      "numero": "Capítulo 67",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje67.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171066440208",
-      "subtitulo": "Capítulo 67"
-    },
-    {
-      "numero": "Capítulo 68",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje68.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171066636816",
-      "subtitulo": "Capítulo 68"
-    },
-    {
-      "numero": "Capítulo 69",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje69.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171066505744",
-      "subtitulo": "Capítulo 69"
-    },
-    {
-      "numero": "Capítulo 70",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje70.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/5171066702352",
-      "subtitulo": "Capítulo 70"
-    }
-  ]
-}
+[
+  {
+    "numero": "Capítulo 1",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje1.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2233794693782",
+    "subtitulo": "Capítulo 1"
+  },
+  {
+    "numero": "Capítulo 2",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje2.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2233795021462",
+    "subtitulo": "Capítulo 2"
+  },
+  {
+    "numero": "Capítulo 3",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje3.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2233795218070",
+    "subtitulo": "Capítulo 3"
+  },
+  {
+    "numero": "Capítulo 4",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje4.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2233795414678",
+    "subtitulo": "Capítulo 4"
+  },
+  {
+    "numero": "Capítulo 5",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje5.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2233795480214",
+    "subtitulo": "Capítulo 5"
+  },
+  {
+    "numero": "Capítulo 6",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje6.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2233795611286",
+    "subtitulo": "Capítulo 6"
+  },
+  {
+    "numero": "Capítulo 7",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje7.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2233795742358",
+    "subtitulo": "Capítulo 7"
+  },
+  {
+    "numero": "Capítulo 8",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje8.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2233795938966",
+    "subtitulo": "Capítulo 8"
+  },
+  {
+    "numero": "Capítulo 9",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje9.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2233796135574",
+    "subtitulo": "Capítulo 9"
+  },
+  {
+    "numero": "Capítulo 10",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje10.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2233796332182",
+    "subtitulo": "Capítulo 10"
+  },
+  {
+    "numero": "Capítulo 11",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje11.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2233796397718",
+    "subtitulo": "Capítulo 11"
+  },
+  {
+    "numero": "Capítulo 12",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje12.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2233796463254",
+    "subtitulo": "Capítulo 12"
+  },
+  {
+    "numero": "Capítulo 13",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje13.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2233796659862",
+    "subtitulo": "Capítulo 13"
+  },
+  {
+    "numero": "Capítulo 14",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje14.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2233796790934",
+    "subtitulo": "Capítulo 14"
+  },
+  {
+    "numero": "Capítulo 15",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje15.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2233796856470",
+    "subtitulo": "Capítulo 15"
+  },
+  {
+    "numero": "Capítulo 16",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje16.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2233796922006",
+    "subtitulo": "Capítulo 16"
+  },
+  {
+    "numero": "Capítulo 17",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje17.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2233797053078",
+    "subtitulo": "Capítulo 17"
+  },
+  {
+    "numero": "Capítulo 18",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje18.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2233797118614",
+    "subtitulo": "Capítulo 18"
+  },
+  {
+    "numero": "Capítulo 19",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje19.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2233797249686",
+    "subtitulo": "Capítulo 19"
+  },
+  {
+    "numero": "Capítulo 20",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje20.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2233797315222",
+    "subtitulo": "Capítulo 20"
+  },
+  {
+    "numero": "Capítulo 21",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje21.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2233922095766",
+    "subtitulo": "Capítulo 21"
+  },
+  {
+    "numero": "Capítulo 22",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje22.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2233922161302",
+    "subtitulo": "Capítulo 22"
+  },
+  {
+    "numero": "Capítulo 23",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje23.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2233922292374",
+    "subtitulo": "Capítulo 23"
+  },
+  {
+    "numero": "Capítulo 24",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje24.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2233922488982",
+    "subtitulo": "Capítulo 24"
+  },
+  {
+    "numero": "Capítulo 25",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje25.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2233922882198",
+    "subtitulo": "Capítulo 25"
+  },
+  {
+    "numero": "Capítulo 26",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje26.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2233923013270",
+    "subtitulo": "Capítulo 26"
+  },
+  {
+    "numero": "Capítulo 27",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje27.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2233923144342",
+    "subtitulo": "Capítulo 27"
+  },
+  {
+    "numero": "Capítulo 28",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje28.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2233923209878",
+    "subtitulo": "Capítulo 28"
+  },
+  {
+    "numero": "Capítulo 29",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje29.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2233923537558",
+    "subtitulo": "Capítulo 29"
+  },
+  {
+    "numero": "Capítulo 30",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje30.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2233923603094",
+    "subtitulo": "Capítulo 30"
+  },
+  {
+    "numero": "Capítulo 31",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje31.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2233923668630",
+    "subtitulo": "Capítulo 31"
+  },
+  {
+    "numero": "Capítulo 32",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje32.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2233923865238",
+    "subtitulo": "Capítulo 32"
+  },
+  {
+    "numero": "Capítulo 33",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje33.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2233924061846",
+    "subtitulo": "Capítulo 33"
+  },
+  {
+    "numero": "Capítulo 34",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje34.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2233924127382",
+    "subtitulo": "Capítulo 34"
+  },
+  {
+    "numero": "Capítulo 35",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje35.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2233924258454",
+    "subtitulo": "Capítulo 35"
+  },
+  {
+    "numero": "Capítulo 36",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje36.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2233924323990",
+    "subtitulo": "Capítulo 36"
+  },
+  {
+    "numero": "Capítulo 37",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje37.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2233924455062",
+    "subtitulo": "Capítulo 37"
+  },
+  {
+    "numero": "Capítulo 38",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje38.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2233924586134",
+    "subtitulo": "Capítulo 38"
+  },
+  {
+    "numero": "Capítulo 39",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje39.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2233924717206",
+    "subtitulo": "Capítulo 39"
+  },
+  {
+    "numero": "Capítulo 40",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje40.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2233924848278",
+    "subtitulo": "Capítulo 40"
+  },
+  {
+    "numero": "Capítulo 41",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje41.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2234095831702",
+    "subtitulo": "Capítulo 41"
+  },
+  {
+    "numero": "Capítulo 42",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje42.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2234096224918",
+    "subtitulo": "Capítulo 42"
+  },
+  {
+    "numero": "Capítulo 43",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje43.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2234096355990",
+    "subtitulo": "Capítulo 43"
+  },
+  {
+    "numero": "Capítulo 44",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje44.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2234096552598",
+    "subtitulo": "Capítulo 44"
+  },
+  {
+    "numero": "Capítulo 45",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje45.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2234096618134",
+    "subtitulo": "Capítulo 45"
+  },
+  {
+    "numero": "Capítulo 46",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje46.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2234096683670",
+    "subtitulo": "Capítulo 46"
+  },
+  {
+    "numero": "Capítulo 47",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje47.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2234096880278",
+    "subtitulo": "Capítulo 47"
+  },
+  {
+    "numero": "Capítulo 48",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje48.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2234097011350",
+    "subtitulo": "Capítulo 48"
+  },
+  {
+    "numero": "Capítulo 49",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje49.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2234097404566",
+    "subtitulo": "Capítulo 49"
+  },
+  {
+    "numero": "Capítulo 50",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje50.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2234097601174",
+    "subtitulo": "Capítulo 50"
+  },
+  {
+    "numero": "Capítulo 51",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje51.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2234098322070",
+    "subtitulo": "Capítulo 51"
+  },
+  {
+    "numero": "Capítulo 52",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje52.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2234098518678",
+    "subtitulo": "Capítulo 52"
+  },
+  {
+    "numero": "Capítulo 53",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje53.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2234098780822",
+    "subtitulo": "Capítulo 53"
+  },
+  {
+    "numero": "Capítulo 54",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje54.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2234098846358",
+    "subtitulo": "Capítulo 54"
+  },
+  {
+    "numero": "Capítulo 55",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje55.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2234098977430",
+    "subtitulo": "Capítulo 55"
+  },
+  {
+    "numero": "Capítulo 56",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje56.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2234099042966",
+    "subtitulo": "Capítulo 56"
+  },
+  {
+    "numero": "Capítulo 57",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje57.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2234099239574",
+    "subtitulo": "Capítulo 57"
+  },
+  {
+    "numero": "Capítulo 58",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje58.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2234099501718",
+    "subtitulo": "Capítulo 58"
+  },
+  {
+    "numero": "Capítulo 59",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje59.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2234099567254",
+    "subtitulo": "Capítulo 59"
+  },
+  {
+    "numero": "Capítulo 60",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje60.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2234099698326",
+    "subtitulo": "Capítulo 60"
+  },
+  {
+    "numero": "Capítulo 61",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje61.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2234205866646",
+    "subtitulo": "Capítulo 61"
+  },
+  {
+    "numero": "Capítulo 62",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje62.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2234205997718",
+    "subtitulo": "Capítulo 62"
+  },
+  {
+    "numero": "Capítulo 63",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje63.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2234206063254",
+    "subtitulo": "Capítulo 63"
+  },
+  {
+    "numero": "Capítulo 64",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje64.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2234206128790",
+    "subtitulo": "Capítulo 64"
+  },
+  {
+    "numero": "Capítulo 65",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje65.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2234206194326",
+    "subtitulo": "Capítulo 65"
+  },
+  {
+    "numero": "Capítulo 66",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje66.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2234206915222",
+    "subtitulo": "Capítulo 66"
+  },
+  {
+    "numero": "Capítulo 67",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje67.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2234207111830",
+    "subtitulo": "Capítulo 67"
+  },
+  {
+    "numero": "Capítulo 68",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje68.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2234207373974",
+    "subtitulo": "Capítulo 68"
+  },
+  {
+    "numero": "Capítulo 69",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje69.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2234207701654",
+    "subtitulo": "Capítulo 69"
+  },
+  {
+    "numero": "Capítulo 70",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/entierrassalvajes/entierrasalavje70.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/2234207832726",
+    "subtitulo": "Capítulo 70"
+  }
+]

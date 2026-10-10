@@ -1,568 +1,562 @@
-{
-  "id": "el_noveno_mandamiento_s1",
-  "titulo": "El Noveno Mandamiento",
-  "subtitulo": "El Noveno Mandamiento: Temporada 1",
-  "portada": "",
-  "capitulos": [
-    {
-      "numero": "Capítulo 1",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento001.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2511945796207",
-      "subtitulo": "Capítulo 1"
-    },
-    {
-      "numero": "Capítulo 2",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento002.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2511948155503",
-      "subtitulo": "Capítulo 2"
-    },
-    {
-      "numero": "Capítulo 3",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento003.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2512778234479",
-      "subtitulo": "Capítulo 3"
-    },
-    {
-      "numero": "Capítulo 4",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento004.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2512777972335",
-      "subtitulo": "Capítulo 4"
-    },
-    {
-      "numero": "Capítulo 5",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento005.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2512778431087",
-      "subtitulo": "Capítulo 5"
-    },
-    {
-      "numero": "Capítulo 6",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento006.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2512778496623",
-      "subtitulo": "Capítulo 6"
-    },
-    {
-      "numero": "Capítulo 7",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento007.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2512778103407",
-      "subtitulo": "Capítulo 7"
-    },
-    {
-      "numero": "Capítulo 8",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento008.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2512778168943",
-      "subtitulo": "Capítulo 8"
-    },
-    {
-      "numero": "Capítulo 9",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento009.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2512778300015",
-      "subtitulo": "Capítulo 9"
-    },
-    {
-      "numero": "Capítulo 10",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento010.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2512778365551",
-      "subtitulo": "Capítulo 10"
-    },
-    {
-      "numero": "Capítulo 11",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento011.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2512862186095",
-      "subtitulo": "Capítulo 11"
-    },
-    {
-      "numero": "Capítulo 12",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento012.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2512862513775",
-      "subtitulo": "Capítulo 12"
-    },
-    {
-      "numero": "Capítulo 13",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento013.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2512876604015",
-      "subtitulo": "Capítulo 13"
-    },
-    {
-      "numero": "Capítulo 14",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento014.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2512898099823",
-      "subtitulo": "Capítulo 14"
-    },
-    {
-      "numero": "Capítulo 15",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento015.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2512953870959",
-      "subtitulo": "Capítulo 15"
-    },
-    {
-      "numero": "Capítulo 16",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento016.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2513826417263",
-      "subtitulo": "Capítulo 16"
-    },
-    {
-      "numero": "Capítulo 17",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento017.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2514980571759",
-      "subtitulo": "Capítulo 17"
-    },
-    {
-      "numero": "Capítulo 18",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento018.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2514980375151",
-      "subtitulo": "Capítulo 18"
-    },
-    {
-      "numero": "Capítulo 19",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento019.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2514980506223",
-      "subtitulo": "Capítulo 19"
-    },
-    {
-      "numero": "Capítulo 20",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento020.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2514980440687",
-      "subtitulo": "Capítulo 20"
-    },
-    {
-      "numero": "Capítulo 21",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento021.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2517002488431",
-      "subtitulo": "Capítulo 21"
-    },
-    {
-      "numero": "Capítulo 22",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento022.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2517002422895",
-      "subtitulo": "Capítulo 22"
-    },
-    {
-      "numero": "Capítulo 23",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento023.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2517002553967",
-      "subtitulo": "Capítulo 23"
-    },
-    {
-      "numero": "Capítulo 24",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento024.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2517010352751",
-      "subtitulo": "Capítulo 24"
-    },
-    {
-      "numero": "Capítulo 25",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento025.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2517025622639",
-      "subtitulo": "Capítulo 25"
-    },
-    {
-      "numero": "Capítulo 26",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento026.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2519360014959",
-      "subtitulo": "Capítulo 26"
-    },
-    {
-      "numero": "Capítulo 27",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento027.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2519360211567",
-      "subtitulo": "Capítulo 27"
-    },
-    {
-      "numero": "Capítulo 28",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento028.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2519360408175",
-      "subtitulo": "Capítulo 28"
-    },
-    {
-      "numero": "Capítulo 29",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento029.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2519359949423",
-      "subtitulo": "Capítulo 29"
-    },
-    {
-      "numero": "Capítulo 30",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento030.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2519360277103",
-      "subtitulo": "Capítulo 30"
-    },
-    {
-      "numero": "Capítulo 31",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento031.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2519360080495",
-      "subtitulo": "Capítulo 31"
-    },
-    {
-      "numero": "Capítulo 32",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento032.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2519360342639",
-      "subtitulo": "Capítulo 32"
-    },
-    {
-      "numero": "Capítulo 33",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento033.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2519360146031",
-      "subtitulo": "Capítulo 33"
-    },
-    {
-      "numero": "Capítulo 34",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento034.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2519361063535",
-      "subtitulo": "Capítulo 34"
-    },
-    {
-      "numero": "Capítulo 35",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento035.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2519361129071",
-      "subtitulo": "Capítulo 35"
-    },
-    {
-      "numero": "Capítulo 36",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento036.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2538778200687",
-      "subtitulo": "Capítulo 36"
-    },
-    {
-      "numero": "Capítulo 37",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento037.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2538778135151",
-      "subtitulo": "Capítulo 37"
-    },
-    {
-      "numero": "Capítulo 38",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento038.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2538778069615",
-      "subtitulo": "Capítulo 38"
-    },
-    {
-      "numero": "Capítulo 39",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento039.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2538778004079",
-      "subtitulo": "Capítulo 39"
-    },
-    {
-      "numero": "Capítulo 40",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento040.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2538778856047",
-      "subtitulo": "Capítulo 40"
-    },
-    {
-      "numero": "Capítulo 41",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento041.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2539162241647",
-      "subtitulo": "Capítulo 41"
-    },
-    {
-      "numero": "Capítulo 42",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento042.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2539162110575",
-      "subtitulo": "Capítulo 42"
-    },
-    {
-      "numero": "Capítulo 43",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento043.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2539162176111",
-      "subtitulo": "Capítulo 43"
-    },
-    {
-      "numero": "Capítulo 44",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento044.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2539247372911",
-      "subtitulo": "Capítulo 44"
-    },
-    {
-      "numero": "Capítulo 45",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento045.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2539448044143",
-      "subtitulo": "Capítulo 45"
-    },
-    {
-      "numero": "Capítulo 46",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento046.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2539561618031",
-      "subtitulo": "Capítulo 46"
-    },
-    {
-      "numero": "Capítulo 47",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento047.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2539974756975",
-      "subtitulo": "Capítulo 47"
-    },
-    {
-      "numero": "Capítulo 48",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento048.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2539974888047",
-      "subtitulo": "Capítulo 48"
-    },
-    {
-      "numero": "Capítulo 49",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento049.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2539974953583",
-      "subtitulo": "Capítulo 49"
-    },
-    {
-      "numero": "Capítulo 50",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento050.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2539974822511",
-      "subtitulo": "Capítulo 50"
-    },
-    {
-      "numero": "Capítulo 51",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento051.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2563226536559",
-      "subtitulo": "Capítulo 51"
-    },
-    {
-      "numero": "Capítulo 52",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento052.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2563226471023",
-      "subtitulo": "Capítulo 52"
-    },
-    {
-      "numero": "Capítulo 53",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento053.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2563226405487",
-      "subtitulo": "Capítulo 53"
-    },
-    {
-      "numero": "Capítulo 54",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento054.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2563226995311",
-      "subtitulo": "Capítulo 54"
-    },
-    {
-      "numero": "Capítulo 55",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento055.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2564094495343",
-      "subtitulo": "Capítulo 55"
-    },
-    {
-      "numero": "Capítulo 56",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento056.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2569094105711",
-      "subtitulo": "Capítulo 56"
-    },
-    {
-      "numero": "Capítulo 57",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento057.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2569094236783",
-      "subtitulo": "Capítulo 57"
-    },
-    {
-      "numero": "Capítulo 58",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento058.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2569094367855",
-      "subtitulo": "Capítulo 58"
-    },
-    {
-      "numero": "Capítulo 59",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento059.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2569094302319",
-      "subtitulo": "Capítulo 59"
-    },
-    {
-      "numero": "Capítulo 60",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento060.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2569094171247",
-      "subtitulo": "Capítulo 60"
-    },
-    {
-      "numero": "Capítulo 61",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento061.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2571799235183",
-      "subtitulo": "Capítulo 61"
-    },
-    {
-      "numero": "Capítulo 62",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento062.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2571799300719",
-      "subtitulo": "Capítulo 62"
-    },
-    {
-      "numero": "Capítulo 63",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento063.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2571799104111",
-      "subtitulo": "Capítulo 63"
-    },
-    {
-      "numero": "Capítulo 64",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento064.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2571799169647",
-      "subtitulo": "Capítulo 64"
-    },
-    {
-      "numero": "Capítulo 65",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento065.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2571799825007",
-      "subtitulo": "Capítulo 65"
-    },
-    {
-      "numero": "Capítulo 66",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento066.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2573982435951",
-      "subtitulo": "Capítulo 66"
-    },
-    {
-      "numero": "Capítulo 67",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento067.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2573982567023",
-      "subtitulo": "Capítulo 67"
-    },
-    {
-      "numero": "Capítulo 68",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento068.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2573982370415",
-      "subtitulo": "Capítulo 68"
-    },
-    {
-      "numero": "Capítulo 69",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento069.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2573982501487",
-      "subtitulo": "Capítulo 69"
-    },
-    {
-      "numero": "Capítulo 70",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento070.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2573982304879",
-      "subtitulo": "Capítulo 70"
-    },
-    {
-      "numero": "Capítulo 71",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento071.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2574185269871",
-      "subtitulo": "Capítulo 71"
-    },
-    {
-      "numero": "Capítulo 72",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento072.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2574185335407",
-      "subtitulo": "Capítulo 72"
-    },
-    {
-      "numero": "Capítulo 73",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento073.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2574258932335",
-      "subtitulo": "Capítulo 73"
-    },
-    {
-      "numero": "Capítulo 74",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento074.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2574258997871",
-      "subtitulo": "Capítulo 74"
-    },
-    {
-      "numero": "Capítulo 75",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento075.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2574318176879",
-      "subtitulo": "Capítulo 75"
-    },
-    {
-      "numero": "Capítulo 76",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento076.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2574759299695",
-      "subtitulo": "Capítulo 76"
-    },
-    {
-      "numero": "Capítulo 77",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento077.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2574760610415",
-      "subtitulo": "Capítulo 77"
-    },
-    {
-      "numero": "Capítulo 78",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento078.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2574762445423",
-      "subtitulo": "Capítulo 78"
-    },
-    {
-      "numero": "Capítulo 79",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento079.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2574762510959",
-      "subtitulo": "Capítulo 79"
-    },
-    {
-      "numero": "Capítulo 80",
-      "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento080.mp4",
-      "titulo": "",
-      "rumbleUrl": "https://ok.ru/videoembed/2574762576495",
-      "subtitulo": "Capítulo 80"
-    }
-  ]
-}
+[
+  {
+    "numero": "Capítulo 1",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento001.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3623009651275",
+    "subtitulo": "Capítulo 1"
+  },
+  {
+    "numero": "Capítulo 2",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento002.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3623009913419",
+    "subtitulo": "Capítulo 2"
+  },
+  {
+    "numero": "Capítulo 3",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento003.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3623010110027",
+    "subtitulo": "Capítulo 3"
+  },
+  {
+    "numero": "Capítulo 4",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento004.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3623030622795",
+    "subtitulo": "Capítulo 4"
+  },
+  {
+    "numero": "Capítulo 5",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento005.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3623187188299",
+    "subtitulo": "Capítulo 5"
+  },
+  {
+    "numero": "Capítulo 6",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento006.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3625706261067",
+    "subtitulo": "Capítulo 6"
+  },
+  {
+    "numero": "Capítulo 7",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento007.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3625706457675",
+    "subtitulo": "Capítulo 7"
+  },
+  {
+    "numero": "Capítulo 8",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento008.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3625706981963",
+    "subtitulo": "Capítulo 8"
+  },
+  {
+    "numero": "Capítulo 9",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento009.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3625707440715",
+    "subtitulo": "Capítulo 9"
+  },
+  {
+    "numero": "Capítulo 10",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento010.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3639670344267",
+    "subtitulo": "Capítulo 10"
+  },
+  {
+    "numero": "Capítulo 11",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento011.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3639671261771",
+    "subtitulo": "Capítulo 11"
+  },
+  {
+    "numero": "Capítulo 12",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento012.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3639691184715",
+    "subtitulo": "Capítulo 12"
+  },
+  {
+    "numero": "Capítulo 13",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento013.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3639730768459",
+    "subtitulo": "Capítulo 13"
+  },
+  {
+    "numero": "Capítulo 14",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento014.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3654029478475",
+    "subtitulo": "Capítulo 14"
+  },
+  {
+    "numero": "Capítulo 15",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento015.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3654030527051",
+    "subtitulo": "Capítulo 15"
+  },
+  {
+    "numero": "Capítulo 16",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento016.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3674574555723",
+    "subtitulo": "Capítulo 16"
+  },
+  {
+    "numero": "Capítulo 17",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento017.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3674586090059",
+    "subtitulo": "Capítulo 17"
+  },
+  {
+    "numero": "Capítulo 18",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento018.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3674601032267",
+    "subtitulo": "Capítulo 18"
+  },
+  {
+    "numero": "Capítulo 19",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento019.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3677279816267",
+    "subtitulo": "Capítulo 19"
+  },
+  {
+    "numero": "Capítulo 20",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento020.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3677331393099",
+    "subtitulo": "Capítulo 20"
+  },
+  {
+    "numero": "Capítulo 21",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento021.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3677332703819",
+    "subtitulo": "Capítulo 21"
+  },
+  {
+    "numero": "Capítulo 22",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento022.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3677366520395",
+    "subtitulo": "Capítulo 22"
+  },
+  {
+    "numero": "Capítulo 23",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento023.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3679897913931",
+    "subtitulo": "Capítulo 23"
+  },
+  {
+    "numero": "Capítulo 24",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento024.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3679918099019",
+    "subtitulo": "Capítulo 24"
+  },
+  {
+    "numero": "Capítulo 25",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento025.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3679929961035",
+    "subtitulo": "Capítulo 25"
+  },
+  {
+    "numero": "Capítulo 26",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento026.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3679941888587",
+    "subtitulo": "Capítulo 26"
+  },
+  {
+    "numero": "Capítulo 27",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento027.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3687959628363",
+    "subtitulo": "Capítulo 27"
+  },
+  {
+    "numero": "Capítulo 28",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento028.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3687988070987",
+    "subtitulo": "Capítulo 28"
+  },
+  {
+    "numero": "Capítulo 29",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento029.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3690208365131",
+    "subtitulo": "Capítulo 29"
+  },
+  {
+    "numero": "Capítulo 30",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento030.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3690225207883",
+    "subtitulo": "Capítulo 30"
+  },
+  {
+    "numero": "Capítulo 31",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento031.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3690280847947",
+    "subtitulo": "Capítulo 31"
+  },
+  {
+    "numero": "Capítulo 32",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento032.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3692379703883",
+    "subtitulo": "Capítulo 32"
+  },
+  {
+    "numero": "Capítulo 33",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento033.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3692394646091",
+    "subtitulo": "Capítulo 33"
+  },
+  {
+    "numero": "Capítulo 34",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento034.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3692421777995",
+    "subtitulo": "Capítulo 34"
+  },
+  {
+    "numero": "Capítulo 35",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento035.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3752276593227",
+    "subtitulo": "Capítulo 35"
+  },
+  {
+    "numero": "Capítulo 36",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento036.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3752276658763",
+    "subtitulo": "Capítulo 36"
+  },
+  {
+    "numero": "Capítulo 37",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento037.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3752280918603",
+    "subtitulo": "Capítulo 37"
+  },
+  {
+    "numero": "Capítulo 38",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento038.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3753381595723",
+    "subtitulo": "Capítulo 38"
+  },
+  {
+    "numero": "Capítulo 39",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento039.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3753407679051",
+    "subtitulo": "Capítulo 39"
+  },
+  {
+    "numero": "Capítulo 40",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento040.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3753409514059",
+    "subtitulo": "Capítulo 40"
+  },
+  {
+    "numero": "Capítulo 41",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento041.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3753420261963",
+    "subtitulo": "Capítulo 41"
+  },
+  {
+    "numero": "Capítulo 42",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento042.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3754255518283",
+    "subtitulo": "Capítulo 42"
+  },
+  {
+    "numero": "Capítulo 43",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento043.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3754255845963",
+    "subtitulo": "Capítulo 43"
+  },
+  {
+    "numero": "Capítulo 44",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento044.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3758039173707",
+    "subtitulo": "Capítulo 44"
+  },
+  {
+    "numero": "Capítulo 45",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento045.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3758039894603",
+    "subtitulo": "Capítulo 45"
+  },
+  {
+    "numero": "Capítulo 46",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento046.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3758075808331",
+    "subtitulo": "Capítulo 46"
+  },
+  {
+    "numero": "Capítulo 47",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento047.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3758140820043",
+    "subtitulo": "Capítulo 47"
+  },
+  {
+    "numero": "Capítulo 48",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento048.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3758563330635",
+    "subtitulo": "Capítulo 48"
+  },
+  {
+    "numero": "Capítulo 49",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento049.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3758563854923",
+    "subtitulo": "Capítulo 49"
+  },
+  {
+    "numero": "Capítulo 50",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento050.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3758856407627",
+    "subtitulo": "Capítulo 50"
+  },
+  {
+    "numero": "Capítulo 51",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento051.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3762682399307",
+    "subtitulo": "Capítulo 51"
+  },
+  {
+    "numero": "Capítulo 52",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento052.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3762740791883",
+    "subtitulo": "Capítulo 52"
+  },
+  {
+    "numero": "Capítulo 53",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento053.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3762740988491",
+    "subtitulo": "Capítulo 53"
+  },
+  {
+    "numero": "Capítulo 54",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento054.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3762741250635",
+    "subtitulo": "Capítulo 54"
+  },
+  {
+    "numero": "Capítulo 55",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento055.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3763094489675",
+    "subtitulo": "Capítulo 55"
+  },
+  {
+    "numero": "Capítulo 56",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento056.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3763121031755",
+    "subtitulo": "Capítulo 56"
+  },
+  {
+    "numero": "Capítulo 57",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento057.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3763490851403",
+    "subtitulo": "Capítulo 57"
+  },
+  {
+    "numero": "Capítulo 58",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento058.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3763578014283",
+    "subtitulo": "Capítulo 58"
+  },
+  {
+    "numero": "Capítulo 59",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento059.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3763956288075",
+    "subtitulo": "Capítulo 59"
+  },
+  {
+    "numero": "Capítulo 60",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento060.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3763960547915",
+    "subtitulo": "Capítulo 60"
+  },
+  {
+    "numero": "Capítulo 61",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento061.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3763970509387",
+    "subtitulo": "Capítulo 61"
+  },
+  {
+    "numero": "Capítulo 62",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento062.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3763988073035",
+    "subtitulo": "Capítulo 62"
+  },
+  {
+    "numero": "Capítulo 63",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento063.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3795729713739",
+    "subtitulo": "Capítulo 63"
+  },
+  {
+    "numero": "Capítulo 64",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento064.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3795730500171",
+    "subtitulo": "Capítulo 64"
+  },
+  {
+    "numero": "Capítulo 65",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento065.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3795749243467",
+    "subtitulo": "Capítulo 65"
+  },
+  {
+    "numero": "Capítulo 66",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento066.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3795778210379",
+    "subtitulo": "Capítulo 66"
+  },
+  {
+    "numero": "Capítulo 67",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento067.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3827299519051",
+    "subtitulo": "Capítulo 67"
+  },
+  {
+    "numero": "Capítulo 68",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento068.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3827326847563",
+    "subtitulo": "Capítulo 68"
+  },
+  {
+    "numero": "Capítulo 69",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento069.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3827330189899",
+    "subtitulo": "Capítulo 69"
+  },
+  {
+    "numero": "Capítulo 70",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento070.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3827920800331",
+    "subtitulo": "Capítulo 70"
+  },
+  {
+    "numero": "Capítulo 71",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento071.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3827933514315",
+    "subtitulo": "Capítulo 71"
+  },
+  {
+    "numero": "Capítulo 72",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento072.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3828960725579",
+    "subtitulo": "Capítulo 72"
+  },
+  {
+    "numero": "Capítulo 73",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento073.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3835935394379",
+    "subtitulo": "Capítulo 73"
+  },
+  {
+    "numero": "Capítulo 74",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento074.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3835935787595",
+    "subtitulo": "Capítulo 74"
+  },
+  {
+    "numero": "Capítulo 75",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento075.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3835935984203",
+    "subtitulo": "Capítulo 75"
+  },
+  {
+    "numero": "Capítulo 76",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento076.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3836213791307",
+    "subtitulo": "Capítulo 76"
+  },
+  {
+    "numero": "Capítulo 77",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento077.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3836234697291",
+    "subtitulo": "Capítulo 77"
+  },
+  {
+    "numero": "Capítulo 78",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento078.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3836256455243",
+    "subtitulo": "Capítulo 78"
+  },
+  {
+    "numero": "Capítulo 79",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento079.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3836733360715",
+    "subtitulo": "Capítulo 79"
+  },
+  {
+    "numero": "Capítulo 80",
+    "urlOkru": "https://sv3.companove.com/novelasmelfret24/elnovenomandamiento/elnovenomandamiento080.mp4",
+    "titulo": "",
+    "rumbleUrl": "https://ok.ru/videoembed/3836734605899",
+    "subtitulo": "Capítulo 80"
+  }
+]
