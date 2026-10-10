@@ -438,6 +438,28 @@
     "localPoster": "/posters/gata_salvaje.webp"
   },
   {
+    "id": "doctor_en_turno",
+    "title": "Doctor en Turno",
+    "category": "Docudramas",
+    "ribbon": "NUEVO",
+    "defaultSeason": 1,
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/doctor_en_turno.webp",
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/doctor_en_turno_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/doctor_en_turno_s1.json",
+        "hasAdOverride": false,
+        "episodesCount": 200
+      }
+    ],
+    "episodesCount": 200,
+    "isPremium": false,
+    "hasAd": false,
+    "localPoster": "/posters/doctor_en_turno.webp"
+  },
+  {
     "id": "tan_cerca_de_ti_nace_el_amor",
     "title": "Tan cerca de ti, nace el amor",
     "category": "Mexicanas",
