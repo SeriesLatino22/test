@@ -1,24 +1,5 @@
 [
   {
-    "id": "novela-1791593384940",
-    "title": "infinito amor",
-    "category": "Recién agregadas",
-    "ribbon": "GRAN ESTRENO",
-    "defaultSeason": 1,
-    "posterUrl": "https://jsonoline-2ao.pages.dev/cdn/posters/1/1791592907527_infi.webp",
-    "targetUrl": "aa",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "aa",
-        "hasAdOverride": false
-      }
-    ],
-    "isPremium": false,
-    "hasAd": false
-  },
-  {
     "id": "el_senor_de_los_cielos_t10",
     "title": "El Señor de los Cielos",
     "category": "Narco Novelas",
@@ -92,6 +73,25 @@
     "isPremium": true,
     "hasAd": true,
     "localPoster": "/posters/senoirrt10.webp"
+  },
+  {
+    "id": "novela-1791593384940",
+    "title": "infinito amor",
+    "category": "Recién agregadas",
+    "ribbon": "GRAN ESTRENO",
+    "defaultSeason": 1,
+    "posterUrl": "https://jsonoline-2ao.pages.dev/cdn/posters/1/1791592907527_infi.webp",
+    "targetUrl": "aa",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "aa",
+        "hasAdOverride": false
+      }
+    ],
+    "isPremium": false,
+    "hasAd": false
   },
   {
     "id": "betty_la_fea_fans",
