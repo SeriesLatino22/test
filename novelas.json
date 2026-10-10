@@ -148,7 +148,8 @@
       }
     ],
     "isPremium": false,
-    "hasAd": false
+    "hasAd": false,
+    "localPoster": "/posters/1791592907527_infi.webp"
   },
   {
     "id": "novela-1790993700619",
@@ -435,26 +436,6 @@
     ],
     "episodesCount": 98,
     "localPoster": "/posters/gata_salvaje.webp"
-  },
-  {
-    "id": "doctor_en_turno",
-    "title": "Doctor en Turno",
-    "category": "Recién agregadas",
-    "ribbon": "NINGUNA",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/doctor_en_turno.webp",
-    "isPremium": false,
-    "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/doctor_en_turno_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/doctor_en_turno_s1.json",
-        "episodesCount": 200
-      }
-    ],
-    "episodesCount": 200,
-    "localPoster": "/posters/doctor_en_turno.webp"
   },
   {
     "id": "tan_cerca_de_ti_nace_el_amor",
