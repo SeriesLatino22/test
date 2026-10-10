@@ -75,25 +75,6 @@
     "localPoster": "/posters/senoirrt10.webp"
   },
   {
-    "id": "novela-1791593384940",
-    "title": "infinito amor",
-    "category": "Recién agregadas",
-    "ribbon": "GRAN ESTRENO",
-    "defaultSeason": 1,
-    "posterUrl": "https://jsonoline-2ao.pages.dev/cdn/posters/1/1791592907527_infi.webp",
-    "targetUrl": "aa",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "aa",
-        "hasAdOverride": false
-      }
-    ],
-    "isPremium": false,
-    "hasAd": false
-  },
-  {
     "id": "betty_la_fea_fans",
     "title": "Betty la fea - Fans",
     "category": "Colombianas",
@@ -149,6 +130,25 @@
     "isPremium": true,
     "hasAd": false,
     "localPoster": "/posters/betty.webp"
+  },
+  {
+    "id": "novela-1791593384940",
+    "title": "infinito amor",
+    "category": "Recién agregadas",
+    "ribbon": "GRAN ESTRENO",
+    "defaultSeason": 1,
+    "posterUrl": "https://jsonoline-2ao.pages.dev/cdn/posters/1/1791592907527_infi.webp",
+    "targetUrl": "aa",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "aa",
+        "hasAdOverride": false
+      }
+    ],
+    "isPremium": false,
+    "hasAd": false
   },
   {
     "id": "novela-1790993700619",
