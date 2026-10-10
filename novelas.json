@@ -133,17 +133,17 @@
   },
   {
     "id": "novela-1791593384940",
-    "title": "infinito amor",
+    "title": "Infinito amor",
     "category": "Recién agregadas",
     "ribbon": "GRAN ESTRENO",
     "defaultSeason": 1,
     "posterUrl": "https://jsonoline-2ao.pages.dev/cdn/posters/1/1791592907527_infi.webp",
-    "targetUrl": "aa",
+    "targetUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/novela_1791593384940_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "aa",
+        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/novela_1791593384940_s1.json",
         "hasAdOverride": false
       }
     ],
