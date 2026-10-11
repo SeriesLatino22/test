@@ -339,25 +339,19 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/1/novela_1789994221391_s1.json",
-        "hasAdOverride": false,
-        "episodesCount": 90,
-        "sourceUrl": "https://video.playspelis.com/es/detail/drama/3KIAoSuPrI0b4phk5VuJQ-El-Capo-Season-1"
+        "hasAdOverride": false
       },
       {
         "seasonNumber": 2,
         "name": "Temporada 2",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/1/novela_1789994221391_s2.json",
-        "hasAdOverride": false,
-        "episodesCount": 76,
-        "sourceUrl": "https://video.playspelis.com/es/detail/drama/Ys7FTxsd8CW07O7mcu6CL-El-Capo-Season-2"
+        "hasAdOverride": false
       },
       {
         "seasonNumber": 3,
         "name": "Temporada 3",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/novela_1789994221391_s3.json",
-        "hasAdOverride": false,
-        "episodesCount": 40,
-        "sourceUrl": "https://video.playspelis.com/es/detail/drama/FBOlV8qCLyDu41Ek9GXeM-El-Capo-Season-3[Audio%C2%A0Latino]"
+        "hasAdOverride": true
       }
     ],
     "isPremium": false,
