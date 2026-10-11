@@ -416,19 +416,19 @@
     "title": "Gata salvaje",
     "category": "Recién agregadas",
     "ribbon": "NINGUNA",
+    "defaultSeason": 1,
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/gata_salvaje.webp",
-    "isPremium": false,
-    "hasAd": false,
     "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/gata_salvaje_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/gata_salvaje_s1.json",
-        "episodesCount": 98
+        "hasAdOverride": false
       }
     ],
-    "episodesCount": 98,
+    "isPremium": false,
+    "hasAd": true,
     "localPoster": "/posters/gata_salvaje.webp"
   },
   {
