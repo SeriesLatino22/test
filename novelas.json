@@ -242,26 +242,6 @@
     "localPoster": "/posters/queirnedo22im.webp"
   },
   {
-    "id": "el_renacer_de_luna",
-    "title": "El renacer de Luna",
-    "category": "Recién agregadas",
-    "ribbon": "FINALIZADO",
-    "defaultSeason": 1,
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/renacerIMG.webp",
-    "targetUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/el_renacer_de_luna_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/el_renacer_de_luna_s1.json",
-        "hasAdOverride": false
-      }
-    ],
-    "isPremium": false,
-    "hasAd": false,
-    "localPoster": "/posters/renacerIMG.webp"
-  },
-  {
     "id": "novela-1788636491872",
     "title": "Tierra de Amor y Coraje",
     "category": "Mexicanas",
@@ -281,6 +261,26 @@
     "isPremium": false,
     "hasAd": false,
     "localPoster": "/posters/1788636447111_tierrad22.webp"
+  },
+  {
+    "id": "el_renacer_de_luna",
+    "title": "El renacer de Luna",
+    "category": "Recién agregadas",
+    "ribbon": "FINALIZADO",
+    "defaultSeason": 1,
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/renacerIMG.webp",
+    "targetUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/el_renacer_de_luna_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/el_renacer_de_luna_s1.json",
+        "hasAdOverride": false
+      }
+    ],
+    "isPremium": false,
+    "hasAd": false,
+    "localPoster": "/posters/renacerIMG.webp"
   },
   {
     "id": "rosario_tijeras_5_mexico",
