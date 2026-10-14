@@ -67,7 +67,7 @@
         "name": "Temporada 10",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/el_senor_de_los_cielos_t10_s10.json",
         "hasAdOverride": false,
-        "episodesCount": 68
+        "episodesCount": 69
       }
     ],
     "isPremium": true,
@@ -165,7 +165,7 @@
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/novela_1790993700619_s1.json",
         "hasAdOverride": false,
-        "episodesCount": 6,
+        "episodesCount": 7,
         "sourceUrl": "fui"
       }
     ],
@@ -187,7 +187,7 @@
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/novela_1789770803141_s1.json",
         "hasAdOverride": false,
-        "episodesCount": 15
+        "episodesCount": 16
       }
     ],
     "isPremium": false,
@@ -214,7 +214,7 @@
         "name": "Temporada 2",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/lejos_de_ti_t2_s2.json",
         "hasAdOverride": false,
-        "episodesCount": 62
+        "episodesCount": 63
       }
     ],
     "isPremium": false,
