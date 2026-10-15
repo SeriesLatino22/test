@@ -1531,25 +1531,25 @@
     "title": "La venganza de analia 2",
     "category": "Colombianas",
     "ribbon": "FINALIZADO",
+    "defaultSeason": 1,
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/analia22.webp",
-    "isPremium": false,
-    "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_venganza_de_analia_2_s1.json",
+    "targetUrl": "https://flixlat.com/es/detail/drama/O4lwjRYDhBpIoymWXDUbQ-La-Venganza-de-Anal%C3%ADa/1",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_venganza_de_analia_2_s1.json",
-        "episodesCount": 53
+        "jsonUrl": "https://flixlat.com/es/detail/drama/O4lwjRYDhBpIoymWXDUbQ-La-Venganza-de-Anal%C3%ADa/1",
+        "hasAdOverride": false
       },
       {
         "seasonNumber": 2,
         "name": "Temporada 2",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_venganza_de_analia_2_s2.json",
-        "episodesCount": 67
+        "hasAdOverride": false
       }
     ],
-    "episodesCount": 120,
+    "isPremium": false,
+    "hasAd": false,
     "localPoster": "/posters/analia22.webp"
   },
   {
