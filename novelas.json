@@ -67,7 +67,7 @@
         "name": "Temporada 10",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/el_senor_de_los_cielos_t10_s10.json",
         "hasAdOverride": false,
-        "episodesCount": 69
+        "episodesCount": 70
       }
     ],
     "isPremium": true,
@@ -144,7 +144,8 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/novela_1791593384940_s1.json",
-        "hasAdOverride": false
+        "hasAdOverride": false,
+        "episodesCount": 2
       }
     ],
     "isPremium": false,
@@ -165,7 +166,7 @@
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/novela_1790993700619_s1.json",
         "hasAdOverride": false,
-        "episodesCount": 7,
+        "episodesCount": 10,
         "sourceUrl": "fui"
       }
     ],
@@ -187,7 +188,7 @@
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/novela_1789770803141_s1.json",
         "hasAdOverride": false,
-        "episodesCount": 16
+        "episodesCount": 17
       }
     ],
     "isPremium": false,
@@ -214,7 +215,7 @@
         "name": "Temporada 2",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/lejos_de_ti_t2_s2.json",
         "hasAdOverride": false,
-        "episodesCount": 63
+        "episodesCount": 64
       }
     ],
     "isPremium": false,
@@ -228,14 +229,13 @@
     "ribbon": "GRAN ESTRENO",
     "defaultSeason": 1,
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/1788636447111_tierrad22.webp",
-    "targetUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/novela_1788636491872_s1.json",
+    "targetUrl": "https://flixlat.com/es/detail/drama/eAbpDEPS3PIynr6cLva66-Tierra-de-amor-y-coraje/7",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/novela_1788636491872_s1.json",
-        "hasAdOverride": false,
-        "episodesCount": 40
+        "jsonUrl": "https://flixlat.com/es/detail/drama/eAbpDEPS3PIynr6cLva66-Tierra-de-amor-y-coraje/7",
+        "hasAdOverride": false
       }
     ],
     "isPremium": false,
