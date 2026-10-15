@@ -3234,19 +3234,19 @@
     "title": "Infieles",
     "category": "Recién agregadas",
     "ribbon": "NINGUNA",
+    "defaultSeason": 1,
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/infieles.webp",
-    "isPremium": false,
-    "hasAd": false,
     "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/infieles_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/infieles_s1.json",
-        "episodesCount": 25
+        "hasAdOverride": false
       }
     ],
-    "episodesCount": 25,
+    "isPremium": false,
+    "hasAd": true,
     "localPoster": "/posters/infieles.webp"
   },
   {
@@ -16026,13 +16026,15 @@
     "ribbon": "NINGUNA",
     "defaultSeason": 1,
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/diomedes_el_cacique_de_la_junta.webp",
-    "targetUrl": "https://latino.solo-latino.com/es/detail/drama/z57chQ3zSyCM4S2OIuI0a-Diomedes-el-Cacique-de-La-Junta/1",
+    "targetUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/diomedes_el_cacique_de_la_junta_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://latino.solo-latino.com/es/detail/drama/z57chQ3zSyCM4S2OIuI0a-Diomedes-el-Cacique-de-La-Junta/1",
-        "hasAdOverride": false
+        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/diomedes_el_cacique_de_la_junta_s1.json",
+        "hasAdOverride": false,
+        "episodesCount": 174,
+        "sourceUrl": "https://latino.solo-latino.com/es/detail/drama/z57chQ3zSyCM4S2OIuI0a-Diomedes-el-Cacique-de-La-Junta/1"
       }
     ],
     "isPremium": false,
