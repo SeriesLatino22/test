@@ -16024,19 +16024,19 @@
     "title": "Diomedes el Cacique de La Junta",
     "category": "Colombianas",
     "ribbon": "NINGUNA",
+    "defaultSeason": 1,
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/diomedes_el_cacique_de_la_junta.webp",
-    "isPremium": false,
-    "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/diomedes_el_cacique_de_la_junta_s1.json",
+    "targetUrl": "https://latino.solo-latino.com/es/detail/drama/z57chQ3zSyCM4S2OIuI0a-Diomedes-el-Cacique-de-La-Junta/1",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/diomedes_el_cacique_de_la_junta_s1.json",
-        "episodesCount": 195
+        "jsonUrl": "https://latino.solo-latino.com/es/detail/drama/z57chQ3zSyCM4S2OIuI0a-Diomedes-el-Cacique-de-La-Junta/1",
+        "hasAdOverride": false
       }
     ],
-    "episodesCount": 195,
+    "isPremium": false,
+    "hasAd": false,
     "localPoster": "/posters/diomedes_el_cacique_de_la_junta.webp"
   },
   {
