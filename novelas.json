@@ -1491,19 +1491,19 @@
     "title": "Fugitivas",
     "category": "Mexicanas",
     "ribbon": "FINALIZADO",
+    "defaultSeason": 1,
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/fugitivas.webp",
-    "isPremium": false,
-    "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/fugitivas_s1.json",
+    "targetUrl": "https://latino.solo-latino.com/es/detail/drama/VnjsPx9pmKsrGxoB0GALv-Love-Of-My-Life/1",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/fugitivas_s1.json",
-        "episodesCount": 80
+        "jsonUrl": "https://latino.solo-latino.com/es/detail/drama/VnjsPx9pmKsrGxoB0GALv-Love-Of-My-Life/1",
+        "hasAdOverride": false
       }
     ],
-    "episodesCount": 80,
+    "isPremium": false,
+    "hasAd": false,
     "localPoster": "/posters/fugitivas.webp"
   },
   {
