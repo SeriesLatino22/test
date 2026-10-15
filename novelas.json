@@ -1544,8 +1544,9 @@
       {
         "seasonNumber": 2,
         "name": "Temporada 2",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/la_venganza_de_analia_2_s2.json",
-        "hasAdOverride": false
+        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/la_venganza_de_analia_2_s2.json",
+        "hasAdOverride": false,
+        "episodesCount": 67
       }
     ],
     "isPremium": false,
