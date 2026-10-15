@@ -1507,6 +1507,26 @@
     "localPoster": "/posters/fugitivas.webp"
   },
   {
+    "id": "nuevo_rico_nuevo_pobre",
+    "title": "Nuevo rico, Nuevo pobre",
+    "category": "Colombianas",
+    "ribbon": "FINALIZADO",
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/nuevoric.webp",
+    "isPremium": false,
+    "hasAd": false,
+    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/nuevo_rico_nuevo_pobre_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/nuevo_rico_nuevo_pobre_s1.json",
+        "episodesCount": 194
+      }
+    ],
+    "episodesCount": 194,
+    "localPoster": "/posters/nuevoric.webp"
+  },
+  {
     "id": "la_venganza_de_analia_2",
     "title": "La venganza de analia 2",
     "category": "Colombianas",
@@ -1531,26 +1551,6 @@
     ],
     "episodesCount": 120,
     "localPoster": "/posters/analia22.webp"
-  },
-  {
-    "id": "nuevo_rico_nuevo_pobre",
-    "title": "Nuevo rico, Nuevo pobre",
-    "category": "Colombianas",
-    "ribbon": "FINALIZADO",
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/nuevoric.webp",
-    "isPremium": false,
-    "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/nuevo_rico_nuevo_pobre_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/nuevo_rico_nuevo_pobre_s1.json",
-        "episodesCount": 194
-      }
-    ],
-    "episodesCount": 194,
-    "localPoster": "/posters/nuevoric.webp"
   },
   {
     "id": "papas_por_conveniencia",
