@@ -1559,13 +1559,15 @@
     "ribbon": "FINALIZADO",
     "defaultSeason": 1,
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/papas.webp",
-    "targetUrl": "https://play.cuevana19.com/es/detail/drama/oPd3oUoAQoHvx7Nu9Eofo-Family-of-Convenience/1",
+    "targetUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/papas_por_conveniencia_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://play.cuevana19.com/es/detail/drama/oPd3oUoAQoHvx7Nu9Eofo-Family-of-Convenience/1",
-        "hasAdOverride": false
+        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/papas_por_conveniencia_s1.json",
+        "hasAdOverride": false,
+        "episodesCount": 80,
+        "sourceUrl": "https://play.cuevana19.com/es/detail/drama/oPd3oUoAQoHvx7Nu9Eofo-Family-of-Convenience/1"
       }
     ],
     "isPremium": false,
@@ -1617,19 +1619,19 @@
     "title": "Lo que la vida me robo",
     "category": "Mexicanas",
     "ribbon": "NINGUNA",
+    "defaultSeason": 1,
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/vidamerobo.webp",
-    "isPremium": false,
-    "hasAd": false,
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/lo_que_la_vida_me_robo_s1.json",
+    "targetUrl": "https://peliculaplay.com/es/detail/drama/BoJx1vYBGo7SHt8oS4yLt-What-Life-Took-From-Me-Season-1/1",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/lo_que_la_vida_me_robo_s1.json",
-        "episodesCount": 197
+        "jsonUrl": "https://peliculaplay.com/es/detail/drama/BoJx1vYBGo7SHt8oS4yLt-What-Life-Took-From-Me-Season-1/1",
+        "hasAdOverride": false
       }
     ],
-    "episodesCount": 197,
+    "isPremium": false,
+    "hasAd": false,
     "localPoster": "/posters/vidamerobo.webp"
   },
   {
