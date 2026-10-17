@@ -111,8 +111,7 @@
         "seasonNumber": 5,
         "name": "Betty la fea 2024",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/betty_la_fea_fans_s5.json",
-        "hasAdOverride": false,
-        "episodesCount": 10
+        "hasAdOverride": false
       },
       {
         "seasonNumber": 6,
@@ -124,7 +123,7 @@
         "seasonNumber": 7,
         "name": "Betty la fea 2026",
         "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/betty_la_fea_fans_s7.json",
-        "hasAdOverride": false
+        "hasAdOverride": true
       }
     ],
     "isPremium": true,
@@ -229,13 +228,15 @@
     "ribbon": "GRAN ESTRENO",
     "defaultSeason": 1,
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/1788636447111_tierrad22.webp",
-    "targetUrl": "https://flixlat.com/es/detail/drama/eAbpDEPS3PIynr6cLva66-Tierra-de-amor-y-coraje",
+    "targetUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/novela_1788636491872_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://flixlat.com/es/detail/drama/eAbpDEPS3PIynr6cLva66-Tierra-de-amor-y-coraje",
-        "hasAdOverride": false
+        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/novela_1788636491872_s1.json",
+        "hasAdOverride": false,
+        "episodesCount": 55,
+        "sourceUrl": "https://flixlat.com/es/detail/drama/eAbpDEPS3PIynr6cLva66-Tierra-de-amor-y-coraje"
       }
     ],
     "isPremium": false,
