@@ -19739,14 +19739,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/accidente_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 10,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 10,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/accidente.jpg"
   },
   {
@@ -19762,14 +19762,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/ahora_que_no_estas_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 7,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 7,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/ahora_que_no_estas.jpg"
   },
   {
@@ -19785,14 +19785,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/alma_de_angel_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 13,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 13,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/alma_de_angel.png"
   },
   {
@@ -19808,14 +19808,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/amor_de_barrio_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 107,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 107,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/amor_de_barrio.png"
   },
   {
@@ -19831,14 +19831,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/amor_de_oficina_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 8,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 8,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/amor_de_oficina.jpg"
   },
   {
@@ -19854,14 +19854,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/amor_dividido_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 69,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 69,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/amor_dividido.jpg"
   },
   {
@@ -19877,14 +19877,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/amores_que_enganan_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 22,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 22,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/amores_que_enganan.jpg"
   },
   {
@@ -19900,14 +19900,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/arelys_henao_2_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 64,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 64,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/arelys_henao_2.jpg"
   },
   {
@@ -19923,14 +19923,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/bodas_s_a_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 10,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 10,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/bodas_s_a.jpg"
   },
   {
@@ -19946,14 +19946,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/cabo_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 85,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 85,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/cabo.png"
   },
   {
@@ -19969,14 +19969,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/cachito_de_cielo_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 110,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 110,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/cachito_de_cielo.jpg"
   },
   {
@@ -19992,14 +19992,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/cada_ano_que_pase_contigo_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 8,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 8,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/cada_ano_que_pase_contigo.jpg"
   },
   {
@@ -20015,14 +20015,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/camino_a_arcadia_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 6,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 6,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/camino_a_arcadia.jpg"
   },
   {
@@ -20038,11 +20038,11 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/capitulos_2021_s1.json",
-        "hasAdOverride": false
+        "hasAdOverride": true
       }
     ],
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/capitulos_2021.jpg"
   },
   {
@@ -20058,14 +20058,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/casados_con_hijos_2024_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 10,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 10,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/casados_con_hijos_2024.jpg"
   },
   {
@@ -20081,14 +20081,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/catalina_la_grande_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 11,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 11,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/catalina_la_grande.jpeg"
   },
   {
@@ -20104,14 +20104,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/celda_211_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 6,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 6,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/celda_211.jpg"
   },
   {
@@ -20127,14 +20127,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/colision_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 14,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 14,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/colision.jpg"
   },
   {
@@ -20150,14 +20150,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/como_agua_para_chocolate_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 6,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 6,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/como_agua_para_chocolate.jpg"
   },
   {
@@ -20173,14 +20173,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/como_dice_el_dicho_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 40,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 40,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/como_dice_el_dicho.jpg"
   },
   {
@@ -20196,14 +20196,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/como_dice_el_dicho_1_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 62,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 62,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/como_dice_el_dicho_1.jpg"
   },
   {
@@ -20219,14 +20219,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/como_dice_el_dicho_nuevos_episodios_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 79,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 79,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/como_dice_el_dicho_nuevos_episodios.jpg"
   },
   {
@@ -20242,14 +20242,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/como_tu_no_hay_2_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 75,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 75,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/como_tu_no_hay_2.png"
   },
   {
@@ -20265,14 +20265,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/consuelo_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 11,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 11,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/consuelo.jpg"
   },
   {
@@ -20288,14 +20288,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/cualquier_parecido_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 7,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 7,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/cualquier_parecido.jpg"
   },
   {
@@ -20311,14 +20311,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/coyotl_heroe_y_bestia_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 8,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 8,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/coyotl_heroe_y_bestia.jpg"
   },
   {
@@ -20334,14 +20334,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/de_brutas_nada_t1_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 8,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 8,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/de_brutas_nada_t1.jpg"
   },
   {
@@ -20357,14 +20357,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/de_brutas_nada_t2_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 11,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 11,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/de_brutas_nada_t2.jpg"
   },
   {
@@ -20380,14 +20380,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/delirio_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 8,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 8,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/delirio.jpg"
   },
   {
@@ -20403,14 +20403,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/doctor_milagro_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 191,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 191,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/doctor_milagro.jpg"
   },
   {
@@ -20426,14 +20426,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/el_amor_invencible_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 80,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 80,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/el_amor_invencible.jpg"
   },
   {
@@ -20449,14 +20449,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/el_amor_no_tiene_receta_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 96,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 96,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/el_amor_no_tiene_receta.png"
   },
   {
@@ -20472,14 +20472,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/el_conde_amor_y_honor_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 75,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 75,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/el_conde_amor_y_honor.png"
   },
   {
@@ -20495,14 +20495,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/el_dentista_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 8,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 8,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/el_dentista.jpg"
   },
   {
@@ -20518,14 +20518,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/el_gallo_de_oro_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 10,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 10,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/el_gallo_de_oro.jpg"
   },
   {
@@ -20541,14 +20541,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/el_juicio_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 8,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 8,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/el_juicio.jpg"
   },
   {
@@ -20564,14 +20564,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/el_mochaorejas_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 8,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 8,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/el_mochaorejas.jpg"
   },
   {
@@ -20587,14 +20587,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/el_otro_padre_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 10,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 10,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/el_otro_padre.jpg"
   },
   {
@@ -20610,14 +20610,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/el_precio_de_la_fama_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 8,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 8,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/el_precio_de_la_fama.jpg"
   },
   {
@@ -20633,14 +20633,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/el_secreto_del_rio_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 8,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 8,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/el_secreto_del_rio.jpg"
   },
   {
@@ -20656,14 +20656,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/el_ultimo_rey_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 3,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 3,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/el_ultimo_rey.jpg"
   },
   {
@@ -20679,14 +20679,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/el_ultimo_rey_temporada_2_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 21,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 21,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/el_ultimo_rey_temporada_2.jpg"
   },
   {
@@ -20702,14 +20702,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/ellas_soy_yo_gloria_trevi_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 50,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 50,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/ellas_soy_yo_gloria_trevi.jpg"
   },
   {
@@ -20725,14 +20725,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/elle_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 8,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 8,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/elle.jpg"
   },
   {
@@ -20748,14 +20748,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/entre_padre_e_hijo_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 20,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 20,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/entre_padre_e_hijo.jpg"
   },
   {
@@ -20771,14 +20771,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/entre_paredes_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 10,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 10,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/entre_paredes.jpg"
   },
   {
@@ -20794,14 +20794,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/esta_libre_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 12,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 12,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/esta_libre.jpg"
   },
   {
@@ -20817,14 +20817,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/estoy_en_problemas_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 20,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 20,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/estoy_en_problemas.jpg"
   },
   {
@@ -20840,14 +20840,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/eternamente_amandonos_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 114,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 114,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/eternamente_amandonos.jpeg"
   },
   {
@@ -20863,14 +20863,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/golpe_de_suerte_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 91,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 91,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/golpe_de_suerte.png"
   },
   {
@@ -20886,14 +20886,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/griselda_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 6,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 6,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/griselda.jpg"
   },
   {
@@ -20909,14 +20909,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/jaula_dorada_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 16,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 16,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/jaula_dorada.png"
   },
   {
@@ -20932,14 +20932,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/jose_jose_el_principe_de_la_cancion_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 20,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 20,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/jose_jose_el_principe_de_la_cancion.png"
   },
   {
@@ -20955,14 +20955,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/juan_gabriel_debo_puedo_y_quiero_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 4,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 4,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/juan_gabriel_debo_puedo_y_quiero.jpg"
   },
   {
@@ -20978,14 +20978,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/juegos_interrumpidos_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 10,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 10,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/juegos_interrumpidos.jpg"
   },
   {
@@ -21001,14 +21001,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/la_banda_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 8,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 8,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/la_banda.jpeg"
   },
   {
@@ -21024,14 +21024,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/la_herencia_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 60,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 60,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/la_herencia.jpg"
   },
   {
@@ -21047,14 +21047,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/la_hija_del_embajador_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 172,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 172,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/la_hija_del_embajador.jpg"
   },
   {
@@ -21070,14 +21070,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/la_historia_de_juana_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 62,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 62,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/la_historia_de_juana.jpg"
   },
   {
@@ -21093,14 +21093,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/la_mujer_prohibida_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 61,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 61,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/la_mujer_prohibida.jpeg"
   },
   {
@@ -21116,14 +21116,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/la_sustituta_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 51,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 51,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/la_sustituta.jpeg"
   },
   {
@@ -21139,14 +21139,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/la_voragine_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 8,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 8,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/la_voragine.jpg"
   },
   {
@@ -21162,14 +21162,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/lalola_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 9,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 9,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/lalola.jpg"
   },
   {
@@ -21185,14 +21185,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/ligeramente_diva_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 20,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 20,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/ligeramente_diva.jpeg"
   },
   {
@@ -21208,14 +21208,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/lo_que_callamos_las_mujeres_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 7,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 7,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/lo_que_callamos_las_mujeres.jpg"
   },
   {
@@ -21231,14 +21231,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/los_dias_eran_asi_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 80,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 80,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/los_dias_eran_asi.jpg"
   },
   {
@@ -21254,14 +21254,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/m_i_a_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 9,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 9,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/m_i_a.jpeg"
   },
   {
@@ -21277,14 +21277,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/mal_de_amores_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 7,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 7,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/mal_de_amores.jpg"
   },
   {
@@ -21300,14 +21300,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/maria_la_caprichosa_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 64,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 64,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/maria_la_caprichosa.jpeg"
   },
   {
@@ -21323,14 +21323,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/me_robaste_el_corazon_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 128,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 128,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/me_robaste_el_corazon.jpg"
   },
   {
@@ -21346,14 +21346,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/medusa_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 12,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 12,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/medusa.jpg"
   },
   {
@@ -21369,14 +21369,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/mi_marido_tiene_familia_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 116,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 116,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/mi_marido_tiene_familia.jpg"
   },
   {
@@ -21392,14 +21392,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/mi_secreto_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 118,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 118,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/mi_secreto.jpeg"
   },
   {
@@ -21415,14 +21415,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/muero_por_marilu_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 15,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 15,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/muero_por_marilu.jpg"
   },
   {
@@ -21438,14 +21438,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/mujer_de_nadie_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 44,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 44,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/mujer_de_nadie.png"
   },
   {
@@ -21461,14 +21461,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/mas_alla_de_ti_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 8,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 8,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/mas_alla_de_ti.jpg"
   },
   {
@@ -21484,14 +21484,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/mas_vale_sola_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 16,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 16,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/mas_vale_sola.png"
   },
   {
@@ -21507,14 +21507,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/nadie_como_tu_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 122,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 122,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/nadie_como_tu.jpg"
   },
   {
@@ -21530,14 +21530,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/nadie_nos_va_a_extranar_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 8,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 8,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/nadie_nos_va_a_extranar.jpeg"
   },
   {
@@ -21553,14 +21553,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/ninel_conde_sin_filtro_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 4,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 4,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/ninel_conde_sin_filtro.jpg"
   },
   {
@@ -21576,14 +21576,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/no_aptos_para_el_trabajo_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 9,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 9,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/no_aptos_para_el_trabajo.jpg"
   },
   {
@@ -21599,14 +21599,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/p_t_s_redes_sociales_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 8,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 8,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/p_t_s_redes_sociales.jpg"
   },
   {
@@ -21622,14 +21622,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/pacto_de_sangre_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 10,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 10,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/pacto_de_sangre.jpg"
   },
   {
@@ -21645,14 +21645,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/padre_no_hay_mas_que_uno_la_serie_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 12,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 12,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/padre_no_hay_mas_que_uno_la_serie.jpg"
   },
   {
@@ -21668,14 +21668,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/pecados_inconfesables_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 18,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 18,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/pecados_inconfesables.jpg"
   },
   {
@@ -21691,14 +21691,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/perdona_nuestros_pecados_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 89,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 89,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/perdona_nuestros_pecados.png"
   },
   {
@@ -21714,14 +21714,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/perfil_falso_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 10,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 10,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/perfil_falso.jpg"
   },
   {
@@ -21737,14 +21737,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/pienso_en_ti_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 72,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 72,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/pienso_en_ti.jpeg"
   },
   {
@@ -21760,14 +21760,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/polen_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 10,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 10,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/polen.jpg"
   },
   {
@@ -21783,14 +21783,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/ritmo_salvaje_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 8,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 8,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/ritmo_salvaje.jpg"
   },
   {
@@ -21806,14 +21806,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/rojo_carmesi_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 80,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 80,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/rojo_carmesi.png"
   },
   {
@@ -21829,14 +21829,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/s_o_s_me_estoy_enamorando_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 96,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 96,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/s_o_s_me_estoy_enamorando.jpg"
   },
   {
@@ -21852,14 +21852,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/se_llamaba_pedro_infante_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 8,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 8,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/se_llamaba_pedro_infante.jpg"
   },
   {
@@ -21875,14 +21875,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/senda_prohibida_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 7,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 7,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/senda_prohibida.jpg"
   },
   {
@@ -21898,14 +21898,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/serpientes_y_escaleras_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 8,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 8,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/serpientes_y_escaleras.jpg"
   },
   {
@@ -21921,14 +21921,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/simplemente_alicia_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 19,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 19,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/simplemente_alicia.jpeg"
   },
   {
@@ -21944,14 +21944,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/te_la_dedico_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 55,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 55,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/te_la_dedico.jpg"
   },
   {
@@ -21967,14 +21967,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/te_quiero_y_me_duele_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 13,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 13,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/te_quiero_y_me_duele.png"
   },
   {
@@ -21990,14 +21990,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/tierra_de_esperanza_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 57,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 57,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/tierra_de_esperanza.jpg"
   },
   {
@@ -22013,14 +22013,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/tres_veces_ana_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 70,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 70,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/tres_veces_ana.jpg"
   },
   {
@@ -22036,14 +22036,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/tu_vida_es_mi_vida_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 90,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 90,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/tu_vida_es_mi_vida.jpg"
   },
   {
@@ -22059,14 +22059,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/un_dia_para_vivir_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 55,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 55,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/un_dia_para_vivir.jpg"
   },
   {
@@ -22082,14 +22082,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/un_paso_hacia_ti_bailar_bailar_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 20,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 20,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/un_paso_hacia_ti_bailar_bailar.jpg"
   },
   {
@@ -22105,14 +22105,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/una_familia_complicada_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 20,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 20,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/una_familia_complicada.jpg"
   },
   {
@@ -22128,14 +22128,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/una_familia_de_diez_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 119,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 119,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/una_familia_de_diez.jpg"
   },
   {
@@ -22151,14 +22151,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/vencer_al_miedo_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 46,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 46,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/vencer_al_miedo.jpg"
   },
   {
@@ -22174,14 +22174,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/vencer_la_ausencia_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 79,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 79,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/vencer_la_ausencia.jpg"
   },
   {
@@ -22197,14 +22197,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/vivir_de_amor_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 130,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 130,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/vivir_de_amor.jpg"
   },
   {
@@ -22220,14 +22220,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/volver_a_caer_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 6,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 6,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/volver_a_caer.png"
   },
   {
@@ -22243,14 +22243,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/vuelve_a_mi_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 90,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 90,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/vuelve_a_mi.jpg"
   },
   {
@@ -22266,14 +22266,14 @@
         "seasonNumber": 1,
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/y_llegaron_de_noche_s1.json",
-        "hasAdOverride": false,
+        "hasAdOverride": true,
         "episodesCount": 7,
         "sourceUrl": "Oracle Cloud"
       }
     ],
     "episodesCount": 7,
     "isPremium": false,
-    "hasAd": false,
+    "hasAd": true,
     "localPoster": "/posters/y_llegaron_de_noche.jpg"
   }
 ]
