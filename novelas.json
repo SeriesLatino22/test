@@ -19911,29 +19911,6 @@
     "localPoster": "/posters/arelys_henao_2.jpg"
   },
   {
-    "id": "betty_la_fea_la_historia_continua",
-    "title": "Betty la fea: La historia continúa",
-    "category": "Recién agregadas",
-    "ribbon": "",
-    "defaultSeason": 1,
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/betty_la_fea_la_historia_continua.jpg",
-    "targetUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/betty_la_fea_la_historia_continua_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/betty_la_fea_la_historia_continua_s1.json",
-        "hasAdOverride": false,
-        "episodesCount": 31,
-        "sourceUrl": "Oracle Cloud"
-      }
-    ],
-    "episodesCount": 31,
-    "isPremium": false,
-    "hasAd": false,
-    "localPoster": "/posters/betty_la_fea_la_historia_continua.jpg"
-  },
-  {
     "id": "bodas_s_a",
     "title": "Bodas S.A.",
     "category": "Recién agregadas",
