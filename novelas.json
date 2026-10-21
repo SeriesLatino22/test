@@ -1355,13 +1355,14 @@
     "ribbon": "FINALIZADO",
     "defaultSeason": 1,
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/pedro.webp",
-    "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/pedro_el_escamoso_s1.json",
+    "targetUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/pedro_el_escamoso_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/1/pedro_el_escamoso_s1.json",
-        "hasAdOverride": false
+        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/pedro_el_escamoso_s1.json",
+        "hasAdOverride": false,
+        "episodesCount": 206
       },
       {
         "seasonNumber": 2,
