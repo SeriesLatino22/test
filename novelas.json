@@ -19773,29 +19773,6 @@
     "localPoster": "/posters/ahora_que_no_estas.jpg"
   },
   {
-    "id": "alma_de_angel",
-    "title": "Alma de Ángel",
-    "category": "Recién agregadas",
-    "ribbon": "",
-    "defaultSeason": 1,
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/alma_de_angel.png",
-    "targetUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/alma_de_angel_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/alma_de_angel_s1.json",
-        "hasAdOverride": true,
-        "episodesCount": 13,
-        "sourceUrl": "Oracle Cloud"
-      }
-    ],
-    "episodesCount": 13,
-    "isPremium": false,
-    "hasAd": true,
-    "localPoster": "/posters/alma_de_angel.png"
-  },
-  {
     "id": "amor_de_barrio",
     "title": "Amor de barrio",
     "category": "Recién agregadas",
@@ -19865,52 +19842,6 @@
     "localPoster": "/posters/amor_dividido.jpg"
   },
   {
-    "id": "amores_que_enganan",
-    "title": "Amores que engañan",
-    "category": "Recién agregadas",
-    "ribbon": "",
-    "defaultSeason": 1,
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/amores_que_enganan.jpg",
-    "targetUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/amores_que_enganan_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/amores_que_enganan_s1.json",
-        "hasAdOverride": true,
-        "episodesCount": 22,
-        "sourceUrl": "Oracle Cloud"
-      }
-    ],
-    "episodesCount": 22,
-    "isPremium": false,
-    "hasAd": true,
-    "localPoster": "/posters/amores_que_enganan.jpg"
-  },
-  {
-    "id": "arelys_henao_2",
-    "title": "Arelys Henao 2",
-    "category": "Recién agregadas",
-    "ribbon": "",
-    "defaultSeason": 1,
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/arelys_henao_2.jpg",
-    "targetUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/arelys_henao_2_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/arelys_henao_2_s1.json",
-        "hasAdOverride": true,
-        "episodesCount": 64,
-        "sourceUrl": "Oracle Cloud"
-      }
-    ],
-    "episodesCount": 64,
-    "isPremium": false,
-    "hasAd": true,
-    "localPoster": "/posters/arelys_henao_2.jpg"
-  },
-  {
     "id": "bodas_s_a",
     "title": "Bodas S.A.",
     "category": "Recién agregadas",
@@ -19932,29 +19863,6 @@
     "isPremium": false,
     "hasAd": true,
     "localPoster": "/posters/bodas_s_a.jpg"
-  },
-  {
-    "id": "cabo",
-    "title": "Cabo",
-    "category": "Recién agregadas",
-    "ribbon": "",
-    "defaultSeason": 1,
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/cabo.png",
-    "targetUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/cabo_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/cabo_s1.json",
-        "hasAdOverride": true,
-        "episodesCount": 85,
-        "sourceUrl": "Oracle Cloud"
-      }
-    ],
-    "episodesCount": 85,
-    "isPremium": false,
-    "hasAd": true,
-    "localPoster": "/posters/cabo.png"
   },
   {
     "id": "cachito_de_cielo",
@@ -20161,29 +20069,6 @@
     "localPoster": "/posters/como_agua_para_chocolate.jpg"
   },
   {
-    "id": "como_dice_el_dicho",
-    "title": "Como dice el dicho",
-    "category": "Recién agregadas",
-    "ribbon": "",
-    "defaultSeason": 1,
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/como_dice_el_dicho.jpg",
-    "targetUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/como_dice_el_dicho_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/como_dice_el_dicho_s1.json",
-        "hasAdOverride": true,
-        "episodesCount": 40,
-        "sourceUrl": "Oracle Cloud"
-      }
-    ],
-    "episodesCount": 40,
-    "isPremium": false,
-    "hasAd": true,
-    "localPoster": "/posters/como_dice_el_dicho.jpg"
-  },
-  {
     "id": "como_dice_el_dicho_1",
     "title": "Como dice el dicho",
     "category": "Recién agregadas",
@@ -20230,29 +20115,6 @@
     "localPoster": "/posters/como_dice_el_dicho_nuevos_episodios.jpg"
   },
   {
-    "id": "como_tu_no_hay_2",
-    "title": "Como tu no hay 2",
-    "category": "Recién agregadas",
-    "ribbon": "",
-    "defaultSeason": 1,
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/como_tu_no_hay_2.png",
-    "targetUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/como_tu_no_hay_2_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/como_tu_no_hay_2_s1.json",
-        "hasAdOverride": true,
-        "episodesCount": 75,
-        "sourceUrl": "Oracle Cloud"
-      }
-    ],
-    "episodesCount": 75,
-    "isPremium": false,
-    "hasAd": true,
-    "localPoster": "/posters/como_tu_no_hay_2.png"
-  },
-  {
     "id": "consuelo",
     "title": "Consuelo",
     "category": "Recién agregadas",
@@ -20274,29 +20136,6 @@
     "isPremium": false,
     "hasAd": true,
     "localPoster": "/posters/consuelo.jpg"
-  },
-  {
-    "id": "cualquier_parecido",
-    "title": "Cualquier parecido",
-    "category": "Recién agregadas",
-    "ribbon": "",
-    "defaultSeason": 1,
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/cualquier_parecido.jpg",
-    "targetUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/cualquier_parecido_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/cualquier_parecido_s1.json",
-        "hasAdOverride": true,
-        "episodesCount": 7,
-        "sourceUrl": "Oracle Cloud"
-      }
-    ],
-    "episodesCount": 7,
-    "isPremium": false,
-    "hasAd": true,
-    "localPoster": "/posters/cualquier_parecido.jpg"
   },
   {
     "id": "coyotl_heroe_y_bestia",
@@ -20414,29 +20253,6 @@
     "localPoster": "/posters/doctor_milagro.jpg"
   },
   {
-    "id": "el_amor_invencible",
-    "title": "El amor invencible",
-    "category": "Recién agregadas",
-    "ribbon": "",
-    "defaultSeason": 1,
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/el_amor_invencible.jpg",
-    "targetUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/el_amor_invencible_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/el_amor_invencible_s1.json",
-        "hasAdOverride": true,
-        "episodesCount": 80,
-        "sourceUrl": "Oracle Cloud"
-      }
-    ],
-    "episodesCount": 80,
-    "isPremium": false,
-    "hasAd": true,
-    "localPoster": "/posters/el_amor_invencible.jpg"
-  },
-  {
     "id": "el_amor_no_tiene_receta",
     "title": "El amor no tiene receta",
     "category": "Recién agregadas",
@@ -20458,29 +20274,6 @@
     "isPremium": false,
     "hasAd": true,
     "localPoster": "/posters/el_amor_no_tiene_receta.png"
-  },
-  {
-    "id": "el_conde_amor_y_honor",
-    "title": "El Conde: Amor y honor",
-    "category": "Recién agregadas",
-    "ribbon": "",
-    "defaultSeason": 1,
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/el_conde_amor_y_honor.png",
-    "targetUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/el_conde_amor_y_honor_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/el_conde_amor_y_honor_s1.json",
-        "hasAdOverride": true,
-        "episodesCount": 75,
-        "sourceUrl": "Oracle Cloud"
-      }
-    ],
-    "episodesCount": 75,
-    "isPremium": false,
-    "hasAd": true,
-    "localPoster": "/posters/el_conde_amor_y_honor.png"
   },
   {
     "id": "el_dentista",
@@ -20690,29 +20483,6 @@
     "localPoster": "/posters/el_ultimo_rey_temporada_2.jpg"
   },
   {
-    "id": "ellas_soy_yo_gloria_trevi",
-    "title": "Ellas soy yo, Gloria Trevi",
-    "category": "Recién agregadas",
-    "ribbon": "",
-    "defaultSeason": 1,
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/ellas_soy_yo_gloria_trevi.jpg",
-    "targetUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/ellas_soy_yo_gloria_trevi_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/ellas_soy_yo_gloria_trevi_s1.json",
-        "hasAdOverride": true,
-        "episodesCount": 50,
-        "sourceUrl": "Oracle Cloud"
-      }
-    ],
-    "episodesCount": 50,
-    "isPremium": false,
-    "hasAd": true,
-    "localPoster": "/posters/ellas_soy_yo_gloria_trevi.jpg"
-  },
-  {
     "id": "elle",
     "title": "Elle",
     "category": "Recién agregadas",
@@ -20803,75 +20573,6 @@
     "isPremium": false,
     "hasAd": true,
     "localPoster": "/posters/esta_libre.jpg"
-  },
-  {
-    "id": "estoy_en_problemas",
-    "title": "Estoy en problemas",
-    "category": "Recién agregadas",
-    "ribbon": "",
-    "defaultSeason": 1,
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/estoy_en_problemas.jpg",
-    "targetUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/estoy_en_problemas_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/estoy_en_problemas_s1.json",
-        "hasAdOverride": true,
-        "episodesCount": 20,
-        "sourceUrl": "Oracle Cloud"
-      }
-    ],
-    "episodesCount": 20,
-    "isPremium": false,
-    "hasAd": true,
-    "localPoster": "/posters/estoy_en_problemas.jpg"
-  },
-  {
-    "id": "eternamente_amandonos",
-    "title": "Eternamente amándonos",
-    "category": "Recién agregadas",
-    "ribbon": "",
-    "defaultSeason": 1,
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/eternamente_amandonos.jpeg",
-    "targetUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/eternamente_amandonos_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/eternamente_amandonos_s1.json",
-        "hasAdOverride": true,
-        "episodesCount": 114,
-        "sourceUrl": "Oracle Cloud"
-      }
-    ],
-    "episodesCount": 114,
-    "isPremium": false,
-    "hasAd": true,
-    "localPoster": "/posters/eternamente_amandonos.jpeg"
-  },
-  {
-    "id": "golpe_de_suerte",
-    "title": "Golpe de suerte",
-    "category": "Recién agregadas",
-    "ribbon": "",
-    "defaultSeason": 1,
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/golpe_de_suerte.png",
-    "targetUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/golpe_de_suerte_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/golpe_de_suerte_s1.json",
-        "hasAdOverride": true,
-        "episodesCount": 91,
-        "sourceUrl": "Oracle Cloud"
-      }
-    ],
-    "episodesCount": 91,
-    "isPremium": false,
-    "hasAd": true,
-    "localPoster": "/posters/golpe_de_suerte.png"
   },
   {
     "id": "griselda",
@@ -21056,52 +20757,6 @@
     "isPremium": false,
     "hasAd": true,
     "localPoster": "/posters/la_hija_del_embajador.jpg"
-  },
-  {
-    "id": "la_historia_de_juana",
-    "title": "La Historia de Juana",
-    "category": "Recién agregadas",
-    "ribbon": "",
-    "defaultSeason": 1,
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/la_historia_de_juana.jpg",
-    "targetUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/la_historia_de_juana_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/la_historia_de_juana_s1.json",
-        "hasAdOverride": true,
-        "episodesCount": 62,
-        "sourceUrl": "Oracle Cloud"
-      }
-    ],
-    "episodesCount": 62,
-    "isPremium": false,
-    "hasAd": true,
-    "localPoster": "/posters/la_historia_de_juana.jpg"
-  },
-  {
-    "id": "la_mujer_prohibida",
-    "title": "La mujer prohibida",
-    "category": "Recién agregadas",
-    "ribbon": "",
-    "defaultSeason": 1,
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/la_mujer_prohibida.jpeg",
-    "targetUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/la_mujer_prohibida_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/la_mujer_prohibida_s1.json",
-        "hasAdOverride": true,
-        "episodesCount": 61,
-        "sourceUrl": "Oracle Cloud"
-      }
-    ],
-    "episodesCount": 61,
-    "isPremium": false,
-    "hasAd": true,
-    "localPoster": "/posters/la_mujer_prohibida.jpeg"
   },
   {
     "id": "la_sustituta",
@@ -21380,29 +21035,6 @@
     "localPoster": "/posters/mi_marido_tiene_familia.jpg"
   },
   {
-    "id": "mi_secreto",
-    "title": "Mi secreto",
-    "category": "Recién agregadas",
-    "ribbon": "",
-    "defaultSeason": 1,
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/mi_secreto.jpeg",
-    "targetUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/mi_secreto_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/mi_secreto_s1.json",
-        "hasAdOverride": true,
-        "episodesCount": 118,
-        "sourceUrl": "Oracle Cloud"
-      }
-    ],
-    "episodesCount": 118,
-    "isPremium": false,
-    "hasAd": true,
-    "localPoster": "/posters/mi_secreto.jpeg"
-  },
-  {
     "id": "muero_por_marilu",
     "title": "Muero por Marilú",
     "category": "Recién agregadas",
@@ -21449,29 +21081,6 @@
     "localPoster": "/posters/mujer_de_nadie.png"
   },
   {
-    "id": "mas_alla_de_ti",
-    "title": "Más allá de ti",
-    "category": "Recién agregadas",
-    "ribbon": "",
-    "defaultSeason": 1,
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/mas_alla_de_ti.jpg",
-    "targetUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/mas_alla_de_ti_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/mas_alla_de_ti_s1.json",
-        "hasAdOverride": true,
-        "episodesCount": 8,
-        "sourceUrl": "Oracle Cloud"
-      }
-    ],
-    "episodesCount": 8,
-    "isPremium": false,
-    "hasAd": true,
-    "localPoster": "/posters/mas_alla_de_ti.jpg"
-  },
-  {
     "id": "mas_vale_sola",
     "title": "Más vale sola",
     "category": "Recién agregadas",
@@ -21493,52 +21102,6 @@
     "isPremium": false,
     "hasAd": true,
     "localPoster": "/posters/mas_vale_sola.png"
-  },
-  {
-    "id": "nadie_como_tu",
-    "title": "Nadie como tú",
-    "category": "Recién agregadas",
-    "ribbon": "",
-    "defaultSeason": 1,
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/nadie_como_tu.jpg",
-    "targetUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/nadie_como_tu_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/nadie_como_tu_s1.json",
-        "hasAdOverride": true,
-        "episodesCount": 122,
-        "sourceUrl": "Oracle Cloud"
-      }
-    ],
-    "episodesCount": 122,
-    "isPremium": false,
-    "hasAd": true,
-    "localPoster": "/posters/nadie_como_tu.jpg"
-  },
-  {
-    "id": "nadie_nos_va_a_extranar",
-    "title": "Nadie nos va a extrañar",
-    "category": "Recién agregadas",
-    "ribbon": "",
-    "defaultSeason": 1,
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/nadie_nos_va_a_extranar.jpeg",
-    "targetUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/nadie_nos_va_a_extranar_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/nadie_nos_va_a_extranar_s1.json",
-        "hasAdOverride": true,
-        "episodesCount": 8,
-        "sourceUrl": "Oracle Cloud"
-      }
-    ],
-    "episodesCount": 8,
-    "isPremium": false,
-    "hasAd": true,
-    "localPoster": "/posters/nadie_nos_va_a_extranar.jpeg"
   },
   {
     "id": "ninel_conde_sin_filtro",
@@ -21679,75 +21242,6 @@
     "localPoster": "/posters/pecados_inconfesables.jpg"
   },
   {
-    "id": "perdona_nuestros_pecados",
-    "title": "Perdona nuestros pecados",
-    "category": "Recién agregadas",
-    "ribbon": "",
-    "defaultSeason": 1,
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/perdona_nuestros_pecados.png",
-    "targetUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/perdona_nuestros_pecados_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/perdona_nuestros_pecados_s1.json",
-        "hasAdOverride": true,
-        "episodesCount": 89,
-        "sourceUrl": "Oracle Cloud"
-      }
-    ],
-    "episodesCount": 89,
-    "isPremium": false,
-    "hasAd": true,
-    "localPoster": "/posters/perdona_nuestros_pecados.png"
-  },
-  {
-    "id": "perfil_falso",
-    "title": "Perfil falso",
-    "category": "Recién agregadas",
-    "ribbon": "",
-    "defaultSeason": 1,
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/perfil_falso.jpg",
-    "targetUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/perfil_falso_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/perfil_falso_s1.json",
-        "hasAdOverride": true,
-        "episodesCount": 10,
-        "sourceUrl": "Oracle Cloud"
-      }
-    ],
-    "episodesCount": 10,
-    "isPremium": false,
-    "hasAd": true,
-    "localPoster": "/posters/perfil_falso.jpg"
-  },
-  {
-    "id": "pienso_en_ti",
-    "title": "Pienso en ti",
-    "category": "Recién agregadas",
-    "ribbon": "",
-    "defaultSeason": 1,
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/pienso_en_ti.jpeg",
-    "targetUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/pienso_en_ti_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/pienso_en_ti_s1.json",
-        "hasAdOverride": true,
-        "episodesCount": 72,
-        "sourceUrl": "Oracle Cloud"
-      }
-    ],
-    "episodesCount": 72,
-    "isPremium": false,
-    "hasAd": true,
-    "localPoster": "/posters/pienso_en_ti.jpeg"
-  },
-  {
     "id": "polen",
     "title": "Polen",
     "category": "Recién agregadas",
@@ -21863,29 +21357,6 @@
     "localPoster": "/posters/se_llamaba_pedro_infante.jpg"
   },
   {
-    "id": "senda_prohibida",
-    "title": "Senda Prohibida",
-    "category": "Recién agregadas",
-    "ribbon": "",
-    "defaultSeason": 1,
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/senda_prohibida.jpg",
-    "targetUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/senda_prohibida_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/senda_prohibida_s1.json",
-        "hasAdOverride": true,
-        "episodesCount": 7,
-        "sourceUrl": "Oracle Cloud"
-      }
-    ],
-    "episodesCount": 7,
-    "isPremium": false,
-    "hasAd": true,
-    "localPoster": "/posters/senda_prohibida.jpg"
-  },
-  {
     "id": "serpientes_y_escaleras",
     "title": "Serpientes y escaleras",
     "category": "Recién agregadas",
@@ -21955,52 +21426,6 @@
     "localPoster": "/posters/te_la_dedico.jpg"
   },
   {
-    "id": "te_quiero_y_me_duele",
-    "title": "Te quiero y me duele",
-    "category": "Recién agregadas",
-    "ribbon": "",
-    "defaultSeason": 1,
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/te_quiero_y_me_duele.png",
-    "targetUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/te_quiero_y_me_duele_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/te_quiero_y_me_duele_s1.json",
-        "hasAdOverride": true,
-        "episodesCount": 13,
-        "sourceUrl": "Oracle Cloud"
-      }
-    ],
-    "episodesCount": 13,
-    "isPremium": false,
-    "hasAd": true,
-    "localPoster": "/posters/te_quiero_y_me_duele.png"
-  },
-  {
-    "id": "tierra_de_esperanza",
-    "title": "Tierra de esperanza",
-    "category": "Recién agregadas",
-    "ribbon": "",
-    "defaultSeason": 1,
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/tierra_de_esperanza.jpg",
-    "targetUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/tierra_de_esperanza_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/tierra_de_esperanza_s1.json",
-        "hasAdOverride": true,
-        "episodesCount": 57,
-        "sourceUrl": "Oracle Cloud"
-      }
-    ],
-    "episodesCount": 57,
-    "isPremium": false,
-    "hasAd": true,
-    "localPoster": "/posters/tierra_de_esperanza.jpg"
-  },
-  {
     "id": "tres_veces_ana",
     "title": "Tres veces Ana",
     "category": "Recién agregadas",
@@ -22022,29 +21447,6 @@
     "isPremium": false,
     "hasAd": true,
     "localPoster": "/posters/tres_veces_ana.jpg"
-  },
-  {
-    "id": "tu_vida_es_mi_vida",
-    "title": "Tu vida es mi vida",
-    "category": "Recién agregadas",
-    "ribbon": "",
-    "defaultSeason": 1,
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/tu_vida_es_mi_vida.jpg",
-    "targetUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/tu_vida_es_mi_vida_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/tu_vida_es_mi_vida_s1.json",
-        "hasAdOverride": true,
-        "episodesCount": 90,
-        "sourceUrl": "Oracle Cloud"
-      }
-    ],
-    "episodesCount": 90,
-    "isPremium": false,
-    "hasAd": true,
-    "localPoster": "/posters/tu_vida_es_mi_vida.jpg"
   },
   {
     "id": "un_dia_para_vivir",
@@ -22070,29 +21472,6 @@
     "localPoster": "/posters/un_dia_para_vivir.jpg"
   },
   {
-    "id": "un_paso_hacia_ti_bailar_bailar",
-    "title": "Un paso hacia ti, bailar, bailar",
-    "category": "Recién agregadas",
-    "ribbon": "",
-    "defaultSeason": 1,
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/un_paso_hacia_ti_bailar_bailar.jpg",
-    "targetUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/un_paso_hacia_ti_bailar_bailar_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/un_paso_hacia_ti_bailar_bailar_s1.json",
-        "hasAdOverride": true,
-        "episodesCount": 20,
-        "sourceUrl": "Oracle Cloud"
-      }
-    ],
-    "episodesCount": 20,
-    "isPremium": false,
-    "hasAd": true,
-    "localPoster": "/posters/un_paso_hacia_ti_bailar_bailar.jpg"
-  },
-  {
     "id": "una_familia_complicada",
     "title": "Una Familia Complicada",
     "category": "Recién agregadas",
@@ -22116,29 +21495,6 @@
     "localPoster": "/posters/una_familia_complicada.jpg"
   },
   {
-    "id": "una_familia_de_diez",
-    "title": "Una familia de diez",
-    "category": "Recién agregadas",
-    "ribbon": "",
-    "defaultSeason": 1,
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/una_familia_de_diez.jpg",
-    "targetUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/una_familia_de_diez_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/una_familia_de_diez_s1.json",
-        "hasAdOverride": true,
-        "episodesCount": 119,
-        "sourceUrl": "Oracle Cloud"
-      }
-    ],
-    "episodesCount": 119,
-    "isPremium": false,
-    "hasAd": true,
-    "localPoster": "/posters/una_familia_de_diez.jpg"
-  },
-  {
     "id": "vencer_al_miedo",
     "title": "Vencer al miedo",
     "category": "Recién agregadas",
@@ -22160,29 +21516,6 @@
     "isPremium": false,
     "hasAd": true,
     "localPoster": "/posters/vencer_al_miedo.jpg"
-  },
-  {
-    "id": "vencer_la_ausencia",
-    "title": "Vencer la ausencia",
-    "category": "Recién agregadas",
-    "ribbon": "",
-    "defaultSeason": 1,
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/vencer_la_ausencia.jpg",
-    "targetUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/vencer_la_ausencia_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/vencer_la_ausencia_s1.json",
-        "hasAdOverride": true,
-        "episodesCount": 79,
-        "sourceUrl": "Oracle Cloud"
-      }
-    ],
-    "episodesCount": 79,
-    "isPremium": false,
-    "hasAd": true,
-    "localPoster": "/posters/vencer_la_ausencia.jpg"
   },
   {
     "id": "vivir_de_amor",
@@ -22229,29 +21562,6 @@
     "isPremium": false,
     "hasAd": true,
     "localPoster": "/posters/volver_a_caer.png"
-  },
-  {
-    "id": "vuelve_a_mi",
-    "title": "Vuelve a mí",
-    "category": "Recién agregadas",
-    "ribbon": "",
-    "defaultSeason": 1,
-    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/2/vuelve_a_mi.jpg",
-    "targetUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/vuelve_a_mi_s1.json",
-    "seasons": [
-      {
-        "seasonNumber": 1,
-        "name": "Temporada 1",
-        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/vuelve_a_mi_s1.json",
-        "hasAdOverride": true,
-        "episodesCount": 90,
-        "sourceUrl": "Oracle Cloud"
-      }
-    ],
-    "episodesCount": 90,
-    "isPremium": false,
-    "hasAd": true,
-    "localPoster": "/posters/vuelve_a_mi.jpg"
   },
   {
     "id": "y_llegaron_de_noche",
