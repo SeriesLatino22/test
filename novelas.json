@@ -185,7 +185,7 @@
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/novela_1789770803141_s1.json",
         "hasAdOverride": false,
-        "episodesCount": 28
+        "episodesCount": 29
       }
     ],
     "isPremium": false,
@@ -212,7 +212,7 @@
         "name": "Temporada 2",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/lejos_de_ti_t2_s2.json",
         "hasAdOverride": false,
-        "episodesCount": 73
+        "episodesCount": 74
       }
     ],
     "isPremium": false,
