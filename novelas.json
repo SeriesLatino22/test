@@ -452,6 +452,27 @@
     "localPoster": "/posters/doctor_en_turno.webp"
   },
   {
+    "id": "pajaro_sonador",
+    "title": "Pájaro Soñador",
+    "category": "Recién agregadas",
+    "ribbon": "NINGUNA",
+    "defaultSeason": 1,
+    "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/pajaro_sonador.webp",
+    "targetUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/pajaro_sonador_s1.json",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/pajaro_sonador_s1.json",
+        "hasAdOverride": false,
+        "episodesCount": 129
+      }
+    ],
+    "isPremium": false,
+    "hasAd": false,
+    "localPoster": "/posters/pajaro_sonador.webp"
+  },
+  {
     "id": "tan_cerca_de_ti_nace_el_amor",
     "title": "Tan cerca de ti, nace el amor",
     "category": "Mexicanas",
