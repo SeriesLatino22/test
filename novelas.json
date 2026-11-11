@@ -137,13 +137,15 @@
     "ribbon": "GRAN ESTRENO",
     "defaultSeason": 1,
     "posterUrl": "https://jsonoline-2ao.pages.dev/cdn/posters/1/1794367136438_en_que_lio_me_meti.webp",
-    "targetUrl": "lio",
+    "targetUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/novela_1794367158719_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "lio",
-        "hasAdOverride": false
+        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/novela_1794367158719_s1.json",
+        "hasAdOverride": false,
+        "episodesCount": 1,
+        "sourceUrl": "lio"
       }
     ],
     "isPremium": false,
