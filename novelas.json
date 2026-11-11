@@ -67,7 +67,7 @@
         "name": "Temporada 10",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/el_senor_de_los_cielos_t10_s10.json",
         "hasAdOverride": false,
-        "episodesCount": 86
+        "episodesCount": 87
       }
     ],
     "isPremium": true,
@@ -131,6 +131,26 @@
     "localPoster": "/posters/betty.webp"
   },
   {
+    "id": "novela-1794367158719",
+    "title": "En qué lío me metí",
+    "category": "Recién agregadas",
+    "ribbon": "GRAN ESTRENO",
+    "defaultSeason": 1,
+    "posterUrl": "https://jsonoline-2ao.pages.dev/cdn/posters/1/1794367136438_en_que_lio_me_meti.webp",
+    "targetUrl": "lio",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "name": "Temporada 1",
+        "jsonUrl": "lio",
+        "hasAdOverride": false
+      }
+    ],
+    "isPremium": false,
+    "hasAd": true,
+    "localPoster": "/posters/1794367136438_en_que_lio_me_meti.webp"
+  },
+  {
     "id": "novela-1791593384940",
     "title": "Infinito amor",
     "category": "Recién agregadas",
@@ -144,7 +164,7 @@
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/novela_1791593384940_s1.json",
         "hasAdOverride": false,
-        "episodesCount": 20
+        "episodesCount": 21
       }
     ],
     "isPremium": false,
@@ -185,7 +205,7 @@
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/novela_1789770803141_s1.json",
         "hasAdOverride": false,
-        "episodesCount": 35
+        "episodesCount": 36
       }
     ],
     "isPremium": false,
@@ -212,7 +232,7 @@
         "name": "Temporada 2",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/lejos_de_ti_t2_s2.json",
         "hasAdOverride": false,
-        "episodesCount": 79
+        "episodesCount": 80
       }
     ],
     "isPremium": false,
