@@ -65,9 +65,9 @@
       {
         "seasonNumber": 10,
         "name": "Temporada 10",
-        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/el_senor_de_los_cielos_t10_s10.json?v=hls2",
+        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/el_senor_de_los_cielos_t10_s10.json",
         "hasAdOverride": false,
-        "episodesCount": 88
+        "episodesCount": 89
       }
     ],
     "isPremium": true,
@@ -137,14 +137,14 @@
     "ribbon": "GRAN ESTRENO",
     "defaultSeason": 1,
     "posterUrl": "https://jsonoline-2ao.pages.dev/cdn/posters/1/1794367136438_en_que_lio_me_meti.webp",
-    "targetUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/novela_1794367158719_s1.json?v=hls2",
+    "targetUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/novela_1794367158719_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/novela_1794367158719_s1.json?v=hls2",
+        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/novela_1794367158719_s1.json",
         "hasAdOverride": false,
-        "episodesCount": 2,
+        "episodesCount": 3,
         "sourceUrl": "lio"
       }
     ],
@@ -159,14 +159,14 @@
     "ribbon": "GRAN ESTRENO",
     "defaultSeason": 1,
     "posterUrl": "https://jsonoline-2ao.pages.dev/cdn/posters/1/1791592907527_infi.webp",
-    "targetUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/novela_1791593384940_s1.json?v=hls2",
+    "targetUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/novela_1791593384940_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/novela_1791593384940_s1.json?v=hls2",
+        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/novela_1791593384940_s1.json",
         "hasAdOverride": false,
-        "episodesCount": 22
+        "episodesCount": 23
       }
     ],
     "isPremium": false,
@@ -200,14 +200,14 @@
     "ribbon": "GRAN ESTRENO",
     "defaultSeason": 1,
     "posterUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/posters/1/1789770765036_sabor_a_ti_2026.webp",
-    "targetUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/novela_1789770803141_s1.json?v=hls2",
+    "targetUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/novela_1789770803141_s1.json",
     "seasons": [
       {
         "seasonNumber": 1,
         "name": "Temporada 1",
-        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/novela_1789770803141_s1.json?v=hls2",
+        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/novela_1789770803141_s1.json",
         "hasAdOverride": false,
-        "episodesCount": 37
+        "episodesCount": 38
       }
     ],
     "isPremium": false,
@@ -232,9 +232,9 @@
       {
         "seasonNumber": 2,
         "name": "Temporada 2",
-        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/lejos_de_ti_t2_s2.json?v=hls2",
+        "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/lejos_de_ti_t2_s2.json",
         "hasAdOverride": false,
-        "episodesCount": 81
+        "episodesCount": 82
       }
     ],
     "isPremium": false,
