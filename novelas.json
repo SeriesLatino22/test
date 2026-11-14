@@ -165,7 +165,7 @@
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/novela_1791593384940_s1.json",
         "hasAdOverride": false,
-        "episodesCount": 24
+        "episodesCount": 25
       }
     ],
     "isPremium": false,
@@ -206,7 +206,7 @@
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/novela_1789770803141_s1.json",
         "hasAdOverride": false,
-        "episodesCount": 39
+        "episodesCount": 40
       }
     ],
     "isPremium": false,
@@ -233,7 +233,7 @@
         "name": "Temporada 2",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/lejos_de_ti_t2_s2.json",
         "hasAdOverride": false,
-        "episodesCount": 82
+        "episodesCount": 83
       }
     ],
     "isPremium": false,
@@ -254,7 +254,7 @@
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/novela_1788636491872_s1.json",
         "hasAdOverride": false,
-        "episodesCount": 70,
+        "episodesCount": 74,
         "sourceUrl": "https://flixlat.com/es/detail/drama/eAbpDEPS3PIynr6cLva66-Tierra-de-amor-y-coraje"
       }
     ],
