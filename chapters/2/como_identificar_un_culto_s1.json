@@ -6,14 +6,14 @@
   "capitulos": [
     {
       "numero": "Capítulo 1",
-      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_ocjguu05/format/applehttp/protocol/https/a.m3u8",
+      "urlOkru": "https://app.latino7.com/kaltura.php/513551/1_ocjguu05.m3u8",
       "titulo": "Atrapados",
       "rumbleUrl": "",
       "subtitulo": "Capítulo 1"
     },
     {
       "numero": "Capítulo 2",
-      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_1bmlamco/format/applehttp/protocol/https/a.m3u8",
+      "urlOkru": "https://app.latino7.com/kaltura.php/513551/1_1bmlamco.m3u8",
       "titulo": "Escapar",
       "rumbleUrl": "",
       "subtitulo": "Capítulo 2"

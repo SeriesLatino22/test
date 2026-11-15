@@ -6,14 +6,14 @@
   "capitulos": [
     {
       "numero": "Capítulo 1",
-      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_7vm3p7sj/format/applehttp/protocol/https/a.m3u8",
+      "urlOkru": "https://app.latino7.com/kaltura.php/513551/1_7vm3p7sj.m3u8",
       "titulo": "Episodio 1",
       "rumbleUrl": "",
       "subtitulo": "Capítulo 1"
     },
     {
       "numero": "Capítulo 2",
-      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_anrgmo2w/format/applehttp/protocol/https/a.m3u8",
+      "urlOkru": "https://app.latino7.com/kaltura.php/513551/1_anrgmo2w.m3u8",
       "titulo": "Episodio 2",
       "rumbleUrl": "",
       "subtitulo": "Capítulo 2"

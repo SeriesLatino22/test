@@ -6,28 +6,28 @@
   "capitulos": [
     {
       "numero": "Capítulo 1",
-      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_fo3bbxmr/format/applehttp/protocol/https/a.m3u8",
+      "urlOkru": "https://app.latino7.com/kaltura.php/513551/1_fo3bbxmr.m3u8",
       "titulo": "Episodio 01",
       "rumbleUrl": "",
       "subtitulo": "Capítulo 1"
     },
     {
       "numero": "Capítulo 2",
-      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_wr69p7fy/format/applehttp/protocol/https/a.m3u8",
+      "urlOkru": "https://app.latino7.com/kaltura.php/513551/1_wr69p7fy.m3u8",
       "titulo": "Episodio 02",
       "rumbleUrl": "",
       "subtitulo": "Capítulo 2"
     },
     {
       "numero": "Capítulo 3",
-      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_6w1tuwhj/format/applehttp/protocol/https/a.m3u8",
+      "urlOkru": "https://app.latino7.com/kaltura.php/513551/1_6w1tuwhj.m3u8",
       "titulo": "Episodio 03",
       "rumbleUrl": "",
       "subtitulo": "Capítulo 3"
     },
     {
       "numero": "Capítulo 4",
-      "urlOkru": "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_00pe3gma/format/applehttp/protocol/https/a.m3u8",
+      "urlOkru": "https://app.latino7.com/kaltura.php/513551/1_00pe3gma.m3u8",
       "titulo": "Episodio 04",
       "rumbleUrl": "",
       "subtitulo": "Capítulo 4"
