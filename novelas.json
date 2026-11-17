@@ -163,7 +163,7 @@
         "hasAdOverride": true
       }
     ],
-    "isPremium": true,
+    "isPremium": false,
     "hasAd": false,
     "localPoster": "/posters/betty.webp"
   },
