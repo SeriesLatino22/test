@@ -77,7 +77,7 @@
     "id": "sin_senos_si_hay_paraiso_t1",
     "title": "Sin senos si hay paraiso T4",
     "category": "Narco Novelas",
-    "ribbon": "NINGUNA",
+    "ribbon": "GRAN ESTRENO",
     "defaultSeason": 1,
     "posterUrl": "https://jsonoline-2ao.pages.dev/cdn/posters/1/1794931296734_sin_senos_si_hay_paraiso_t1.webp",
     "targetUrl": "https://cdn.jsdelivr.net/gh/SeriesLatino22/test@main/chapters/2/sin_senos_si_hay_paraiso_t1_s1.json",
@@ -104,8 +104,7 @@
         "seasonNumber": 4,
         "name": "Temporada 4",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/sin_senos_si_hay_paraiso_t1_s4.json",
-        "hasAdOverride": false,
-        "episodesCount": 2
+        "hasAdOverride": false
       }
     ],
     "isPremium": true,
@@ -272,7 +271,7 @@
         "name": "Temporada 2",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/lejos_de_ti_t2_s2.json",
         "hasAdOverride": false,
-        "episodesCount": 84
+        "episodesCount": 85
       }
     ],
     "isPremium": false,
