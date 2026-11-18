@@ -1,8 +1,13 @@
 {
-  "catalogVersion": 1794931445663,
+  "catalogVersion": 1794990255785,
   "notifsVersion": 1794534055392,
-  "emergencyFullFlush": 1794774442112,
+  "emergencyFullFlush": 1794990255785,
   "isFullCatalogUpdate": true,
-  "updatedNovelaIds": [],
+  "updatedNovelaIds": [
+    "sin_senos_si_hay_paraiso_t1",
+    "novela-1789770803141",
+    "novela-1791593384940",
+    "novela-1794367158719"
+  ],
   "priorityNovelas": []
 }
