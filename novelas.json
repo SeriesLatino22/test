@@ -105,7 +105,7 @@
         "name": "Temporada 4",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/sin_senos_si_hay_paraiso_t1_s4.json",
         "hasAdOverride": false,
-        "episodesCount": 6
+        "episodesCount": 7
       }
     ],
     "isPremium": true,
@@ -182,7 +182,7 @@
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/novela_1794367158719_s1.json",
         "hasAdOverride": false,
-        "episodesCount": 10,
+        "episodesCount": 11,
         "sourceUrl": "lio"
       }
     ],
@@ -204,7 +204,7 @@
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/novela_1791593384940_s1.json",
         "hasAdOverride": false,
-        "episodesCount": 32
+        "episodesCount": 33
       }
     ],
     "isPremium": false,
@@ -245,7 +245,7 @@
         "name": "Temporada 1",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/novela_1789770803141_s1.json",
         "hasAdOverride": false,
-        "episodesCount": 47
+        "episodesCount": 48
       }
     ],
     "isPremium": false,
@@ -272,7 +272,7 @@
         "name": "Temporada 2",
         "jsonUrl": "https://jsonoline-2ao.pages.dev/cdn/chapters/2/lejos_de_ti_t2_s2.json",
         "hasAdOverride": false,
-        "episodesCount": 89
+        "episodesCount": 90
       }
     ],
     "isPremium": false,
